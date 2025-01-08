@@ -1,0 +1,3 @@
+[build]
+  command = "node --loader ts-node/esm generateChapters.ts && node --loader ts-node/esm generateBooks.ts && npm run build"
+  publish = "dist"

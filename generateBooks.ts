@@ -74,7 +74,7 @@ async function main() {
     books.forEach((book) => {
       const markdownContent = generateMarkdown(book, locale);
       if (markdownContent) { // Verifica se o conteúdo Markdown foi gerado corretamente
-        const fileName = `${book.locale}-${book.slug}.md`; // Nome do arquivo pode ser baseado no ID do livro
+        const fileName = `${book.slug}.md`; // Nome do arquivo pode ser baseado no ID do livro
         
         // A função writeFileSync sobrescreve o arquivo se já existir com o mesmo nome.
         fs.writeFileSync(path.join(localeDir, fileName), markdownContent);
