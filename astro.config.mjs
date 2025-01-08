@@ -16,7 +16,7 @@ export default defineConfig({
 					label: 'Libros',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Educación Fundamental', slug: 'books/educacion-fundamental' },
+						{ label: 'Educación Fundamental', slug: 'books/example' },
 					],
 				},
 			],
