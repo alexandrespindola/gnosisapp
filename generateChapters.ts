@@ -18,11 +18,15 @@ interface Chapter {
   id: number;
   slug: string; // Slug of the chapter
   locale: string; // Language of the chapter
+  text_id: string; // Text ID of the chapter
   title: { [key: string]: string }; // Titles by language
   content: { [key: string]: string }; // Content by language
 }
 
-async function fetchChapters(bookId: string, locale: string): Promise<Chapter[]> {
+async function fetchChapters(
+  bookId: string,
+  locale: string
+): Promise<Chapter[]> {
   try {
     const response = await axios.get(
       `${STRAPI_URL}/books/${bookId}?locale=${locale}&populate=chapters`, // Using the correct URL to fetch chapters related to the book
@@ -79,30 +83,66 @@ async function main() {
     for (const book of books) {
       const chapters = await fetchChapters(book.documentId, locale); // Fetches chapters for each book
 
-      if (chapters.length > 0) {
-        const chaptersDir = path.join(
-          __dirname,
-          "src/content/docs/books",
-          locale,
-          book.slug
-        );
-        if (!fs.existsSync(chaptersDir)) {
-          fs.mkdirSync(chaptersDir, { recursive: true }); // Creates chapters directory if it doesn't exist
-        }
-
-        chapters.forEach((chapter) => {
-          const chapterMarkdownContent = generateChapterMarkdown(chapter, locale);
-          if (chapterMarkdownContent) {
-            const chapterFileName = `${chapter.slug}.md`; // File name based on the chapter ID
-            fs.writeFileSync(
-              path.join(chaptersDir, chapterFileName),
-              chapterMarkdownContent
-            );
-            console.log(
-              `Markdown generated for chapter: ${chapterFileName} in ${chaptersDir}`
-            );
+      // Generate markdown files for chapters in Español (default)
+      if (locale === "es") {
+        if (chapters.length > 0) {
+          const chaptersDir = path.join(
+            __dirname,
+            "src/content/docs",
+            "books",
+            book.text_id
+          );
+          if (!fs.existsSync(chaptersDir)) {
+            fs.mkdirSync(chaptersDir, { recursive: true }); // Creates chapters directory if it doesn't exist
           }
-        });
+
+          chapters.forEach((chapter) => {
+            const chapterMarkdownContent = generateChapterMarkdown(
+              chapter,
+              locale
+            );
+            if (chapterMarkdownContent) {
+              const chapterFileName = `${chapter.text_id}.md`; // File name based on the chapter ID
+              fs.writeFileSync(
+                path.join(chaptersDir, chapterFileName),
+                chapterMarkdownContent
+              );
+              console.log(
+                `Markdown generated for chapter: ${chapterFileName} in ${chaptersDir}`
+              );
+            }
+          });
+        }
+      } else {
+        if (chapters.length > 0) {
+          const chaptersDir = path.join(
+            __dirname,
+            "src/content/docs",
+            locale,
+            "books",
+            book.text_id
+          );
+          if (!fs.existsSync(chaptersDir)) {
+            fs.mkdirSync(chaptersDir, { recursive: true }); // Creates chapters directory if it doesn't exist
+          }
+
+          chapters.forEach((chapter) => {
+            const chapterMarkdownContent = generateChapterMarkdown(
+              chapter,
+              locale
+            );
+            if (chapterMarkdownContent) {
+              const chapterFileName = `${chapter.text_id}.md`; // File name based on the chapter ID
+              fs.writeFileSync(
+                path.join(chaptersDir, chapterFileName),
+                chapterMarkdownContent
+              );
+              console.log(
+                `Markdown generated for chapter: ${chapterFileName} in ${chaptersDir}`
+              );
+            }
+          });
+        }
       }
     }
   }
