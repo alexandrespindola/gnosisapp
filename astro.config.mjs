@@ -7,11 +7,11 @@ export default defineConfig({
 	output: 'static',
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Gnosis',
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
-			sidebar: [
+			/* sidebar: [
 				{
 					label: 'Libros',
 					items: [
@@ -19,7 +19,7 @@ export default defineConfig({
 						{ label: 'Educación Fundamental', slug: 'books/example' },
 					],
 				},
-			],
+			], */
 		}),
 	],
 });
