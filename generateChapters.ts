@@ -113,7 +113,9 @@ async function main() {
             }
           });
         }
+
       } else {
+        // Generate markdown files for chapters in other languages
         if (chapters.length > 0) {
           const chaptersDir = path.join(
             __dirname,
