@@ -8,7 +8,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Gnosis",
-      defaultLocale: "es",
+      defaultLocale: "root",
       locales: {
         de: {
           label: "Deutsch",
@@ -16,8 +16,9 @@ export default defineConfig({
         en: {
           label: "English",
         },
-        es: {
+        root: {
           label: "Español",
+		  lang: "es",
         },
         fr: {
           label: "Français",
