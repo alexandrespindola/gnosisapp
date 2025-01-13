@@ -36,6 +36,46 @@ export default defineConfig({
       social: {
         github: "https://github.com/withastro/starlight",
       },
+      sidebar: [
+        {
+          label: "Inicio",
+          slug: "",
+          translations: {
+            de: "Bücher",
+            en: "Books",
+            fr: "Livres",
+            it: "Libri",
+            nl: "Boeken",
+            pt: "Livros",
+          },
+        },
+        {
+          label: "Educación Fundamental",
+          collapsed: true,
+          translations: {
+            de: "Grundbildung",
+            en: "Fundamental Education",
+            fr: "Éducation Fondamentale",
+            it: "Educazione Fondamentale",
+            nl: "Fundamenteel Onderwijs",
+            pt: "Educação Fundamental",
+          },
+          autogenerate: { directory: "educacion-fundamental" },
+        },
+        {
+          label: "Psicología Revolucionaria",
+          collapsed: true,
+          translations: {
+            de: "Revolutionäre Psychologie",
+            en: "Revolutionary Psychology",
+            fr: "Psychologie Révolutionnaire",
+            it: "Psicologia Rivoluzionaria",
+            nl: "Revolutionaire Psychologie",
+            pt: "Psicologia Revolucionária",
+          },
+          autogenerate: { directory: "educacion-fundamental" },
+        },
+      ],
     }),
   ],
 });
