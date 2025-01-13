@@ -88,7 +88,6 @@ async function main() {
           const chaptersDir = path.join(
             __dirname,
             "src/content/docs",
-            "books",
             book.text_id
           );
           if (!fs.existsSync(chaptersDir)) {
@@ -120,7 +119,6 @@ async function main() {
             __dirname,
             "src/content/docs",
             locale,
-            "books",
             book.text_id
           );
           if (!fs.existsSync(chaptersDir)) {
