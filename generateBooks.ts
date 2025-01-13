@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 
 // Defina suas credenciais diretamente aqui
 const STRAPI_URL = "https://cms-strapi-gnosis-7a489057103c.herokuapp.com/api"; // URL da API do Strapi
-const ACCESS_TOKEN = "299b15708b1919ce793939f42746b02e8e3154edbabc5199cfb4a6542a1371756b32c3fcd25ba7eb4e7fe398a19d5b4a7c9e3779766261daaa8931c6419be7e0ab89103f8d3b68ad83c531b503cebfed741be6ab8b1d8c1e31d378ef4bef4813782f602debdb40d8f6168e19da68de9e73319089f034c7ea64a06185873fc1bc"; // Token de acesso
+const ACCESS_TOKEN = "c84e291e514904d2f6d92135d85da6a2f1073486e2c9052563c1713c0ac97ceb49ba47d488f789d3a86d5ebeda6fee6c2c8ba2fe3a665b13674e1b911374c631c390674bf56b749430d2782b67b33c2af31af9945595118c745d5406467f255fae4bb3c49e26ee5c93ce3af638d8a9aba05b9b226446775014c403db1e199a42"; // Token de acesso
 const LOCALES = ["es", "en", "pt", "it", "fr", "de", "nl"]; // Idiomas suportados
 
 interface Book {
