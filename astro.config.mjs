@@ -38,7 +38,7 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Inicio",
+          label: "Libros",
           slug: "",
           translations: {
             de: "Bücher",
