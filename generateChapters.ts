@@ -2,7 +2,6 @@ import axios from "axios";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import { slugMap } from './src/i18n/slugMap';
 
 // Get __filename and __dirname
 const __filename = fileURLToPath(import.meta.url);
@@ -53,7 +52,6 @@ async function fetchChapters(
 function generateChapterMarkdown(chapter: Chapter, locale: string): string {
   const title = chapter.title;
   const content = chapter.content;
-  const localizedSlug = slugMap[locale][chapter.text_id] || chapter.text_id;
 
   if (!title) {
     console.error(`Title not found for chapter ID ${chapter.id}`);
@@ -63,9 +61,7 @@ function generateChapterMarkdown(chapter: Chapter, locale: string): string {
   return `---
 title: ${title}
 locale: ${locale}
-slug: ${localizedSlug}
 ---
-
 ${content}
 `;
 }
