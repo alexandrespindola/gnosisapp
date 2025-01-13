@@ -100,13 +100,13 @@ async function main() {
               locale
             );
             if (chapterMarkdownContent) {
-              const chapterFileName = `${chapter.text_id}.md`; // File name based on the chapter ID
+              const chapterFileName = `${chapter.text_id}.mdx`; // File name based on the chapter ID
               fs.writeFileSync(
                 path.join(chaptersDir, chapterFileName),
                 chapterMarkdownContent
               );
               console.log(
-                `Markdown generated for chapter: ${chapterFileName} in ${chaptersDir}`
+                `MDX generated for chapter: ${chapterFileName} in ${chaptersDir}`
               );
             }
           });
@@ -131,13 +131,13 @@ async function main() {
               locale
             );
             if (chapterMarkdownContent) {
-              const chapterFileName = `${chapter.text_id}.md`; // File name based on the chapter ID
+              const chapterFileName = `${chapter.text_id}.mdx`; // File name based on the chapter ID
               fs.writeFileSync(
                 path.join(chaptersDir, chapterFileName),
                 chapterMarkdownContent
               );
               console.log(
-                `Markdown generated for chapter: ${chapterFileName} in ${chaptersDir}`
+                `MDX generated for chapter: ${chapterFileName} in ${chaptersDir}`
               );
             }
           });
