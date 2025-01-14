@@ -2,11 +2,49 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import tailwind from "@astrojs/tailwind";
+import AstroPWA from '@vite-pwa/astro'
 
 // https://astro.build/config
 export default defineConfig({
   output: "static",
   integrations: [
+    AstroPWA({
+      base: '/',
+      scope: '/',
+      includeAssets: ['favicon.png', 'robots.txt', 'sitemap.xml'],
+      registerType: 'autoUpdate',
+      manifest: {
+        name: 'Gnosis',
+        short_name: 'Gnosis',
+        description: 'Gnosis es un proyecto educativo que busca la liberación de la humanidad a través de la educación y la psicología revolucionaria.',
+        theme_color: '#ffffff',
+        display: 'standalone',
+        start_url: '/',
+        icons: [
+          {
+            src: '/img/icon-192x192.png',
+            sizes: '192x192',
+            type: 'image/png'
+          },
+          {
+            src: '/img/icon-512x512.png',
+            sizes: '512x512',
+            type: 'image/png'
+          }
+        ]
+      },
+      workbox: {
+        navigateFallback: '/',
+        globPatterns: ['**/*.{js,css,html,ico,png,svg,webp, txt}']
+      },
+      devOptions: {
+        enabled: true,
+        navigateFallbackAllowlist: [/^\/$/]
+      },
+      experimental: {
+        directoryAndTrailingSlashHandler: true
+      }
+    }),
     starlight({
       title: "Gnosis",
       favicon: "/img/favicon.png",
