@@ -14,7 +14,7 @@ const STRAPI_URL = process.env.STRAPI_URL || "";
 const ACCESS_TOKEN = process.env.ACCESS_TOKEN || "";
 
 if (!STRAPI_URL || !ACCESS_TOKEN) {
-  throw new Error('STRAPI_URL e ACCESS_TOKEN devem ser definidos no arquivo .env');
+  throw new Error('STRAPI_URL and ACCESS_TOKEN must be defined in the .env file');
 }
 
 // Supported languages
@@ -26,6 +26,8 @@ interface Chapter {
   slug: string; // Slug of the chapter
   locale: string; // Language of the chapter
   text_id: string; // Text ID of the chapter
+  order_number: number; // Order number of the chapter
+  chapter_number: number; // Order number of the chapter
   title: { [key: string]: string }; // Titles by language
   content: { [key: string]: string }; // Content by language
 }
@@ -59,6 +61,8 @@ async function fetchChapters(
 function generateChapterMarkdown(chapter: Chapter, locale: string): string {
   const title = chapter.title;
   const content = chapter.content;
+  const chapter_number = chapter.chapter_number;
+  const order_number = chapter.order_number;
 
   if (!title) {
     console.error(`Title not found for chapter ID ${chapter.id}`);
@@ -68,6 +72,9 @@ function generateChapterMarkdown(chapter: Chapter, locale: string): string {
   return `---
 title: ${title}
 locale: ${locale}
+sidebar:
+    label: ${chapter_number > 0 ? `${chapter_number}. ` : ''}${title}
+    order: ${order_number}
 ---
 ${content}
 `;
@@ -107,7 +114,7 @@ async function main() {
               locale
             );
             if (chapterMarkdownContent) {
-              const chapterFileName = `${chapter.text_id}.mdx`; // File name based on the chapter ID
+              const chapterFileName = `${chapter.slug}.mdx`; // File name based on the chapter ID
               fs.writeFileSync(
                 path.join(chaptersDir, chapterFileName),
                 chapterMarkdownContent
