@@ -1,3 +1,4 @@
+import dotenv from "dotenv";
 import axios from "axios";
 import fs from "fs";
 import path from "path";
@@ -6,12 +7,18 @@ import { fileURLToPath } from "url";
 // Get __filename and __dirname
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+dotenv.config({ path: path.resolve(__dirname, ".env") });
 
 // Define your credentials directly here
-const STRAPI_URL = "https://cms-strapi-gnosis-7a489057103c.herokuapp.com/api"; // URL of the Strapi API
-const ACCESS_TOKEN =
-  "c84e291e514904d2f6d92135d85da6a2f1073486e2c9052563c1713c0ac97ceb49ba47d488f789d3a86d5ebeda6fee6c2c8ba2fe3a665b13674e1b911374c631c390674bf56b749430d2782b67b33c2af31af9945595118c745d5406467f255fae4bb3c49e26ee5c93ce3af638d8a9aba05b9b226446775014c403db1e199a42"; // Access token
-const LOCALES = ["es", "en", "pt", "it", "fr", "de", "nl"]; // Supported languages
+const STRAPI_URL = process.env.STRAPI_URL || "";
+const ACCESS_TOKEN = process.env.ACCESS_TOKEN || "";
+
+if (!STRAPI_URL || !ACCESS_TOKEN) {
+  throw new Error('STRAPI_URL e ACCESS_TOKEN devem ser definidos no arquivo .env');
+}
+
+// Supported languages
+const LOCALES = ["es", "en", "pt", "it", "fr", "de", "nl"];
 
 interface Chapter {
   documentId: string;
@@ -111,7 +118,6 @@ async function main() {
             }
           });
         }
-
       } else {
         // Generate markdown files for chapters in other languages
         if (chapters.length > 0) {
