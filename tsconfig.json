@@ -1,14 +1,7 @@
 {
   "extends": "astro/tsconfigs/strict",
-  "include": [
-    ".astro/types.d.ts",
-    "**/*",
-    "*.ts"
-  ],
-  "exclude": [
-    "dist",
-    "node_modules"
-  ],
+  "include": [".astro/types.d.ts", "**/*", "*.ts"],
+  "exclude": ["dist", "node_modules"],
   "compilerOptions": {
     "target": "ESNext", // Define a versão do JavaScript a ser emitida
     "module": "ESNext", // Define o sistema de módulos

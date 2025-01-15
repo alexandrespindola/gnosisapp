@@ -23,7 +23,6 @@ export default defineConfig({
         "./src/styles/css/base.css",
         "./src/styles/css/custom.css",
       ],
-
       // i18n
       defaultLocale: "root",
       locales: {
@@ -53,7 +52,6 @@ export default defineConfig({
 
       // Components
       components: {
-        PageFrame: "./src/components/PageFrame.astro",
       },
 
       // Social links
