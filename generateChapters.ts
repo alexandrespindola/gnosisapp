@@ -17,10 +17,9 @@ if (!STRAPI_URL || !ACCESS_TOKEN) {
   throw new Error('STRAPI_URL and ACCESS_TOKEN must be defined in the .env file');
 }
 
-// Supported languages
-const LOCALES = ["ar", "de", "en", "el", "es", "fr", "he", "it", "ja", "nl", "pt"];
+const LOCALES = ["ar", "da", "de", "el", "en", "es", "fr", "he", "hi", "id", "it", "ja", "ko", "nb", "nl", "pl", "pt", "ro", "ru", "sv", "tr", "uk", "zh"];
 
-//const LOCALES = ["ar", "da", "de", "el", "en", "es", "fr", "he", "hi", "in", "it", "jp", "ko", "nb", "nl", "pl", "pt", "ro", "ru", "sv", "tr", "uk", "zh"];
+// const LOCALES = ["ar", "ca", "cs", "da", "de", "el", "en", "es", "fa", "fr", "he", "hi", "id", "it", "ja", "ko", "nb", "nl", "pl", "pt", "ro", "ru", "sk", "sv", "tr", "uk", "vi", "zh"];
 
 interface Chapter {
   documentId: string;
