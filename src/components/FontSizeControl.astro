@@ -20,7 +20,7 @@ const isHomepage = Astro.props.id !== "";
 }
 
 <style lang="scss">
-  @import "../styles/scss/_variables.scss";
+  @use "../styles/scss/_variables.scss" as vars;
 
   .font-controls {
     display: flex;
@@ -35,7 +35,7 @@ const isHomepage = Astro.props.id !== "";
     font-size: 0.8rem;
     background-color: transparent;
     &:hover {
-      background-color: $gold;
+      background-color: vars.$gold;
     }
   }
 </style>
