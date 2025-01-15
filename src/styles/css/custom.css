@@ -2,7 +2,3 @@
   color: var(--gold);
   font-family: "Lato", sans-serif;
 }
-
-@view-transition {navigation: auto}
-
-
