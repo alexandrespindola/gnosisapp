@@ -28,91 +28,91 @@ export default defineConfig({
       locales: {
         ar: {
           dir: "rtl",
-          label: "العربية",
+          label: "🇸🇦 العربية",
         },
         ca: {
-          label: "Català",
+          label: "🇨🇦 Català",
         },
         cs: {
-          label: "Čeština",
+          label: "🇨🇿 Čeština",
         },
         da: {
-          label: "Dansk",
+          label: "🇩🇰 Dansk",
         },
         de: {
-          label: "Deutsch",
+          label: "🇩🇪 Deutsch",
         },
         el: {
-          label: "Ελληνικά",
+          label: "🇬🇷 Ελληνικά",
         },
         en: {
-          label: "English",
+          label: "🇬🇧 English",
         },
         root: {
-          label: "Español",
+          label: "🇪🇸 Español",
           lang: "es",
         },
         fa: {
           dir: "rtl",
-          label: "فارسی",
+          label: "🇮🇷 فارسی",
         },
         fr: {
-          label: "Français",
+          label: "🇫🇷 Français",
         },
         he: {
           dir: "rtl",
-          label: "עברית",
+          label: "🇮🇱 עברית",
         },
         hi: {
-          label: "हिन्दी",
+          label: "🇮🇳 हिन्दी",
         },
         id: {
-          label: "Indonesia",
+          label: "🇮🇩 Indonesia",
         },
         it: {
-          label: "Italiano",
+          label: "🇮🇹 Italiano",
         },
         ja: {
-          label: "日本語",
+          label: "🇯🇵 日本語",
         },
         ko: {
-          label: "한국어",
+          label: "🇰🇷 한국어",
         },
         nb: {
-          label: "Norsk Bokmål",
+          label: "🇳🇴 Norsk Bokmål",
         },
         nl: {
-          label: "Nederlands",
+          label: "🇳🇱 Nederlands",
         },
         pl: {
-          label: "Polski",
+          label: "🇵🇱 Polski",
         },
         pt: {
-          label: "Português",
+          label: "🇵🇹 Português",
         },
         ro: {
-          label: "Română",
+          label: "🇷🇴 Română",
         },
         ru: {
-          label: "Русский",
+          label: "🇷🇺 Русский",
         },
         sk: {
-          label: "Slovenčina",
+          label: "🇸🇰 Slovenčina",
         },
         sv: {
-          label: "Svenska",
+          label: "🇸🇪 Svenska",
         },
         tr: {
-          label: "Türkçe",
+          label: "🇹🇷 Türkçe",
         },
         uk: {
-          label: "Українська",
+          label: "🇺🇦 Українська",
         },
         vi: {
-          label: "Tiếng Việt",
+          label: "🇻🇳 Tiếng Việt",
         },
         zh: {
-          label: "中文",
+          label: "🇨🇳 中文",
         },
       },
 
