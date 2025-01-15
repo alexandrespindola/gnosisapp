@@ -32,6 +32,9 @@ export default defineConfig({
         de: {
           label: "Deutsch",
         },
+        el: {
+          label: "Ελληνικά",
+        },
         en: {
           label: "English",
         },
@@ -42,16 +45,13 @@ export default defineConfig({
         fr: {
           label: "Français",
         },
-        gr: {
-          label: "Ελληνικά",
-        },
         hi: {
           label: "हिन्दी",
         },
         it: {
           label: "Italiano",
         },
-        jp: {
+        ja: {
           label: "日本語",
         },
         ko: {
@@ -71,6 +71,9 @@ export default defineConfig({
         },
         sv: {
           label: "Svenska",
+        },
+        tr: {
+          label: "Türkçe",
         },
         zh: {
           label: "中文",
@@ -95,18 +98,19 @@ export default defineConfig({
           translations: {
             da: "Bøger",
             de: "Bücher",
+            el: "Βιβλία",
             en: "Books",
             fr: "Livres",
-            gr: "Βιβλία",
             hi: "पुस्तकें",
             it: "Libri",
-            jp: "本",
+            ja: "本",
             ko: "책",
             nl: "Boeken",
             pt: "Livros",
             ro: "Cărți",
             ru: "Книги",
             sv: "Böcker",
+            tr: "Kitaplar",
             zh: "书",
           },
         },
@@ -117,17 +121,18 @@ export default defineConfig({
             da: "Fundamental Uddannelse",
             de: "Grundbildung",
             en: "Fundamental Education",
+            el: "Βασική Εκπαίδευση",
             fr: "Éducation Fondamentale",
-            gr: "Βασική Εκπαίδευση",
             hi: "मौलिक शिक्षा",
             it: "Educazione Fondamentale",
-            jp: "基礎教育",
+            ja: "基礎教育",
             ko: "기본 교육",
             nl: "Fundamenteel Onderwijs",
             pt: "Educação Fundamental",
             ro: "Educație Fundamentală",
             ru: "Основное образование",
             sv: "Grundutbildning",
+            tr: "Temel Eğitim",
             zh: "基础教育",
           },
           autogenerate: { directory: "educacion-fundamental" },
