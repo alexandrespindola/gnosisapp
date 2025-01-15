@@ -52,6 +52,7 @@ export default defineConfig({
 
       // Components
       components: {
+        Header: "./src/components/Header.astro",
       },
 
       // Social links

@@ -1,0 +1,84 @@
+---
+import type { Props } from "@astrojs/starlight/props";
+const isHomepage = Astro.props.id !== "";
+---
+
+{
+  isHomepage ? (
+      <div class="flex flex-row gap-2 w-full">
+        <div class="">
+        </div>
+        <div class="font-controls">
+          <button id="decrease">A-</button>
+          <button id="increase">A+</button>
+        </div>
+      </div>
+
+  ) : (
+    ""
+  )
+}
+
+<style lang="scss">
+  @import "../styles/scss/_variables.scss";
+
+  .font-controls {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  button {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 16px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    background-color: transparent;
+    &:hover {
+      background-color: $gold;
+    }
+  }
+</style>
+
+<script>
+  // Retrieves the font size from localStorage or uses the default
+  let fontSize = parseInt(localStorage.getItem("fontSize") || "16");
+  const DEFAULT_SIZE = 16;
+
+  const content = document.querySelector(".sl-markdown-content") as HTMLElement;
+  const increase = document.querySelector("#increase");
+  const decrease = document.querySelector("#decrease");
+  const reset = document.querySelector("#reset");
+
+  // Function to update and save font size
+  const updateFontSize = (newSize: number) => {
+    fontSize = newSize;
+    if (content) {
+      content.style.fontSize = `${fontSize}px`;
+      localStorage.setItem("fontSize", fontSize.toString());
+    }
+  };
+
+  // Applies the initial font size
+  if (content) {
+    content.style.fontSize = `${fontSize}px`;
+  }
+
+  if (increase) {
+    increase.addEventListener("click", () => {
+      updateFontSize(fontSize + 2);
+    });
+  }
+
+  if (decrease) {
+    decrease.addEventListener("click", () => {
+      updateFontSize(Math.max(12, fontSize - 2));
+    });
+  }
+
+  if (reset) {
+    reset.addEventListener("click", () => {
+      updateFontSize(DEFAULT_SIZE);
+    });
+  }
+</script>
