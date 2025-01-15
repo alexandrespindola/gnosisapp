@@ -8,9 +8,23 @@ export default defineConfig({
   output: "static",
   integrations: [
     starlight({
-      title: "Gnosis",
+      // Site metadata
+      title: "GNOSIS",
+
+      // Visual settings
+      logo: {
+        src: "./src/img/favicon.png",
+      },
       favicon: "/img/favicon.png",
-      customCss: ["./src/tailwind.css"],
+      customCss: [
+        "@fontsource/lato/400.css",
+        "@fontsource/lato/700.css",
+        "./src/styles/css/tailwind.css",
+        "./src/styles/css/base.css",
+        "./src/styles/css/custom.css",
+      ],
+
+      // i18n
       defaultLocale: "root",
       locales: {
         de: {
@@ -36,9 +50,18 @@ export default defineConfig({
           label: "Português",
         },
       },
+
+      // Components
+      components: {
+        SiteTitle: "./src/components/SiteTitle.astro",
+      },
+
+      // Social links
       social: {
         github: "https://github.com/withastro/starlight",
       },
+
+      // Sidebar links
       sidebar: [
         {
           label: "Libros",
@@ -65,19 +88,6 @@ export default defineConfig({
           },
           autogenerate: { directory: "educacion-fundamental" },
         },
-        /* {
-        label: "Psicología Revolucionaria",
-        collapsed: true,
-        translations: {
-          de: "Revolutionäre Psychologie",
-          en: "Revolutionary Psychology",
-          fr: "Psychologie Révolutionnaire",
-          it: "Psicologia Rivoluzionaria",
-          nl: "Revolutionaire Psychologie",
-          pt: "Psicologia Revolucionária",
-        },
-        autogenerate: { directory: "educacion-fundamental" },
-      }, */
       ],
     }),
     tailwind(),
