@@ -1,21 +1,33 @@
 ---
 import type { Props } from "@astrojs/starlight/props";
-const isHomepage = Astro.props.id !== "";
+import { LOCALES } from "../constants/locales";
+
+// Gets the current path of the page
+const currentPath = Astro.url.pathname;
+
+// Check if it's a homepage in any language
+const isHomepage =
+  currentPath === "/" ||
+  LOCALES.some((locale) => currentPath === `/${locale}/`);
 ---
+
+{/* Font size control
+  This component allows the user to increase or decrease the font size of the content.
+  It uses localStorage to save the user's preference.
+  The font size can be reset to the default value.
+*/}
 
 {
   isHomepage ? (
-      <div class="flex flex-row gap-2 w-full">
-        <div class="">
-        </div>
-        <div class="font-controls">
-          <button id="decrease">A-</button>
-          <button id="increase">A+</button>
-        </div>
-      </div>
-
-  ) : (
     ""
+  ) : (
+    <div class="flex flex-row gap-2 w-full">
+      <div class="" />
+      <div class="font-controls">
+        <button id="decrease">A-</button>
+        <button id="increase">A+</button>
+      </div>
+    </div>
   )
 }
 

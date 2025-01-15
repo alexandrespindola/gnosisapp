@@ -22,7 +22,8 @@ const shouldRenderSearch =
 	</div>
 	<div class="sl-flex gap-2">
 		{shouldRenderSearch && <Search {...Astro.props} />}
-        <FontSizeControl {...Astro.props} />
+		<!-- ### Custom component ### -->
+		<FontSizeControl {...Astro.props} />
 	</div>
 
 	<div class="sl-hidden md:sl-flex right-group">

@@ -3,6 +3,7 @@ import axios from "axios";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import { LOCALES } from "./src/constants/locales.ts";
 
 // Get __filename and __dirname
 const __filename = fileURLToPath(import.meta.url);
@@ -16,8 +17,6 @@ const ACCESS_TOKEN = process.env.ACCESS_TOKEN || "";
 if (!STRAPI_URL || !ACCESS_TOKEN) {
   throw new Error('STRAPI_URL and ACCESS_TOKEN must be defined in the .env file');
 }
-
-const LOCALES = ["ar", "ca", "cs", "da", "de", "el", "en", "es", "fa", "fr", "he", "hi", "id", "it", "ja", "ko", "nb", "nl", "pl", "pt", "ro", "ru", "sk", "sv", "tr", "uk", "vi", "zh"];
 
 interface Chapter {
   documentId: string;
