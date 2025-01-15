@@ -26,6 +26,10 @@ export default defineConfig({
       // i18n
       defaultLocale: "root",
       locales: {
+        ar: {
+          dir: "rtl",
+          label: "العربية",
+        },
         da: {
           label: "Dansk",
         },
@@ -44,6 +48,10 @@ export default defineConfig({
         },
         fr: {
           label: "Français",
+        },
+        he: {
+          dir: "rtl",
+          label: "עברית",
         },
         hi: {
           label: "हिन्दी",
@@ -96,11 +104,13 @@ export default defineConfig({
           label: "Libros",
           slug: "",
           translations: {
+            ar: "كتب",
             da: "Bøger",
             de: "Bücher",
             el: "Βιβλία",
             en: "Books",
             fr: "Livres",
+            he: "ספרים",
             hi: "पुस्तकें",
             it: "Libri",
             ja: "本",
@@ -118,11 +128,13 @@ export default defineConfig({
           label: "Educación Fundamental",
           collapsed: true,
           translations: {
+            ar: "التعليم الأساسي",
             da: "Fundamental Uddannelse",
             de: "Grundbildung",
             en: "Fundamental Education",
             el: "Βασική Εκπαίδευση",
             fr: "Éducation Fondamentale",
+            he: "חינוך בסיסי",
             hi: "मौलिक शिक्षा",
             it: "Educazione Fondamentale",
             ja: "基礎教育",

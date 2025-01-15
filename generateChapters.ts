@@ -18,7 +18,9 @@ if (!STRAPI_URL || !ACCESS_TOKEN) {
 }
 
 // Supported languages
-const LOCALES = ["de", "en", "es", "fr", "el", "it", "ja", "nl", "pt"];
+const LOCALES = ["ar", "de", "en", "el", "es", "fr", "he", "it", "ja", "nl", "pt"];
+
+//const LOCALES = ["ar", "da", "de", "el", "en", "es", "fr", "he", "hi", "in", "it", "jp", "ko", "nb", "nl", "pl", "pt", "ro", "ru", "sv", "tr", "uk", "zh"];
 
 interface Chapter {
   documentId: string;
