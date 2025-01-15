@@ -53,7 +53,7 @@ export default defineConfig({
 
       // Components
       components: {
-        SiteTitle: "./src/components/SiteTitle.astro",
+        PageFrame: "./src/components/PageFrame.astro",
       },
 
       // Social links
