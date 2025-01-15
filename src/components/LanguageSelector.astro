@@ -1,0 +1,33 @@
+---
+import { getRelativeLocaleUrl } from 'astro:i18n';
+
+// Obter as configurações de i18n do seu site
+import { LOCALES_FLAGS } from '../constants/locales';
+
+const currentLocale = Astro.currentLocale;
+---
+
+<div class="w-full flex flex-row justify-center">
+    <div class="language-select">
+      <select onchange="window.location.href = this.value">
+        {Object.entries(LOCALES_FLAGS).map(([locale, label]) => (
+          <option
+            value={getRelativeLocaleUrl(locale, '')}
+            selected={currentLocale === locale}
+          >
+            {label}
+          </option>
+        ))}
+      </select>
+    </div>
+</div>
+
+<style>
+  .language-select {
+    padding: 1rem;
+  }
+  select {
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+  }
+</style>

@@ -1,6 +1,6 @@
 ---
 import type { Props } from "@astrojs/starlight/props";
-import { LOCALES } from "../constants/locales";
+import { LOCALES_PREFIX } from "../constants/locales";
 
 // Gets the current path of the page
 const currentPath = Astro.url.pathname;
@@ -8,7 +8,7 @@ const currentPath = Astro.url.pathname;
 // Check if it's a homepage in any language
 const isHomepage =
   currentPath === "/" ||
-  LOCALES.some((locale) => currentPath === `/${locale}/`);
+  LOCALES_PREFIX.some((locale) => currentPath === `/${locale}/`);
 ---
 
 {/* Font size control

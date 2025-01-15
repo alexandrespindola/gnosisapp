@@ -1,4 +1,4 @@
-export const LOCALES = [
+export const LOCALES_PREFIX = [
     "ar",
     "ca",
     "cs",
@@ -28,3 +28,34 @@ export const LOCALES = [
     "vi",
     "zh",
   ];
+
+export const LOCALES_FLAGS = {
+    'ar': '🇸🇦 العربية',
+    'ca': '🇨🇦 Català',
+    'cs': '🇨🇿 Čeština',
+    'da': '🇩🇰 Dansk',
+    'de': '🇩🇪 Deutsch',
+    'el': '🇬🇷 Ελληνικά',
+    'en': '🇬🇧 English',
+    'es': '🇪🇸 Español',
+    'fa': '🇮🇷 فارسی',
+    'fr': '🇫🇷 Français',
+    'he': '🇮🇱 עברית',
+    'hi': '🇮🇳 हिन्दी',
+    'id': '🇮🇩 Indonesia',
+    'it': '🇮🇹 Italiano',
+    'ja': '🇯🇵 日本語',
+    'ko': '🇰🇷 한국어',
+    'nb': '🇳🇴 Norsk Bokmål',
+    'nl': '🇳🇱 Nederlands',
+    'pl': '🇵🇱 Polski',
+    'pt': '🇵🇹 Português',
+    'ro': '🇷🇴 Română',
+    'ru': '🇷🇺 Русский',
+    'sk': '🇸🇰 Slovenčina',
+    'sv': '🇸🇪 Svenska',
+    'tr': '🇹🇷 Türkçe',
+    'uk': '🇺🇦 Українська',
+    'vi': '🇻🇳 Tiếng Việt',
+    'zh': '🇨🇳 中文'
+  };

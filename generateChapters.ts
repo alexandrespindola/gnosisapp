@@ -3,7 +3,7 @@ import axios from "axios";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import { LOCALES } from "./src/constants/locales.ts";
+import { LOCALES_PREFIX } from "./src/constants/locales.ts";
 
 // Get __filename and __dirname
 const __filename = fileURLToPath(import.meta.url);
@@ -79,7 +79,7 @@ ${content}
 }
 
 async function main() {
-  for (const locale of LOCALES) {
+  for (const locale of LOCALES_PREFIX) {
     const booksResponse = await axios.get(
       `${STRAPI_URL}/books?locale=${locale}`,
       {
