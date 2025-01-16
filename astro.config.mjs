@@ -31,7 +31,7 @@ export default defineConfig({
           label: "🇸🇦 العربية",
         },
         ca: {
-          label: "🇨🇦 Català",
+          label: "Català",
         },
         cs: {
           label: "🇨🇿 Čeština",
