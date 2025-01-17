@@ -1,0 +1,18 @@
+---
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+import { Card } from "@astrojs/starlight/components";
+---
+
+<StarlightPage
+  frontmatter={{
+    title: "Libros",
+    description: "Página de Libros",
+    template: "splash"
+  }}
+>
+  <div class="custom-content">
+    <Card title="Custom Card" icon="translate">
+      <p>This is a custom card</p>
+    </Card>
+  </div>
+</StarlightPage>

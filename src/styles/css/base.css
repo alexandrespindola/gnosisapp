@@ -2,3 +2,19 @@
   /* Colors */
   --gold: #c2ab6b;
 }
+
+/* Light mode */
+:root {
+  --sl-color-bg: #ffffff;          /* Main background color */
+  --sl-color-bg-nav: #f9fafb;      /* Navigation background color */
+  --sl-color-bg-sidebar: #f9fafb;  /* Sidebar background color */
+  --sl-color-bg-inline-code: #f6f6f7; /* Inline code background color */
+}
+
+/* Dark mode */
+:root[data-theme='dark'] {
+  --sl-color-bg: #0d0d0d;          /* Main background color */
+  --sl-color-bg-nav: #151515;      /* Navigation background color */
+  --sl-color-bg-sidebar: #151515;  /* Sidebar background color */
+  --sl-color-bg-inline-code: #1a1a1a; /* Inline code background color */
+}
