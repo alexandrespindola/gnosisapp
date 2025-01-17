@@ -1,0 +1,40 @@
+---
+import type { Props } from "@astrojs/starlight/props";
+import { Card } from "@astrojs/starlight/components";
+import { Icon } from '@astrojs/starlight/components';
+const { entry, lang } = Astro.props;
+const statusTranslation = entry.data.statusTranslation;
+
+// Try to import the current language file, if it fails use Spanish as a fallback
+
+let translations;
+try {
+  translations = await import(`../content/i18n/${lang}.json`);
+} catch (e) {
+  translations = await import(`../content/i18n/es.json`);
+}
+
+const { status, messages } = translations.default || translations;
+const translatedStatus =
+  statusTranslation && statusTranslation in status
+    ? status[statusTranslation]
+    : "";
+---
+
+<div class="mt-8">
+  <Card title={translatedStatus} icon="translate">
+    {statusTranslation === "original" && <span>{messages.originalMessage}</span>}
+    {
+      statusTranslation === "automatic" && (
+        <span>{messages.automaticMessage}</span>
+      )
+    }
+    {statusTranslation === "revised" && <span>{messages.revisedMessage}</span>}
+  </Card>
+</div>
+
+<style lang="scss">
+  span {
+    @apply text-sm text-balance;
+  }
+</style>

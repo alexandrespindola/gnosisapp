@@ -118,12 +118,12 @@ export default defineConfig({
 
       // Components
       components: {
-        Header: "./src/components/Header.astro",
+        Footer: "./src/components/override/Footer.astro",
+        Header: "./src/components/override/Header.astro",
       },
 
       // Social links
       social: {
-        github: "https://github.com/withastro/starlight",
       },
 
       // Sidebar links

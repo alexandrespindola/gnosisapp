@@ -1,4 +1,14 @@
 {
   "tableOfContents.onThisPage": "On this chapter",
-  "tableOfContents.overview": "Beginning"
+  "tableOfContents.overview": "Beginning",
+  "status": {
+    "original": "Original",
+    "automatic": "Automatic Translation",
+    "revised": "Revised"
+  },
+  "messages": {
+    "originalMessage": "Content of this chapter based on the original Spanish text.",
+    "automaticMessage": "This chapter has been automatically translated from the Spanish original. It has not yet undergone human review. If you would like to help with the review, contact us by clicking here.",
+    "revisedMessage": "This chapter has undergone human review and translation from the original Spanish text. If it still needs corrections, contact us by clicking here."
+  }
 }

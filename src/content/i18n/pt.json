@@ -1,4 +1,14 @@
 {
   "tableOfContents.onThisPage": "Neste capítulo",
-  "tableOfContents.overview": "Início"
+  "tableOfContents.overview": "Início",
+  "status": {
+    "original": "Original",
+    "automatic": "Tradução Automática",
+    "revised": "Revisado"
+  },
+  "messages": {
+    "originalMessage": "Conteúdo deste capítulo com base no texto original em espanhol.",
+    "automaticMessage": "Este capítulo foi traduzido automaticamente a partir do original em espanhol. Ainda não passou por revisão humana. Caso queira ajudar na revisão, fale conosco clicando aqui.",
+    "revisedMessage": "Este capítulo passou por revisão e tradução humana a partir do texto original em espanhol. Caso ainda necessite de correções, fale conosco clicando aqui."
+  }
 }

@@ -25,6 +25,7 @@ interface Chapter {
   locale: string; // Language of the chapter
   text_id: string; // Text ID of the chapter
   order_number: number; // Order number of the chapter
+  translation_state: string; // Translation state of the chapter
   chapter_number: number; // Order number of the chapter
   title: { [key: string]: string }; // Titles by language
   content: { [key: string]: string }; // Content by language
@@ -61,6 +62,7 @@ function generateChapterMarkdown(chapter: Chapter, locale: string): string {
   const content = chapter.content;
   const chapter_number = chapter.chapter_number;
   const order_number = chapter.order_number;
+  const translation_state = chapter.translation_state;
 
   if (!title) {
     console.error(`Title not found for chapter ID ${chapter.id}`);
@@ -70,6 +72,7 @@ function generateChapterMarkdown(chapter: Chapter, locale: string): string {
   return `---
 title: ${title}
 locale: ${locale}
+statusTranslation: ${chapter.translation_state || ''}
 sidebar:
     label: ${chapter_number > 0 ? `${chapter_number}. ` : ''}${title}
     order: ${order_number}

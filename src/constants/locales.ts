@@ -31,7 +31,7 @@ export const LOCALES_PREFIX = [
 
 export const LOCALES_FLAGS = {
     'ar': '🇸🇦 العربية',
-    'ca': '🇨🇦 Català',
+    'ca': 'Català',
     'cs': '🇨🇿 Čeština',
     'da': '🇩🇰 Dansk',
     'de': '🇩🇪 Deutsch',

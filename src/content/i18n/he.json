@@ -1,4 +1,14 @@
 {
   "tableOfContents.onThisPage": "על פרק זה",
-  "tableOfContents.overview": "מתחיל"
+  "tableOfContents.overview": "מתחיל",
+  "status": {
+    "original": "מקורי",
+    "automatic": "תרגום אוטומטי",
+    "revised": "מתוקן"
+  },
+  "messages": {
+    "originalMessage": "תוכן פרק זה מבוסס על הטקסט המקורי בספרדית.",
+    "automaticMessage": "פרק זה תורגם אוטומטית מהמקור בספרדית. הוא עדיין לא עבר סקירה אנושית. אם ברצונך לעזור בסקירה, צור קשר על ידי לחיצה כאן.",
+    "revisedMessage": "פרק זה עבר סקירה ותרגום אנושי מהטקסט המקורי בספרדית. אם עדיין נדרשים תיקונים, צור קשר על ידי לחיצה כאן."
+  }
 }
