@@ -8,6 +8,7 @@ export const collections = {
     schema: docsSchema({
       extend: z.object({
         statusTranslation: z.string().optional(),
+        coverImage: z.string().optional(),
       }),
     }) 
   }),

@@ -1,12 +1,19 @@
 ---
 import type { Props } from "@astrojs/starlight/props";
 import { Card } from "@astrojs/starlight/components";
-import { Icon } from '@astrojs/starlight/components';
+import { LOCALES_PREFIX } from "../constants/locales";
 const { entry, lang } = Astro.props;
 const statusTranslation = entry.data.statusTranslation;
 
-// Try to import the current language file, if it fails use Spanish as a fallback
+// Gets the current path of the page
+const currentPath = Astro.url.pathname;
 
+// Check if it's a homepage in any language
+const isHomepage =
+  currentPath === "/" ||
+  LOCALES_PREFIX.some((locale) => currentPath === `/${locale}/`);
+
+// Try to import the current language file, if it fails use Spanish as a fallback
 let translations;
 try {
   translations = await import(`../content/i18n/${lang}.json`);
@@ -21,21 +28,31 @@ const translatedStatus =
     : "";
 ---
 
-<div class="mt-4">
-
-  <a href="https://wa.me/+34642887239" target="_blank" rel="noopener noreferrer">
-    <Card title={translatedStatus} icon="translate">
-      {statusTranslation === "original" && <span>{messages.originalMessage}</span>}
-      {
-        statusTranslation === "automatic" && (
-          <span>{messages.automaticMessage}</span>
-        )
-      }
-      {statusTranslation === "revised" && <span>{messages.revisedMessage}</span>}
-    </Card>
-  </a>
-
-</div>
+{
+  isHomepage ? (
+    ""
+  ) : (
+    <div class="mt-4">
+      <a
+        href="https://wa.me/+34642887239"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <Card title={translatedStatus} icon="translate">
+          {statusTranslation === "original" && (
+            <span>{messages.originalMessage}</span>
+          )}
+          {statusTranslation === "automatic" && (
+            <span>{messages.automaticMessage}</span>
+          )}
+          {statusTranslation === "revised" && (
+            <span>{messages.revisedMessage}</span>
+          )}
+        </Card>
+      </a>
+    </div>
+  )
+}
 
 <style lang="scss">
   span {

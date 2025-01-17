@@ -1,0 +1,17 @@
+---
+import type { Props } from "@astrojs/starlight/props";
+const { entry } = Astro.props;
+const coverImage = entry.data.coverImage;
+const title = entry.data.title; // Para usar no alt da imagem
+---
+
+<div>
+    {coverImage && (
+        <img 
+            src={coverImage} 
+            alt={`Capa do livro ${title}`} 
+            class="w-40 h-auto object-cover"
+            loading="lazy"
+        />
+    )}
+</div>

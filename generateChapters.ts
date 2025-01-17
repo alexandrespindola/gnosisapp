@@ -15,7 +15,24 @@ const STRAPI_URL = process.env.STRAPI_URL || "";
 const ACCESS_TOKEN = process.env.ACCESS_TOKEN || "";
 
 if (!STRAPI_URL || !ACCESS_TOKEN) {
-  throw new Error('STRAPI_URL and ACCESS_TOKEN must be defined in the .env file');
+  throw new Error(
+    "STRAPI_URL and ACCESS_TOKEN must be defined in the .env file"
+  );
+}
+
+interface Book {
+  documentId: string;
+  text_id: string;
+  cover_image: {
+    formats: {
+      small: {
+        url: string;
+        ext: string;
+        width: number;
+        height: number;
+      };
+    };
+  };
 }
 
 interface Chapter {
@@ -29,15 +46,17 @@ interface Chapter {
   chapter_number: number; // Order number of the chapter
   title: { [key: string]: string }; // Titles by language
   content: { [key: string]: string }; // Content by language
+  book?: Book; // Book reference
 }
 
 async function fetchChapters(
   bookId: string,
-  locale: string
+  locale: string,
+  bookData: Book
 ): Promise<Chapter[]> {
   try {
     const response = await axios.get(
-      `${STRAPI_URL}/books/${bookId}?locale=${locale}&populate=chapters`, // Using the correct URL to fetch chapters related to the book
+      `${STRAPI_URL}/books/${bookId}?locale=${locale}&populate=*`, // Using the correct URL to fetch chapters related to the book
       {
         headers: {
           Authorization: `Bearer ${ACCESS_TOKEN}`, // Using the direct token
@@ -46,7 +65,13 @@ async function fetchChapters(
     );
 
     const chapters = response.data.data.chapters; // Accesses the chapters from the response
-    return chapters; // Returns the chapter data
+    return chapters.map((chapter: Chapter) => ({
+      ...chapter,
+      book: {
+        ...bookData,
+        cover_image: response.data.data.cover_imag,
+      },
+    }));
   } catch (error) {
     const err = error as any;
     console.error(
@@ -57,24 +82,26 @@ async function fetchChapters(
   }
 }
 
-function generateChapterMarkdown(chapter: Chapter, locale: string): string {
+function generateChapterMarkdown(chapter: Chapter, locale: string, book: Book): string {
   const title = chapter.title;
   const content = chapter.content;
   const chapter_number = chapter.chapter_number;
   const order_number = chapter.order_number;
   const translation_state = chapter.translation_state;
+  const cover_image = book.cover_image?.formats?.small?.url ?? "";
 
   if (!title) {
     console.error(`Title not found for chapter ID ${chapter.id}`);
-    return ""; // Returns an empty string if title is not available
+    return "";
   }
 
   return `---
 title: ${title}
 locale: ${locale}
-statusTranslation: ${chapter.translation_state || ''}
+statusTranslation: ${translation_state || ""}
+${cover_image ? `coverImage: ${cover_image}` : ``}
 sidebar:
-    label: ${chapter_number > 0 ? `${chapter_number}. ` : ''}${title}
+    label: ${chapter_number > 0 ? `${chapter_number}. ` : ""}${title}
     order: ${order_number}
 ---
 ${content}
@@ -84,7 +111,7 @@ ${content}
 async function main() {
   for (const locale of LOCALES_PREFIX) {
     const booksResponse = await axios.get(
-      `${STRAPI_URL}/books?locale=${locale}`,
+      `${STRAPI_URL}/books?locale=${locale}&populate=*`, // Using the correct URL to fetch books
       {
         headers: {
           Authorization: `Bearer ${ACCESS_TOKEN}`,
@@ -95,7 +122,7 @@ async function main() {
     const books = booksResponse.data.data; // Gets the list of books
 
     for (const book of books) {
-      const chapters = await fetchChapters(book.documentId, locale); // Fetches chapters for each book
+      const chapters = await fetchChapters(book.documentId, locale, book); // Fetches chapters for each book
 
       // Generate markdown files for chapters in Español (default)
       if (locale === "es") {
@@ -112,7 +139,8 @@ async function main() {
           chapters.forEach((chapter) => {
             const chapterMarkdownContent = generateChapterMarkdown(
               chapter,
-              locale
+              locale,
+              book
             );
             if (chapterMarkdownContent) {
               const chapterFileName = `${chapter.slug}.mdx`; // File name based on the chapter ID
@@ -142,7 +170,8 @@ async function main() {
           chapters.forEach((chapter) => {
             const chapterMarkdownContent = generateChapterMarkdown(
               chapter,
-              locale
+              locale,
+              book
             );
             if (chapterMarkdownContent) {
               const chapterFileName = `${chapter.text_id}.mdx`; // File name based on the chapter ID
