@@ -19,12 +19,3 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
-
-# md
-src/assets/content/docs/books/de
-src/assets/content/docs/books/en
-src/assets/content/docs/books/es
-src/assets/content/docs/books/fr
-src/assets/content/docs/books/it
-src/assets/content/docs/books/nl 
-src/assets/content/docs/books/pt
