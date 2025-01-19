@@ -19,13 +19,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 20
-          cache: 'npm'
-          
-      - name: Instalar dependências
-        run: npm install
           
       - name: Gerar arquivos MDX
-        run: npx ts-node --esm generateChapters.ts
+        run: node --loader ts-node/esm generateChapters.ts
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           STRAPI_URL: ${{ secrets.STRAPI_URL }}
