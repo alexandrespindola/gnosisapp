@@ -5,6 +5,7 @@ on:
       - main
   schedule:
     - cron: '0 0 * * *'  # Executa às 00:00 UTC todos os dias
+  workflow_dispatch:      # Permite execução manual
 
 jobs:
   generate-mdx:
