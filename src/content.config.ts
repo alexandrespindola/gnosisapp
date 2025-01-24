@@ -9,6 +9,10 @@ export const collections = {
       extend: z.object({
         statusTranslation: z.string().optional(),
         coverImage: z.string().optional(),
+        sidebar: z.object({
+          label: z.string().nullable(),
+          order: z.number().nullable()
+        }).optional()
       }),
     }) 
   }),
