@@ -164,7 +164,7 @@ export default defineConfig({
         },
         {
           label: "Educación Fundamental",
-          collapsed: false,
+          collapsed: true,
           translations: {
             ar: "التعليم الأساسي",
             ca: "Educació Bàsica",
@@ -194,11 +194,11 @@ export default defineConfig({
             vi: "Giáo Dục Cơ Bản",
             zh: "基础教育",
           },
-          autogenerate: { directory: "educacion-fundamental" },
+          autogenerate: { directory: "educacion-fundamental", collapsed: true },
         },
         {
           label: "Tratado de Psicología Revolucionaria",
-          collapsed: false,
+          collapsed: true,
           translations: {
             ar: "معاهدة علم النفس الثوري",
             ca: "Tractat de Psicologia Revolucionària",
@@ -228,7 +228,7 @@ export default defineConfig({
             vi: "Luận Văn về Tâm Lý Học Cách Mạng",
             zh: "革命心理学论"
           },
-          autogenerate: { directory: "tratado-de-psicologia-revolucionaria" },
+          autogenerate: { directory: "tratado-de-psicologia-revolucionaria", collapsed: true },
         },
       ],
     }),
