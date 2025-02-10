@@ -29,15 +29,51 @@ export default defineConfig({
         af: {
           label: "🇿🇦 Afrikaans",
         },
+        am: {
+          label: "🇪🇹 Amharic",
+        },
         ar: {
           dir: "rtl",
           label: "🇸🇦 العربية",
         },
+        as: {
+          label: "🇮🇳 Assamese",
+        },
+        az: {
+          label: "🇦🇿 Azerbaijani",
+        },
+        be: {
+          label: "🇧🇾 Belarusian",
+        },
+        bg: {
+          label: "🇧🇬 Bulgarian",
+        },
+        bm: {
+          label: "🇲🇱 Bambara",
+        },
+        bo: {
+          label: "🇨🇳 Tibetan",
+        },
+        br: {
+          label: "🇫🇷 Breton",
+        },
+        brx: {
+          label: "🇮🇳 Bodo",
+        },
+        bs: {
+          label: "🇧🇦 Bosnian",
+        },
         ca: {
           label: "Català",
         },
+        cgg: {
+          label: "🇺🇬 Chiga",
+        },
         cs: {
           label: "🇨🇿 Čeština",
+        },
+        cy: {
+          label: "🇬🇧 Welsh",
         },
         da: {
           label: "🇩🇰 Dansk",
@@ -45,22 +81,56 @@ export default defineConfig({
         de: {
           label: "🇩🇪 Deutsch",
         },
+        dje: {
+          label: "🇳🇪 Zarma",
+        },
+        dv: {
+          dir: "rtl",
+          label: "🇲🇻 Dhivehi",
+        },
         el: {
           label: "🇬🇷 Ελληνικά",
         },
         en: {
           label: "🇬🇧 English",
         },
+        eo: {
+          label: "🌍 Esperanto",
+        },
         root: {
           label: "🇪🇸 Español",
           lang: "es",
+        },
+        et: {
+          label: "🇪🇪 Estonian",
+        },
+        eu: {
+          label: "🇪🇺 Basque",
         },
         fa: {
           dir: "rtl",
           label: "🇮🇷 فارسی",
         },
+        ff: {
+          label: "🇸🇳 Fulah",
+        },
+        fil: {
+          label: "🇵🇭 Filipino",
+        },
+        fi: {
+          label: "🇫🇮 Finnish",
+        },
         fr: {
           label: "🇫🇷 Français",
+        },
+        ga: {
+          label: "🇮🇪 Irish",
+        },
+        gu: {
+          label: "🇮🇳 Gujarati",
+        },
+        ha: {
+          label: "🇳🇬 Hausa",
         },
         he: {
           dir: "rtl",
@@ -69,8 +139,23 @@ export default defineConfig({
         hi: {
           label: "🇮🇳 हिन्दी",
         },
+        hr: {
+          label: "🇭🇷 Croatian",
+        },
+        hu: {
+          label: "🇭🇺 Hungarian",
+        },
+        hy: {
+          label: "🇦🇲 Armenian",
+        },
         id: {
           label: "🇮🇩 Indonesia",
+        },
+        ig: {
+          label: "🇳🇬 Igbo",
+        },
+        is: {
+          label: "🇮🇸 Icelandic",
         },
         it: {
           label: "🇮🇹 Italiano",
@@ -78,17 +163,115 @@ export default defineConfig({
         ja: {
           label: "🇯🇵 日本語",
         },
+        kab: {
+          label: "🇩🇿 Kabyle",
+        },
+        kam: {
+          label: "🇰🇪 Kamba",
+        },
+        ka: {
+          label: "🇬🇪 Georgian",
+        },
+        kea: {
+          label: "🇨🇻 Kabuverdianu",
+        },
+        kk: {
+          label: "🇰🇿 Kazakh",
+        },
+        kln: {
+          label: "🇰🇪 Kalenjin",
+        },
+        km: {
+          label: "🇰🇭 Khmer",
+        },
+        kmr: {
+          dir: "rtl",
+          label: "🇹🇷 Northern Kurdish",
+        },
+        kn: {
+          label: "🇮🇳 Kannada",
+        },
         ko: {
           label: "🇰🇷 한국어",
+        },
+        kok: {
+          label: "🇮🇳 Konkani",
+        },
+        ky: {
+          label: "🇰🇬 Kyrgyz",
+        },
+        lag: {
+          label: "🇹🇿 Langi",
+        },
+        lao: {
+          label: "🇱🇦 Laotian",
+        },
+        lg: {
+          label: "🇺🇬 Ganda",
+        },
+        ln: {
+          label: "🇨🇩 Lingala",
+        },
+        lt: {
+          label: "🇱🇹 Lithuanian",
+        },
+        lv: {
+          label: "🇱🇻 Latvian",
+        },
+        mk: {
+          label: "🇲🇰 Macedonian",
+        },
+        mg: {
+          label: "🇲🇬 Malagasy",
+        },
+        mer: {
+          label: "🇰🇪 Meru",
+        },
+        ml: {
+          label: "🇮🇳 Malayalam",
+        },
+        mn: {
+          label: "🇲🇳 Mongolian",
+        },
+        mr: {
+          label: "🇮🇳 Marathi",
+        },
+        ms: {
+          label: "🇲🇾 Malay",
+        },
+        mt: {
+          label: "🇲🇹 Maltese",
+        },
+        my: {
+          label: "🇲🇲 Burmese",
         },
         nb: {
           label: "🇳🇴 Norsk Bokmål",
         },
+        ne: {
+          label: "🇳🇵 Nepali",
+        },
         nl: {
           label: "🇳🇱 Nederlands",
         },
+        nus: {
+          label: "🇸🇸 Nuer",
+        },
+        om: {
+          label: "🇪🇹 Oromo",
+        },
+        or: {
+          label: "🇮🇳 Oriya",
+        },
+        pa: {
+          label: "🇮🇳 Punjabi",
+        },
         pl: {
           label: "🇵🇱 Polski",
+        },
+        ps: {
+          dir: "rtl",
+          label: "🇦🇫 Pashto",
         },
         pt: {
           label: "🇵🇹 Português",
@@ -99,11 +282,59 @@ export default defineConfig({
         ru: {
           label: "🇷🇺 Русский",
         },
+        rw: {
+          label: "🇷🇼 Kinyarwanda",
+        },
+        sg: {
+          label: "🇨🇫 Sango",
+        },
+        shi: {
+          label: "🇲🇦 Tachelhit",
+        },
+        si: {
+          label: "🇱🇰 Sinhala",
+        },
         sk: {
           label: "🇸🇰 Slovenčina",
         },
+        sl: {
+          label: "🇸🇮 Slovenian",
+        },
+        sn: {
+          label: "🇿🇼 Shona",
+        },
+        so: {
+          label: "🇸🇴 Somali",
+        },
+        sq: {
+          label: "🇦🇱 Albanian",
+        },
+        sr: {
+          label: "🇷🇸 Serbian",
+        },
         sv: {
           label: "🇸🇪 Svenska",
+        },
+        sw: {
+          label: "🇹🇿 Swahili",
+        },
+        swc: {
+          label: "🇨🇩 Congo Swahili",
+        },
+        ta: {
+          label: "🇮🇳 Tamil",
+        },
+        te: {
+          label: "🇮🇳 Telugu",
+        },
+        th: {
+          label: "🇹🇭 Thai",
+        },
+        ti: {
+          label: "🇪🇷 Tigrinya",
+        },
+        tk: {
+          label: "🇹🇲 Turkmen",
         },
         tr: {
           label: "🇹🇷 Türkçe",
@@ -111,11 +342,24 @@ export default defineConfig({
         uk: {
           label: "🇺🇦 Українська",
         },
+        ur: {
+          dir: "rtl",
+          label: "🇵🇰 Urdu",
+        },
+        uz: {
+          label: "🇺🇿 Uzbek",
+        },
         vi: {
           label: "🇻🇳 Tiếng Việt",
         },
+        yo: {
+          label: "🇳🇬 Yoruba",
+        },
         zh: {
           label: "🇨🇳 中文",
+        },
+        zu: {
+          label: "🇿🇦 Zulu",
         },
       },
 

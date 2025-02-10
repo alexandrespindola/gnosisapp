@@ -1,0 +1,39 @@
+{
+    "404.text": "Faqja nuk u gjet. Kontrolloni URL-në ose provoni të përdorni shiritin e kërkimit.",
+    "aside.caution": "Kujdes",
+    "aside.danger": "Rrezik",
+    "aside.note": "Shënim",
+    "aside.tip": "Këshillë",
+    "builtWithStarlight.label": "Ndërtuar me Starlight",
+    "fileTree.directory": "Direktori",
+    "i18n.untranslatedContent": "Ky përmbajtje nuk është ende në dispozicion në gjuhën tuaj.",
+    "languageSelect.accessibleLabel": "Zgjidh gjuhën",
+    "menuButton.accessibleLabel": "Menuja",
+    "messages": {
+      "automaticMessage": "Ky kapitull është përkthyer automatikisht nga origjinali spanjoll. Ende nuk i është nënshtruar një rishikimi njerëzor. Nëse dëshironi të ndihmoni me rishikimin, na kontaktoni duke klikuar këtu.",
+      "originalMessage": "Përmbajtja e këtij kapitulli bazohet në tekstin origjinal spanjoll.",
+      "revisedMessage": "Ky kapitull i është nënshtruar rishikimit njerëzor dhe përkthimit nga teksti origjinal spanjoll. Nëse ka ende nevojë për korrigjime, na kontaktoni duke klikuar këtu."
+    },
+    "page.draft": "Ky përmbajtje është një draft dhe nuk do të përfshihet në ndërtimet e prodhimit.",
+    "page.editLink": "Redakto faqen",
+    "page.lastUpdated": "Përditësuar së fundmi:",
+    "page.nextLink": "Tjetër",
+    "page.previousLink": "Mëparshme",
+    "search.cancelLabel": "Anulo",
+    "search.ctrlKey": "Ctrl",
+    "search.devWarning": "Kërkimi është i disponueshëm vetëm në ndërtime prodhimi.\nProvojeni të ndërtoni dhe parashikoni faqen për ta testuar lokalisht.",
+    "search.label": "Kërko",
+    "sidebarNav.accessibleLabel": "Kryesore",
+    "skipLink.label": "Kalo te përmbajtja",
+    "status": {
+      "automatic": "Përkthim automatik",
+      "original": "Origjinale",
+      "revised": "Rishikuar"
+    },
+    "tableOfContents.onThisPage": "Në këtë faqe",
+    "tableOfContents.overview": "Përmbledhje",
+    "themeSelect.accessibleLabel": "Zgjidh temën",
+    "themeSelect.auto": "Auto",
+    "themeSelect.dark": "Errët",
+    "themeSelect.light": "Dritë"
+  }
