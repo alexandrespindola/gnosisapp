@@ -1,0 +1,39 @@
+{
+  "404.text": "Fuuli hin argamne. URL ilaali ama baara barbaachaa fayyadami.",
+  "aside.caution": "Eeggannoo",
+  "aside.danger": "Balaaf-saaxilama",
+  "aside.note": "Yaadannoo",
+  "aside.tip": "Gorsa",
+  "builtWithStarlight.label": "Starlight'n ijaarame",
+  "fileTree.directory": "Galma",
+  "i18n.untranslatedContent": "Qabiyyeen kun afaan keessaniin amma hin jiru.",
+  "languageSelect.accessibleLabel": "Afaan filadhu",
+  "menuButton.accessibleLabel": "Menu",
+  "messages": {
+    "automaticMessage": "Kutaan kun Isphaanishii jalqabaa irraa ofumaan hiikame. Namaan ilaalamuu hin qabu. Yoo ilaaluu keessatti gargaaruu barbaadde, as tuqi nu quunnamaa.",
+    "originalMessage": "Qabiyyeen kutaa kanaa barreeffama Isphaanishii jalqabaa irratti hundaa'a.",
+    "revisedMessage": "Kutaan kun namaan ilaalamee barreeffama Isphaanishii jalqabaa irraa hiikame. Yoo ammayyu sirreeffama barbaachise, as tuqi nu quunnamaa."
+  },
+  "page.draft": "Qabiyyeen kun wixinee dha, ijaarsa oomishaa keessatti hin hammatamu.",
+  "page.editLink": "Fuula gulaali",
+  "page.lastUpdated": "Yeroo dhuma haaromfame:",
+  "page.nextLink": "Itti aanee",
+  "page.previousLink": "Kan duraa",
+  "search.cancelLabel": "Haqi",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Barbaaduun ijaarsa oomishaa qofa keessatti argama. \nBakka jirtanitti qorachuuf marsariitii ijaaruu fi ilaaluu yaali.",
+  "search.label": "Barbaadi",
+  "sidebarNav.accessibleLabel": "Ijoo",
+  "skipLink.label": "Gara qabiyyeetti darbi",
+  "status": {
+    "automatic": "Hiika Ofumaa",
+    "original": "Kan Jalqabaa",
+    "revised": "Ilaalame"
+  },
+  "tableOfContents.onThisPage": "Kutaa kana keessatti",
+  "tableOfContents.overview": "Jalqaba",
+  "themeSelect.accessibleLabel": "Bifa filadhu",
+  "themeSelect.auto": "Ofumaa",
+  "themeSelect.dark": "Dukkana",
+  "themeSelect.light": "Ifa"
+}

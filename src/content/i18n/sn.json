@@ -1,0 +1,39 @@
+{
+  "404.text": "Peji haina kuwanikwa. Tarisa URL kana kuti edza kushandisa bhaa yekutsvaga.",
+  "aside.caution": "Ngwarira",
+  "aside.danger": "Njodzi",
+  "aside.note": "Cherechedza",
+  "aside.tip": "Zano",
+  "builtWithStarlight.label": "Yakavakwa neStarlight",
+  "fileTree.directory": "Dhairekitori",
+  "i18n.untranslatedContent": "Zviri mukati hazvisi kuratidzwa nemutauro wako.",
+  "languageSelect.accessibleLabel": "Sarudza mutauro",
+  "menuButton.accessibleLabel": "Menyu",
+  "messages": {
+    "automaticMessage": "Chitsauko ichi chakashandurwa zvine hunyanzvi kubva kuchiSpanish chepakutanga. Hachisati chaongororwa nevanhu. Kana uchida kubatsira nekuongorora, bata nesu nekudzvanya pano.",
+    "originalMessage": "Zviri mukati mechitsauko ichi zvakabva kuchiSpanish chepakutanga.",
+    "revisedMessage": "Chitsauko ichi chakaongororwa nevanhu uye chakashandurwa kubva kuchiSpanish chepakutanga. Kana chichida kugadziriswa, bata nesu nekudzvanya pano."
+  },
+  "page.draft": "Zviri mukati idraft uye hazvizopinda mukuvakwa kweproduction.",
+  "page.editLink": "Gadzirisa peji",
+  "page.lastUpdated": "Yakagadziriswa pakupedzisira:",
+  "page.nextLink": "Tevere",
+  "page.previousLink": "Yapfuura",
+  "search.cancelLabel": "Kanzura",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Kutsvaga kunowanikwa chete mukuvakwa kweproduction. \nEdza kuvaka nekutarisa saiti kuti uite test pano.",
+  "search.label": "Tsvaga",
+  "sidebarNav.accessibleLabel": "Huru",
+  "skipLink.label": "Enda kuzviri mukati",
+  "status": {
+    "automatic": "Kushandurwa KweHunyanzvi",
+    "original": "Yepakutanga",
+    "revised": "Yakaongororwa"
+  },
+  "tableOfContents.onThisPage": "Muchitsauko ichi",
+  "tableOfContents.overview": "Kutanga",
+  "themeSelect.accessibleLabel": "Sarudza theme",
+  "themeSelect.auto": "Inoita yoga",
+  "themeSelect.dark": "Rima",
+  "themeSelect.light": "Chiedza"
+}

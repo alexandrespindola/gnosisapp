@@ -1,0 +1,39 @@
+{
+  "404.text": "Olupapula terulabise. Kebera URL oba gezaako okukozesa akabaawo k'okunoonya.",
+  "aside.caution": "Labelawo",
+  "aside.danger": "Akabi",
+  "aside.note": "Manya",
+  "aside.tip": "Amagezi",
+  "builtWithStarlight.label": "Kizimbiddwa na Starlight",
+  "fileTree.directory": "Etterekero",
+  "i18n.untranslatedContent": "Ebiri mu kino tebinakyusibwa mu lulimi lwo.",
+  "languageSelect.accessibleLabel": "Londa olulimi",
+  "menuButton.accessibleLabel": "Menyu",
+  "messages": {
+    "automaticMessage": "Essuula eno ekyusiddwa mu ngeri ya kompyuta okuva mu Lusipanya. Tennakeberwa muntu. Bw'oba oyagala okuyamba mu kukeberamu, tuukirira ffe nga onyiga wano.",
+    "originalMessage": "Ebiri mu ssuula eno byesigamye ku bigambo eby'omu Lusipanya ebyasooka.",
+    "revisedMessage": "Essuula eno ekebereddwa muntu era n'ekyusibwa okuva mu bigambo eby'omu Lusipanya ebyasooka. Bwe kiba kikyetaaga okulongoosebwa, tuukirira ffe nga onyiga wano."
+  },
+  "page.draft": "Bino bikyali mu nteekateeka era tebijja kuteekebwa mu nkola enkulu.",
+  "page.editLink": "Kyusa olupapula",
+  "page.lastUpdated": "Kyaggwa okukyusibwa:",
+  "page.nextLink": "Ekiddako",
+  "page.previousLink": "Ekikulembera",
+  "search.cancelLabel": "Sazaamu",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Okunoonya kusoboka mu nkola enkulu yokka. \nGezaako okuzimba n'okulaba website okugikebera wano.",
+  "search.label": "Noonya",
+  "sidebarNav.accessibleLabel": "Ekikulu",
+  "skipLink.label": "Genda ku bikirimu",
+  "status": {
+    "automatic": "Okuvvuunula kwa Kompyuta",
+    "original": "Ekyasooka",
+    "revised": "Kikebereddwa"
+  },
+  "tableOfContents.onThisPage": "Mu ssuula eno",
+  "tableOfContents.overview": "Entandikwa",
+  "themeSelect.accessibleLabel": "Londa endabika",
+  "themeSelect.auto": "Yakola",
+  "themeSelect.dark": "Enzikiza",
+  "themeSelect.light": "Ekitangaala"
+}

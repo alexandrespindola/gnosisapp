@@ -1,0 +1,39 @@
+{
+  "404.text": "Хуудас олдсонгүй. URL хаягийг шалгах эсвэл хайлтын талбарыг ашиглана уу.",
+  "aside.caution": "Анхааруулга",
+  "aside.danger": "Аюул",
+  "aside.note": "Тэмдэглэл",
+  "aside.tip": "Зөвлөмж",
+  "builtWithStarlight.label": "Starlight-аар бүтээсэн",
+  "fileTree.directory": "Хавтас",
+  "i18n.untranslatedContent": "Энэ агуулга таны хэл дээр одоогоор байхгүй байна.",
+  "languageSelect.accessibleLabel": "Хэл сонгох",
+  "menuButton.accessibleLabel": "Цэс",
+  "messages": {
+    "automaticMessage": "Энэ бүлгийг испани эх хувилбараас автоматаар орчуулсан. Үүнийг хүн хараахан хянаагүй байна. Хэрэв та хяналтад туслахыг хүсвэл энд дарж бидэнтэй холбоо барина уу.",
+    "originalMessage": "Энэ бүлгийн агуулга нь испани эх бичвэрт үндэслэсэн болно.",
+    "revisedMessage": "Энэ бүлгийг испани эх хувилбараас хүн хянаж, орчуулсан. Хэрэв үүнд засвар хийх шаардлагатай бол энд дарж бидэнтэй холбоо барина уу."
+  },
+  "page.draft": "Энэ агуулга нь ноорог бөгөөд үйлдвэрлэлийн хувилбарт орохгүй.",
+  "page.editLink": "Хуудас засах",
+  "page.lastUpdated": "Сүүлд шинэчилсэн:",
+  "page.nextLink": "Дараах",
+  "page.previousLink": "Өмнөх",
+  "search.cancelLabel": "Цуцлах",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Хайлт зөвхөн үйлдвэрлэлийн хувилбарт боломжтой. \nСайтыг орон нутагт туршихын тулд барьж, урьдчилан харахыг оролдоно уу.",
+  "search.label": "Хайх",
+  "sidebarNav.accessibleLabel": "Үндсэн",
+  "skipLink.label": "Агуулга руу очих",
+  "status": {
+    "automatic": "Автомат Орчуулга",
+    "original": "Эх",
+    "revised": "Хянасан"
+  },
+  "tableOfContents.onThisPage": "Энэ бүлэгт",
+  "tableOfContents.overview": "Эхлэл",
+  "themeSelect.accessibleLabel": "Загвар сонгох",
+  "themeSelect.auto": "Автомат",
+  "themeSelect.dark": "Харанхуй",
+  "themeSelect.light": "Гэрэл"
+}

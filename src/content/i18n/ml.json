@@ -1,0 +1,39 @@
+{
+  "404.text": "പേജ് കണ്ടെത്തിയില്ല. URL പരിശോധിക്കുക അല്ലെങ്കിൽ തിരയൽ ബാർ ഉപയോഗിക്കുക.",
+  "aside.caution": "ശ്രദ്ധിക്കുക",
+  "aside.danger": "അപകടം",
+  "aside.note": "കുറിപ്പ്",
+  "aside.tip": "നുറുങ്ങ്",
+  "builtWithStarlight.label": "Starlight ഉപയോഗിച്ച് നിർമ്മിച്ചത്",
+  "fileTree.directory": "ഡയറക്ടറി",
+  "i18n.untranslatedContent": "ഈ ഉള്ളടക്കം നിങ്ങളുടെ ഭാഷയിൽ ലഭ്യമല്ല.",
+  "languageSelect.accessibleLabel": "ഭാഷ തിരഞ്ഞെടുക്കുക",
+  "menuButton.accessibleLabel": "മെനു",
+  "messages": {
+    "automaticMessage": "ഈ അധ്യായം സ്പാനിഷ് ഒറിജിനലിൽ നിന്ന് യന്ത്രവൽകൃതമായി വിവർത്തനം ചെയ്തതാണ്. ഇത് ഇതുവരെ മനുഷ്യ അവലോകനം നടത്തിയിട്ടില്ല. അവലോകനത്തിൽ സഹായിക്കാൻ താൽപ്പര്യമുണ്ടെങ്കിൽ, ഇവിടെ ക്ലിക്ക് ചെയ്ത് ഞങ്ങളെ ബന്ധപ്പെടുക.",
+    "originalMessage": "ഒറിജിനൽ സ്പാനിഷ് ടെക്സ്റ്റിനെ അടിസ്ഥാനമാക്കിയുള്ള ഈ അധ്യായത്തിന്റെ ഉള്ളടക്കം.",
+    "revisedMessage": "ഈ അധ്യായം ഒറിജിനൽ സ്പാനിഷ് ടെക്സ്റ്റിൽ നിന്ന് മനുഷ്യ അവലോകനവും വിവർത്തനവും നടത്തിയിട്ടുണ്ട്. ഇനിയും തിരുത്തലുകൾ ആവശ്യമുണ്ടെങ്കിൽ, ഇവിടെ ക്ലിക്ക് ചെയ്ത് ഞങ്ങളെ ബന്ധപ്പെടുക."
+  },
+  "page.draft": "ഈ ഉള്ളടക്കം ഒരു കരട് ആണ്, ഉൽപാദന ബിൽഡുകളിൽ ഉൾപ്പെടുത്തില്ല.",
+  "page.editLink": "പേജ് എഡിറ്റ് ചെയ്യുക",
+  "page.lastUpdated": "അവസാനം അപ്ഡേറ്റ് ചെയ്തത്:",
+  "page.nextLink": "അടുത്തത്",
+  "page.previousLink": "മുമ്പത്തേത്",
+  "search.cancelLabel": "റദ്ദാക്കുക",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "തിരയൽ ഉൽപാദന ബിൽഡുകളിൽ മാത്രമേ ലഭ്യമാകൂ. \nപ്രാദേശികമായി പരിശോധിക്കാൻ സൈറ്റ് നിർമ്മിച്ച് പ്രിവ്യൂ ചെയ്യാൻ ശ്രമിക്കുക.",
+  "search.label": "തിരയുക",
+  "sidebarNav.accessibleLabel": "പ്രധാന",
+  "skipLink.label": "ഉള്ളടക്കത്തിലേക്ക് പോകുക",
+  "status": {
+    "automatic": "യന്ത്രവൽകൃത വിവർത്തനം",
+    "original": "ഒറിജിനൽ",
+    "revised": "പരിഷ്കരിച്ചത്"
+  },
+  "tableOfContents.onThisPage": "ഈ അധ്യായത്തിൽ",
+  "tableOfContents.overview": "ആരംഭം",
+  "themeSelect.accessibleLabel": "തീം തിരഞ്ഞെടുക്കുക",
+  "themeSelect.auto": "സ്വയം",
+  "themeSelect.dark": "ഇരുണ്ട",
+  "themeSelect.light": "വെളിച്ചം"
+}

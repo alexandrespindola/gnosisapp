@@ -1,0 +1,39 @@
+{
+  "404.text": "Ivaa ndyoneka. Sisya URL kana ukavindisya na kisungi kya kuthumua.",
+  "aside.caution": "Ikala mwiseo",
+  "aside.danger": "Uthuku",
+  "aside.note": "Uvoo",
+  "aside.tip": "Utao",
+  "builtWithStarlight.label": "Wakiwa na Starlight",
+  "fileTree.directory": "Kiviko",
+  "i18n.untranslatedContent": "Uu uvoo ndwi kwa luka yaku.",
+  "languageSelect.accessibleLabel": "Sakua luka",
+  "menuButton.accessibleLabel": "Menyu",
+  "messages": {
+    "automaticMessage": "Kyau kinundu kinengetwe kuma kwa Kisipania kya kwanza. Kindi kikithi kusuiwa ni mundu. Ethiwa nuwenda kutetheesya kusuia, tutumie vaa.",
+    "originalMessage": "Uvoo wa kyau kinundu uumite kwa Kisipania kya kwanza.",
+    "revisedMessage": "Kyau kinundu kisuiwitwe ni mundu na kinengetwe kuma kwa Kisipania kya kwanza. Ethiwa kindi kikwenda kusuiwa, tutumie vaa."
+  },
+  "page.draft": "Uu uvoo ni ndakiki na ndukatetheesya kwa maundu ma useuvya.",
+  "page.editLink": "Sakua ivaa",
+  "page.lastUpdated": "Wasakua muthya:",
+  "page.nextLink": "Mbee",
+  "page.previousLink": "Muima",
+  "search.cancelLabel": "Tia",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Kuthumua kwi o kwa maundu ma useuvya. \nKela kuaka na kwonia kisungi kya kwiyonea vaa.",
+  "search.label": "Thumua",
+  "sidebarNav.accessibleLabel": "Munene",
+  "skipLink.label": "Umya uvoo",
+  "status": {
+    "automatic": "Unengi wa Kwa Kyuma",
+    "original": "Kya Kwanza",
+    "revised": "Nisuiwitwe"
+  },
+  "tableOfContents.onThisPage": "Kwa kyau kinundu",
+  "tableOfContents.overview": "Kwambiliilia",
+  "themeSelect.accessibleLabel": "Sakua muonekano",
+  "themeSelect.auto": "Kwa kyuma",
+  "themeSelect.dark": "Yiilu",
+  "themeSelect.light": "Kyeni"
+}

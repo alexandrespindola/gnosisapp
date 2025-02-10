@@ -1,0 +1,39 @@
+{
+  "404.text": "صفحہ نہیں ملا۔ URL چیک کریں یا سرچ بار استعمال کرنے کی کوشش کریں۔",
+  "aside.caution": "احتیاط",
+  "aside.danger": "خطرہ",
+  "aside.note": "نوٹ",
+  "aside.tip": "تجویز",
+  "builtWithStarlight.label": "Starlight کے ساتھ تعمیر کیا گیا",
+  "fileTree.directory": "ڈائریکٹری",
+  "i18n.untranslatedContent": "یہ مواد ابھی آپ کی زبان میں دستیاب نہیں ہے۔",
+  "languageSelect.accessibleLabel": "زبان منتخب کریں",
+  "menuButton.accessibleLabel": "مینو",
+  "messages": {
+    "automaticMessage": "یہ باب ہسپانوی اصل سے خودکار طور پر ترجمہ کیا گیا ہے۔ اس کا ابھی تک انسانی جائزہ نہیں لیا گیا ہے۔ اگر آپ جائزے میں مدد کرنا چاہتے ہیں، تو یہاں کلک کر کے ہم سے رابطہ کریں۔",
+    "originalMessage": "اس باب کا مواد اصل ہسپانوی متن پر مبنی ہے۔",
+    "revisedMessage": "اس باب کا اصل ہسپانوی متن سے انسانی جائزہ اور ترجمہ کیا گیا ہے۔ اگر اس میں ابھی بھی درستگی کی ضرورت ہے، تو یہاں کلک کر کے ہم سے رابطہ کریں۔"
+  },
+  "page.draft": "یہ مواد ڈرافٹ ہے اور پروڈکشن بلڈز میں شامل نہیں کیا جائے گا۔",
+  "page.editLink": "صفحہ میں ترمیم کریں",
+  "page.lastUpdated": "آخری تازہ کاری:",
+  "page.nextLink": "اگلا",
+  "page.previousLink": "پچھلا",
+  "search.cancelLabel": "منسوخ",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "تلاش صرف پروڈکشن بلڈز میں دستیاب ہے۔ \nمقامی طور پر جانچنے کے لیے سائٹ کو بنانے اور پیش نظارہ کرنے کی کوشش کریں۔",
+  "search.label": "تلاش",
+  "sidebarNav.accessibleLabel": "مرکزی",
+  "skipLink.label": "مواد پر جائیں",
+  "status": {
+    "automatic": "خودکار ترجمہ",
+    "original": "اصل",
+    "revised": "نظرثانی شدہ"
+  },
+  "tableOfContents.onThisPage": "اس باب میں",
+  "tableOfContents.overview": "شروعات",
+  "themeSelect.accessibleLabel": "تھیم منتخب کریں",
+  "themeSelect.auto": "خودکار",
+  "themeSelect.dark": "تاریک",
+  "themeSelect.light": "روشن"
+}

@@ -1,0 +1,39 @@
+{
+  "404.text": "Lapa nav atrasta. Pārbaudiet URL vai izmantojiet meklēšanas joslu.",
+  "aside.caution": "Uzmanību",
+  "aside.danger": "Bīstami",
+  "aside.note": "Piezīme",
+  "aside.tip": "Padoms",
+  "builtWithStarlight.label": "Veidots ar Starlight",
+  "fileTree.directory": "Direktorija",
+  "i18n.untranslatedContent": "Šis saturs vēl nav pieejams jūsu valodā.",
+  "languageSelect.accessibleLabel": "Izvēlēties valodu",
+  "menuButton.accessibleLabel": "Izvēlne",
+  "messages": {
+    "automaticMessage": "Šī nodaļa ir automātiski tulkota no spāņu oriģināla. Tā vēl nav izgājusi cilvēka pārskatu. Ja vēlaties palīdzēt ar pārskatu, sazinieties ar mums, noklikšķinot šeit.",
+    "originalMessage": "Šīs nodaļas saturs balstīts uz oriģinālo spāņu tekstu.",
+    "revisedMessage": "Šī nodaļa ir izgājusi cilvēka pārskatu un tulkojumu no oriģinālā spāņu teksta. Ja tai joprojām nepieciešami labojumi, sazinieties ar mums, noklikšķinot šeit."
+  },
+  "page.draft": "Šis saturs ir melnraksts un netiks iekļauts produkcijas versijās.",
+  "page.editLink": "Rediģēt lapu",
+  "page.lastUpdated": "Pēdējoreiz atjaunināts:",
+  "page.nextLink": "Nākamais",
+  "page.previousLink": "Iepriekšējais",
+  "search.cancelLabel": "Atcelt",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Meklēšana ir pieejama tikai produkcijas versijās. \nMēģiniet uzbūvēt un priekšskatīt vietni, lai to pārbaudītu lokāli.",
+  "search.label": "Meklēt",
+  "sidebarNav.accessibleLabel": "Galvenā",
+  "skipLink.label": "Pāriet uz saturu",
+  "status": {
+    "automatic": "Automātiskais Tulkojums",
+    "original": "Oriģināls",
+    "revised": "Pārskatīts"
+  },
+  "tableOfContents.onThisPage": "Šajā nodaļā",
+  "tableOfContents.overview": "Sākums",
+  "themeSelect.accessibleLabel": "Izvēlēties tēmu",
+  "themeSelect.auto": "Automātiski",
+  "themeSelect.dark": "Tumšs",
+  "themeSelect.light": "Gaišs"
+}

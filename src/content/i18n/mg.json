@@ -1,0 +1,39 @@
+{
+  "404.text": "Tsy hita ny pejy. Hamarino ny URL na andramo ny bara fikarohana.",
+  "aside.caution": "Tandremo",
+  "aside.danger": "Loza",
+  "aside.note": "Fanamarihana",
+  "aside.tip": "Torohevitra",
+  "builtWithStarlight.label": "Noforonina tamin'ny Starlight",
+  "fileTree.directory": "Rejistry",
+  "i18n.untranslatedContent": "Tsy mbola misy amin'ny fiteny ampiasainao ity votoatiny ity.",
+  "languageSelect.accessibleLabel": "Misafidiana fiteny",
+  "menuButton.accessibleLabel": "Menu",
+  "messages": {
+    "automaticMessage": "Ity toko ity dia nadika automatika avy amin'ny teny Espaniola tany am-boalohany. Tsy mbola nisy famerenana jerena nataon'olombelona. Raha te-hanampy amin'ny fanadihadiana ianao, dia miangavy anao hikitika eto.",
+    "originalMessage": "Ny votoatin'ity toko ity dia mifototra amin'ny lahatsoratra teny Espaniola tany am-boalohany.",
+    "revisedMessage": "Ity toko ity dia efa naverina nojerena sy nadika avy amin'ny lahatsoratra teny Espaniola tany am-boalohany. Raha mbola mila fanitsiana izy ity, dia miangavy anao hikitika eto."
+  },
+  "page.draft": "Mbola santionany ity votoatiny ity ary tsy ho tafiditra ao amin'ny famokarana.",
+  "page.editLink": "Hanova pejy",
+  "page.lastUpdated": "Fanavaozana farany:",
+  "page.nextLink": "Manaraka",
+  "page.previousLink": "Taloha",
+  "search.cancelLabel": "Aoka",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Ny fikarohana dia tsy misy afa-tsy amin'ny famokarana. \nAndramo ny manorina sy mijery mialoha ny tranokala mba hitsapana azy eto an-toerana.",
+  "search.label": "Hikaroka",
+  "sidebarNav.accessibleLabel": "Lehibe",
+  "skipLink.label": "Hitsidika ny votoatiny",
+  "status": {
+    "automatic": "Fandikan-teny Automatika",
+    "original": "Niandoha",
+    "revised": "Voajery"
+  },
+  "tableOfContents.onThisPage": "Ao amin'ity toko ity",
+  "tableOfContents.overview": "Fanombohana",
+  "themeSelect.accessibleLabel": "Misafidiana endrika",
+  "themeSelect.auto": "Automatika",
+  "themeSelect.dark": "Maizina",
+  "themeSelect.light": "Mazava"
+}

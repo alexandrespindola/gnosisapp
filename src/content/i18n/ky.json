@@ -1,0 +1,39 @@
+{
+  "404.text": "Барак табылган жок. URL'ди текшериңиз же издөө тилкесин колдонуңуз.",
+  "aside.caution": "Этият болуңуз",
+  "aside.danger": "Коркунуч",
+  "aside.note": "Эскертүү",
+  "aside.tip": "Кеңеш",
+  "builtWithStarlight.label": "Starlight менен жасалган",
+  "fileTree.directory": "Каталог",
+  "i18n.untranslatedContent": "Бул мазмун сиздин тилиңизде азырынча жеткиликтүү эмес.",
+  "languageSelect.accessibleLabel": "Тилди тандаңыз",
+  "menuButton.accessibleLabel": "Меню",
+  "messages": {
+    "automaticMessage": "Бул бөлүм испан тилиндеги түп нускадан автоматтык түрдө которулган. Ал али адам текшерүүсүнөн өткөн жок. Эгер текшерүүгө жардам бергиңиз келсе, бул жерди басып бизге кайрылыңыз.",
+    "originalMessage": "Бул бөлүмдүн мазмуну түп нуска испан тилиндеги текстке негизделген.",
+    "revisedMessage": "Бул бөлүм адам текшерүүсүнөн өтүп, түп нуска испан тилиндеги тексттен которулган. Эгер дагы деле оңдоолор керек болсо, бул жерди басып бизге кайрылыңыз."
+  },
+  "page.draft": "Бул мазмун долбоор жана өндүрүштүк курулуштарга киргизилбейт.",
+  "page.editLink": "Баракты түзөтүү",
+  "page.lastUpdated": "Акыркы жаңыртуу:",
+  "page.nextLink": "Кийинки",
+  "page.previousLink": "Мурунку",
+  "search.cancelLabel": "Жокко чыгаруу",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Издөө мүмкүнчүлүгү өндүрүштүк курулуштарда гана жеткиликтүү. \nЖергиликтүү сынап көрүү үчүн сайтты куруп жана алдын ала көрүүгө аракет кылыңыз.",
+  "search.label": "Издөө",
+  "sidebarNav.accessibleLabel": "Негизги",
+  "skipLink.label": "Мазмунга өтүү",
+  "status": {
+    "automatic": "Автоматтык Котормо",
+    "original": "Түп нуска",
+    "revised": "Каралган"
+  },
+  "tableOfContents.onThisPage": "Бул бөлүмдө",
+  "tableOfContents.overview": "Башталышы",
+  "themeSelect.accessibleLabel": "Теманы тандаңыз",
+  "themeSelect.auto": "Автоматтык",
+  "themeSelect.dark": "Караңгы",
+  "themeSelect.light": "Жарык"
+}

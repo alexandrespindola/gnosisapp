@@ -1,0 +1,39 @@
+{
+  "404.text": "Pájina ka atxadu. Konferi URL o tenta uza bara di buska.",
+  "aside.caution": "Kuidadu",
+  "aside.danger": "Perigu",
+  "aside.note": "Nota",
+  "aside.tip": "Dika",
+  "builtWithStarlight.label": "Konstruidu ku Starlight",
+  "fileTree.directory": "Diretóriu",
+  "i18n.untranslatedContent": "Es kontiúdu inda ka sta disponível na bu língua.",
+  "languageSelect.accessibleLabel": "Skolhi língua",
+  "menuButton.accessibleLabel": "Menu",
+  "messages": {
+    "automaticMessage": "Es kapítulu foi traduzidu automatikamenti di original spanhol. Inda ka foi rivistu pa algen. Si bu kre djuda ku rivison, kontata-nu pa klika li.",
+    "originalMessage": "Kontiúdu des kapítulu é bazidu na testu original na spanhol.",
+    "revisedMessage": "Es kapítulu dja foi rivistu pa algen y traduzidu di testu original na spanhol. Si inda mesti di koreson, kontata-nu pa klika li."
+  },
+  "page.draft": "Es kontiúdu é un raskunhu y ka ta ser inkluídu na version final.",
+  "page.editLink": "Edita pájina",
+  "page.lastUpdated": "Últimu atualizason:",
+  "page.nextLink": "Prósimu",
+  "page.previousLink": "Anterior",
+  "search.cancelLabel": "Kansela",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Buska sta disponível só na version final. \nTenta konstrui y fazi pré-vizualizason di site pa testa lokalmenti.",
+  "search.label": "Buska",
+  "sidebarNav.accessibleLabel": "Prinsipal",
+  "skipLink.label": "Bai pa kontiúdu",
+  "status": {
+    "automatic": "Traduson Automátiku",
+    "original": "Original",
+    "revised": "Rivistu"
+  },
+  "tableOfContents.onThisPage": "Nes kapítulu",
+  "tableOfContents.overview": "Kumesu",
+  "themeSelect.accessibleLabel": "Skolhi tema",
+  "themeSelect.auto": "Automátiku",
+  "themeSelect.dark": "Skuru",
+  "themeSelect.light": "Klaru"
+}

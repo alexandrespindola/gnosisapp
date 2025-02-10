@@ -1,0 +1,39 @@
+{
+  "404.text": "پاڼه ونه موندل شوه. URL وګورئ یا د لټون بار وکاروئ.",
+  "aside.caution": "احتیاط",
+  "aside.danger": "خطر",
+  "aside.note": "یادداشت",
+  "aside.tip": "مشوره",
+  "builtWithStarlight.label": "د Starlight سره جوړ شوی",
+  "fileTree.directory": "فولډر",
+  "i18n.untranslatedContent": "دا مینځپانګه لا ستاسو په ژبه کې شتون نلري.",
+  "languageSelect.accessibleLabel": "ژبه غوره کړئ",
+  "menuButton.accessibleLabel": "مینو",
+  "messages": {
+    "automaticMessage": "دا څپرکی په اتوماتیک ډول د هسپانوي اصل څخه ژباړل شوی دی. دا لا د انساني کتنې لاندې نه دی راغلی. که تاسو غواړئ په کتنه کې مرسته وکړئ، دلته کلیک وکړئ موږ سره اړیکه ونیسئ.",
+    "originalMessage": "د دې څپرکي مینځپانګه د اصلي هسپانوي متن پر بنسټ ده.",
+    "revisedMessage": "دا څپرکی د اصلي هسپانوي متن څخه د انساني کتنې او ژباړې لاندې راغلی دی. که دا لا هم سمونونو ته اړتیا لري، دلته کلیک وکړئ موږ سره اړیکه ونیسئ."
+  },
+  "page.draft": "دا مینځپانګه مسوده ده او په تولیدي نسخو کې به شامل نشي.",
+  "page.editLink": "پاڼه سمول",
+  "page.lastUpdated": "وروستۍ تازه شوې:",
+  "page.nextLink": "راتلونکی",
+  "page.previousLink": "مخکینی",
+  "search.cancelLabel": "لغوه کول",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "لټون یوازې په تولیدي نسخو کې شتون لري. \nد ځایي ازموینې لپاره د سایټ جوړولو او مخلیدنې هڅه وکړئ.",
+  "search.label": "لټون",
+  "sidebarNav.accessibleLabel": "اصلي",
+  "skipLink.label": "منځپانګې ته ولاړ شئ",
+  "status": {
+    "automatic": "اتوماتیک ژباړه",
+    "original": "اصلي",
+    "revised": "کتل شوی"
+  },
+  "tableOfContents.onThisPage": "په دې څپرکي کې",
+  "tableOfContents.overview": "پیل",
+  "themeSelect.accessibleLabel": "تیم غوره کړئ",
+  "themeSelect.auto": "اتوماتیک",
+  "themeSelect.dark": "تیاره",
+  "themeSelect.light": "روښانه"
+}

@@ -1,0 +1,39 @@
+{
+  "404.text": "Ukurasa haupatikani. Angalia URL au jaribu kutumia upau wa kutafuta.",
+  "aside.caution": "Tahadhari",
+  "aside.danger": "Hatari",
+  "aside.note": "Kidokezo",
+  "aside.tip": "Ushauri",
+  "builtWithStarlight.label": "Imejengwa na Starlight",
+  "fileTree.directory": "Saraka",
+  "i18n.untranslatedContent": "Maudhui haya hayapatikani kwa lugha yako bado.",
+  "languageSelect.accessibleLabel": "Chagua lugha",
+  "menuButton.accessibleLabel": "Menyu",
+  "messages": {
+    "automaticMessage": "Sura hii imetafsiriwa kiotomatiki kutoka Kihispania cha asili. Bado haijapitia ukaguzi wa binadamu. Ikiwa ungependa kusaidia kukagua, wasiliana nasi kwa kubofya hapa.",
+    "originalMessage": "Maudhui ya sura hii yanatokana na maandishi ya asili ya Kihispania.",
+    "revisedMessage": "Sura hii imepitia ukaguzi wa binadamu na tafsiri kutoka maandishi ya asili ya Kihispania. Ikiwa bado inahitaji marekebisho, wasiliana nasi kwa kubofya hapa."
+  },
+  "page.draft": "Maudhui haya ni rasimu na hayatajumuishwa katika toleo la uzalishaji.",
+  "page.editLink": "Hariri ukurasa",
+  "page.lastUpdated": "Ilisasishwa mwisho:",
+  "page.nextLink": "Ifuatayo",
+  "page.previousLink": "Iliyotangulia",
+  "search.cancelLabel": "Ghairi",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Utafutaji unapatikana tu katika matoleo ya uzalishaji. \nJaribu kujenga na kutazama tovuti kwa ajili ya kuipima hapa.",
+  "search.label": "Tafuta",
+  "sidebarNav.accessibleLabel": "Kuu",
+  "skipLink.label": "Ruka hadi maudhui",
+  "status": {
+    "automatic": "Tafsiri ya Kiotomatiki",
+    "original": "Asili",
+    "revised": "Imepitiwa"
+  },
+  "tableOfContents.onThisPage": "Katika sura hii",
+  "tableOfContents.overview": "Mwanzo",
+  "themeSelect.accessibleLabel": "Chagua mandhari",
+  "themeSelect.auto": "Otomatiki",
+  "themeSelect.dark": "Giza",
+  "themeSelect.light": "Mwanga"
+}

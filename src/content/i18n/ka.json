@@ -1,0 +1,39 @@
+{
+  "404.text": "გვერდი ვერ მოიძებნა. შეამოწმეთ URL ან სცადეთ საძიებო ველის გამოყენება.",
+  "aside.caution": "სიფრთხილე",
+  "aside.danger": "საფრთხე",
+  "aside.note": "შენიშვნა",
+  "aside.tip": "რჩევა",
+  "builtWithStarlight.label": "აგებულია Starlight-ით",
+  "fileTree.directory": "დირექტორია",
+  "i18n.untranslatedContent": "ეს შინაარსი ჯერ არ არის ხელმისაწვდომი თქვენს ენაზე.",
+  "languageSelect.accessibleLabel": "აირჩიეთ ენა",
+  "menuButton.accessibleLabel": "მენიუ",
+  "messages": {
+    "automaticMessage": "ეს თავი ავტომატურად ითარგმნა ესპანური ორიგინალიდან. ის ჯერ არ გაუვლია ადამიანის მიერ გადახედვას. თუ გსურთ დაგვეხმაროთ გადახედვაში, დაგვიკავშირდით აქ დაწკაპუნებით.",
+    "originalMessage": "ამ თავის შინაარსი ეფუძნება ორიგინალ ესპანურ ტექსტს.",
+    "revisedMessage": "ეს თავი გაიარა ადამიანის მიერ გადახედვა და თარგმანი ორიგინალი ესპანური ტექსტიდან. თუ ის კვლავ საჭიროებს შესწორებებს, დაგვიკავშირდით აქ დაწკაპუნებით."
+  },
+  "page.draft": "ეს შინაარსი არის მონახაზი და არ იქნება შეტანილი საწარმოო ვერსიებში.",
+  "page.editLink": "გვერდის რედაქტირება",
+  "page.lastUpdated": "ბოლო განახლება:",
+  "page.nextLink": "შემდეგი",
+  "page.previousLink": "წინა",
+  "search.cancelLabel": "გაუქმება",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "ძიება ხელმისაწვდომია მხოლოდ საწარმოო ვერსიებში. \nსცადეთ საიტის აგება და წინასწარი ნახვა ლოკალურად ტესტირებისთვის.",
+  "search.label": "ძიება",
+  "sidebarNav.accessibleLabel": "მთავარი",
+  "skipLink.label": "შინაარსზე გადასვლა",
+  "status": {
+    "automatic": "ავტომატური თარგმანი",
+    "original": "ორიგინალი",
+    "revised": "გადახედილი"
+  },
+  "tableOfContents.onThisPage": "ამ თავში",
+  "tableOfContents.overview": "დასაწყისი",
+  "themeSelect.accessibleLabel": "აირჩიეთ თემა",
+  "themeSelect.auto": "ავტომატური",
+  "themeSelect.dark": "მუქი",
+  "themeSelect.light": "ნათელი"
+}

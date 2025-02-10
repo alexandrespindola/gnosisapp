@@ -1,0 +1,39 @@
+{
+  "404.text": "ಪುಟ ಕಂಡುಬಂದಿಲ್ಲ. URL ಪರಿಶೀಲಿಸಿ ಅಥವಾ ಹುಡುಕಾಟ ಪಟ್ಟಿಯನ್ನು ಬಳಸಿ.",
+  "aside.caution": "ಎಚ್ಚರಿಕೆ",
+  "aside.danger": "ಅಪಾಯ",
+  "aside.note": "ಟಿಪ್ಪಣಿ",
+  "aside.tip": "ಸಲಹೆ",
+  "builtWithStarlight.label": "Starlight ನೊಂದಿಗೆ ನಿರ್ಮಿಸಲಾಗಿದೆ",
+  "fileTree.directory": "ಡೈರೆಕ್ಟರಿ",
+  "i18n.untranslatedContent": "ಈ ವಿಷಯವು ಇನ್ನೂ ನಿಮ್ಮ ಭಾಷೆಯಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ.",
+  "languageSelect.accessibleLabel": "ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ",
+  "menuButton.accessibleLabel": "ಮೆನು",
+  "messages": {
+    "automaticMessage": "ಈ ಅಧ್ಯಾಯವನ್ನು ಸ್ಪ್ಯಾನಿಷ್ ಮೂಲದಿಂದ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನುವಾದಿಸಲಾಗಿದೆ. ಇದು ಇನ್ನೂ ಮಾನವ ಪರಿಶೀಲನೆಗೆ ಒಳಗಾಗಿಲ್ಲ. ನೀವು ಪರಿಶೀಲನೆಯಲ್ಲಿ ಸಹಾಯ ಮಾಡಲು ಬಯಸಿದರೆ, ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ.",
+    "originalMessage": "ಈ ಅಧ್ಯಾಯದ ವಿಷಯವು ಮೂಲ ಸ್ಪ್ಯಾನಿಷ್ ಪಠ್ಯದ ಮೇಲೆ ಆಧಾರಿತವಾಗಿದೆ.",
+    "revisedMessage": "ಈ ಅಧ್ಯಾಯವು ಮಾನವ ಪರಿಶೀಲನೆ ಮತ್ತು ಮೂಲ ಸ್ಪ್ಯಾನಿಷ್ ಪಠ್ಯದಿಂದ ಅನುವಾದವನ್ನು ಹೊಂದಿದೆ. ಇದಕ್ಕೆ ಇನ್ನೂ ತಿದ್ದುಪಡಿಗಳು ಅಗತ್ಯವಿದ್ದರೆ, ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ."
+  },
+  "page.draft": "ಈ ವಿಷಯವು ಕರಡು ಆಗಿದೆ ಮತ್ತು ಉತ್ಪಾದನಾ ಬಿಲ್ಡ್‌ಗಳಲ್ಲಿ ಸೇರಿಸಲಾಗುವುದಿಲ್ಲ.",
+  "page.editLink": "ಪುಟವನ್ನು ಸಂಪಾದಿಸಿ",
+  "page.lastUpdated": "ಕೊನೆಯ ನವೀಕರಣ:",
+  "page.nextLink": "ಮುಂದಿನ",
+  "page.previousLink": "ಹಿಂದಿನ",
+  "search.cancelLabel": "ರದ್ದುಮಾಡಿ",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "ಹುಡುಕಾಟವು ಉತ್ಪಾದನಾ ಬಿಲ್ಡ್‌ಗಳಲ್ಲಿ ಮಾತ್ರ ಲಭ್ಯವಿದೆ. \nಸ್ಥಳೀಯವಾಗಿ ಪರೀಕ್ಷಿಸಲು ಸೈಟ್ ನಿರ್ಮಿಸಿ ಮತ್ತು ಪೂರ್ವವೀಕ್ಷಣೆ ಮಾಡಿ.",
+  "search.label": "ಹುಡುಕಿ",
+  "sidebarNav.accessibleLabel": "ಮುಖ್ಯ",
+  "skipLink.label": "ವಿಷಯಕ್ಕೆ ಹೋಗಿ",
+  "status": {
+    "automatic": "ಸ್ವಯಂಚಾಲಿತ ಅನುವಾದ",
+    "original": "ಮೂಲ",
+    "revised": "ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ"
+  },
+  "tableOfContents.onThisPage": "ಈ ಅಧ್ಯಾಯದಲ್ಲಿ",
+  "tableOfContents.overview": "ಪ್ರಾರಂಭ",
+  "themeSelect.accessibleLabel": "ಥೀಮ್ ಆಯ್ಕೆಮಾಡಿ",
+  "themeSelect.auto": "ಸ್ವಯಂಚಾಲಿತ",
+  "themeSelect.dark": "ಗಾಢ",
+  "themeSelect.light": "ಹಗುರ"
+}

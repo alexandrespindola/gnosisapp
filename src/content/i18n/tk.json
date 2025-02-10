@@ -1,0 +1,39 @@
+{
+  "404.text": "Sahypa tapylmady. URL-i barlaň ýa-da gözleg setirini ulanyp görüň.",
+  "aside.caution": "Seresap",
+  "aside.danger": "Howp",
+  "aside.note": "Bellik",
+  "aside.tip": "Maslahat",
+  "builtWithStarlight.label": "Starlight bilen guruldy",
+  "fileTree.directory": "Katalog",
+  "i18n.untranslatedContent": "Bu mazmun heniz siziň diliňizde elýeterli däl.",
+  "languageSelect.accessibleLabel": "Dil saýlaň",
+  "menuButton.accessibleLabel": "Menýu",
+  "messages": {
+    "automaticMessage": "Bu bap ispan dilinden awtomatiki terjime edildi. Heniz adam tarapyndan gözden geçirilmedi. Gözden geçirmäge kömek etmek isleseňiz, şu ýere basyp, biziň bilen habarlaşyň.",
+    "originalMessage": "Bu bapyň mazmuny asyl ispan tekstine esaslanýar.",
+    "revisedMessage": "Bu bap adam tarapyndan gözden geçirildi we asyl ispan tekstinden terjime edildi. Düzedişler gerek bolsa, şu ýere basyp, biziň bilen habarlaşyň."
+  },
+  "page.draft": "Bu mazmun taslama we önümçilik gurluşlaryna girizilmez.",
+  "page.editLink": "Sahypany üýtget",
+  "page.lastUpdated": "Soňky täzelenen:",
+  "page.nextLink": "Indiki",
+  "page.previousLink": "Öňki",
+  "search.cancelLabel": "Ýatyr",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Gözleg diňe önümçilik gurluşlarynda elýeterli. \nÝerli synag üçin sahypany gurup we öňünden görüp görüň.",
+  "search.label": "Gözle",
+  "sidebarNav.accessibleLabel": "Esasy",
+  "skipLink.label": "Mazmuny geç",
+  "status": {
+    "automatic": "Awtomatik Terjime",
+    "original": "Asyl",
+    "revised": "Gözden Geçirilen"
+  },
+  "tableOfContents.onThisPage": "Bu bapda",
+  "tableOfContents.overview": "Başlangyç",
+  "themeSelect.accessibleLabel": "Tema saýlaň",
+  "themeSelect.auto": "Awtomatik",
+  "themeSelect.dark": "Garaňky",
+  "themeSelect.light": "Ýagty"
+}

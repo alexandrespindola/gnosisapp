@@ -1,0 +1,39 @@
+{
+  "404.text": "Bogga lama helin. Hubi URL-ka ama isku day isticmaalka bar-raadinta.",
+  "aside.caution": "Digniin",
+  "aside.danger": "Khatar",
+  "aside.note": "Xusuus",
+  "aside.tip": "Talo",
+  "builtWithStarlight.label": "Waxaa lagu sameeyay Starlight",
+  "fileTree.directory": "Hagaha",
+  "i18n.untranslatedContent": "Qoraalkan kuma heli kartid luqadaada weli.",
+  "languageSelect.accessibleLabel": "Dooro luqadda",
+  "menuButton.accessibleLabel": "Menu",
+  "messages": {
+    "automaticMessage": "Cutubkan waxaa si toos ah looga turjumay Isbaanishka asalka ah. Weli ma marin dib u eegis aadanaha. Haddii aad rabto inaad ka caawiso dib u eegista, nala soo xiriir adoo halkan ku gudbinaya.",
+    "originalMessage": "Waxyaabaha cutubkan ku qoran waxay ku salaysan yihiin qoraalka asalka ah ee Isbaanishka.",
+    "revisedMessage": "Cutubkan wuxuu maray dib u eegis aadane iyo turjumaad laga sameeyay qoraalka asalka ah ee Isbaanishka. Haddii weli u baahan yahay sixid, nala soo xiriir adoo halkan ku gudbinaya."
+  },
+  "page.draft": "Qoraalkan waa qabyo qoraal mana lagu dari doono dhismaha soo saarka.",
+  "page.editLink": "Wax ka beddel bogga",
+  "page.lastUpdated": "Markii ugu dambeysay ee la cusbooneysiiyay:",
+  "page.nextLink": "Kan xiga",
+  "page.previousLink": "Kan hore",
+  "search.cancelLabel": "Jooji",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Raadinta kaliya waxaa laga heli karaa dhismaha soo saarka. \nIsku day inaad dhisto oo aad si horudhac ah u aragto websaydka si aad u tijaabiso halkan.",
+  "search.label": "Raadi",
+  "sidebarNav.accessibleLabel": "Ugu muhiimsan",
+  "skipLink.label": "U bood qoraalka",
+  "status": {
+    "automatic": "Turjumaad Toos ah",
+    "original": "Asal",
+    "revised": "Dib loo eegay"
+  },
+  "tableOfContents.onThisPage": "Cutubkan dhexdiisa",
+  "tableOfContents.overview": "Bilowga",
+  "themeSelect.accessibleLabel": "Dooro muuqaalka",
+  "themeSelect.auto": "Toos",
+  "themeSelect.dark": "Madow",
+  "themeSelect.light": "Caddaan"
+}

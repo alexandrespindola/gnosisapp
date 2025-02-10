@@ -1,0 +1,39 @@
+{
+  "404.text": "Asebter ur yettwafen ara. Senqed URL neɣ ɛreḍ aseqdec n ufeggag n unadi.",
+  "aside.caution": "Ḥader",
+  "aside.danger": "Ugur",
+  "aside.note": "Tazmilt",
+  "aside.tip": "Tixleft",
+  "builtWithStarlight.label": "Yettwabna s Starlight",
+  "fileTree.directory": "Akaram",
+  "i18n.untranslatedContent": "Agbur-agi ur yella ara s tutlayt-ik/im.",
+  "languageSelect.accessibleLabel": "Fren tutlayt",
+  "menuButton.accessibleLabel": "Umuɣ",
+  "messages": {
+    "automaticMessage": "Ixef-agi yettusuqel s wudem awurman seg tespanyulit. Ur yettwasenqed ara sɣur umdan. Ma tebɣiḍ ad talleleḍ deg usenqed, nermes-aɣ-d s usiti dagi.",
+    "originalMessage": "Agbur n yixef-agi yebna ɣef uḍris amezwaru n tespanyulit.",
+    "revisedMessage": "Ixef-agi yettwaseqed sɣur umdan yerna yettusuqel seg uḍris amezwaru n tespanyulit. Ma yella mazal yeḥwaǧ aseɣti, nermes-aɣ-d s usiti dagi."
+  },
+  "page.draft": "Agbur-agi d arewway yerna ur yettili ara deg lebni n useɣẓan.",
+  "page.editLink": "Ẓreg asebter",
+  "page.lastUpdated": "Aleqqem aneggaru:",
+  "page.nextLink": "Ɣer sdat",
+  "page.previousLink": "Ɣer deffir",
+  "search.cancelLabel": "Sefsex",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Anadi yella kan deg lebni n useɣẓan. \nƐreḍ ad tebnuḍ neɣ ad twaliḍ asmel i wakken ad t-tɛerḍeḍ deg umḍiq-ik.",
+  "search.label": "Nadi",
+  "sidebarNav.accessibleLabel": "Agejdan",
+  "skipLink.label": "Ddu ɣer ugbur",
+  "status": {
+    "automatic": "Tasuqilt Tawurmant",
+    "original": "Amezwaru",
+    "revised": "Yettwasenqed"
+  },
+  "tableOfContents.onThisPage": "Deg yixef-agi",
+  "tableOfContents.overview": "Tazwart",
+  "themeSelect.accessibleLabel": "Fren asentel",
+  "themeSelect.auto": "Awurman",
+  "themeSelect.dark": "Aberkan",
+  "themeSelect.light": "Aceɛlal"
+}

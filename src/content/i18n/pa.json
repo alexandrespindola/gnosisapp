@@ -1,0 +1,39 @@
+{
+  "404.text": "ਪੰਨਾ ਨਹੀਂ ਮਿਲਿਆ। URL ਚੈੱਕ ਕਰੋ ਜਾਂ ਖੋਜ ਬਾਰ ਦੀ ਵਰਤੋਂ ਕਰੋ।",
+  "aside.caution": "ਸਾਵਧਾਨ",
+  "aside.danger": "ਖ਼ਤਰਾ",
+  "aside.note": "ਨੋਟ",
+  "aside.tip": "ਸੁਝਾਅ",
+  "builtWithStarlight.label": "Starlight ਨਾਲ ਬਣਾਇਆ",
+  "fileTree.directory": "ਡਾਇਰੈਕਟਰੀ",
+  "i18n.untranslatedContent": "ਇਹ ਸਮੱਗਰੀ ਅਜੇ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਵਿੱਚ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।",
+  "languageSelect.accessibleLabel": "ਭਾਸ਼ਾ ਚੁਣੋ",
+  "menuButton.accessibleLabel": "ਮੀਨੂ",
+  "messages": {
+    "automaticMessage": "ਇਹ ਅਧਿਆਇ ਸਪੈਨਿਸ਼ ਮੂਲ ਤੋਂ ਆਟੋਮੈਟਿਕ ਅਨੁਵਾਦ ਕੀਤਾ ਗਿਆ ਹੈ। ਇਸ ਦੀ ਅਜੇ ਮਨੁੱਖੀ ਸਮੀਖਿਆ ਨਹੀਂ ਹੋਈ ਹੈ। ਜੇ ਤੁਸੀਂ ਸਮੀਖਿਆ ਵਿੱਚ ਮਦਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਇੱਥੇ ਕਲਿੱਕ ਕਰਕੇ ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।",
+    "originalMessage": "ਇਸ ਅਧਿਆਇ ਦੀ ਸਮੱਗਰੀ ਮੂਲ ਸਪੈਨਿਸ਼ ਟੈਕਸਟ 'ਤੇ ਆਧਾਰਿਤ ਹੈ।",
+    "revisedMessage": "ਇਸ ਅਧਿਆਇ ਦੀ ਮਨੁੱਖੀ ਸਮੀਖਿਆ ਅਤੇ ਮੂਲ ਸਪੈਨਿਸ਼ ਟੈਕਸਟ ਤੋਂ ਅਨੁਵਾਦ ਕੀਤਾ ਗਿਆ ਹੈ। ਜੇ ਇਸ ਨੂੰ ਅਜੇ ਵੀ ਸੁਧਾਰਾਂ ਦੀ ਲੋੜ ਹੈ, ਇੱਥੇ ਕਲਿੱਕ ਕਰਕੇ ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।"
+  },
+  "page.draft": "ਇਹ ਸਮੱਗਰੀ ਡਰਾਫਟ ਹੈ ਅਤੇ ਪ੍ਰੋਡਕਸ਼ਨ ਬਿਲਡਾਂ ਵਿੱਚ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤੀ ਜਾਵੇਗੀ।",
+  "page.editLink": "ਪੰਨਾ ਸੰਪਾਦਿਤ ਕਰੋ",
+  "page.lastUpdated": "ਆਖਰੀ ਅੱਪਡੇਟ:",
+  "page.nextLink": "ਅਗਲਾ",
+  "page.previousLink": "ਪਿਛਲਾ",
+  "search.cancelLabel": "ਰੱਦ ਕਰੋ",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "ਖੋਜ ਸਿਰਫ਼ ਪ੍ਰੋਡਕਸ਼ਨ ਬਿਲਡਾਂ ਵਿੱਚ ਉਪਲਬਧ ਹੈ। \nਸਥਾਨਕ ਤੌਰ 'ਤੇ ਟੈਸਟ ਕਰਨ ਲਈ ਸਾਈਟ ਬਣਾਉਣ ਅਤੇ ਪੂਰਵਦਰਸ਼ਨ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+  "search.label": "ਖੋਜ",
+  "sidebarNav.accessibleLabel": "ਮੁੱਖ",
+  "skipLink.label": "ਸਮੱਗਰੀ 'ਤੇ ਜਾਓ",
+  "status": {
+    "automatic": "ਆਟੋਮੈਟਿਕ ਅਨੁਵਾਦ",
+    "original": "ਮੂਲ",
+    "revised": "ਸੋਧਿਆ ਗਿਆ"
+  },
+  "tableOfContents.onThisPage": "ਇਸ ਅਧਿਆਇ ਵਿੱਚ",
+  "tableOfContents.overview": "ਸ਼ੁਰੂਆਤ",
+  "themeSelect.accessibleLabel": "ਥੀਮ ਚੁਣੋ",
+  "themeSelect.auto": "ਆਟੋ",
+  "themeSelect.dark": "ਗੂੜ੍ਹਾ",
+  "themeSelect.light": "ਹਲਕਾ"
+}

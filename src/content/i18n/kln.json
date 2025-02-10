@@ -1,0 +1,39 @@
+{
+  "404.text": "Mami rubet. Rip URL anan igas bar ne mining.",
+  "aside.caution": "Rib",
+  "aside.danger": "Yachen",
+  "aside.note": "Mwaget",
+  "aside.tip": "Katik",
+  "builtWithStarlight.label": "Kitokchin ak Starlight",
+  "fileTree.directory": "Oret",
+  "i18n.untranslatedContent": "Mami ngalek chebo kutit ngalekwok.",
+  "languageSelect.accessibleLabel": "Wal kutit ngalek",
+  "menuButton.accessibleLabel": "Menu",
+  "messages": {
+    "automaticMessage": "Kiwekit ini kokitiach automatically nebo Spanish original. Manyo kiyai review nebo chito. Angot ichome konech review, tindoi yu.",
+    "originalMessage": "Ngalek chebo wekit ini konam original Spanish text.",
+    "revisedMessage": "Kiwekit ini kokiyai review nebo chito ak kitiach nebo original Spanish text. Angot moche kororet, tindoi yu."
+  },
+  "page.draft": "Ngalek che draft ak mami kopche production builds.",
+  "page.editLink": "Wal rubet",
+  "page.lastUpdated": "Letut update:",
+  "page.nextLink": "Nebo taay",
+  "page.previousLink": "Nebo eut",
+  "search.cancelLabel": "Cancel",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Ming konam production builds. \nTem igas site locally.",
+  "search.label": "Ming",
+  "sidebarNav.accessibleLabel": "Oret",
+  "skipLink.label": "Lany content",
+  "status": {
+    "automatic": "Automatic Tiach",
+    "original": "Original",
+    "revised": "Kiyai Review"
+  },
+  "tableOfContents.onThisPage": "Wekit ini",
+  "tableOfContents.overview": "Taret",
+  "themeSelect.accessibleLabel": "Wal theme",
+  "themeSelect.auto": "Auto",
+  "themeSelect.dark": "Aparit",
+  "themeSelect.light": "Leberer"
+}

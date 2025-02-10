@@ -1,0 +1,39 @@
+{
+  "404.text": "Էջը չի գտնվել։ Ստուգեք URL-ը կամ փորձեք օգտագործել որոնման դաշտը։",
+  "aside.caution": "Զգուշացում",
+  "aside.danger": "Վտանգ",
+  "aside.note": "Նշում",
+  "aside.tip": "Խորհուրդ",
+  "builtWithStarlight.label": "Կառուցված է Starlight-ով",
+  "fileTree.directory": "Թղթապանակ",
+  "i18n.untranslatedContent": "Այս բովանդակությունը դեռ հասանելի չէ ձեր լեզվով։",
+  "languageSelect.accessibleLabel": "Ընտրել լեզուն",
+  "menuButton.accessibleLabel": "Մենյու",
+  "messages": {
+    "automaticMessage": "Այս գլուխն ավտոմատ կերպով թարգմանվել է իսպաներեն բնօրինակից։ Այն դեռ չի անցել մարդու վերանայում։ Եթե ցանկանում եք օգնել վերանայման հարցում, կապվեք մեզ հետ՝ սեղմելով այստեղ։",
+    "originalMessage": "Այս գլխի բովանդակությունը հիմնված է իսպաներեն բնօրինակ տեքստի վրա։",
+    "revisedMessage": "Այս գլուխն անցել է մարդու վերանայում և թարգմանություն իսպաներեն բնօրինակից։ Եթե այն դեռ ուղղումների կարիք ունի, կապվեք մեզ հետ՝ սեղմելով այստեղ։"
+  },
+  "page.draft": "Այս բովանդակությունը սևագիր է և չի ներառվի արտադրական տարբերակներում։",
+  "page.editLink": "Խմբագրել էջը",
+  "page.lastUpdated": "Վերջին թարմացումը՝",
+  "page.nextLink": "Հաջորդը",
+  "page.previousLink": "Նախորդը",
+  "search.cancelLabel": "Չեղարկել",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Որոնումը հասանելի է միայն արտադրական տարբերակներում։ \nՓորձեք կառուցել և նախադիտել կայքը՝ տեղային թեստավորման համար։",
+  "search.label": "Որոնել",
+  "sidebarNav.accessibleLabel": "Գլխավոր",
+  "skipLink.label": "Անցնել բովանդակությանը",
+  "status": {
+    "automatic": "Ավտոմատ Թարգմանություն",
+    "original": "Բնօրինակ",
+    "revised": "Վերանայված"
+  },
+  "tableOfContents.onThisPage": "Այս գլխում",
+  "tableOfContents.overview": "Սկիզբ",
+  "themeSelect.accessibleLabel": "Ընտրել թեման",
+  "themeSelect.auto": "Ավտոմատ",
+  "themeSelect.dark": "Մուգ",
+  "themeSelect.light": "Բաց"
+}
