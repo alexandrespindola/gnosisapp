@@ -26,6 +26,9 @@ export default defineConfig({
       // i18n
       defaultLocale: "root",
       locales: {
+        af: {
+          label: "🇿🇦 Afrikaans",
+        },
         ar: {
           dir: "rtl",
           label: "🇸🇦 العربية",
@@ -133,6 +136,7 @@ export default defineConfig({
           label: "Libros",
           slug: "",
           translations: {
+            af: "Boeke",
             ar: "كتب",
             ca: "Llibres",
             cs: "Knihy",
@@ -166,6 +170,7 @@ export default defineConfig({
           label: "Educación Fundamental",
           collapsed: true,
           translations: {
+            af: "Fundamentele Onderwys",
             ar: "التعليم الأساسي",
             ca: "Educació Bàsica",
             cs: "Základní Vzdělávání",
@@ -200,6 +205,7 @@ export default defineConfig({
           label: "Tratado de Psicología Revolucionaria",
           collapsed: true,
           translations: {
+            af: "Verhandeling oor Revolusionêre Sielkunde",
             ar: "معاهدة علم النفس الثوري",
             ca: "Tractat de Psicologia Revolucionària",
             cs: "Pojednání o Revoluční Psychologii",
