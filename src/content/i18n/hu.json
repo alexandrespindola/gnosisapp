@@ -1,0 +1,39 @@
+{
+  "404.text": "Az oldal nem található. Ellenőrizze az URL-t vagy próbálja használni a keresősávot.",
+  "aside.caution": "Figyelem",
+  "aside.danger": "Veszély",
+  "aside.note": "Megjegyzés",
+  "aside.tip": "Tipp",
+  "builtWithStarlight.label": "Starlight-tal készült",
+  "fileTree.directory": "Könyvtár",
+  "i18n.untranslatedContent": "Ez a tartalom még nem érhető el az Ön nyelvén.",
+  "languageSelect.accessibleLabel": "Nyelv kiválasztása",
+  "menuButton.accessibleLabel": "Menü",
+  "messages": {
+    "automaticMessage": "Ez a fejezet automatikusan lett lefordítva a spanyol eredetiből. Még nem esett át emberi ellenőrzésen. Ha szeretne segíteni az átnézésben, lépjen velünk kapcsolatba ide kattintva.",
+    "originalMessage": "A fejezet tartalma az eredeti spanyol szövegen alapul.",
+    "revisedMessage": "Ez a fejezet átesett emberi ellenőrzésen és fordításon az eredeti spanyol szövegből. Ha még javításra szorul, lépjen velünk kapcsolatba ide kattintva."
+  },
+  "page.draft": "Ez a tartalom vázlat, és nem kerül bele a végleges változatba.",
+  "page.editLink": "Oldal szerkesztése",
+  "page.lastUpdated": "Utolsó frissítés:",
+  "page.nextLink": "Következő",
+  "page.previousLink": "Előző",
+  "search.cancelLabel": "Mégse",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "A keresés csak a végleges változatban érhető el. \nPróbálja meg felépíteni és előnézetben megtekinteni az oldalt a helyi teszteléshez.",
+  "search.label": "Keresés",
+  "sidebarNav.accessibleLabel": "Fő",
+  "skipLink.label": "Ugrás a tartalomra",
+  "status": {
+    "automatic": "Automatikus Fordítás",
+    "original": "Eredeti",
+    "revised": "Ellenőrzött"
+  },
+  "tableOfContents.onThisPage": "Ebben a fejezetben",
+  "tableOfContents.overview": "Kezdés",
+  "themeSelect.accessibleLabel": "Téma kiválasztása",
+  "themeSelect.auto": "Automatikus",
+  "themeSelect.dark": "Sötét",
+  "themeSelect.light": "Világos"
+}
