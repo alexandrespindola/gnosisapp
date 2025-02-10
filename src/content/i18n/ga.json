@@ -1,0 +1,39 @@
+{
+  "404.text": "Níor aimsíodh an leathanach. Seiceáil an URL nó bain triail as an mbarra cuardaigh.",
+  "aside.caution": "Aire",
+  "aside.danger": "Contúirt",
+  "aside.note": "Nóta",
+  "aside.tip": "Leid",
+  "builtWithStarlight.label": "Tógtha le Starlight",
+  "fileTree.directory": "Eolaire",
+  "i18n.untranslatedContent": "Níl an t-ábhar seo ar fáil i do theanga fós.",
+  "languageSelect.accessibleLabel": "Roghnaigh teanga",
+  "menuButton.accessibleLabel": "Roghchlár",
+  "messages": {
+    "automaticMessage": "Aistríodh an chaibidil seo go huathoibríoch ón mbunleagan Spáinnise. Níl athbhreithniú daonna déanta air fós. Más mian leat cabhrú leis an athbhreithniú, déan teagmháil linn tríd anseo a chliceáil.",
+    "originalMessage": "Ábhar na caibidle seo bunaithe ar an mbuntéacs Spáinnise.",
+    "revisedMessage": "Tá athbhreithniú daonna agus aistriúchán déanta ar an gcaibidil seo ón mbuntéacs Spáinnise. Má tá ceartúcháin fós ag teastáil, déan teagmháil linn tríd anseo a chliceáil."
+  },
+  "page.draft": "Is dréacht é an t-ábhar seo agus ní bheidh sé san áireamh i dtógálacha táirgthe.",
+  "page.editLink": "Cuir an leathanach in eagar",
+  "page.lastUpdated": "Nuashonraithe deireanach:",
+  "page.nextLink": "Ar Aghaidh",
+  "page.previousLink": "Siar",
+  "search.cancelLabel": "Cealaigh",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Níl cuardach ar fáil ach i dtógálacha táirgthe. \nBain triail as an suíomh a thógáil agus a réamhamharc chun é a thástáil go háitiúil.",
+  "search.label": "Cuardaigh",
+  "sidebarNav.accessibleLabel": "Príomh",
+  "skipLink.label": "Léim go dtí an t-ábhar",
+  "status": {
+    "automatic": "Aistriúchán Uathoibríoch",
+    "original": "Bunleagan",
+    "revised": "Athbhreithnithe"
+  },
+  "tableOfContents.onThisPage": "Sa chaibidil seo",
+  "tableOfContents.overview": "Tús",
+  "themeSelect.accessibleLabel": "Roghnaigh téama",
+  "themeSelect.auto": "Uathoibríoch",
+  "themeSelect.dark": "Dorcha",
+  "themeSelect.light": "Geal"
+}

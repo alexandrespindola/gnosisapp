@@ -1,0 +1,39 @@
+{
+  "404.text": "Sivua ei löydy. Tarkista URL tai kokeile hakupalkkia.",
+  "aside.caution": "Varoitus",
+  "aside.danger": "Vaara",
+  "aside.note": "Huomautus",
+  "aside.tip": "Vinkki",
+  "builtWithStarlight.label": "Rakennettu Starlightilla",
+  "fileTree.directory": "Hakemisto",
+  "i18n.untranslatedContent": "Tätä sisältöä ei ole vielä saatavilla sinun kielelläsi.",
+  "languageSelect.accessibleLabel": "Valitse kieli",
+  "menuButton.accessibleLabel": "Valikko",
+  "messages": {
+    "automaticMessage": "Tämä luku on käännetty automaattisesti espanjankielisestä alkuperäistekstistä. Sitä ei ole vielä tarkistettu ihmisen toimesta. Jos haluat auttaa tarkistamisessa, ota yhteyttä klikkaamalla tästä.",
+    "originalMessage": "Tämän luvun sisältö perustuu alkuperäiseen espanjankieliseen tekstiin.",
+    "revisedMessage": "Tämä luku on käynyt läpi ihmisen tekemän tarkistuksen ja käännöksen alkuperäisestä espanjankielisestä tekstistä. Jos se tarvitsee vielä korjauksia, ota yhteyttä klikkaamalla tästä."
+  },
+  "page.draft": "Tämä sisältö on luonnos eikä sitä sisällytetä tuotantoversioihin.",
+  "page.editLink": "Muokkaa sivua",
+  "page.lastUpdated": "Viimeksi päivitetty:",
+  "page.nextLink": "Seuraava",
+  "page.previousLink": "Edellinen",
+  "search.cancelLabel": "Peruuta",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Haku on käytettävissä vain tuotantoversioissa. \nKokeile rakentaa ja esikatsella sivustoa testataksesi sitä paikallisesti.",
+  "search.label": "Haku",
+  "sidebarNav.accessibleLabel": "Pää",
+  "skipLink.label": "Siirry sisältöön",
+  "status": {
+    "automatic": "Automaattinen Käännös",
+    "original": "Alkuperäinen",
+    "revised": "Tarkistettu"
+  },
+  "tableOfContents.onThisPage": "Tässä luvussa",
+  "tableOfContents.overview": "Alku",
+  "themeSelect.accessibleLabel": "Valitse teema",
+  "themeSelect.auto": "Automaattinen",
+  "themeSelect.dark": "Tumma",
+  "themeSelect.light": "Vaalea"
+}

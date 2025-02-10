@@ -126,7 +126,7 @@ export const LOCALES_FLAGS = {
   ca: "Català",
   cgg: "🇺🇬 Chiga",
   cs: "🇨🇿 Čeština",
-  cy: "🇬🇧 Welsh",
+  cy: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh",
   da: "🇩🇰 Dansk",
   de: "🇩🇪 Deutsch",
   dje: "🇳🇪 Zarma",

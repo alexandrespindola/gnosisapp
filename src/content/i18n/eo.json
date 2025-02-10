@@ -1,0 +1,39 @@
+{
+  "404.text": "Paĝo ne trovita. Kontrolu la URL-on aŭ provu uzi la serĉilon.",
+  "aside.caution": "Zorgu",
+  "aside.danger": "Danĝero",
+  "aside.note": "Noto",
+  "aside.tip": "Konsilo",
+  "builtWithStarlight.label": "Konstruita per Starlight",
+  "fileTree.directory": "Dosierujo",
+  "i18n.untranslatedContent": "Ĉi tiu enhavo ankoraŭ ne disponeblas en via lingvo.",
+  "languageSelect.accessibleLabel": "Elekti lingvon",
+  "menuButton.accessibleLabel": "Menuo",
+  "messages": {
+    "automaticMessage": "Ĉi tiu ĉapitro estis aŭtomate tradukita el la hispana originalo. Ĝi ankoraŭ ne trapasis homan kontrolon. Se vi ŝatus helpi pri la kontrolo, kontaktu nin alklakante ĉi tie.",
+    "originalMessage": "Enhavo de ĉi tiu ĉapitro bazita sur la originala hispana teksto.",
+    "revisedMessage": "Ĉi tiu ĉapitro trapasis homan kontrolon kaj tradukon el la originala hispana teksto. Se ĝi ankoraŭ bezonas korektojn, kontaktu nin alklakante ĉi tie."
+  },
+  "page.draft": "Ĉi tiu enhavo estas malneto kaj ne estos inkluzivita en produktaj konstruoj.",
+  "page.editLink": "Redakti paĝon",
+  "page.lastUpdated": "Laste ĝisdatigita:",
+  "page.nextLink": "Sekva",
+  "page.previousLink": "Antaŭa",
+  "search.cancelLabel": "Nuligi",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Serĉado nur disponeblas en produktaj konstruoj. \nProvu konstrui kaj antaŭrigardi la retejon por testi ĝin loke.",
+  "search.label": "Serĉi",
+  "sidebarNav.accessibleLabel": "Ĉefa",
+  "skipLink.label": "Iri al enhavo",
+  "status": {
+    "automatic": "Aŭtomata Traduko",
+    "original": "Originala",
+    "revised": "Reviziita"
+  },
+  "tableOfContents.onThisPage": "En ĉi tiu ĉapitro",
+  "tableOfContents.overview": "Komenco",
+  "themeSelect.accessibleLabel": "Elekti etoson",
+  "themeSelect.auto": "Aŭtomata",
+  "themeSelect.dark": "Malhela",
+  "themeSelect.light": "Hela"
+}

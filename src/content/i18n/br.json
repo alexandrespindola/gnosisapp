@@ -1,0 +1,39 @@
+{
+  "404.text": "Pajenn nann-kavet. Gwiriit an URL pe klaskit gant ar varrenn klask.",
+  "aside.caution": "Diwallit",
+  "aside.danger": "Dañjer",
+  "aside.note": "Notenn",
+  "aside.tip": "Tun",
+  "builtWithStarlight.label": "Savet gant Starlight",
+  "fileTree.directory": "Renkell",
+  "i18n.untranslatedContent": "An danvez-mañ n'eo ket hegerz en ho yezh c'hoazh.",
+  "languageSelect.accessibleLabel": "Dibabit ar yezh",
+  "menuButton.accessibleLabel": "Lañser",
+  "messages": {
+    "automaticMessage": "Ar chabistr-mañ zo bet troet ent-emgefreek diwar ar spagnoleg orin. N'eo ket bet adlennet gant tud c'hoazh. Mar fell deoc'h sikour gant an adlenn, kit e darempred ganeomp en ur glikañ amañ.",
+    "originalMessage": "Danvez ar chabistr-mañ diazezet war an destenn spagnolek orin.",
+    "revisedMessage": "Ar chabistr-mañ zo bet adlennet ha troet gant tud diwar an destenn spagnolek orin. Mar bez ezhomm reizhañ c'hoazh, kit e darempred ganeomp en ur glikañ amañ."
+  },
+  "page.draft": "Un drafañ eo an danvez-mañ ha ne vo ket enkorfet er produadurioù.",
+  "page.editLink": "Aozañ ar bajenn",
+  "page.lastUpdated": "Hizivaet da ziwezhañ:",
+  "page.nextLink": "War-lerc'h",
+  "page.previousLink": "Kent",
+  "search.cancelLabel": "Nullañ",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "N'eo hegerz ar c'hlask nemet er produadurioù. \nKlaskit sevel ha rakwelet al lec'hienn evit prouiñ anezhañ en ho lec'h.",
+  "search.label": "Klask",
+  "sidebarNav.accessibleLabel": "Pennañ",
+  "skipLink.label": "Mont d'an danvez",
+  "status": {
+    "automatic": "Troidigezh Emgefreek",
+    "original": "Orin",
+    "revised": "Adlennet"
+  },
+  "tableOfContents.onThisPage": "Er chabistr-mañ",
+  "tableOfContents.overview": "Deroù",
+  "themeSelect.accessibleLabel": "Dibabit an tem",
+  "themeSelect.auto": "Emgefreek",
+  "themeSelect.dark": "Teñval",
+  "themeSelect.light": "Sklaer"
+}

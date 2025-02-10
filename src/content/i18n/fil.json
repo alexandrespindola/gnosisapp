@@ -1,0 +1,39 @@
+{
+  "404.text": "Hindi nahanap ang pahina. Suriin ang URL o subukang gamitin ang search bar.",
+  "aside.caution": "Pag-iingat",
+  "aside.danger": "Panganib",
+  "aside.note": "Tala",
+  "aside.tip": "Payo",
+  "builtWithStarlight.label": "Ginawa gamit ang Starlight",
+  "fileTree.directory": "Direktoryo",
+  "i18n.untranslatedContent": "Ang nilalaman na ito ay hindi pa available sa iyong wika.",
+  "languageSelect.accessibleLabel": "Pumili ng wika",
+  "menuButton.accessibleLabel": "Menu",
+  "messages": {
+    "automaticMessage": "Ang kabanatang ito ay awtomatikong isinalin mula sa orihinal na Spanish. Hindi pa ito dumadaan sa pagsusuri ng tao. Kung gusto mong tumulong sa pagsusuri, makipag-ugnayan sa amin sa pamamagitan ng pag-click dito.",
+    "originalMessage": "Ang nilalaman ng kabanatang ito ay batay sa orihinal na tekstong Spanish.",
+    "revisedMessage": "Ang kabanatang ito ay dumaan na sa pagsusuri ng tao at pagsasalin mula sa orihinal na tekstong Spanish. Kung kailangan pa nito ng mga pagwawasto, makipag-ugnayan sa amin sa pamamagitan ng pag-click dito."
+  },
+  "page.draft": "Ang nilalaman na ito ay draft at hindi isasama sa production builds.",
+  "page.editLink": "I-edit ang pahina",
+  "page.lastUpdated": "Huling na-update:",
+  "page.nextLink": "Susunod",
+  "page.previousLink": "Nakaraan",
+  "search.cancelLabel": "Kanselahin",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Ang paghahanap ay available lamang sa production builds. \nSubukang i-build at i-preview ang site para subukan ito locally.",
+  "search.label": "Maghanap",
+  "sidebarNav.accessibleLabel": "Pangunahin",
+  "skipLink.label": "Lumaktaw sa nilalaman",
+  "status": {
+    "automatic": "Awtomatikong Pagsasalin",
+    "original": "Orihinal",
+    "revised": "Binago"
+  },
+  "tableOfContents.onThisPage": "Sa kabanatang ito",
+  "tableOfContents.overview": "Simula",
+  "themeSelect.accessibleLabel": "Pumili ng tema",
+  "themeSelect.auto": "Awtomatiko",
+  "themeSelect.dark": "Madilim",
+  "themeSelect.light": "Maliwanag"
+}

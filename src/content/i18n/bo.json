@@ -1,0 +1,39 @@
+{
+  "404.text": "ཤོག་ངོས་མ་རྙེད། URL ཞིབ་བཤེར་བྱེད་པའམ་འཚོལ་བཤེར་སྡེ་བ་བེད་སྤྱོད་བྱེད་རོགས།",
+  "aside.caution": "དོགས་ཟོན",
+  "aside.danger": "ཉེན་ཁ",
+  "aside.note": "མཆན",
+  "aside.tip": "བསླབ་བྱ",
+  "builtWithStarlight.label": "Starlight ཡིས་བཟོས་པ",
+  "fileTree.directory": "དཀར་ཆག",
+  "i18n.untranslatedContent": "ནང་དོན་འདི་ད་དུང་ཁྱེད་ཀྱི་སྐད་ཡིག་ནང་མི་འདུག",
+  "languageSelect.accessibleLabel": "སྐད་ཡིག་འདེམས",
+  "menuButton.accessibleLabel": "འདེམས་ཐོ",
+  "messages": {
+    "automaticMessage": "ལེའུ་འདི་ནི་སི་པན་གྱི་ཡིག་ཆ་ནས་རང་འགུལ་ཡིག་སྒྱུར་བྱས་པ་ཞིག་རེད། ད་དུང་མི་སྒེར་གྱིས་བསྐྱར་ཞིབ་བྱས་མེད། གལ་སྲིད་བསྐྱར་ཞིབ་ལ་རོགས་རམ་བྱེད་འདོད་ན། འདིར་གནོན་ནས་ང་ཚོར་འབྲེལ་བ་བྱོས།",
+    "originalMessage": "ལེའུ་འདིའི་ནང་དོན་ནི་སི་པན་གྱི་ཡིག་ཆ་གཞིར་བཞག་པ་ཞིག་རེད།",
+    "revisedMessage": "ལེའུ་འདི་ནི་སི་པན་གྱི་ཡིག་ཆ་ནས་མི་སྒེར་གྱིས་བསྐྱར་ཞིབ་དང་ཡིག་སྒྱུར་བྱས་ཟིན། གལ་སྲིད་ད་དུང་བཅོས་སྒྲིག་དགོས་ན། འདིར་གནོན་ནས་ང་ཚོར་འབྲེལ་བ་བྱོས།"
+  },
+  "page.draft": "ནང་དོན་འདི་ནི་ཟིན་བྲིས་ཤིག་ཡིན་པས་ཐོན་སྐྱེད་ཀྱི་སྒྲིག་སྦྱོར་ནང་འཇུག་རྒྱུ་མིན།",
+  "page.editLink": "ཤོག་ངོས་རྩོམ་སྒྲིག",
+  "page.lastUpdated": "མཐའ་མའི་གསར་སྒྱུར:",
+  "page.nextLink": "རྗེས་མ",
+  "page.previousLink": "སྔོན་མ",
+  "search.cancelLabel": "དོར་བ",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "འཚོལ་བཤེར་ནི་ཐོན་སྐྱེད་སྒྲིག་སྦྱོར་ནང་དུ་མ་གཏོགས་མི་འདུག \nས་གནས་སུ་ཚོད་ལྟ་བྱེད་པར་དྲ་ཚིགས་སྒྲིག་སྦྱོར་དང་སྔོན་ལྟ་བྱེད་རོགས།",
+  "search.label": "འཚོལ་བཤེར",
+  "sidebarNav.accessibleLabel": "གཙོ་བོ",
+  "skipLink.label": "ནང་དོན་དུ་མཆོང་",
+  "status": {
+    "automatic": "རང་འགུལ་ཡིག་སྒྱུར",
+    "original": "གཞི་མ",
+    "revised": "བསྐྱར་ཞིབ་བྱས་པ"
+  },
+  "tableOfContents.onThisPage": "ལེའུ་འདིའི་ནང་དུ",
+  "tableOfContents.overview": "འགོ་འཛུགས",
+  "themeSelect.accessibleLabel": "བརྗོད་གཞི་འདེམས",
+  "themeSelect.auto": "རང་འགུལ",
+  "themeSelect.dark": "མུན་ནག",
+  "themeSelect.light": "འོད་མདངས"
+}

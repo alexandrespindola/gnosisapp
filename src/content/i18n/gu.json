@@ -1,0 +1,39 @@
+{
+  "404.text": "પેજ મળ્યું નથી. URL ચેક કરો અથવા સર્ચ બાર વાપરવાનો પ્રયાસ કરો.",
+  "aside.caution": "સાવધાની",
+  "aside.danger": "જોખમ",
+  "aside.note": "નોંધ",
+  "aside.tip": "ટિપ",
+  "builtWithStarlight.label": "સ્ટારલાઇટ સાથે બનાવેલ",
+  "fileTree.directory": "ડિરેક્ટરી",
+  "i18n.untranslatedContent": "આ સામગ્રી હજુ તમારી ભાષામાં ઉપલબ્ધ નથી.",
+  "languageSelect.accessibleLabel": "ભાષા પસંદ કરો",
+  "menuButton.accessibleLabel": "મેનુ",
+  "messages": {
+    "automaticMessage": "આ પ્રકરણનું સ્પેનિશ મૂળમાંથી આપોઆપ અનુવાદ કરવામાં આવ્યું છે. હજુ સુધી માનવ સમીક્ષામાંથી પસાર થયું નથી. જો તમે સમીક્ષામાં મદદ કરવા માંગતા હો, તો અહીં ક્લિક કરીને અમારો સંપર્ક કરો.",
+    "originalMessage": "આ પ્રકરણની સામગ્રી મૂળ સ્પેનિશ ટેક્સ્ટ પર આધારિત છે.",
+    "revisedMessage": "આ પ્રકરણ મૂળ સ્પેનિશ ટેક્સ્ટમાંથી માનવ સમીક્ષા અને અનુવાદમાંથી પસાર થયું છે. જો હજુ પણ સુધારાની જરૂર હોય, તો અહીં ક્લિક કરીને અમારો સંપર્ક કરો."
+  },
+  "page.draft": "આ સામગ્રી ડ્રાફ્ટ છે અને પ્રોડક્શન બિલ્ડ્સમાં સામેલ કરવામાં આવશે નહીં.",
+  "page.editLink": "પેજ સંપાદિત કરો",
+  "page.lastUpdated": "છેલ્લે અપડેટ કર્યું:",
+  "page.nextLink": "આગળ",
+  "page.previousLink": "પાછળ",
+  "search.cancelLabel": "રદ કરો",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "શોધ માત્ર પ્રોડક્શન બિલ્ડ્સમાં જ ઉપલબ્ધ છે. \nસ્થાનિક રીતે ટેસ્ટ કરવા માટે સાઇટ બનાવવાનો અને પૂર્વાવલોકન કરવાનો પ્રયાસ કરો.",
+  "search.label": "શોધો",
+  "sidebarNav.accessibleLabel": "મુખ્ય",
+  "skipLink.label": "સામગ્રી પર જાઓ",
+  "status": {
+    "automatic": "આપોઆપ અનુવાદ",
+    "original": "મૂળ",
+    "revised": "સુધારેલું"
+  },
+  "tableOfContents.onThisPage": "આ પ્રકરણમાં",
+  "tableOfContents.overview": "શરૂઆત",
+  "themeSelect.accessibleLabel": "થીમ પસંદ કરો",
+  "themeSelect.auto": "આપોઆપ",
+  "themeSelect.dark": "ઘેરું",
+  "themeSelect.light": "પ્રકાશિત"
+}

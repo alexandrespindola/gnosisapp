@@ -1,0 +1,39 @@
+{
+  "404.text": "Tudalen heb ei chanfod. Gwiriwch yr URL neu ceisiwch ddefnyddio'r bar chwilio.",
+  "aside.caution": "Gofal",
+  "aside.danger": "Perygl",
+  "aside.note": "Nodyn",
+  "aside.tip": "Awgrym",
+  "builtWithStarlight.label": "Wedi'i adeiladu gyda Starlight",
+  "fileTree.directory": "Cyfeiriadur",
+  "i18n.untranslatedContent": "Nid yw'r cynnwys hwn ar gael yn eich iaith eto.",
+  "languageSelect.accessibleLabel": "Dewis iaith",
+  "menuButton.accessibleLabel": "Dewislen",
+  "messages": {
+    "automaticMessage": "Mae'r bennod hon wedi'i chyfieithu'n awtomatig o'r Sbaeneg gwreiddiol. Nid yw wedi cael adolygiad dynol eto. Os hoffech chi helpu gyda'r adolygiad, cysylltwch â ni trwy glicio yma.",
+    "originalMessage": "Cynnwys y bennod hon yn seiliedig ar y testun Sbaeneg gwreiddiol.",
+    "revisedMessage": "Mae'r bennod hon wedi cael adolygiad dynol a chyfieithiad o'r testun Sbaeneg gwreiddiol. Os oes angen cywiriadau o hyd, cysylltwch â ni trwy glicio yma."
+  },
+  "page.draft": "Mae'r cynnwys hwn yn ddrafft ac ni fydd yn cael ei gynnwys mewn adeiladau cynhyrchu.",
+  "page.editLink": "Golygu tudalen",
+  "page.lastUpdated": "Diweddarwyd ddiwethaf:",
+  "page.nextLink": "Nesaf",
+  "page.previousLink": "Blaenorol",
+  "search.cancelLabel": "Canslo",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Mae chwilio ond ar gael mewn adeiladau cynhyrchu. \nCeisiwch adeiladu a rhagolwg y safle i'w brofi'n lleol.",
+  "search.label": "Chwilio",
+  "sidebarNav.accessibleLabel": "Prif",
+  "skipLink.label": "Neidio i'r cynnwys",
+  "status": {
+    "automatic": "Cyfieithiad Awtomatig",
+    "original": "Gwreiddiol",
+    "revised": "Adolygwyd"
+  },
+  "tableOfContents.onThisPage": "Yn y bennod hon",
+  "tableOfContents.overview": "Dechrau",
+  "themeSelect.accessibleLabel": "Dewis thema",
+  "themeSelect.auto": "Awtomatig",
+  "themeSelect.dark": "Tywyll",
+  "themeSelect.light": "Golau"
+}

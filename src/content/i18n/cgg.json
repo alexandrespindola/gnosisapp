@@ -1,0 +1,39 @@
+{
+  "404.text": "Rupapura tirukozirwe. Reba URL nari ogyezaho kukozesa obutandikiro bw'okunoonereza.",
+  "aside.caution": "Yegyendereze",
+  "aside.danger": "Kabi",
+  "aside.note": "Okumanya",
+  "aside.tip": "Amagezi",
+  "builtWithStarlight.label": "Kyombekirwe na Starlight",
+  "fileTree.directory": "Ebihandiiko",
+  "i18n.untranslatedContent": "Ebi tibiri omu rurimi rwawe.",
+  "languageSelect.accessibleLabel": "Hitamu orurimi",
+  "menuButton.accessibleLabel": "Menu",
+  "messages": {
+    "automaticMessage": "Eshuura egi etaahirizibwe kuruga omu Spanish. Abantu tibakagirehooga. Ku oraabe nooyenda kutuyamba kureba, tukwatanise hanu.",
+    "originalMessage": "Ebiri omu shuura egi biruga omu Spanish y'omutaano.",
+    "revisedMessage": "Eshuura egi yaaheza kurebwa n'abantu kandi yaahindurwa kuruga omu Spanish. Ku haraabe hakineetenga kuhindurwa, tukwatanise hanu."
+  },
+  "page.draft": "Ebi n'ebitekatekire kandi tibiritaahamu omu production builds.",
+  "page.editLink": "Hindura rupapura",
+  "page.lastUpdated": "Yahindurirwe aha:",
+  "page.nextLink": "Ekurataho",
+  "page.previousLink": "Ebyahingwire",
+  "search.cancelLabel": "Garuka",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Okunoonereza kuri omu production builds zonka. \nGyezaho kwombeka n'okuranzya site kukipima aha.",
+  "search.label": "Noonereza",
+  "sidebarNav.accessibleLabel": "Enkuru",
+  "skipLink.label": "Gumizamu n'ebyahandiikirwe",
+  "status": {
+    "automatic": "Okuhindura Automatic",
+    "original": "Eyomutaano",
+    "revised": "Yaahindurwa"
+  },
+  "tableOfContents.onThisPage": "Omu shuura egi",
+  "tableOfContents.overview": "Entandikiro",
+  "themeSelect.accessibleLabel": "Hitamu enshusha",
+  "themeSelect.auto": "Auto",
+  "themeSelect.dark": "Omwirima",
+  "themeSelect.light": "Omushana"
+}
