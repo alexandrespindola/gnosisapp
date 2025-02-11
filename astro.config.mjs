@@ -27,342 +27,342 @@ export default defineConfig({
       defaultLocale: "root",
       locales: {
         af: {
-          label: "🇿🇦 Afrikaans",
+          label: "🇿🇦 AF - Afrikaans",
         },
         am: {
-          label: "🇪🇹 Amharic",
+          label: "🇪🇹 AM - Amharic",
         },
         ar: {
           dir: "rtl",
-          label: "🇸🇦 العربية",
+          label: "🇸🇦 AR - العربية",
         },
         as: {
-          label: "🇮🇳 Assamese",
+          label: "🇮🇳 AS - Assamese",
         },
         az: {
-          label: "🇦🇿 Azerbaijani",
+          label: "🇦🇿 AZ - Azerbaijani",
         },
         be: {
-          label: "🇧🇾 Belarusian",
+          label: "🇧🇾 BE - Belarusian",
         },
         bg: {
-          label: "🇧🇬 Bulgarian",
+          label: "🇧🇬 BG - Bulgarian",
         },
         bm: {
-          label: "🇲🇱 Bambara",
+          label: "🇲🇱 BM - Bambara",
         },
         bn: {
-          label: "🇧🇩 Bengali",
+          label: "🇧🇩 BN - Bengali",
         },
         bo: {
-          label: "🇨🇳 Tibetan",
+          label: "🇨🇳 BO - Tibetan",
         },
         br: {
-          label: "🇫🇷 Breton",
+          label: "🇫🇷 BR - Breton",
         },
         brx: {
-          label: "🇮🇳 Bodo",
+          label: "🇮🇳 BRX - Bodo",
         },
         bs: {
-          label: "🇧🇦 Bosnian",
+          label: "🇧🇦 BS - Bosnian",
         },
         ca: {
-          label: "Català",
+          label: "🇪🇸 CA - Català",
         },
         cgg: {
-          label: "🇺🇬 Chiga",
+          label: "🇺🇬 CGG - Chiga",
         },
         cs: {
-          label: "🇨🇿 Čeština",
+          label: "🇨🇿 CS - Čeština",
         },
         cy: {
-          label: "🇬🇧 Welsh",
+          label: "🇬🇧 CY - Welsh",
         },
         da: {
-          label: "🇩🇰 Dansk",
+          label: "🇩🇰 DA - Dansk",
         },
         de: {
-          label: "🇩🇪 Deutsch",
+          label: "🇩🇪 DE - Deutsch",
         },
         dje: {
-          label: "🇳🇪 Zarma",
+          label: "🇳🇪 DJE - Zarma",
         },
         dv: {
           dir: "rtl",
-          label: "🇲🇻 Dhivehi",
+          label: "🇲🇻 DV - Dhivehi",
         },
         el: {
-          label: "🇬🇷 Ελληνικά",
+          label: "🇬🇷 EL - Ελληνικά",
         },
         en: {
-          label: "🇬🇧 English",
+          label: "🇬🇧 EN - English",
         },
         eo: {
-          label: "🌍 Esperanto",
+          label: "🌍 EO - Esperanto",
         },
         root: {
-          label: "🇪🇸 Español",
+          label: "🇪🇸 ES - Español",
           lang: "es",
         },
         et: {
-          label: "🇪🇪 Estonian",
+          label: "🇪🇪 ET - Estonian",
         },
         eu: {
-          label: "🇪🇺 Basque",
+          label: "🇪🇺 EU - Basque",
         },
         fa: {
           dir: "rtl",
-          label: "🇮🇷 فارسی",
+          label: "🇮🇷 FA - فارسی",
         },
         ff: {
-          label: "🇸🇳 Fulah",
+          label: "🇸🇳 FF - Fulah",
         },
         fil: {
-          label: "🇵🇭 Filipino",
+          label: "🇵🇭 FIL - Filipino",
         },
         fi: {
-          label: "🇫🇮 Finnish",
+          label: "🇫🇮 FI - Finnish",
         },
         fr: {
-          label: "🇫🇷 Français",
+          label: "🇫🇷 FR - Français",
         },
         ga: {
-          label: "🇮🇪 Irish",
+          label: "🇮🇪 GA - Irish",
         },
         gu: {
-          label: "🇮🇳 Gujarati",
+          label: "🇮🇳 GU - Gujarati",
         },
         ha: {
-          label: "🇳🇬 Hausa",
+          label: "🇳🇬 HA - Hausa",
         },
         he: {
           dir: "rtl",
-          label: "🇮🇱 עברית",
+          label: "🇮🇱 HE - עברית",
         },
         hi: {
-          label: "🇮🇳 हिन्दी",
+          label: "🇮🇳 HI - हिन्दी",
         },
         hr: {
-          label: "🇭🇷 Croatian",
+          label: "🇭🇷 HR - Croatian",
         },
         hu: {
-          label: "🇭🇺 Hungarian",
+          label: "🇭🇺 HU - Hungarian",
         },
         hy: {
-          label: "🇦🇲 Armenian",
+          label: "🇦🇲 HY - Armenian",
         },
         id: {
-          label: "🇮🇩 Indonesia",
+          label: "🇮🇩 ID - Indonesia",
         },
         ig: {
-          label: "🇳🇬 Igbo",
+          label: "🇳🇬 IG - Igbo",
         },
         is: {
-          label: "🇮🇸 Icelandic",
+          label: "🇮🇸 IS - Icelandic",
         },
         it: {
-          label: "🇮🇹 Italiano",
+          label: "🇮🇹 IT - Italiano",
         },
         ja: {
-          label: "🇯🇵 日本語",
+          label: "🇯🇵 JA - 日本語",
         },
         kab: {
-          label: "🇩🇿 Kabyle",
+          label: "🇩🇿 KAB - Kabyle",
         },
         kam: {
-          label: "🇰🇪 Kamba",
+          label: "🇰🇪 KAM - Kamba",
         },
         ka: {
-          label: "🇬🇪 Georgian",
+          label: "🇬🇪 KA - Georgian",
         },
         kea: {
-          label: "🇨🇻 Kabuverdianu",
+          label: "🇨🇻 KEA - Kabuverdianu",
         },
         kk: {
-          label: "🇰🇿 Kazakh",
+          label: "🇰🇿 KK - Kazakh",
         },
         kln: {
-          label: "🇰🇪 Kalenjin",
+          label: "🇰🇪 KLN - Kalenjin",
         },
         km: {
-          label: "🇰🇭 Khmer",
+          label: "🇰🇭 KM - Khmer",
         },
         kmr: {
           dir: "rtl",
-          label: "🇹🇷 Northern Kurdish",
+          label: "🇹🇷 KMR - Northern Kurdish",
         },
         kn: {
-          label: "🇮🇳 Kannada",
+          label: "🇮🇳 KN - Kannada",
         },
         ko: {
-          label: "🇰🇷 한국어",
+          label: "🇰🇷 KO - 한국어",
         },
         kok: {
-          label: "🇮🇳 Konkani",
+          label: "🇮🇳 KOK - Konkani",
         },
         ky: {
-          label: "🇰🇬 Kyrgyz",
+          label: "🇰🇬 KY - Kyrgyz",
         },
         lag: {
-          label: "🇹🇿 Langi",
+          label: "🇹🇿 LAG - Langi",
         },
         lao: {
-          label: "🇱🇦 Laotian",
+          label: "🇱🇦 LAO - Laotian",
         },
         lg: {
-          label: "🇺🇬 Ganda",
+          label: "🇺🇬 LG - Ganda",
         },
         ln: {
-          label: "🇨🇩 Lingala",
+          label: "🇨🇩 LN - Lingala",
         },
         lt: {
-          label: "🇱🇹 Lithuanian",
+          label: "🇱🇹 LT - Lithuanian",
         },
         lv: {
-          label: "🇱🇻 Latvian",
+          label: "🇱🇻 LV - Latvian",
         },
         mk: {
-          label: "🇲🇰 Macedonian",
+          label: "🇲🇰 MK - Macedonian",
         },
         mg: {
-          label: "🇲🇬 Malagasy",
+          label: "🇲🇬 MG - Malagasy",
         },
         mer: {
-          label: "🇰🇪 Meru",
+          label: "🇰🇪 MER - Meru",
         },
         ml: {
-          label: "🇮🇳 Malayalam",
+          label: "🇮🇳 ML - Malayalam",
         },
         mn: {
-          label: "🇲🇳 Mongolian",
+          label: "🇲🇳 MN - Mongolian",
         },
         mr: {
-          label: "🇮🇳 Marathi",
+          label: "🇮🇳 MR - Marathi",
         },
         ms: {
-          label: "🇲🇾 Malay",
+          label: "🇲🇾 MS - Malay",
         },
         mt: {
-          label: "🇲🇹 Maltese",
+          label: "🇲🇹 MT - Maltese",
         },
         my: {
-          label: "🇲🇲 Burmese",
+          label: "🇲🇲 MY - Burmese",
         },
         nb: {
-          label: "🇳🇴 Norsk Bokmål",
+          label: "🇳🇴 NB - Norsk Bokmål",
         },
         ne: {
-          label: "🇳🇵 Nepali",
+          label: "🇳🇵 NE - Nepali",
         },
         nl: {
-          label: "🇳🇱 Nederlands",
+          label: "🇳🇱 NL - Nederlands",
         },
         nus: {
-          label: "🇸🇸 Nuer",
+          label: "🇸🇸 NUS - Nuer",
         },
         om: {
-          label: "🇪🇹 Oromo",
+          label: "🇪🇹 OM - Oromo",
         },
         or: {
-          label: "🇮🇳 Oriya",
+          label: "🇮🇳 OR - Oriya",
         },
         pa: {
-          label: "🇮🇳 Punjabi",
+          label: "🇮🇳 PA - Punjabi",
         },
         pl: {
-          label: "🇵🇱 Polski",
+          label: "🇵🇱 PL - Polski",
         },
         ps: {
           dir: "rtl",
-          label: "🇦🇫 Pashto",
+          label: "🇦🇫 PS - Pashto",
         },
         pt: {
-          label: "🇵🇹 Português",
+          label: "🇵🇹 PT - Português",
         },
         ro: {
-          label: "🇷🇴 Română",
+          label: "🇷🇴 RO - Română",
         },
         ru: {
-          label: "🇷🇺 Русский",
+          label: "🇷🇺 RU - Русский",
         },
         rw: {
-          label: "🇷🇼 Kinyarwanda",
+          label: "🇷🇼 RW - Kinyarwanda",
         },
         sg: {
-          label: "🇨🇫 Sango",
+          label: "🇨🇫 SG - Sango",
         },
         shi: {
-          label: "🇲🇦 Tachelhit",
+          label: "🇲🇦 SHI - Tachelhit",
         },
         si: {
-          label: "🇱🇰 Sinhala",
+          label: "🇱🇰 SI - Sinhala",
         },
         sk: {
-          label: "🇸🇰 Slovenčina",
+          label: "🇸🇰 SK - Slovenčina",
         },
         sl: {
-          label: "🇸🇮 Slovenian",
+          label: "🇸🇮 SL - Slovenian",
         },
         sn: {
-          label: "🇿🇼 Shona",
+          label: "🇿🇼 SN - Shona",
         },
         so: {
-          label: "🇸🇴 Somali",
+          label: "🇸🇴 SO - Somali",
         },
         sq: {
-          label: "🇦🇱 Albanian",
+          label: "🇦🇱 SQ - Albanian",
         },
         sr: {
-          label: "🇷🇸 Serbian",
+          label: "🇷🇸 SR - Serbian",
         },
         sv: {
-          label: "🇸🇪 Svenska",
+          label: "🇸🇪 SV - Svenska",
         },
         sw: {
-          label: "🇹🇿 Swahili",
+          label: "🇹🇿 SW - Swahili",
         },
         swc: {
-          label: "🇨🇩 Congo Swahili",
+          label: "🇨🇩 SWC - Congo Swahili",
         },
         ta: {
-          label: "🇮🇳 Tamil",
+          label: "🇮🇳 TA - Tamil",
         },
         te: {
-          label: "🇮🇳 Telugu",
+          label: "🇮🇳 TE - Telugu",
         },
         th: {
-          label: "🇹🇭 Thai",
+          label: "🇹🇭 TH - Thai",
         },
         ti: {
-          label: "🇪🇷 Tigrinya",
+          label: "🇪🇷 TI - Tigrinya",
         },
         tk: {
-          label: "🇹🇲 Turkmen",
+          label: "🇹🇲 TK - Turkmen",
         },
         tr: {
-          label: "🇹🇷 Türkçe",
+          label: "🇹🇷 TR - Türkçe",
         },
         uk: {
-          label: "🇺🇦 Українська",
+          label: "🇺🇦 UK - Українська",
         },
         ur: {
           dir: "rtl",
-          label: "🇵🇰 Urdu",
+          label: "🇵🇰 UR - Urdu",
         },
         uz: {
-          label: "🇺🇿 Uzbek",
+          label: "🇺🇿 UZ - Uzbek",
         },
         vi: {
-          label: "🇻🇳 Tiếng Việt",
+          label: "🇻🇳 VI - Tiếng Việt",
         },
         yo: {
-          label: "🇳🇬 Yoruba",
+          label: "🇳🇬 YO - Yoruba",
         },
         zh: {
-          label: "🇨🇳 中文",
+          label: "🇨🇳 ZH - 中文",
         },
         zu: {
-          label: "🇿🇦 Zulu",
+          label: "🇿🇦 ZU - Zulu",
         },
       },
 
@@ -374,8 +374,7 @@ export default defineConfig({
       },
 
       // Social links
-      social: {
-      },
+      social: {},
 
       // Sidebar links
       sidebar: [
@@ -492,7 +491,7 @@ export default defineConfig({
             vi: "Sách",
             yo: "Àwọn Ìwé",
             zh: "书",
-            zu: "Izincwadi"
+            zu: "Izincwadi",
           },
         },
         {
@@ -608,7 +607,7 @@ export default defineConfig({
             vi: "Giáo Dục Cơ Bản",
             yo: "Ẹ̀kọ́ Ìpìlẹ̀",
             zh: "基础教育",
-            zu: "Imfundo Eyisisekelo"
+            zu: "Imfundo Eyisisekelo",
           },
           autogenerate: { directory: "educacion-fundamental", collapsed: true },
         },
@@ -725,9 +724,12 @@ export default defineConfig({
             vi: "Luận Văn về Tâm Lý Học Cách Mạng",
             yo: "Ìwé nípa Ìmọ̀ Ọkàn Ajẹ́míyọ̀rọ̀",
             zh: "革命心理学论",
-            zu: "Incwadi Yesifundo Sengqondo Yezinguquko"
+            zu: "Incwadi Yesifundo Sengqondo Yezinguquko",
           },
-          autogenerate: { directory: "tratado-de-psicologia-revolucionaria", collapsed: true },
+          autogenerate: {
+            directory: "tratado-de-psicologia-revolucionaria",
+            collapsed: true,
+          },
         },
       ],
     }),
