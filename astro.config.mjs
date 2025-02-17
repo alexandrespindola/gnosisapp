@@ -370,6 +370,7 @@ export default defineConfig({
       components: {
         Footer: "./src/components/override/Footer.astro",
         Header: "./src/components/override/Header.astro",
+        Sidebar: "./src/components/override/Sidebar.astro",
         TableOfContents: "./src/components/override/TableOfContents.astro",
       },
 
