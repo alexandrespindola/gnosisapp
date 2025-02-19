@@ -378,7 +378,7 @@ export default defineConfig({
       social: {},
 
       // Sidebar links
-      sidebar: [
+      /*sidebar: [
         {
           label: "Libros",
           slug: "",
@@ -732,7 +732,10 @@ export default defineConfig({
             collapsed: true,
           },
         },
-      ],
+      ],*/
+      sidebar: [
+        { slug: "educacion-fundamental", label: "Educación Fundamental" },
+      ]
     }),
     tailwind(),
   ],
