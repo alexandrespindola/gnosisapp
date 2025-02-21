@@ -4,7 +4,7 @@ import { LOCALES_PREFIX } from "../../../src/constants/locales";
 import BookCard from "../../components/BookCard.astro";
 import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 
-// export const prerender = true;
+export const prerender = true;
 
 export async function getStaticPaths() {
   return LOCALES_PREFIX.map((lang) => ({

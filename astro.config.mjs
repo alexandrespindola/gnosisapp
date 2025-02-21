@@ -10,7 +10,7 @@ export default defineConfig({
   adapter: netlify(),
   integrations: [
     starlight({
-      prerender: false,
+      prerender: true,
 
       // Site metadata
       title: "GNOSIS",
