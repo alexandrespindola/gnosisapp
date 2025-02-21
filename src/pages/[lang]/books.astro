@@ -1,0 +1,86 @@
+---
+import { getBooks } from "../../lib/api";
+import { LOCALES_PREFIX } from "../../../src/constants/locales";
+import BookCard from "../../components/BookCard.astro";
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+
+export async function getStaticPaths() {
+  return LOCALES_PREFIX.map((lang) => ({
+    params: { lang },
+    props: { lang },
+  }));
+}
+
+const { lang } = Astro.params;
+
+interface Book {
+  documentId: string;
+  text_id: string;
+  title: string;
+  description: string;
+  category: string;
+  year: number;
+  author: {
+    name: string;
+  };
+  cover_image: {
+    formats: {
+      small: {
+        url: string;
+      };
+    };
+  };
+}
+
+const books: Book[] = (await getBooks(lang)) || [];
+---
+
+<StarlightPage
+  frontmatter={{
+    title: lang === "pt" ? "Livros" : lang === "es" ? "Libros" : "Books",
+    description:
+      lang === "pt"
+        ? "Biblioteca de Livros"
+        : lang === "es"
+          ? "Biblioteca de Libros"
+          : "Book Library",
+    template: "splash",
+  }}
+>
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+    {
+      books && books.length > 0 ? (
+        books.map((book) => (
+          <BookCard
+            book={{
+              title: book?.title || "Sem títul",
+              text_id: book?.text_id || "Sem id",
+              description: book?.description || "Sem descrição",
+              category: book?.category || "Sem categoria",
+              year: book?.year || 0,
+              author: book?.author.name || "Sem autor",
+              coverImage:
+                book?.cover_image?.formats?.small?.url ||
+                "/default-cover.jpg",
+            }}
+            buttonText={
+              lang === "pt"
+                ? "Ver mais"
+                : lang === "es"
+                  ? "Ver más"
+                  : "Read more"
+            }
+          />
+        ))
+      ) : (
+        <div class="col-span-full text-center py-8">
+          {lang === "pt"
+            ? "Nenhum livro encontrado"
+            : lang === "es"
+              ? "No se encontraron libros"
+              : "No books foundd"}
+        </div>
+      )
+    }
+  </div>
+</StarlightPage>

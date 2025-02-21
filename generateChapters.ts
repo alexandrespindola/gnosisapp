@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 dotenv.config({ path: path.resolve(__dirname, ".env") });
 
 // Define your credentials directly here
-const STRAPI_URL = process.env.STRAPI_URL || "";
+const STRAPI_URL = process.env.PUBLIC_STRAPI_URL || "";
 const ACCESS_TOKEN = process.env.ACCESS_TOKEN || "";
 
 if (!STRAPI_URL || !ACCESS_TOKEN) {

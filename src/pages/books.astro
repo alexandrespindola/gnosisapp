@@ -1,18 +1,62 @@
 ---
+import { getBooks } from "../lib/api";
+import BookCard from "../components/BookCard.astro";
 import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
-import { Card } from "@astrojs/starlight/components";
+
+interface Book {
+  documentId: string;
+  title: string;
+  text_id: string;
+  description: string;
+  category: string;
+  year: number;
+  author: {
+    name: string;
+  };
+  cover_image: {
+    formats: {
+      small: {
+        url: string;
+      };
+    };
+  };
+}
+
+// Search for books in Spanish directly
+const books: Book[] = (await getBooks("es")) || [];
 ---
 
 <StarlightPage
   frontmatter={{
     title: "Libros",
-    description: "Página de Libros",
-    template: "splash"
+    description: "Biblioteca de Libros",
+    template: "splash",
   }}
 >
-  <div class="custom-content">
-    <Card title="Custom Card" icon="translate">
-      <p>This is a custom card</p>
-    </Card>
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+    {
+      books && books.length > 0 ? (
+        books.map((book) => (
+          <BookCard
+            book={{
+              title: book?.title || "Sin título",
+              text_id: book?.text_id || "Sin id",
+              description: book?.description || "Sin descripción",
+              category: book?.category || "Sin categoría",
+              year: book?.year || 0,
+              author: book?.author.name || "Sin autor",
+              coverImage:
+                book?.cover_image?.formats?.small?.url ||
+                "/default-cover.jpg",
+            }}
+            buttonText="Ver más"
+          />
+        ))
+      ) : (
+        <div class="col-span-full text-center py-8">
+          No se encontraron libros
+        </div>
+      )
+    }
   </div>
 </StarlightPage>

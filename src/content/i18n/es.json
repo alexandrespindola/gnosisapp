@@ -1,4 +1,14 @@
 {
+  "books": {
+    "lord-rings": {
+      "title": "El Señor de los Anillosçççççç",
+      "description": "Una historia épica de fantasía...",
+      "category": "Fantasía"
+    }
+  },
+  "common": {
+    "readMore": "Ver más"
+  },
   "tableOfContents.onThisPage": "En este capítulo",
   "tableOfContents.overview": "Inicio",
   "status": {

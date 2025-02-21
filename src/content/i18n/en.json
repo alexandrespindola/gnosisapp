@@ -1,4 +1,14 @@
 {
+  "books": {
+    "lord-rings": {
+      "title": "The Lord of the Rings",
+      "description": "An epic fantasy story...",
+      "category": "Fantasy"
+    }
+  },
+  "common": {
+    "readMore": "Read more"
+  },
   "tableOfContents.onThisPage": "On this chapter",
   "tableOfContents.overview": "Beginning",
   "status": {
