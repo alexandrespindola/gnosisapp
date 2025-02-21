@@ -12,7 +12,7 @@ dotenv.config({ path: path.resolve(__dirname, ".env") });
 
 // Define your credentials directly here
 const STRAPI_URL = process.env.PUBLIC_STRAPI_URL || "";
-const ACCESS_TOKEN = process.env.ACCESS_TOKEN || "";
+const ACCESS_TOKEN = process.env.PUBLIC_ACCESS_TOKEN || "";
 
 if (!STRAPI_URL || !ACCESS_TOKEN) {
   throw new Error(
