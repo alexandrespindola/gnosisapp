@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Onye zuru oke",
+  "locale": "ig",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "34. Onye zuru oke",
+    "order": 34
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>EZI AGỤMAKỤKWỌ n’echiche ya bụ eziokwu bụ nghọta miri emi banyere onwe onye; n’ime onye ọ bụla ka e nwere iwu nile nke okike.</p>\n<p>Onye chọrọ ịmara ọrụ ebube nile nke okike, aghaghị ịmụ ha n’ime onwe ya.</p>\n<p>Agụmakwụkwọ ụgha na-echegbu naanị maka ime ka uche baa ọgaranya, onye ọ bụla nwekwara ike ime nke ahụ. O doro anya na ego, onye ọ bụla nwere ike imeli ịzụta akwụkwọ.</p>\n<p>Anyị ekwughị okwu megide omenala ọgụgụ isi, naanị anyị na-ekwu okwu megide agụụ nke ịchịkọba uche karịrị akarị.</p>\n<p>Agụmakwụkwọ ụgha nke ọgụgụ isi na-enye naanị ụzọ mgbapụ aghụghọ iji gbapụ n’onwe ya.</p>\n<p>Onye ọ bụla maara akwụkwọ, onye ọ bụla nwere omume rụrụ arụ, na-enwe mgbe niile ụzọ aghụghọ dị ịtụnanya na-enye ya ohere ịgbapụ n’onwe ya.</p>\n<p>Site na ỌGỤGỤ ISI na-enweghị MMỤỌ, ndị IRI ngo na-apụta, ndị a abụrụla ndị na-eduba ụmụ mmadụ n’Ọgba aghara na Mbibi.</p>\n<p>Usoro agaghị enwe ike inye anyị ike ịmara onwe anyị n’ụzọ zuru ezu OTI.</p>\n<p>Ndị nne na nna na-eziga ụmụ ha n’ụlọ akwụkwọ, kọleji, mahadum, politeknik, wdg, ka ha mụta ụfọdụ usoro, ka ha nwee ọrụ ụfọdụ, ka ha wee nwee ike ịkpata ndụ.</p>\n<p>O doro anya na anyị kwesịrị ịma ụfọdụ usoro, inwe ọrụ, mana nke ahụ bụ nke abụọ, nke mbụ, nke dị mkpa, bụ ịmara onwe anyị, ịmara ndị anyị bụ, ebe anyị si, ebe anyị na-aga, gịnị bụ ihe mgbaru ọsọ nke ịdị adị anyị.</p>\n<p>Na ndụ, e nwere ihe nile, ọṅụ, mwute, ịhụnanya, agụụ, ụtọ, ihe mgbu, ịma mma, iwe, wdg na mgbe anyị maara otú e si ebi ya ndụ nke ukwuu, mgbe anyị ghọtara ya n’Ọkwá nile nke uche, anyị na-achọta ọnọdụ anyị n’ime ọha mmadụ, anyị na-emepụta usoro nke anyị, ụzọ anyị pụrụ iche isi bie ndụ, nwee mmetụta na iche echiche, mana ihe dị iche bụ ụgha otu narị pasent, usoro n’onwe ya, agaghị enwe ike ịmalite nghọta miri emi, nghọta eziokwu.</p>\n<p>Agụmakwụkwọ dị ugbu a aghọwo ọdịda zuru oke n’ihi na ọ na-enye mkpa ukwuu na usoro, na ọrụ, ọ dịkwa anya na site n’ịkọwapụta usoro, ọ na-eme ka mmadụ ghọọ onye na-arụ ọrụ na-akpaghị aka, na-ebibi ohere ya kacha mma.</p>\n<p>Ịzụlite ikike na arụmọrụ na-enweghị nghọta nke ndụ, na-enweghị ihe ọmụma banyere onwe onye, na-enweghị nghọta ozugbo nke usoro nke MI ONWE, na-enweghị nyocha nke ọma nke ụzọ nke gị si eche echiche, na-enwe mmetụta, chọrọ ma mee ihe, ga-abụ naanị iji mee ka obi ọjọọ anyị, anyị onwe anyị, ihe ndị ahụ na-akpata agha, agụụ, nhụjuanya, ihe mgbu.</p>\n<p>Mmepe pụrụ iche nke usoro emepụtala ndị na-arụzi ihe, ndị ọkà mmụta sayensị, ndị ọrụ aka, ndị ọkà mmụta anụ ahụ, ndị na-awa anụmanụ ndị ogbenye, ndị na-emepụta ngwá agha na-ebibi ihe, wdg, wdg, wdg.</p>\n<p>Ndị ọkachamara niile ahụ, ndị niile na-emepụta bọmbụ atomik na bọmbụ hydrogen, ndị niile na-awa ahụ na-ata ahụhụ okike nke okike, ndị ohi ahụ nile, naanị ihe ha na-eji eme ihe n’ezie bụ maka agha na mbibi.</p>\n<p>Ihe ọ bụla ndị ohi nile ahụ maara, ọ dịghị ihe ha ghọtara banyere usoro zuru ezu nke ndụ n’ụdị ya nile na-enweghị ngwụcha.</p>\n<p>Ọganihu teknụzụ n’ozuzu ya, usoro njem, igwe na-agụ, ọkụ eletrik, elevators n’ime ụlọ, ụbụrụ eletrọniki nke ụdị nile, wdg, dozie ọtụtụ puku nsogbu ndị a na-edozi n’ọkwa elu nke ịdị adị, mana webata n’ime onye ahụ na ọha mmadụ, ọtụtụ nsogbu ndị ka ukwuu na nke miri emi.</p>\n<p>Ibiri naanị n’ỌkwÁ ELU na-atụleghị ala na mpaghara dị iche iche nke uche, n’ezie pụtara ịdọta na anyị na ụmụ anyị, ịda ogbenye, ịkwa ákwá na enweghị olileanya.</p>\n<p>Mkpa kasị ukwuu, nsogbu kasị ngwa ngwa nke onye ọ bụla, nke onye ọ bụla, bụ nghọta ndụ n’ụdị ya ZURU EZU, OTI, n’ihi na ọ bụ naanị otú ahụ ka anyị nọ n’ọnọdụ nke idozi nsogbu onwe anyị n’ụzọ na-eju afọ.</p>\n<p>Ihe ọmụma teknụzụ n’onwe ya agaghị enwe ike idozi nsogbu uche anyị nile, nsogbu miri emi anyị nile.</p>\n<p>Ọ bụrụ na anyị chọrọ ịbụ ỤMỤ nwoke n’ezie, 1NDIVIDU ZURỤ EZU, anyị aghaghị ỊNYOCHA ONWE ANYỊ, mara onwe anyị nke ọma na mpaghara echiche nile, n’ihi na TEKNỌLỌJỊ karịrị obi abụọ ọ bụla, na-aghọ ngwá ọrụ na-ebibi ihe, mgbe anyị GHỌTAGHỊ N’EZIE usoro nile nke ịdị adị, mgbe anyị na-amaghị onwe anyị n’ụzọ ZURỤ EZU.</p>\n<p>Ọ bụrụ na ANỤ MANỤ INTELEKTUAL hụrụ n’EZIE n’anya, ọ bụrụ na ọ maara onwe ya, ọ bụrụ na o ghọtara usoro ndụ dum, ọ gaara eme mpụ nke ịkewa atọm ahụ.</p>\n<p>Ọganihu teknụzụ anyị dị ebube, mana ọ jisiri ike mee ka ike ike anyị dịkwuo elu iji bibie onwe anyị ma ebe niile egwu, agụụ, amaghị ihe na ọrịa na-achị.</p>\n<p>Ọ dịghị ọrụ ọ bụla, ọ dịghị usoro ọ bụla nwere ike inye anyị ihe a na-akpọ IZUZU, obi ụtọ n’ezie.</p>\n<p>Onye ọ bụla na-ata ahụhụ nke ukwuu na ndụ n’ọrụ ya, n’ọrụ ya, n’ụzọ ndụ ya na-adịghị agbanwe agbanwe na ihe na ọrụ na-aghọ ngwá ọrụ nke anyaụfụ, asịrị, ịkpọasị, ilu.</p>\n<p>Ụwa nke ndị dọkịta, ụwa nke ndị na-ese ihe, nke ndị injinia, nke ndị ọkàiwu, wdg, ụwa ọ bụla n’ime ụwa ndị ahụ, jupụtara na ihe mgbu, asịrị, asọmpi, anyaụfụ, wdg.</p>\n<p>Na-enweghị nghọta banyere onwe anyị, ọrụ ma ọ bụ ọrụ naanị, na-eduga anyị n’ihe mgbu na ịchọ ụzọ mgbapụ. Ụfọdụ na-achọ mgbapụ site na mmanya na-aba n’anya n’ụlọ mmanya, ụlọ mmanya, cabaret, ndị ọzọ chọrọ ịgbapụ site na ọgwụ ọjọọ, morphine, cocaine, marijuana na ndị ọzọ site na agụụ na ndakpọ, mmekọahụ, wdg, wdg.</p>\n<p>Mgbe ị chọrọ ibelata ndụ nile ka ọ bụrụ usoro, ọrụ, usoro isi nweta ego na ego ndị ọzọ, ihe na-esi na ya apụta bụ ihe na-agwụ ike, ihe na-ewute na ịchọ ụzọ mgbapụ.</p>\n<p>Anyị aghaghị ịghọ ỤMỤ mmadụ ZURỤ EZU, zuru oke, nke ahụ ga-ekwe omume naanị site n’ịmara onwe anyị na ịgbasa ONWE UCHE.</p>\n<p>Agụmakwụkwọ NDỊ Mgbazinye, n’otu oge ahụ na-akpali mmụta nke usoro isi kpata ndụ, aghaghị ime ihe dị mkpa karị, aghaghị inyere mmadụ aka, ịnwale, inwe mmetụta n’akụkụ nile ya na n’ókèala nile nke uche, usoro nke ịdị adị.</p>\n<p>Ọ bụrụ na onye ọ bụla nwere ihe ọ ga-ekwu, ka o kwuo ya na ikwu ya na-atọ ụtọ n’ihi na otú ahụ ka onye ọ bụla si kere onwe ya ụdị nke ya, mana ọ na-amụta ụdị ndị ọzọ na-enwetụbeghị ndụ ozugbo n’ụdị ya ZURỤ EZU; na-eduga naanị n’elu elu.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/ig/educacion-fundamental/el-individuo-integro.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/ig/educacion-fundamental/el-individuo-integro.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/ig/educacion-fundamental/el-individuo-integro.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

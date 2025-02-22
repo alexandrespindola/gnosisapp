@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Ang Pagdadalaga't Pagbibinata",
+  "locale": "fil",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "25. Ang Pagdadalaga't Pagbibinata",
+    "order": 25
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Dumating na ang panahon upang tuluyan nang talikuran ang huwad na kahihiyan at ang mga pagtatangi na may kaugnayan sa problema sa sekswalidad.</p>\n<p>Kinakailangang maunawaan nang malinaw at tiyak ang problema sa sekswalidad ng mga tinedyer ng parehong kasarian.</p>\n<p>Sa edad na labing-apat, lumilitaw sa katawan ng tinedyer ang enerhiya seksuwal na dumadaloy nang napakalakas sa pamamagitan ng sistemang neuro-simpatico.</p>\n<p>Ang espesyal na uri ng enerhiyang ito ay nagbabago sa katawan ng tao, binabago ang boses ng lalaki at nagiging sanhi ng paggana ng obaryo sa babae.</p>\n<p>Ang katawan ng tao ay isang tunay na pabrika na nagpapalit ng mga magaspang na elemento sa pinong mga sustansyang vital.</p>\n<p>Ang mga pagkaing dinadala natin sa tiyan ay dumadaan sa maraming pagbabago at pagpipino hanggang sa tuluyang magtapos sa sustansyang semi-solid, semi-liquid na binanggit ni Paracelsus sa terminong Ens.-Seminis (Entidad del Semen).</p>\n<p>Ang likidong salamin na iyon, nababaluktot, nahuhubog, ang semilya na iyon, ay naglalaman sa kanyang sarili, sa potensyal na paraan ang lahat ng mikrobyo ng buhay.</p>\n<p>Kinikilala ng Gnostisismo sa semilya ang CAOS kung saan masigasig na lumilitaw ang buhay.</p>\n<p>Ang mga lumang Alkemista noong Edad Medya tulad nina Paracelsus, Sendivogius, Nicolás Flamel, Raymundo Lulio, atbp., ay pinag-aralan nang may malalim na paggalang ang ENS-SEMINIS o mercury ng lihim na pilosopiya.</p>\n<p>Ang VITRIOLO na ito ay isang tunay na elixir na matalinong ginawa ng kalikasan sa loob ng mga seminal vesicle.</p>\n<p>Sa mercury na ito ng sinaunang karunungan, sa semilya na ito, matatagpuan talaga ang lahat ng posibilidad ng pag-iral.</p>\n<p>Nakalulungkot na maraming kabataan dahil sa kakulangan ng tunay na oryentasyong sikolohikal ay nagpapakasawa sa bisyo ng masturbasyon o naliligaw nang nakakalungkot sa landas na infra-seksuwal ng homo-seksuwalismo.</p>\n<p>Ang mga bata at kabataan ay binibigyan ng intelektuwal na impormasyon tungkol sa maraming paksa at inilalagay sa landas ng isport na ang pang-aabuso ay nagpapaikli sa buhay nang miserableng, ngunit sa kasamaang palad, kapag lumitaw ang enerhiya seksuwal kung saan nagsisimula ang pagdadalaga, ang mga magulang at mga guro sa paaralan, batay sa isang huwad na puritanismo at sa isang hangal na moralidad, ay nagpasyang manahimik nang kriminal.</p>\n<p>May mga katahimikang kriminal at may mga salitang kahiya-hiya. Ang pananahimik tungkol sa problema sa sekswalidad ay isang krimen. Ang pagsasalita nang mali tungkol sa problema sa sekswalidad ay isa ring krimen.</p>\n<p>Kung ang mga magulang at guro ay nananahimik, ang mga sekswal na pervert ay nagsasalita at ang mga biktima ay ang mga walang karanasang tinedyer.</p>\n<p>Kung ang tinedyer ay hindi maaaring sumangguni sa mga magulang o guro, sasangguni siya sa kanyang mga kamag-aral sa paaralan na posibleng naliligaw na sa maling landas. Ang resulta ay hindi na magtatagal at ang bagong tinedyer na sumusunod sa maling payo ay magpapakasawa sa bisyo ng masturbasyon o maliligaw sa landas ng homo-seksuwalismo.</p>\n<p>Ang bisyo ng masturbasyon ay ganap na sumisira sa potensyal ng utak. Kinakailangang malaman na mayroong isang matalik na ugnayan sa pagitan ng semilya at ng utak. Kinakailangang isipin ang semilya. Kinakailangang isemilya ang utak.</p>\n<p>Ang utak ay isinisemilya sa pamamagitan ng pagpapalit ng enerhiya seksuwal, dinadakila ito, ginagawa itong potensyal ng utak.</p>\n<p>Sa ganitong paraan, ang semilya ay naisip at ang utak ay naisemilya.</p>\n<p>Pinag-aaralan nang malalim ng agham Gnostiko ang endokrinolohiya at nagtuturo ng mga pamamaraan at sistema upang baguhin ang mga enerhiya seksuwal, ngunit ito ay isang usapin na hindi kasya sa loob ng aklat na ito.</p>\n<p>Kung nais ng mambabasa ng impormasyon tungkol sa Gnostisismo, dapat niyang pag-aralan ang aming mga aklat na Gnostiko at pumasok sa aming mga pag-aaral.</p>\n<p>Ang mga tinedyer ay dapat dakilain ang mga enerhiya seksuwal sa pamamagitan ng paglilinang ng pandama ng estetika, pag-aaral ng musika, eskultura, pagpipinta, pagsasagawa ng mga paglalakbay sa matataas na bundok, atbp.</p>\n<p>Kay raming mukha na sana ay maganda ang nalalanta!</p>\n<p>Kay raming utak ang sumisira! Lahat dahil sa kakulangan ng isang sigaw ng babala sa tamang oras.</p>\n<p>Ang bisyo ng masturbasyon, kapwa sa mga kabataan at dalaga, ay naging mas karaniwan kaysa sa paghuhugas ng kamay.</p>\n<p>Ang mga ospital ng baliw ay puno ng mga lalaki at babae na sumira sa kanilang utak sa karima-rimarim na bisyo ng masturbasyon. Ang patutunguhan ng mga nagmamasturbasyon ay ang ospital ng baliw.</p>\n<p>Ang bisyo ng homo-seksuwalismo ay nagpapanatili ng mga bulok na ugat ng liping ito na lipas na at perberso.</p>\n<p>Tila hindi kapani-paniwala na sa mga bansang tulad ng Inglatera na nagmamalaki ng kulturado at napakataas na sibilisasyon, malayang umiiral ang mga sinehan kung saan ipinapalabas ang mga pelikulang homo-seksuwal.</p>\n<p>Tila hindi kapani-paniwala na ito ay tiyak na sa Inglatera kung saan may mga pagsisikap na gawing legal ang mga kasal na homo-seksuwal.</p>\n<p>Sa malalaking metropolis ng mundo, mayroon ngayong mga bahay-aliwan at club na homo-seksuwal.</p>\n<p>Ang madilim na kapatiran ng mga kaaway ng kababaihan, ngayon ay may mga perbertidong organisasyon na nakakagulat sa kanilang degeneradong kapatiran.</p>\n<p>Maraming mambabasa ang maaaring labis na magulat sa “degeneradong kapatiran” na ito, ngunit hindi natin dapat kalimutan na sa lahat ng panahon ng kasaysayan ay palaging may iba’t ibang kapatiran ng krimen.</p>\n<p>Ang morbidong kapatiran ng mga kaaway ng kababaihan, ay walang alinlangan na isang kapatiran ng krimen.</p>\n<p>Ang mga kaaway ng kababaihan ay palaging o halos palaging sumasakop sa mga pangunahing posisyon sa loob ng burukratikong kolonya.</p>\n<p>Kapag ang isang homo-seksuwal ay napunta sa bilangguan, agad siyang nakalaya dahil sa napapanahong impluwensya ng mga pangunahing tao ng kapatiran ng krimen.</p>\n<p>Kung ang isang bakla ay nahulog sa kasawian, agad siyang tumatanggap ng tulong pinansiyal mula sa lahat ng masasamang karakter ng Kapatiran ng krimen.</p>\n<p>Nakikilala ng mga madilim na miyembro ng homo-seksuwalismo ang kanilang sarili sa pamamagitan ng unipormeng isinusuot nila.</p>\n<p>Nakakagulat na malaman na ang mga bakla ay gumagamit ng uniporme, ngunit gayon nga. Ang uniporme ng mga homo-seksuwal ay tumutugma sa anumang moda na nagsisimula. Ang mga bakla ay nagsisimula ng anumang bagong moda. Kapag ang isang moda ay naging karaniwan, pagkatapos ay nagsisimula sila ng isa pa. Sa ganitong paraan, ang uniporme ng kapatiran ng krimen ay palaging bago.</p>\n<p>Lahat ng malalaking lungsod sa mundo, ngayon ay may milyun-milyong homo-seksuwal.</p>\n<p>Ang bisyo ng homo-seksuwalismo ay nagsisimula sa kanyang nakakahiyang paglalakbay sa panahon ng pagdadalaga.</p>\n<p>Maraming paaralan ng mga tinedyer na lalaki at dalaga ay mga tunay na bahay-aliwan na homo-seksuwal.</p>\n<p>Milyun-milyong dalagang tinedyer ang buong determinasyong naglalakad sa madilim na landas ng mga kaaway ng tao.</p>\n<p>Milyun-milyong tinedyer na babae ay homo-seksuwal. Ang kapatiran ng krimen sa pagitan ng homo-seksuwalismo ng babae ay kasing lakas ng kapatiran ng krimen sa pagitan ng lalaki.</p>\n<p>Kailangang-kailangan nang talikuran nang radikal at tuluyan ang huwad na kahihiyan at ituro sa mga tinedyer ng parehong kasarian ang lahat ng mga misteryo seksuwal.</p>\n<p>Sa ganitong paraan lamang maaaring ituro ang mga bagong henerasyon sa landas ng REHENERASYON.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/fil/educacion-fundamental/la-adolescencia.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/fil/educacion-fundamental/la-adolescencia.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/fil/educacion-fundamental/la-adolescencia.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

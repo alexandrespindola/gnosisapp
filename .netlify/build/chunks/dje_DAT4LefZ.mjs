@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Fasalaa woo ka berandi nda nga boŋ Spanish asloo ra. Adamize mana guna jina. Nda war ga baa ka gaa gundoo ra, ir tugu ne ka naaru.","originalMessage":"Fasalaa woo gundoo ga hun Spanish asloo ra.","revisedMessage":"Fasalaa woo adamize ka guna nda berandi Spanish asloo ra. Nda a ga hima ka hanse jina, ir tugu ne ka naaru."};
+const status = {"automatic":"Boŋ-berandiyan","original":"Asloo","revised":"Gundante"};
+const dje = {
+  "404.text": "Moɲoo mana duwandi. URL guna wala ceeci zuwoo guna.",
+  "aside.caution": "Hawgay",
+  "aside.danger": "Albala",
+  "aside.note": "Šilbay",
+  "aside.tip": "Yaamar",
+  "builtWithStarlight.label": "Tee nda Starlight",
+  "fileTree.directory": "Tira jišidoo",
+  "i18n.untranslatedContent": "Hayaa woo mana bara ni šennoo ra jina.",
+  "languageSelect.accessibleLabel": "Šenni suuba",
+  "menuButton.accessibleLabel": "Šilbayey",
+  messages,
+  "page.draft": "Hayaa woo šiiyan no nda a si huru production builds ra.",
+  "page.editLink": "Moɲoo barmay",
+  "page.lastUpdated": "Kokorantaa:",
+  "page.nextLink": "Jine",
+  "page.previousLink": "Banda",
+  "search.cancelLabel": "Naŋ",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Ceeciyan ga bara production builds de ra. Ceeci ka dii nungoo ka šii lokkal.",
+  "search.label": "Ceeci",
+  "sidebarNav.accessibleLabel": "Beero",
+  "skipLink.label": "Koy gundoo do",
+  status,
+  "tableOfContents.onThisPage": "Fasalaa woo ra",
+  "tableOfContents.overview": "Šintin",
+  "themeSelect.accessibleLabel": "Alhaalo suuba",
+  "themeSelect.auto": "Nga boŋ",
+  "themeSelect.dark": "Bibi",
+  "themeSelect.light": "Gaay",
+};
+
+export { dje as default, messages, status };

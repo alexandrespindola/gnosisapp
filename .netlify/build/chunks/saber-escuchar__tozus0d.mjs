@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "聴き上手",
+  "locale": "ja",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "10. 聴き上手",
+    "order": 10
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>世の中には、その雄弁さで人々を魅了する演説家は数多くいますが、人の話を聞くことを心得ている人はごくわずかです。</p>\n<p>人の話を聞くことは非常に難しく、本当に人の話を聞くことを心得ている人はごくわずかです。</p>\n<p>先生や講師が話すとき、聴衆は熱心に耳を傾け、演者の言葉の一つ一つを細部まで追いかけているように見えます。まるで聞いている、警戒態勢にあるという印象を受けますが、個々の内面心理には、演者の言葉を翻訳する秘書が存在します。</p>\n<p>この秘書こそが、自我、すなわち私自身、自己です。この秘書の仕事は、演者の言葉を誤解し、誤訳することにあります。</p>\n<p>自我は、自身の偏見、先入観、恐れ、傲慢、不安、考え、記憶などに基づいて翻訳します。</p>\n<p>学校の生徒、聴衆を構成する人々は、実際には演者の話を聞いているのではなく、自分自身の話を聞いているのです。彼らは、真実、真理、本質を受け入れようとしない、愛すべきマキャベリ的な自我の声を聞いているのです。</p>\n<p>警戒的な新規性、過去の重荷から解放された自発的な精神、完全な受容性の中でこそ、自我、私自身、自己という不吉な秘書の介入なしに、真に聞くことができるのです。</p>\n<p>心が記憶によって条件付けられているとき、蓄積されたものを繰り返すだけです。</p>\n<p>過去の経験によって条件付けられた心は、過去の濁ったレンズを通してしか現在を見ることができません。</p>\n<p>もし、聞くことを知り、新しい発見のために聞くことを学びたいのであれば、瞬間性の哲学に従って生きる必要があります。</p>\n<p>過去の心配や未来の計画にとらわれず、瞬間瞬間を生きることが急務です。</p>\n<p>真実は、瞬間瞬間の未知なるものです。私たちの心は常に警戒し、偏見や先入観から解放され、真に受容的である必要があります。</p>\n<p>学校の先生方は、生徒たちに聞くことの意味を深く教えるべきです。</p>\n<p>賢明に生き、感覚を再確認し、行動、思考、感情を洗練させる必要があります。</p>\n<p>聞くことを知らず、瞬間瞬間の新しい発見ができないのであれば、どれほど学歴があっても無意味です。</p>\n<p>注意力を高め、マナーを洗練させ、自分自身、物事などを洗練させる必要があります。</p>\n<p>聞くことを知らないとき、真に洗練されることは不可能です。</p>\n<p>粗野で無骨で、堕落した心は、決して聞くことを知らず、新しい発見をすることはありません。そのような心は、自我という悪魔的な秘書の馬鹿げた翻訳を誤って理解するだけです。</p>\n<p>洗練されることは非常に難しく、完全な注意が必要です。ファッション、服装、庭、自動車、友情において非常に洗練された人であっても、内面的には粗野で無骨で、重苦しいままである可能性があります。</p>\n<p>瞬間瞬間を生きることを知っている人は、真の洗練への道を歩んでいるのです。</p>\n<p>受容的で、自発的で、誠実で、警戒的な心を持つ人は、本物の洗練の道を歩んでいます。</p>\n<p>過去の重荷、先入観、偏見、疑念、熱狂などを捨てて、すべての新しいものを受け入れる人は、正当な洗練の道を堂々と歩んでいます。</p>\n<p>堕落した心は、過去、先入観、傲慢、自尊心、偏見などに囚われています。</p>\n<p>堕落した心は、新しいものを見ることができず、聞くことを知らず、自尊心によって条件付けられています。</p>\n<p>マルクス・レーニン主義の信奉者は、新しいものを受け入れません。すべてのものの第4の特徴、第4次元を認めません。自尊心のため、自分自身を愛しすぎているため、自身の馬鹿げた唯物論的な理論に固執し、具体的な事実の領域に置かれると、彼らの詭弁の不条理を証明すると、左腕を上げ、腕時計の針を見て、言い訳をして立ち去ります。</p>\n<p>これらは堕落した心であり、新しいものを聞くことを知らない、新しい発見をすることを知らない、現実を受け入れない心です。なぜなら、自尊心に囚われているからです。自分自身を愛しすぎている心、文化的洗練を知らない心、粗野な心、愛する自我の声しか聞かない心です。</p>\n<p>基礎教育は、聞くことを教え、賢明に生きることを教えます。</p>\n<p>小中学校、大学の先生方は、生徒たちに真の洗練への道を教えるべきです。</p>\n<p>学校、小中学校、大学で10年、15年過ごしても、内面的には思考、アイデア、感情、習慣において真の豚であるならば無意味です。</p>\n<p>基礎教育が緊急に必要です。なぜなら、新しい世代は新しい時代の始まりを意味するからです。</p>\n<p>真の革命の時が来ました。基礎革命の時が来ました。</p>\n<p>過去は過去であり、すでに実を結んでいます。私たちが生きている瞬間の深い意味を理解する必要があります。</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/ja/educacion-fundamental/saber-escuchar.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/ja/educacion-fundamental/saber-escuchar.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/ja/educacion-fundamental/saber-escuchar.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

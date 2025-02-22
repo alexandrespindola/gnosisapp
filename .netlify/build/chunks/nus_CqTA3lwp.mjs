@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Cë bak kɛn lät kɛ thok Spanish. Kuc kɛ nɛy tin gɔa. Na gɔr bi kony kɛ gɔa, jal ɛ nɛ.","originalMessage":"Kɛ tin kɛnɛ bak kɛn kɛ thok Spanish.","revisedMessage":"Cë bak kɛn gɔa kɛ nɛy kɛ lät kɛ thok Spanish. Na gɔr bi bɛn gɔa, jal ɛ nɛ."};
+const status = {"automatic":"Lät Thok Rɔt","original":"Kɛ Tueŋ","revised":"Cë Gɔa"};
+const nus = {
+  "404.text": "Pɛ̈th kɛ kuc. Jäl URL ka dɔŋ kɛ bar mi cɔal.",
+  "aside.caution": "Tiɛt",
+  "aside.danger": "Riɛc",
+  "aside.note": "Gät",
+  "aside.tip": "Lëk",
+  "builtWithStarlight.label": "Ce looi kɛ Starlight",
+  "fileTree.directory": "Directory",
+  "i18n.untranslatedContent": "Kɛ tin kɛnɛ kuc kɛ thok duɔ̈n.",
+  "languageSelect.accessibleLabel": "Lɔc thok",
+  "menuButton.accessibleLabel": "Menu",
+  messages,
+  "page.draft": "Kɛ tin kɛnɛ ɛ draft kɛ kuc kɛ production builds.",
+  "page.editLink": "Gɔr pɛ̈th",
+  "page.lastUpdated": "Cë thiɛ̈c:",
+  "page.nextLink": "Lɔr",
+  "page.previousLink": "Ciëŋ",
+  "search.cancelLabel": "Puɔ̈l",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Cɔal ɛ production builds kɛnɛ. \nThëm bi looi kɛ site bi jal nɛ.",
+  "search.label": "Cɔal",
+  "sidebarNav.accessibleLabel": "Kɛ dït",
+  "skipLink.label": "Lɔr kɛ tin",
+  status,
+  "tableOfContents.onThisPage": "Kɛ bak kɛn",
+  "tableOfContents.overview": "Thok",
+  "themeSelect.accessibleLabel": "Lɔc theme",
+  "themeSelect.auto": "Auto",
+  "themeSelect.dark": "Muɔ̈l",
+  "themeSelect.light": "Ruɛl",
+};
+
+export { nus as default, messages, status };

@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Gicunci giki kiatauritwe automatically kuuma Spanish ya mbere. Kitiambiriirwe gutorongerwa ni mundu. Kethira nukenda gutethia na gutorongera, tumamiira na gukaria haha.","originalMessage":"Mantu ja gicunci giki jaumite Spanish ya mbere.","revisedMessage":"Gicunci giki kiambiriirwe gutorongerwa ni mundu na gutaura kuuma Spanish ya mbere. Kethira nikibati kurekebwa, tumamiira na gukaria haha."};
+const status = {"automatic":"Gutaura Automatically","original":"Ya Mbere","revised":"Nitorongerwe"};
+const mer = {
+  "404.text": "Ipage itirionekete. Rora URL kana ugerie kutumira bar ya gucaria.",
+  "aside.caution": "Menyera",
+  "aside.danger": "Ugwati",
+  "aside.note": "Noti",
+  "aside.tip": "Kirira",
+  "builtWithStarlight.label": "Gwakithiritwe na Starlight",
+  "fileTree.directory": "Directory",
+  "i18n.untranslatedContent": "Mantu jaja jatiri na rurimi rwaku.",
+  "languageSelect.accessibleLabel": "Thuura rurimi",
+  "menuButton.accessibleLabel": "Menu",
+  messages,
+  "page.draft": "Mantu jaja ni draft na jatikaingirwa production builds.",
+  "page.editLink": "Rekebera ipage",
+  "page.lastUpdated": "Yarekebeirwe rimwe:",
+  "page.nextLink": "Iria ikuthii",
+  "page.previousLink": "Iria yathirire",
+  "search.cancelLabel": "Tiga",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Gucaria kuri tu production builds. \nGeria gwaka na kurorera site ya kurigeria locally.",
+  "search.label": "Caria",
+  "sidebarNav.accessibleLabel": "Main",
+  "skipLink.label": "Thi mantu",
+  status,
+  "tableOfContents.onThisPage": "Gicunci giki",
+  "tableOfContents.overview": "Kwambiriria",
+  "themeSelect.accessibleLabel": "Thuura theme",
+  "themeSelect.auto": "Auto",
+  "themeSelect.dark": "Mwiru",
+  "themeSelect.light": "Weru",
+};
+
+export { mer as default, messages, status };

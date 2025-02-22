@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Intelligence",
+  "locale": "en",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "19. Intelligence",
+    "order": 19
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>We have been able to verify that many teachers of World History in the West often mock the BUDDHA, Confucius, Muhammad, Hermes, Quetzacoatl, Moses, Krishna, etc.</p>\n<p>Beyond any doubt, we have also been able to verify, to the point of satiety, the sarcasm, mockery, and irony launched by teachers against ancient religions, against the gods, against mythology, etc. All of that is precisely a lack of intelligence.</p>\n<p>In schools, colleges, and universities, religious topics should be treated with more respect, with a high sense of veneration, with true creative intelligence.</p>\n<p>Religious forms preserve eternal values and are organised according to the psychological and historical needs of each people, of each race.</p>\n<p>All religions have the same principles, the same eternal values, and differ only in form.</p>\n<p>It is not intelligent for a Christian to mock the religion of the Buddha or the Hebrew or Hindu religion because all religions rest on the same foundations.</p>\n<p>The satires of many intellectuals against religions and their founders are due to the MARXIST poison that is currently intoxicating all weak minds.</p>\n<p>Teachers in schools, colleges, and universities should guide their students along the path of true respect for our fellow human beings.</p>\n<p>It is clearly perverse and unworthy of the boor who, in the name of any theory, mocks temples, religions, sects, schools or spiritual societies.</p>\n<p>Upon leaving the classroom, students have to deal with people of all religions, schools, sects, and it is not intelligent to not even know how to maintain due composure in a temple.</p>\n<p>Upon leaving the classroom after ten or fifteen years of study, young people find themselves as slow and sleepy as other human beings, as full of emptiness and lacking in intelligence as the first day they entered school.</p>\n<p>It is urgent that students, among other things, develop the emotional centre because not everything is intellect. It is necessary to learn to feel the intimate harmonies of life, the beauty of the solitary tree, the song of the little bird in the forest, the symphony of music and colours of a beautiful sunset.</p>\n<p>It is also necessary to feel and deeply understand all the horrible contrasts of life, such as the cruel and ruthless social order of this era in which we live, the streets full of unhappy mothers who, with their malnourished and hungry children, beg for a piece of bread, the ugly buildings where thousands of poor families live, the repugnant roads through which thousands of cars powered by those fuels that damage organisms circulate, etc.</p>\n<p>The student who leaves the classroom has to face not only his own selfishness and his own problems, but also the selfishness of all people and the multiple problems of human society.</p>\n<p>The most serious thing of all is that the student who leaves the classroom, even with intellectual preparation, does not have intelligence, his conscience is asleep, he is poorly prepared for the struggle with life.</p>\n<p>The time has come to investigate and discover what it is that is called INTELLIGENCE. The dictionary, the encyclopedia, are powerless to seriously define INTELLIGENCE.</p>\n<p>Without intelligence there can never be radical transformation or true happiness, and it is very rare in life to find truly intelligent people.</p>\n<p>The important thing in life is not only to know the word INTELLIGENCE, but to experience its deep significance in ourselves.</p>\n<p>Many are those who presume to be intelligent, there is no drunkard who does not presume to be intelligent and Karl Marx, believing himself to be too intelligent, wrote his materialist farce that has cost the world the loss of eternal values, the shooting of thousands of priests of different religions, the rape of nuns, Buddhists, Christians, etc., the destruction of many temples, the torture of thousands and millions of people, etc etc. etc.</p>\n<p>Anyone can presume to be intelligent, the difficult thing is to truly be so.</p>\n<p>It is not by acquiring more bookish information, more knowledge, more experiences, more things to dazzle people, more money to buy judges and police; etc. that you will achieve what is called INTELLIGENCE.</p>\n<p>It is not with that MORE, that you can come to have INTELLIGENCE. Those who suppose that intelligence can be conquered with the process of MORE are completely wrong.</p>\n<p>It is urgent to understand in depth and in all areas of the subconscious and unconscious mind, what that pernicious process of MORE is, because in the background, the beloved EGO, the I, the MYSELF, which always desires and wants MORE and MORE to fatten and strengthen itself, is very secretly hidden.</p>\n<p>This Mephistopheles that we carry within, this SATAN, this I, says: I have MORE money, more beauty, more intelligence than that one, more prestige, more cunning, etc. etc. etc.</p>\n<p>Whoever truly wants to understand what INTELLIGENCE is, must learn to feel it, must experience it and experience it through deep meditation.</p>\n<p>Everything that people accumulate between the rotten tomb of the unfaithful memory, intellectual information, experiences of life, always fatally translates into the term of MORE and MORE. So they never come to know the deep meaning of everything they accumulate.</p>\n<p>Many read a book and then deposit it in their memory, satisfied with having accumulated more information, but when they are called to answer for the doctrine written in the book they read, it turns out that they are unaware of the profound significance of the teaching, but the I wants more and more information, more and more books even when it has not experienced the doctrine of any of them.</p>\n<p>Intelligence is not achieved with more bookish information, nor with more experience, nor with more money, nor with more prestige, intelligence can flourish in us when we understand the whole process of the I, when we understand in depth all that psychological automatism of MORE.</p>\n<p>It is essential to understand that the mind is the basic centre of MORE. Really that MORE is the same psychological I that demands and the mind is its fundamental nucleus.</p>\n<p>Whoever wants to be truly intelligent must resolve to die not only on the superficial intellectual level, but also in all the subconscious and unconscious areas of the mind.</p>\n<p>When the I dies, when the I is totally dissolved, the only thing that remains within us is the authentic BEING, the true BEING, the legitimate intelligence so coveted and so difficult.</p>\n<p>People believe that the mind is creative, they are wrong. The I is not creative and the mind is the basic nucleus of the I.</p>\n<p>Intelligence is creative because it is of the BEING, it is an attribute of the BEING. We must not confuse the mind with INTELLIGENCE.</p>\n<p>Those who suppose that INTELLIGENCE is something that can be cultivated like a greenhouse flower OR something that can be bought as titles of nobility are bought or by possessing a formidable library are completely and radically wrong.</p>\n<p>It is necessary to deeply understand all the processes of the mind, all the reactions, that psychological MORE that accumulates, etc. Only then does the burning flame of INTELLIGENCE sprout within us in a natural and spontaneous way.</p>\n<p>As the Mephistopheles that we carry within dissolves, the fire of creative intelligence gradually manifests itself within us, until it shines abrasively.</p>\n<p>Our true BEING is LOVE and from that LOVE is born the authentic and legitimate INTELLIGENCE that is not of time.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/en/educacion-fundamental/la-inteligencia.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/en/educacion-fundamental/la-inteligencia.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/en/educacion-fundamental/la-inteligencia.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

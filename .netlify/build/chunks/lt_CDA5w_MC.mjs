@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Šis skyrius buvo automatiškai išverstas iš ispanų originalo. Jis dar nebuvo peržiūrėtas žmogaus. Jei norite padėti peržiūrėti, susisiekite su mumis paspaudę čia.","originalMessage":"Šio skyriaus turinys paremtas originaliu ispanišku tekstu.","revisedMessage":"Šis skyrius buvo peržiūrėtas žmogaus ir išverstas iš originalaus ispaniško teksto. Jei vis dar reikia pataisymų, susisiekite su mumis paspaudę čia."};
+const status = {"automatic":"Automatinis Vertimas","original":"Originalas","revised":"Peržiūrėta"};
+const lt = {
+  "404.text": "Puslapis nerastas. Patikrinkite URL arba naudokite paieškos juostą.",
+  "aside.caution": "Atsargiai",
+  "aside.danger": "Pavojus",
+  "aside.note": "Pastaba",
+  "aside.tip": "Patarimas",
+  "builtWithStarlight.label": "Sukurta su Starlight",
+  "fileTree.directory": "Katalogas",
+  "i18n.untranslatedContent": "Šis turinys dar nėra prieinamas jūsų kalba.",
+  "languageSelect.accessibleLabel": "Pasirinkti kalbą",
+  "menuButton.accessibleLabel": "Meniu",
+  messages,
+  "page.draft": "Šis turinys yra juodraštis ir nebus įtrauktas į produkcijos versijas.",
+  "page.editLink": "Redaguoti puslapį",
+  "page.lastUpdated": "Paskutinį kartą atnaujinta:",
+  "page.nextLink": "Kitas",
+  "page.previousLink": "Ankstesnis",
+  "search.cancelLabel": "Atšaukti",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Paieška prieinama tik produkcijos versijose. \nPabandykite sukurti ir peržiūrėti svetainę vietiškai.",
+  "search.label": "Ieškoti",
+  "sidebarNav.accessibleLabel": "Pagrindinis",
+  "skipLink.label": "Pereiti prie turinio",
+  status,
+  "tableOfContents.onThisPage": "Šiame skyriuje",
+  "tableOfContents.overview": "Pradžia",
+  "themeSelect.accessibleLabel": "Pasirinkti temą",
+  "themeSelect.auto": "Automatinis",
+  "themeSelect.dark": "Tamsus",
+  "themeSelect.light": "Šviesus",
+};
+
+export { lt as default, messages, status };

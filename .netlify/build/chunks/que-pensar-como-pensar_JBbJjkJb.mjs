@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Ką Galvoti. Kaip Galvoti.",
+  "locale": "lt",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "5. Ką Galvoti. Kaip Galvoti.",
+    "order": 5
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Mūsų namuose ir mokykloje tėvai ir mokytojai visada mums sako, ką turėtume galvoti, bet niekada gyvenime nemoko, KAIP GALVOTI.</p>\n<p>Žinoti, ką galvoti, yra palyginti labai lengva. Mūsų tėvai, mokytojai, globėjai, knygų autoriai ir t. t. ir pan. kiekvienas yra diktatorius savaip, kiekvienas nori, kad mes galvotume pagal jo diktatus, reikalavimus, teorijas, išankstinius nusistatymus ir pan.</p>\n<p>Proto diktatorių apstu kaip piktžolių. Visur yra ydinga tendencija pavergti svetimą protą, jį uždaryti į butelį, priversti jį gyventi pagal tam tikras normas, išankstinius nusistatymus, mokyklas ir pan.</p>\n<p>Tūkstančiai ir milijonai proto DIKTATORIŲ niekada nenorėjo gerbti niekieno protinės laisvės. Jei kas nors negalvoja kaip jie, yra vadinamas iškrypėliu, atsimetėliu, neišmanėliu ir t. t. ir pan.</p>\n<p>Visas pasaulis nori pavergti visą pasaulį, visas pasaulis nori pažeisti kitų intelektinę laisvę. Niekas nenori gerbti svetimos minties laisvės. Kiekvienas jaučiasi TEISINGAS, IŠMINTINGAS, NUOSTABUS ir nori, kaip natūralu, kad kiti būtų tokie kaip jis, kad paverstų jį savo pavyzdžiu, kad galvotų kaip jis.</p>\n<p>Buvo per daug piktnaudžiaujama protu. Stebėkite KOMERSANTUS ir jų propagandą per laikraščius, radiją, televiziją ir t. t. ir pan.</p>\n<p>Komercinė propaganda vykdoma diktatoriškai! Pirkite tokį ir tokį muilą! Tokius ir tokius batus! Tiek ir tiek pesų! Tiek ir tiek dolerių! Pirkite jau dabar! Tuoj pat! Neatidėkite rytojui! Turi būti tuoj pat! ir t. t. Trūksta tik to, kad pasakytų, jog jei nepaklusite, mes jus įmesime į kalėjimą arba nužudysime.</p>\n<p>Tėvas nori prievarta įskiepyti sūnui savo idėjas, o mokytojas bara, baudžia ir rašo žemus pažymius, jei jaunuolis ar mergina DIKTATORIŠKAI nepriima mokytojo idėjų.</p>\n<p>Pusė žmonijos nori pavergti kitos pusės žmonijos protą. Ši tendencija pavergti kitų protą akivaizdžiai išryškėja, kai studijuojame juodą juodos istorijos puslapį.</p>\n<p>Visur egzistavo ir egzistuoja KRAUJUOTOS DIKTATŪROS, pasiryžusios pavergti tautas. Kraujuotos diktatūros, diktuojančios, ką žmonės turi galvoti. Vargas tam! kuris bando mąstyti laisvai: tas neišvengiamai keliauja į koncentracijos stovyklas, į Sibirą, į kalėjimą, į sunkius darbus, į kartuves, į sušaudymą, į tremtį ir t. t.</p>\n<p>Nei MOKYTOJAI ir MOKYTOJOS, nei ŠEIMOS TĖVAI, nei knygos nenori mokyti, KAIP GALVOTI.</p>\n<p>Žmonėms patinka versti kitus galvoti taip, kaip, jų manymu, turi būti, ir akivaizdu, kad kiekvienas šiuo atžvilgiu yra DIKTATORIUS savaip, kiekvienas mano, kad jo žodis yra paskutinis, kiekvienas tvirtai tiki, kad visi kiti turi galvoti kaip jis, nes jis yra geriausias iš geriausių.</p>\n<p>Šeimos tėvai, mokytojai, darbdaviai ir t. t. ir pan. bara ir vėl bara savo pavaldinius.</p>\n<p>Baisi ta baisi žmonijos tendencija negerbti kitų, pažeisti svetimą protą, įkalinti, uždaryti, pavergti, sukaustyti svetimą mintį.</p>\n<p>Vyras nori prievarta įdėti žmonai savo idėjas į galvą, savo doktriną, savo idėjas ir t. t., o žmona nori padaryti tą patį.</p>\n<p>Daugybę kartų vyras ir žmona išsiskiria dėl idėjų nesuderinamumo.</p>\n<p>Sutuoktiniai nenori suprasti poreikio gerbti svetimą intelektinę laisvę.</p>\n<p>Nė vienas sutuoktinis neturi teisės pavergti kito sutuoktinio protą. Kiekvienas iš tikrųjų yra vertas pagarbos. Kiekvienas turi teisę galvoti kaip nori, išpažinti savo religiją, priklausyti bet kuriai politinei partijai.</p>\n<p>Mokyklos berniukai ir mergaitės yra verčiami galvoti apie tokias ir tokias idėjas, bet jie nemokomi valdyti protą.</p>\n<p>Vaikų protas yra švelnus, elastingas, lankstus, o senų žmonių protas jau yra kietas, fiksuotas, kaip molis formoje, jis jau nebesikeičia, jau nebegali keistis.</p>\n<p>Vaikų ir jaunuolių protas yra linkęs į daugybę pokyčių, jis gali keistis.</p>\n<p>Vaikus ir jaunus žmones galima išmokyti, KAIP GALVOTI. Senus žmones labai sunku išmokyti, KAIP GALVOTI, nes jie jau yra tokie, kokie yra, ir tokie miršta.</p>\n<p>Labai retai gyvenime galima rasti kokį nors senuką, norintį radikaliai pasikeisti.</p>\n<p>Žmonių protas yra formuojamas nuo vaikystės. Tai yra tai, ką tėvai ir mokyklos mokytojai mėgsta daryti. Jiems patinka formuoti vaikų ir jaunuolių protą.</p>\n<p>Protas, įdėtas į formą, iš tikrųjų yra kondicionuotas protas, vergaujantis protas.</p>\n<p>Būtina, kad mokyklos MOKYTOJAI ir MOKYTOJOS sulaužytų proto pančius.</p>\n<p>Būtina, kad mokytojai mokėtų nukreipti vaikų protą į tikrąją laisvę, kad jie daugiau nebeleistų savęs pavergti.</p>\n<p>Būtina, kad mokytojai mokytų mokinius ir mokines, KAIP REIKĖTŲ GALVOTI.</p>\n<p>Mokytojai turi suprasti poreikį mokyti mokinius ir mokines analizės, meditacijos, supratimo kelio.</p>\n<p>Nė vienas supratingas asmuo niekada neturėtų dogmatiškai nieko priimti. Pirmiausia būtina ištirti. Suprasti, išsiaiškinti, prieš priimant.</p>\n<p>Kitaip tariant, pasakysime, kad nereikia priimti, bet reikia ištirti, išanalizuoti, medituoti ir suprasti. Kai supratimas yra pilnas, priėmimas yra nereikalingas.</p>\n<p>Nėra jokios naudos pripildyti galvą intelektine informacija, jei baigę mokyklą NEMOKAME GALVOTI ir toliau esame kaip GYVI AUTOMATAI, kaip mašinos, kartojantys tą pačią savo tėvų, senelių ir prosenelių rutiną ir t. t.</p>\n<p>Visada kartoti tą patį, gyventi mašinų gyvenimą, iš namų į biurą ir iš biuro į namus, tuoktis, kad taptum mašinėlėmis vaikams daryti, tai nėra gyvenimas, ir jei tam mes studijuojame, ir tam mes einame į mokyklą ir į kolegiją ir į universitetą dešimt ar penkiolika metų, geriau būtų nestudijuoti.</p>\n<p>MAHATMA GANDIS buvo labai ypatingas žmogus. Daugybę kartų protestantų pastoriai sėdėjo prie jo durų valandų valandas, kovodami, kad jį atverstų į krikščionybę protestantiška forma.</p>\n<p>Gandis nepriėmė pastorių mokymo, taip pat jo neatmetė, jis jį SUPRATO, GERBĖ ir tai yra viskas.</p>\n<p>Daugybę kartų MAHATMA sakydavo: “Aš esu Brahmanas, Žydas, Krikščionis, Mahometonas ir t. t. ir pan.</p>\n<p>MAHATMA suprato, kad visos religijos yra būtinos, nes visos išsaugo tas pačias AMŽINAS VERTES.</p>\n<p>Tas dalykas priimti ar atmesti kokią nors doktriną AR sąvoką atskleidžia proto nesubrendimą.</p>\n<p>Kai atmetame ar priimame ką nors, tai yra todėl, kad nesupratome.</p>\n<p>Kur yra SUPRATIMAS, priėmimas ar atmetimas yra nereikalingi.</p>\n<p>Protas, kuris tiki, protas, kuris netiki, protas, kuris abejoja, yra NEIŠMANANTIS protas.</p>\n<p>IŠMINTIES kelias nėra TIKĖTI ar NETIKĖTI ar ABEJOTI.</p>\n<p>IŠMINTIES kelias yra IŠSIAIŠKINTI, analizuoti, medituoti ir PATIRTI.</p>\n<p>TIESA yra tai, kas nežinoma kiekvieną akimirką. Tiesa neturi nieko bendro su tuo, ką žmogus tiki ar netiki, nei su skepticizmu.</p>\n<p>TIESA nėra klausimas kažką priimti ar atmesti. TIESA yra klausimas PATIRTI, IŠGYVENTI, SUPRASTI.</p>\n<p>Visos MOKYTOJŲ pastangos galiausiai turi nuvesti mokinius ir mokines į realaus, tikro dalyko PATIRTĮ.</p>\n<p>BŪTINA, kad MOKYTOJAI ir MOKYTOJOS atsisakytų tos pasenusios ir žalingos tendencijos, visada skirtos MODELIUOTI PLASTIŠKĄ ir LANKSTŲ vaikų protą.</p>\n<p>Absurdiška, kad SUAUGĘ žmonės, pilni išankstinių nusistatymų, aistrų, pasenusių išankstinių nuostatų ir t. t., taip pažeidžia vaikų ir jaunuolių protą, bandydami modeliuoti jų protą pagal savo pasenusias, bukagalviškas, pasenusias idėjas.</p>\n<p>Geriau gerbti MOKINIŲ ir MOKINIŲ INTELEKTINĘ LAISVĘ, gerbti jų protinį staigumą, jų kūrybinį spontaniškumą.</p>\n<p>Mokytojai ir mokytojos neturi teisės įkalinti mokinių ir mokinių protą.</p>\n<p>Pagrindinis dalykas nėra DIKTUOTI mokinių PROTUI, ką jie turėtų galvoti, bet mokyti juos pilnai, KAIP GALVOTI.</p>\n<p>PROTAS yra PAŽINIMO įrankis ir būtina, kad MOKYTOJAI ir MOKYTOJOS mokytų savo mokinius ir mokines išmintingai valdyti tą įrankį.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/lt/educacion-fundamental/que-pensar-como-pensar.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/lt/educacion-fundamental/que-pensar-como-pensar.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/lt/educacion-fundamental/que-pensar-como-pensar.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

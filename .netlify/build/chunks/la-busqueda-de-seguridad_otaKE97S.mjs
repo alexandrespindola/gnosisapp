@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Utaratibu wa Kutafuta Usalama",
+  "locale": "swc",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "6. Utaratibu wa Kutafuta Usalama",
+    "order": 6
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Wakati vifaranga wanaogopa, wanajificha chini ya mabawa ya mama yao kuku ili kupata usalama.</p>\n<p>Mtoto mwenye hofu anakimbilia kwa mama yake kwa sababu anajisikia salama akiwa naye.</p>\n<p>Kwa hivyo imeonekana kwamba HOFU na kutafuta USALAMA daima vinahusiana kwa karibu.</p>\n<p>Mtu anayeogopa kushambuliwa na majambazi hutafuta usalama katika bunduki yake.</p>\n<p>Nchi inayoogopa kushambuliwa na nchi nyingine, itanunua mizinga, ndege, meli za kivita na kuunda majeshi na kujiandaa kwa vita.</p>\n<p>Watu wengi ambao hawajui kufanya kazi, wakiwa wameogopa umaskini, hutafuta usalama katika uhalifu, na kuwa wezi, washambuliaji, n.k.</p>\n<p>Wanawake wengi wasio na akili wanaoogopa uwezekano wa umaskini huwa makahaba.</p>\n<p>Mtu mwenye wivu anaogopa kumpoteza mke wake na hutafuta usalama katika bunduki, huua na kisha ni wazi ataishia jela.</p>\n<p>Mwanamke mwenye wivu anamuua mpinzani wake au mumewe na hivyo anakuwa muuaji.</p>\n<p>Anaogopa kumpoteza mumewe na akitaka kumhakikishia, anamuua yule mwingine au anaamua kumuua.</p>\n<p>Mwenye nyumba anayeogopa kwamba watu hawatamlipa kodi ya nyumba, anadai mikataba, wadhamini, amana, n.k., akitaka kujihakikishia na ikiwa mjane maskini aliyejaa watoto hawezi kukidhi mahitaji hayo makubwa, na ikiwa wamiliki wote wa nyumba katika jiji wanafanya hivyo, mwishowe mwanamke huyo asiye na furaha atalazimika kwenda kulala na watoto wake barabarani au katika mbuga za jiji.</p>\n<p>Vita vyote vina asili yake katika hofu.</p>\n<p>Gestapo, mateso, kambi za mateso, Siberia, magereza ya kutisha, uhamishoni, kazi za kulazimishwa, kurusha risasi, n.k. zina asili yao katika hofu.</p>\n<p>Mataifa hushambulia mataifa mengine kwa hofu; hutafuta usalama katika vurugu, wanaamini kwamba kwa kuua, kuvamia, n.k. wanaweza kujifanya salama, wenye nguvu, wenye uwezo.</p>\n<p>Katika ofisi za polisi za siri, ujasusi, n.k. mashariki na magharibi, wapelelezi wanateswa, wanaogopwa, wanataka kuwafanya wakiri kwa lengo la kupata usalama kwa Jimbo.</p>\n<p>Uhalifu wote, vita vyote, uhalifu wote, una asili yake katika hofu na katika kutafuta usalama.</p>\n<p>Katika nyakati zingine kulikuwa na ukweli kati ya watu, leo hofu na kutafuta usalama vimeondoa harufu nzuri ya ukweli.</p>\n<p>Rafiki hamuamini rafiki, anaogopa kwamba atamwibia, atamdanganya, atamnyonya na hata kuna misemo ya kijinga na potovu kama hii: “USIMPE RAFIKI YAKO MGONGO”. Watu wa HITLER walisema kwamba MSEMO huu ulikuwa wa DHAHABU.</p>\n<p>Tayari rafiki anamwogopa rafiki na hata anatumia MSEMO kujilinda. Hakuna ukweli tena kati ya marafiki. Hofu na kutafuta usalama vimeondoa harufu nzuri ya ukweli.</p>\n<p>Castro Rus huko Cuba amewafyatulia risasi maelfu ya raia akiogopa kwamba watamaliza; Castro anatafuta usalama kwa kufyatua risasi. Anafikiri kwamba anaweza kupata Usalama kwa njia hiyo.</p>\n<p>Stalin, Stalin mwovu na mkatili, aliitia Urusi uvundo kwa utakaso wake wa umwagaji damu. Hiyo ilikuwa njia yake ya kutafuta usalama wake.</p>\n<p>Hitler aliandaa Gestapo, Gestapo ya kutisha, kwa usalama wa Jimbo. Hakuna shaka kwamba aliogopa kwamba watamwondoa na kwa hivyo alianzisha Gestapo ya umwagaji damu.</p>\n<p>Machungu yote ya ulimwengu huu yana asili yake katika hofu na kutafuta usalama.</p>\n<p>Walimu wa shule wanapaswa kuwafundisha wanafunzi fadhila ya ujasiri.</p>\n<p>Inasikitisha kwamba watoto wamejazwa hofu tangu nyumbani mwao.</p>\n<p>Watoto wanatishwa, wanaogopwa, wanaogopeshwa, wanapigwa, n.k.</p>\n<p>Ni kawaida kwa wazazi na walimu kuwatisha watoto na vijana kwa lengo la kusoma.</p>\n<p>Kwa kawaida watoto na vijana huambiwa kwamba wasiposoma watalazimika kuomba, kuzurura wakisikia njaa mitaani, kufanya kazi duni sana kama vile kusafisha viatu, kubeba mizigo, kuuza magazeti, kufanya kazi katika kulima, n.k. n.k. n.k. (Kama kazi ilikuwa uhalifu)</p>\n<p>Kimsingi, nyuma ya maneno haya yote ya wazazi na walimu, kuna hofu kwa mtoto na kutafuta usalama kwa mtoto.</p>\n<p>Jambo zito kuhusu yote tunayoyasema ni kwamba mtoto na kijana wanakuwa na wasiwasi, wamejazwa hofu na baadaye katika maisha ya vitendo wao ni watu waliojaa hofu.</p>\n<p>Wazazi na walimu ambao wana tabia mbaya ya kuwatisha watoto, vijana na wasichana, bila kujua wanawaelekeza kwenye njia ya uhalifu, kwa sababu kama tulivyosema tayari, uhalifu wote una asili yake katika hofu na kutafuta usalama.</p>\n<p>Leo hii HOFU na KUTAFUTA USALAMA vimegeuza sayari ya dunia kuwa jahanamu ya kutisha. Kila mtu anaogopa. Kila mtu anataka usalama.</p>\n<p>Katika nyakati zingine mtu angeweza kusafiri kwa uhuru, sasa mipaka imejaa walinzi wenye silaha, pasipoti na vyeti vya kila aina vinahitajika ili kuwa na haki ya kuvuka kutoka nchi moja hadi nyingine.</p>\n<p>Haya yote ni matokeo ya hofu na KUTAFUTA USALAMA. Mtu anaogopa anayesafiri, anaogopa anayefika na anatafuta usalama katika pasipoti na karatasi za kila aina.</p>\n<p>Walimu wa shule, vyuo, vyuo vikuu wanapaswa kuelewa hofu ya haya yote na kushirikiana kwa manufaa ya ulimwengu, wakijua jinsi ya kuelimisha vizazi vipya, wakiwafundisha njia ya ujasiri wa kweli.</p>\n<p>Ni HARAKA kuwafundisha vizazi vipya kutokuogopa na kutotafuta usalama katika chochote au kwa mtu yeyote.</p>\n<p>Ni muhimu kwamba kila mtu ajifunze kujiamini zaidi.</p>\n<p>HOFU na KUTAFUTA USALAMA ni udhaifu mbaya ambao umegeuza maisha kuwa JEHANAMU ya kutisha.</p>\n<p>Woga, waoga, wanyonge ambao daima wanatafuta USALAMA wamejaa kila mahali.</p>\n<p>Mtu anaogopa maisha, anaogopa kifo, anaogopa kile watu watasema, “kile kinachosemwa”, kupoteza nafasi ya kijamii, nafasi ya kisiasa, heshima, pesa, nyumba nzuri, mwanamke mzuri, mume mzuri, kazi, biashara, ukiritimba, samani, gari, n.k. n.k. n.k. kila kitu kinaogopwa, waoga, waoga, wanyonge wamejaa kila mahali, lakini hakuna mtu anayejiona kuwa mwoga, kila mtu anadhani kuwa yeye ni hodari, jasiri, n.k.</p>\n<p>Katika tabaka zote za kijamii kuna maelfu na mamilioni ya maslahi ambayo mtu anaogopa kupoteza na kwa hivyo kila mtu anatafuta usalama ambao kwa kulazimishwa kuwa ngumu zaidi na zaidi, kwa hakika hufanya maisha kuwa magumu zaidi, magumu zaidi, machungu zaidi, ya kikatili na ya kinyama.</p>\n<p>Maneno yote ya kejeli, masingizio yote, fitina, n.k., yana asili yake katika hofu na kutafuta usalama.</p>\n<p>Ili usipoteze bahati, msimamo, nguvu, heshima, masingizio yanaenezwa, umbea, mauaji, unalipa ili uue kwa siri, n.k.</p>\n<p>Wenye nguvu wa dunia wanajiingiza katika anasa ya kuwa na wauaji waliolipwa na kulipwa vizuri sana, kwa lengo la kuchukiza la kumwondoa yeyote anayetishia kuwafunika.</p>\n<p>Wanapenda nguvu kwa nguvu yenyewe na wanajihakikishia kwa msingi wa pesa na damu nyingi.</p>\n<p>Magazeti mara kwa mara yanatoa habari za visa vingi vya kujiua.</p>\n<p>Wengi wanaamini kwamba mtu anayejiua ni jasiri lakini kwa kweli yule anayejiua ni mwoga ambaye anaogopa maisha na anatafuta usalama katika mikono iliyokonda ya kifo.</p>\n<p>Baadhi ya mashujaa wa vita walijulikana kama watu dhaifu na waoga, lakini walipokutana uso kwa uso na kifo, hofu yao ilikuwa ya kutisha sana, hivi kwamba waligeuka kuwa wanyama wakali wakitafuta usalama kwa maisha yao, wakifanya juhudi kubwa dhidi ya kifo. Kisha wakatangazwa kuwa MASHUJAA.</p>\n<p>Hofu mara nyingi huchanganyikiwa na ujasiri. Yule anayejiua anaonekana kuwa jasiri sana, yule anayebeba bunduki anaonekana kuwa jasiri sana, lakini kwa kweli wale wanaojiua na wale wenye bunduki ni waoga sana.</p>\n<p>Yule ambaye haogopi maisha hajiui. Yule ambaye hamwogopi mtu yeyote habeba bunduki kiunoni.</p>\n<p>Ni HARAKA kwamba walimu wa shule wamfundishe raia kwa njia iliyo wazi na sahihi, kile UJASIRI wa kweli ni na kile ambacho ni hofu.</p>\n<p>HOFU na KUTAFUTA USALAMA vimegeuza ulimwengu kuwa jahanamu ya kutisha.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/swc/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/swc/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/swc/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

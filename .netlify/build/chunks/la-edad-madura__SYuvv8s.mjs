@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Orta ýaş",
+  "locale": "tk",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "27. Orta ýaş",
+    "order": 27
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Orta ýaş otuz bäş ýaşda başlap elli alty ýaşda tamamlanýar.</p>\n<p>Orta ýaşly adam öýüni dolandyryp we çagalaryna ugur görkezip bilmeli.</p>\n<p>Adaty durmuşda orta ýaşly adamlaryň hemmesi maşgala başydyr. Ýaşlykda we orta ýaşda öý we baýlyk toplamadyk adam indi ony döretmez, ol hakykatdanam şowsuzlykdyr.</p>\n<p>Garrylykda öý we baýlyk toplamak isleýänler hakykatdanam gynançlydyr.</p>\n<p>Gysgançlygyň MENI çäkden çykýar we baý baýlyklary toplamak isleýär. Ynsan bedeni çörek, eşik we pena zerur. Bedenini örtmek üçin çörek, öz öýüň, eşikleriň, kostýumlaryň, paltalaryň bolmagy zerurdyr, ýöne ýaşamak üçin uly mukdarda pul toplamak hökman däl.</p>\n<p>Biz baýlygy ýa-da gedaýçylygy goramýarys, iki çet hem ýazgarylmaga mynasypdyr.</p>\n<p>Gedaýçylygyň palçygynda aýlanýanlar köp, baýlygyň palçygynda aýlanýanlar hem ýeterlikdir.</p>\n<p>Garaşly baýlygyň bolmagy zerur, ýagny owadan baglary bolan owadan öý, ygtybarly girdeji çeşmesi, elmydama gowy görkezilmek we aç galmazlyk. Bu her bir adam üçin adaty zat.</p>\n<p>Gedaýçylyk, açlyk, keseller we bilimsizlik hiç haçan medeni we ösen diýlip atlandyrylýan ýurtda bolmaly däldir.</p>\n<p>Entäk demokratiýa ýok, ýöne ony döretmek zerur. Bir çörek, eşik we penasyz raýat bar eken, demokratiýa amalda owadan ideal bolmakdan geçmeýär.</p>\n<p>Maşgala başlyklary düşnükli, akylly, hiç haçan şerap içmeýän, ajygýan, serhoş, zalym we ş.m. bolmaly däldir.</p>\n<p>Her bir ýetişen adam öz tejribesinden çagalarynyň onuň göreldesine eýerýändigini we soňkusy ýalňyş bolsa, nesillerine manyksyz ugurlary görkezjekdigini bilýär.</p>\n<p>Orta ýaşly adamyň birnäçe aýaly bolmagy we serhoşlykda, banketlerde, orgiýalarda we ş.m. ýaşamaklygy hakykatdanam samsyklykdyr.</p>\n<p>Orta ýaşly adamyň üstünde tutuş maşgalanyň jogapkärçiligi bar we eger ol ýalňyş ýollar bilen gitse, dünýä has köp başagaýlyk, has köp bulaşyklyk, has köp ajylyk getirerligi anykdyr.</p>\n<p>Ata-ene jynslaryň arasyndaky tapawudy bilmeli. Gyzlaryň fizika, himiýa, algebra we ş.m. öwrenmegi manyksyzdyr. Aýalyň beýnisi erkek adamyňkydan tapawutlanýar, şeýle dersler erkek jynsyna laýyk gelýär, ýöne aýal akyl üçin peýdasyz we hatda zyýanlydyr.</p>\n<p>Ata-eneler we eneler mekdep okuw meýilnamasynda möhüm üýtgeşmeleri öňe sürmek üçin bütin kalby bilen göreşmeli.</p>\n<p>Aýal okamak, ýazmak, pianino çalmak, dokamak, gaýamak we umuman, aýal hünärleriniň ähli görnüşlerini öwrenmeli.</p>\n<p>Aýal mekdep skameýkasyndan ENEM we aýal hökmünde özüne degişli beýik wezipä taýýarlanmaly.</p>\n<p>Erkek jynsy üçin özboluşly çylşyrymly we kyn okuwlar bilen aýallaryň beýnisine zeper ýetirmek manyksyzdyr.</p>\n<p>Ata-eneleriň hem, mekdepleriň, kollejleriň we uniwersitetleriň mugallymlarynyň aýalyň degişli aýallaryna getirmek barada has köp alada etmegi zerurdyr. Aýallary harbylaşdyrmak, olary şäherleriň köçelerinde baýdaklar we deprekler bilen ýöremäge mejbur etmek samsyklykdyr.</p>\n<p>Aýal gaty aýal bolmaly, erkek hem gaty erkek bolmaly.</p>\n<p>Arada jyns, gomoseksualizm degradasiýanyň we wagşylygyň önümidir.</p>\n<p>Uzak we kyn okuwlara berlen gyzlaryň gartaşýandyklary we hiç kim olara öýlenmez.</p>\n<p>Häzirki durmuşda aýallaryň gysga karýeralar, gözellik medeniýeti, maşinka, stenografiýa, tikinçilik, pedagogika we ş.m. etmegi amatlydyr.</p>\n<p>Adatça, aýal diňe öý durmuşyna bagyşlanmaly, ýöne ýaşaýan döwrümiziň rehimsizligi sebäpli aýal iýmek we ýaşamak üçin işlemeli.</p>\n<p>Hakyky medeni we ösen jemgyýetde aýalyň ýaşamak üçin öýden daşary işlemegi zerur däl. Öýden daşary işlemek iň erbet görnüşiň rehimsizligidir.</p>\n<p>Häzirki degenerirlenen adam zatlaryň ýalňyş tertibini döretdi we aýalyň aýallygyny ýitirdi, ony öýünden çykardy we gul edip goýdy.</p>\n<p>Erkek akyly bolan “oglan”, çilim çekýän we gazet okaýan, etekleri dyzlaryndan ýokary ýarym ýalaňaç ýa-da sebet oýnaýan aýal, şu döwrüň degenerirlenen adamlarynyň, heläk bolýan siwilizasiýanyň jemgyýetçilik heläkçiliginiň netijesidir.</p>\n<p>Häzirki zaman içalysyna öwrülen aýal, neşe bağımlısı bolan doktor, sportda çempion aýal, alkogolly, enelikden ýüz öwürýän aýal öz gözelligini ýitirmezlik üçin çagalaryna döş bermeýän aýal ýalňyş siwilizasiýanyň ýigrenji alamatydyr.</p>\n<p>Bu zatlaryň ýalňyş tertibine garşy göreşmäge hakykatdanam taýýar bolan erkaklar we aýallar bilen dünýäni halas ediş goşunyny guramagyň wagty geldi.</p>\n<p>Dünýäde täze siwilizasiýany, täze medeniýeti döretmegiň wagty geldi.</p>\n<p>Aýal öýüň düýp daşydyr we bu daşyň ýaramaz oýulsa, gyralary bilen doly we her dürli deformasiýa bilen doly bolsa, jemgyýetçilik durmuşynyň netijesi betbagtçylyk bolar.</p>\n<p>Erkek tapawutly, tapawutly, şonuň üçin lukmançylyk, fizika, himiýa, matematika, hukuk, in engineeringenerçilik, astronomiýa we ş.m. öwrenmäge rugsat berilýär.</p>\n<p>Erkekleriň harbyleşdirilen kolleji manyksyz däl, ýöne aýallaryň harbyleşdirilen kolleji manyksyz bolmakdan daşary gorkunç gülkünç.</p>\n<p>Şäheriň ýodalarynda erkekler ýaly ýöreýän, göwsünde çaga götermeli boljak geljekki aýallara, geljekki enelere seretmek ýakymsyz.</p>\n<p>Bu diňe bir jynsda aýallygyň ýitirilendigini görkezmän, eýsem adamyň erkekliginiň ýitirilendigini hem görkezýär.</p>\n<p>Hakyky adam, gowy erkek adam aýallaryň harbyleşdirilen geçişini kabul edip bilmez. Erkek çekinmegi, adamyň psihologiki özboluşlylygy, adamyň pikiri adam degradasiýasyny dolulygyna görkezýän bu görnüşlere hakyky ýigrenç duýýar.</p>\n<p>Aýalyň öýüne, aýallygyna, tebigy gözelligine, primitiv ýönekeýligine we hakyky ýönekeýligine gaýdyp gelmegini isleýäris. Bu zatlaryň ählisine soň bermegi we ýer ýüzünde täze siwilizasiýa we täze heýkeltaraşlygy döretmegi isleýäris.</p>\n<p>Ata-eneler we mugallymlar täze nesilleri hakyky paýhas we söýgi bilen terbiýelemeli.</p>\n<p>Oglanlar diňe akyl maglumatlaryny almaly däl we hünär öwrenmeli ýa-da hünär derejesini almaly däl. Oglanlaryň jogapkärçilik duýgusyny bilmegi we dogrulygyň we aňly söýginiň ýoluna düşmegi zerur.</p>\n<p>Orta ýaşly adamyň egninde aýalyň, ogullaryň we gyzlaryň jogapkärçiligi bar.</p>\n<p>Jogapkärçilik duýgusy ýokary, päkize, sabyrly, ölçegli, asylly we ş.m. bolan orta ýaşly adama maşgalasy we ähli raýatlary hormat goýýarlar.</p>\n<p>Zinalary, zinalary, närazylyklary, her dürli adalatsyzlyklary bilen adamlary gaharlandyrýan orta ýaşly adam ähli adamlara ýigrenji bolýar we diňe bir özüne agyry bermän, eýsem maşgala agzalaryny hem ajy edýär we bütin dünýäde agyry we bulaşyklyk döredýär.</p>\n<p>Orta ýaşly adamyň öz döwründe dogry ýaşamagy zerur. Orta ýaşly adamyň ýaşlygyň eýýam geçenligine düşünmegi gyssaglydyr.</p>\n<p>Orta ýaşda ýaşlygyň şol bir dramalaryny we sahnalaryny gaýtalamak gülkünçdir.</p>\n<p>Durmuşyň her döwrüniň öz gözelligi bar we ony nädip ýaşamalydygyny bilmeli.</p>\n<p>Orta ýaşly adam garrylyk gelmänkä örän güýçli işlemeli, mürze gyş gelmänkä öz mürzesi üçin ýapraklary alyp barýan çakyr ýaly hereket edýär, şonuň ýaly-da orta ýaşly adam çaltlyk we öňden görüjilik bilen hereket etmeli.</p>\n<p>Köp ýaş ýigitler ähli möhüm gymmatlyklaryny gedaýçylyk bilen sarp edýärler we orta ýaşa ýetende olaryň erbet, gorkunç, betbagt, şowsuzdygyna göz ýetirýärler.</p>\n<p>Köp orta ýaşly adamlaryň indi gorkunçdygyna we ýaşlygyň eýýam geçenligine düşünmän, ýaşlygyň kellelerini gaýtalaýandygyny görmek hakykatdanam gülkünçdir.</p>\n<p>Heläk bolýan siwilizasiýanyň iň uly betbagtçylyklarynyň biri içgi endigidir.</p>\n<p>Ýaşlykda köp adam içýär we orta ýaşa ýetende öý gurmadylar, baýlyk döretmediler, girdejili hünärleri ýok, kantinadan kantina içgili dilenip, gorkunç gorkunç, ýigrenji, betbagt ýaşaýarlar.</p>\n<p>Maşgala başlyklary we mugallymlar ýaşlara has gowy dünýä gurmak maksady bilen dogry ugur berip, aýratyn üns bermelidirler.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/tk/educacion-fundamental/la-edad-madura.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tk/educacion-fundamental/la-edad-madura.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tk/educacion-fundamental/la-edad-madura.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

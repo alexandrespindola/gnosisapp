@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Simplitatea",
+  "locale": "ro",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "15. Simplitatea",
+    "order": 15
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Este urgent, este indispensabil să dezvoltăm înțelegerea creatoare deoarece ea aduce ființei umane adevărata libertate a vieții. Fără înțelegere este imposibil să obținem adevărata facultate critică a analizei profunde.</p>\n<p>Învățătorii și învățătoarele din școli, colegii și universități trebuie să-și conducă elevii și elevele pe calea înțelegerii autocritice.</p>\n<p>În capitolul nostru anterior am studiat deja pe larg procesele invidiei și, dacă vrem să terminăm cu toate nuanțele geloziei, fie ele religioase, pasionale, etc., trebuie să conștientizăm pe deplin ce este cu adevărat invidia, deoarece numai înțelegând profund și în mod intim procesele infinite ale invidiei, reușim să terminăm cu gelozia de orice tip.</p>\n<p>Gelozia distruge căsniciile, gelozia distruge prieteniile, gelozia provoacă războaie religioase, ură fratricidă, asasinate și suferințe de tot felul.</p>\n<p>Invidia cu toate nuanțele ei infinite se ascunde în spatele unor scopuri sublime. Există invidie în cel care, fiind informat despre existența unor sfinți sublimi, Mahatma sau Guru, dorește și el să devină sfânt. Există invidie în filantropul care se străduiește să-i depășească pe alți filantropi. Există invidie în orice individ care râvnește virtuți pentru că a avut informații, pentru că în mintea sa există date despre existența unor indivizi sacri plini de virtuți.</p>\n<p>Dorința de a fi sfânt, dorința de a fi virtuos, dorința de a fi mare are ca fundament invidia.</p>\n<p>Sfinții cu virtuțile lor au cauzat multe daune. Ne vine în minte cazul unui om care se considera el însuși foarte sfânt.</p>\n<p>Într-o anumită ocazie, un poet înfometat și mizerabil i-a bătut la ușă pentru a-i înmâna un vers frumos dedicat special sfântului din povestea noastră. Poetul aștepta doar o monedă pentru a cumpăra alimente pentru trupul său istovit și îmbătrânit.</p>\n<p>Poetul își imagina orice, mai puțin un insultă. Mare i-a fost surpriza când sfântul, cu o privire pioasă și cu sprâncenele încruntate, a închis ușa spunându-i nefericitului poet: “Pleacă de aici, prietene, departe, departe… mie nu-mi plac aceste lucruri, detest lingușirea… nu-mi plac vanitățile lumii, această viață este o iluzie… eu urmez calea umilinței și a modestiei. Nefericitul poet, care dorea doar o monedă, în schimbul acesteia a primit insulta sfântului, cuvântul care rănește, palma, și cu inima îndurerată și cu lira făcută bucăți, a plecat pe străzile orașului încet… încet… încet.</p>\n<p>Noua generație trebuie să se ridice pe baza înțelegerii autentice, deoarece aceasta este total creatoare.</p>\n<p>Memoria și amintirea nu sunt creatoare. Memoria este mormântul trecutului. Memoria și amintirea sunt moarte.</p>\n<p>Înțelegerea adevărată este factorul psihologic al eliberării totale.</p>\n<p>Amintirile memoriei nu ne pot aduce niciodată o adevărată eliberare, deoarece aparțin trecutului și, prin urmare, sunt moarte.</p>\n<p>Înțelegerea nu este un lucru al trecutului și nici al viitorului. Înțelegerea aparține momentului pe care îl trăim aici și acum. Memoria aduce întotdeauna ideea de viitor.</p>\n<p>Este urgent să studiem știința, filozofia, arta și religia, dar nu trebuie să ne încredem studiile fidelității memoriei, deoarece aceasta nu este fidelă.</p>\n<p>Este absurd să depunem cunoștințele în mormântul memoriei. Este stupid să îngropăm în groapa trecutului cunoștințele pe care trebuie să le înțelegem.</p>\n<p>Noi nu ne-am putea pronunța niciodată împotriva studiului, împotriva înțelepciunii, împotriva științei, dar este incongruent să depunem bijuteriile vii ale cunoașterii între mormântul corupt al memoriei.</p>\n<p>Devine necesar să studiem, devine necesar să cercetăm, devine necesar să analizăm, dar trebuie să medităm profund pentru a înțelege la toate nivelurile minții.</p>\n<p>Omul cu adevărat simplu este profund comprehensiv și are o minte simplă.</p>\n<p>Important în viață nu este ceea ce am acumulat în mormântul memoriei, ci ceea ce am înțeles nu numai la nivel intelectual, ci și în diferitele domenii subconștiente, inconștiente ale minții.</p>\n<p>Știința, știința, trebuie să se transforme în înțelegere imediată. Când cunoștințele, când studiul s-au transformat în înțelegere creatoare autentică, putem înțelege atunci toate lucrurile imediat, deoarece înțelegerea devine imediată, instantanee.</p>\n<p>În omul simplu nu există complicații în minte, deoarece orice complicație a minții se datorează memoriei. Eul machiavelic pe care îl purtăm în interior este memorie acumulată.</p>\n<p>Experiențele vieții trebuie să se transforme în înțelegere adevărată.</p>\n<p>Când experiențele nu se transformă în înțelegere, când experiențele continuă în memorie, constituie putreziciunea mormântului peste care arde flacăra fatuă și luciferică a intelectului.</p>\n<p>Este necesar să știm că intelectul animal lipsit total de orice spiritualitate este doar verbalizarea memoriei, lumânarea funerară arzând pe piatra funerară.</p>\n<p>Omul simplu are mintea liberă de experiențe, deoarece acestea au devenit conștiință, s-au transformat în înțelegere creatoare.</p>\n<p>Moartea și viața sunt intim asociate. Numai murind bobul se naște planta, numai murind experiența se naște înțelegerea. Acesta este un proces de transformare autentică.</p>\n<p>Omul complicat are memoria plină de experiențe.</p>\n<p>Acest lucru demonstrează lipsa sa de înțelegere creatoare, deoarece atunci când experiențele sunt pe deplin înțelese la toate nivelurile minții, ele încetează să mai existe ca experiențe și se nasc ca înțelegere.</p>\n<p>Este necesar mai întâi să experimentăm, dar nu trebuie să rămânem pe terenul experienței, deoarece atunci mintea se complică și devine dificilă. Este necesar să trăim viața intens și să transformăm toate experiențele în înțelegere creatoare autentică.</p>\n<p>Cei care presupun în mod eronat că, pentru a fi comprehensivi, simpli și modești, trebuie să abandonăm lumea, să devenim cerșetori, să trăim în colibe izolate și să purtăm un șorț în loc de un costum elegant, se înșală total.</p>\n<p>Mulți anahoreți, mulți pustnici solitari, mulți cerșetori au minți extrem de complicate și dificile.</p>\n<p>Este inutil să ne îndepărtăm de lume și să trăim ca anahoreți dacă memoria este plină de experiențe care condiționează fluxul liber al gândirii.</p>\n<p>Este inutil să trăim ca pustnici, dorind să ducem o viață de sfinți, dacă memoria este umplută cu informații care nu au fost înțelese în mod corespunzător, care nu au devenit conștiință în diferitele cotloane, coridoare și regiuni inconștiente ale minții.</p>\n<p>Cei care transformă informațiile intelectuale în adevărată înțelegere creatoare, cei care transformă experiențele vieții în adevărată înțelegere de fond nu au nimic în memorie, trăiesc din moment în moment plini de plinătate adevărată, au devenit simpli și modești, deși trăiesc în reședințe somptuoase și în perimetrul vieții urbane.</p>\n<p>Copiii mici înainte de vârsta de șapte ani sunt plini de simplitate și adevărată frumusețe interioară, deoarece doar prin ei se exprimă ESENȚA vie a vieții în absența totală a EULUI PSIHOLOGIC.</p>\n<p>Trebuie să recucerim copilăria pierdută, în inimile și în mințile noastre. Trebuie să recucerim inocența dacă vrem cu adevărat să fim fericiți.</p>\n<p>Experiențele și studiul transformate în înțelegere de fond nu lasă reziduuri în mormântul memoriei și atunci, devenim simpli, modești, inocenți, fericiți.</p>\n<p>Meditația de fond asupra experiențelor și cunoștințelor dobândite, autocritica profundă, psihanaliza intimă convertesc, transformă totul în înțelegere creatoare profundă. Aceasta este calea fericirii autentice născute din înțelepciune și dragoste.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/ro/educacion-fundamental/la-sencillez.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/ro/educacion-fundamental/la-sencillez.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/ro/educacion-fundamental/la-sencillez.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

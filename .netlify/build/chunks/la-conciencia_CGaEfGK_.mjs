@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Ang Kamalayan",
+  "locale": "fil",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "37. Ang Kamalayan",
+    "order": 37
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Madalas ikinalilito ng mga tao ang KAMALAYAN sa TALINO o sa ISIP at ang taong napakatalino o intelektuwal ay tinatawag nilang malay.</p>\n<p>Pinaninindigan namin na ang KAMALAYAN sa tao ay walang pag-aalinlangan at walang pangamba na magkamali, isang napakaespesyal na uri ng PAG-UNAWA SA LOOB na kaalaman na ganap na hiwalay sa anumang mental na aktibidad.</p>\n<p>Ang kakayahan ng KAMALAYAN ay nagbibigay-daan sa atin na makilala ang ating SARILI.</p>\n<p>Ang KAMALAYAN ay nagbibigay sa atin ng ganap na kaalaman kung ANO, kung saan ito, kung ano ang tunay na alam, kung ano ang tiyak na hindi alam.</p>\n<p>Itinuturo ng REBOLUSYONARYONG SIKOLOHIYA na ang tao lamang ang makakakilala sa kanyang sarili.</p>\n<p>Tayo lamang ang nakakaalam kung tayo ay may malay sa isang partikular na sandali o hindi.</p>\n<p>Tanging ang isang tao ang nakakaalam ng kanyang sariling kamalayan at kung ito ay umiiral sa isang partikular na sandali o hindi.</p>\n<p>Ang tao mismo at walang iba maliban sa kanya ang makakapansin sa isang saglit, sa isang sandali na bago ang saglit na iyon, bago ang sandaling iyon, ay hindi talaga siya malay, ang kanyang kamalayan ay napakatulog, pagkatapos ay kalilimutan niya ang karanasang iyon o iingatan ito bilang isang alaala, bilang alaala ng isang matinding karanasan.</p>\n<p>Kailangang malaman na ang KAMALAYAN sa HAYOP NA RASYONAL ay hindi isang bagay na tuluy-tuloy at permanente.</p>\n<p>Karaniwan, ang KAMALAYAN sa HAYOP NA INTELEKTUWAL na tinatawag na tao ay mahimbing na natutulog.</p>\n<p>Bihira, napakabihira ang mga sandali kung kailan gising ang KAMALAYAN; ang hayop na intelektuwal ay nagtatrabaho, nagmamaneho ng mga kotse, nagpapakasal, namamatay, atbp. na may ganap na tulog na kamalayan at sa mga pambihirang sandali lamang nagigising:</p>\n<p>Ang buhay ng tao ay isang buhay ng panaginip, ngunit naniniwala siya na siya ay gising at hindi niya kailanman aaminin na siya ay nananaginip, na ang kanyang kamalayan ay tulog.</p>\n<p>Kung mayroong sinumang magising, labis siyang mapapahiya sa kanyang sarili, agad niyang mauunawaan ang kanyang pagpapatawa, ang kanyang pagiging katawa-tawa.</p>\n<p>Ang buhay na ito ay labis na katawa-tawa, kakila-kilabot na trahedya at bihirang kahanga-hanga.</p>\n<p>Kung ang isang boksingero ay biglang nagising sa gitna ng laban, mahihiya siyang tumingin sa buong kagalang-galang na publiko at tatakas mula sa kakila-kilabot na palabas, sa pagtataka ng mga tulog at walang malay na karamihan.</p>\n<p>Kapag inamin ng tao na siya ay may TULOG NA KAMALAYAN, makatitiyak kayo na nagsisimula na siyang magising.</p>\n<p>Ang mga reaksyunaryong Paaralan ng lumang Sikolohiya na nagtatanggi sa pag-iral ng KAMALAYAN at maging ang kawalan ng silbi ng gayong termino, ay nagpapahiwatig ng pinakamalalim na estado ng pagtulog. Ang mga tagasunod ng gayong mga Paaralan ay mahimbing na natutulog sa isang halos infra-malay at walang malay na estado.</p>\n<p>Ang mga nagkakamali sa kamalayan sa mga sikolohikal na tungkulin; mga iniisip, damdamin, mga impulse sa paggalaw at sensasyon, ay talagang walang malay, mahimbing na natutulog.</p>\n<p>Ang mga umaamin sa pag-iral ng KAMALAYAN ngunit tahasang itinatanggi ang iba’t ibang antas ng kamalayan, ay nagpapahiwatig ng kakulangan ng karanasan sa kamalayan, pagtulog ng kamalayan.</p>\n<p>Ang sinumang tao na minsan nang pansamantalang nagising, ay alam nang mabuti sa pamamagitan ng sariling karanasan na mayroong iba’t ibang antas ng kamalayan na nakikita sa sarili.</p>\n<p>Unang Oras. Gaano katagal tayong nanatiling may malay?</p>\n<p>Pangalawang Dalas. Ilang beses na tayong nagising sa kamalayan?</p>\n<p>Ikatlo. LAKI AT PENETRASYON. Sa ano tayo magiging malay?</p>\n<p>Ang REBOLUSYONARYONG SIKOLOHIYA at ang sinaunang PHILOKALIA ay nagsasabi na sa pamamagitan ng malalaking SUPER-PAGSISIKAP ng napakaespesyal na uri ay maaaring gisingin ang kamalayan at gawin itong tuluy-tuloy at makontrol.</p>\n<p>Ang PANGUNAHING EDUKASYON ay naglalayong gisingin ang KAMALAYAN. Walang saysay ang sampu o labinlimang taon ng pag-aaral sa Paaralan, Kolehiyo at Unibersidad, kung sa paglabas natin sa mga silid-aralan tayo ay mga tulog na awtomatiko.</p>\n<p>Hindi pagmamalabis na sabihin na sa pamamagitan ng ilang malaking PAGSISIKAP ay maaaring maging malay ang HAYOP NA INTELEKTUWAL sa kanyang sarili kahit na sa loob lamang ng ilang minuto.</p>\n<p>Malinaw na sa bagay na ito ay karaniwang mayroong mga bihirang eksepsiyon na kailangan nating hanapin gamit ang ilawan ni Diogenes, ang mga bihirang kasong iyon ay kinakatawan ng mga TUNAY NA TAO, BUDDHA, HESUS, HERMES, QUETZACOATL, atbp.</p>\n<p>Ang mga tagapagtatag na ito ng mga RELIHIYON ay nagtataglay ng TULUY-TULOY NA KAMALAYAN, sila ay mga dakilang ILUMINADO.</p>\n<p>Karaniwan, ang mga tao ay HINDI malay sa kanilang sarili. Ang ilusyon ng pagiging malay sa isang tuluy-tuloy na paraan ay nagmumula sa memorya at sa lahat ng mga proseso ng pag-iisip.</p>\n<p>Ang taong nagsasanay ng isang retrospective na ehersisyo upang alalahanin ang kanyang buong buhay, ay tunay na maaaring gunitain, alalahanin kung ilang beses siyang nagpakasal, kung ilang anak ang kanyang ipinanganak, kung sino ang kanyang mga magulang, kanyang mga Guro, atbp., ngunit hindi ito nangangahulugan ng paggising sa kamalayan, ito ay simpleng pag-alala sa mga walang malay na kilos at iyon lang.</p>\n<p>Kailangang ulitin ang sinabi na natin sa mga nakaraang kabanata. Mayroong apat na estado ng KAMALAYAN. Ito ay: TULOG, estado ng PAGGISING, AUTO-Kamalayan at OBJEKTIBONG KAMALAYAN.</p>\n<p>Ang mahirap na HAYOP NA INTELEKTUWAL na nagkakamaling tinatawag na TAO, ay nabubuhay lamang sa dalawa sa mga estadong iyon. Ang isang bahagi ng kanyang buhay ay ginugugol sa pagtulog at ang isa pa sa maling tinatawag na ESTADO NG PAGGISING, na isa ring panaginip.</p>\n<p>Ang taong natutulog at nananaginip, ay naniniwala na siya ay nagigising sa pamamagitan ng pagbabalik sa estado ng paggising, ngunit sa katotohanan sa panahon ng estado ng paggising na ito ay patuloy siyang nananaginip.</p>\n<p>Ito ay katulad ng madaling araw, nagtatago ang mga bituin dahil sa liwanag ng araw ngunit patuloy silang umiiral bagama’t hindi sila nakikita ng mga pisikal na mata.</p>\n<p>Sa normal na buhay, ang tao ay walang alam tungkol sa AUTO-KAMALAYAN at lalo na tungkol sa OBJEKTIBONG KAMALAYAN.</p>\n<p>Gayunpaman, ang mga tao ay mayabang at naniniwala ang lahat na sila ay AUTO-MALAY; matatag na naniniwala ang HAYOP NA INTELEKTUWAL na siya ay may kamalayan sa kanyang sarili at hindi niya kailanman tatanggapin na sabihin sa kanya na siya ay tulog at nabubuhay na walang malay sa kanyang sarili.</p>\n<p>Mayroong mga pambihirang sandali kung kailan nagigising ang HAYOP NA INTELEKTUWAL, ngunit ang mga sandaling iyon ay napakabihira, maaari silang katawanin sa isang saglit ng sukdulang panganib, sa panahon ng isang matinding emosyon, sa ilang bagong pangyayari, sa ilang bagong hindi inaasahang sitwasyon, atbp.</p>\n<p>Talagang isang kasawian na ang mahirap na HAYOP NA INTELEKTUWAL ay walang kontrol sa mga panandaliang estado ng kamalayan na iyon, na hindi niya kayang tawagin ang mga ito, na hindi niya kayang gawin ang mga ito na tuluy-tuloy.</p>\n<p>Gayunpaman, sinasabi ng PANGUNAHING EDUKASYON na maaaring MAKAMIT ng tao ang kontrol sa KAMALAYAN at magkaroon ng AUTO-KAMALAYAN.</p>\n<p>Ang REBOLUSYONARYONG SIKOLOHIYA ay may mga siyentipikong pamamaraan upang GISINGIN ang KAMALAYAN.</p>\n<p>Kung gusto nating GISINGIN ang KAMALAYAN kailangan nating magsimula sa pamamagitan ng pagsusuri, pag-aaral at pagkatapos ay alisin ang lahat ng mga hadlang na nagpapakita sa ating sarili sa daan, sa aklat na ito ay itinuro namin ang daan upang gisingin ang KAMALAYAN simula sa mismong mga bangko ng Paaralan.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/fil/educacion-fundamental/la-conciencia.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/fil/educacion-fundamental/la-conciencia.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/fil/educacion-fundamental/la-conciencia.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

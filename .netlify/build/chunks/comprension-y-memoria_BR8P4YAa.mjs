@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Düşünje we Ýat",
+  "locale": "tk",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "13. Düşünje we Ýat",
+    "order": 13
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Ýatlamak, gören we eşiden zatlarymyzy, okanlarymyzy, başgalaryň bize aýdanlaryny, başymyzdan geçiren wakalarymyzy we ş. m. ýadyňda saklamaga synanyşmakdyr.</p>\n<p>Mugallymlar öz okuwçylarynyň öz sözlerini, sözlemlerini, okuw kitaplarynda ýazylanlary, tutuş bölümleri, ähli nokatlary we vergülleri bilen agyr ýumuşlary ýadynda saklamagyny isleýärler.</p>\n<p>Synaglardan geçmek, bize aýdylanlary, mehaniki okalanlary, ýatdan geplemek, toty ýaly gaýtalamak, ýatda saklanan ähli zatlary aýtmak diýmekdir.</p>\n<p>Täze nesil, ýatda edilen ähli ýazgylary radioýaýlymyň diski ýaly gaýtalamagyň, düýpli düşünmek diýmek däldigine düşünmelidir. Ýatlamak düşünmek däldir, düşünmezden ýatlamagyň peýdasy ýok, ýatlama geçmişe degişlidir, ol öli zat, eýýäm ýaşaýşy ýok zat.</p>\n<p>Mekdepleriň, kollejleriň we uniwersitetleriň ähli okuwçylary çuňňur düşünmegiň çuň manysyna hakykatdanam düşünmegi zerurdyr, gyssaglydyr we häzirki wagtda iň wajypdyr.</p>\n<p>DÜŞÜNMEK derrew, göni, güýçli başdan geçirýän zadymyz, gaty çuň başdan geçirýän zadymyz we bilkastlaýyn hereketiň hakyky içki çeşmesine öwrülýän zatdyr.</p>\n<p>Ýatlamak, ýatlamak öli zat, geçmişe degişli we gynansak-da, nusga, şygar, ideýa, mehaniki taqlyt etmek we bilkastlaýyn yzarlamak isleýän idealizme öwrülýär.</p>\n<p>HAKYKAT DÜŞÜNMÄKDE, çuň düşünjede, düýbünden içki düşünjede diňe ynsabyň içki basyşy, içerimizde göterýän mazmunymyzdan dörän hemişelik basyş bar we şol hemme zat.</p>\n<p>Hakyky düşüniş, saýlamagyň depressiw prosesinden azat, tebigy, ýönekeý, spontan hereket hökmünde, hiç hili ikirjiňlenmesiz arassa ýüze çykýar. Hereketiň GIZLIN ÇEŞMESINE öwrülen DÜŞÜNMEK gaty gowy, ajaýyp, ruhlandyryjy we esasanam mertebelidir.</p>\n<p>Okanlarymyzyň, arzuw edýän idealymyzyň, bize öwredilen kadanyň, özüni alyp baryşyň, ýatda jemlenen tejribeleriň we ş. m. esasynda edilen hereket, hasaplaýyş, depressiw opsiýa bagly, ikitaraplaýyn, düşünjeli saýlawlara esaslanýar we diňe ýalňyşlyga we agyrylara getirýär.</p>\n<p>Hereketi ýatlamaga uýgunlaşdyrmak, hereketi ýatda saklanan zatlara gabat gelmegi üýtgetmäge synanyşmak, emeli zat, spontanlygy bolmadyk manyly zat däl we diňe ýalňyşlyga we agyrylara eltip biler.</p>\n<p>Synaglardan geçmek, ýyldan geçmek, akyllylygy we ýady köp bolan islendik akylsyz adam muny edýär.</p>\n<p>Öwrenilen derslere düşünmek we synagdan geçiriljek zatlar, ýat bilen hiç hili baglanyşygy ýok, intellektualizm bilen garyşdyrylmazlygy zerur bolan hakyky akyla degişlidir.</p>\n<p>Durmuşynyň ähli hereketlerini ýadyň ammarynda jemlenen ideallara, teoriýalara we ähli görnüşdäki ýatlamalara esaslandyrmak isleýän adamlar, elmydama deňeşdirme bilen deňeşdirýärler we deňeşdirme bar ýerde, göriplik hem bar. Şol adamlar öz adamlaryny, maşgalalaryny, çagalaryny goňşynyň çagalary, goňşy adamlar bilen deňeşdirýärler. Öýlerini, mebellerini, eşiklerini, ähli zatlaryny goňşynyň ýa-da goňşularyň ýa-da ýakyn adamyň zatlary bilen deňeşdirýärler. Öz pikirlerini, çagalarynyň akylyny beýleki adamlaryň pikirleri, beýleki adamlaryň akyly bilen deňeşdirýärler we göriplik hereketiň gizlin çeşmesine öwrülýär.</p>\n<p>Dünýäniň bagtsyzlygyna garamazdan, jemgyýetiň ähli mehanizmi göriplik we satyn alyş ruhuna esaslanýar. Her kim her kime göriplik edýär. Biz pikirleri, zatlary, adamlary görüp, pul we has köp pul, ýatda jemleýän täze teoriýalar, täze pikirler, meňzeşlerimizi haýran galdyrmak üçin täze zatlar we ş. m. satyn almak isleýäris.</p>\n<p>HAKYKAT DÜŞÜNMÄKDE, kanuny, hakyky, hakyky söýgi bar we diňe ýadyň aýdylmagy däl.</p>\n<p>Ýatda saklanýan zatlar, ýada ynanylýan zatlar, tizden ýatdan çykýar, sebäbi ýat biwepalykdyr. Talyp ýadyň ammaryna ideallary, teoriýalary, doly tekstleri ýerleşdirýär, olar durmuşda hiç hili peýda bermeýär, sebäbi ahyrynda ýatdan hiç hili yz galdyrmazdan ýok bolýar.</p>\n<p>Diňe okap we mehaniki okaýan adamlar, ýadyň ammarynda teoriýalary jemlemekden lezzet alýan adamlar akyly ýok edýärler, oňa betbagtçylykly zeper ýetirýärler.</p>\n<p>Biz düýpli düşünmäge esaslanan hakyky çuňňur we bilkastlaýyn okamaklyga garşy çykmadyk. Biz diňe köne pedagogikanyň usullaryny ýazgaryp geçýäris. Biz okuwyň ähli mehaniki ulgamyny, ähli ýatlamany we ş. m. ýazgarýarys. Hakyky düşüniş bar ýerde, ýatlamak artykmaçlyk edýär.</p>\n<p>Okamaly, peýdaly kitaplar zerur, mekdepleriň, kollejleriň, uniwersitetleriň mugallymlary zerur. Gurular, ruhy ýolbaşçylar, mahatmalar we ş. m. zerur, ýöne taglymatlara doly düşünmeli we diňe biwepa ýadyň ammarynda ýerleşdirmeli däl.</p>\n<p>Ýatda jemlenen ýatlama bilen, ideal bilen, bolmak isleýän zadymyz bilen deňeşdirmegiň erbet tagamy bolýança, hakyky azat bolup bilmeris we ş. m.</p>\n<p>Alynan taglymatlara hakykatdanam düşünenimizde, olary ýatda saklamak ýa-da ideala öwürmek zerurlygy ýok.</p>\n<p>Indi we şu wagt nähili bolýandygymyz bilen, soňra bolmak isleýän zadymyz bilen deňeşdirme bar ýerde, durmuşymyzy kämilleşdirmek isleýän ideal ýa-da model bilen deňeşdirme bar ýerde, hakyky söýgi bolup bilmez.</p>\n<p>Ähli deňeşdirme ýigrenjidir, ähli deňeşdirme gorky, göriplik, buýsanç we ş. m. getirýär. Isleýän zadymyza ýetmezlik gorkusy, başgalaryň ösüşine göriplik, başgalardan has ýokarydygymyza ynanýandygymyz üçin buýsanç. Durmuşda möhüm zat, ýüzümiz erbet, göriplikli, egoist, açgöz we ş. m. bolmagyna garamazdan, mukaddesdigimizi çaklamazlyk, nol derejesinden başlamak we özümize hakykatdanam düşünişmek, nähili bolýan zadymyza we bolmak isleýän zadymyza ýa-da bolmak üçin çaklaýan zadymyza däl.</p>\n<p>Hakykatdanam we düýpli tejribe görnüşinde indi we şu wagt nähili bolýandygymyzy düşünmek üçin syn etmegi öwrenmesek, özümi ýok etmek mümkin däl.</p>\n<p>Hakykatdanam düşünmek isleýän bolsak, mugallymlarymyzy, gurularymyzy, ruhanylarymyzy, terbiýeçilerimizi, ruhy ýolbaşçylarymyzy we ş. m. diňlemeli.</p>\n<p>Täze tolkunyň oglanlary we gyzlary ata-enelerimize, mugallymlarymyza, ruhy ýolbaşçylarymyza, gurularymyza, mahatmalarymyza hormat goýmagy ýatdan çykardylar.</p>\n<p>Ata-enelerimize, mugallymlarymyza, terbiýeçilerimize ýa-da ruhy ýolbaşçylarymyza hormat goýmagy bilmeseňiz, taglymatlara düşünmek mümkin däl.</p>\n<p>Düýbünden düşünmezden, diňe ýatdan öwrenen zatlarymyzy mehaniki ýatlamak, akyly we ýüregi öldürýär we göriplik, gorky, buýsanç we ş. m. döredýär.</p>\n<p>Hakykatdanam bilkastlaýyn we çuň diňlemegi bilýänimizde, içimizde ajaýyp güýç, ajaýyp düşüniş, tebigy, ýönekeý, ähli mehaniki prosesden azat, ähli beýni işinden azat, ähli ýatlamadan azat döreýär.</p>\n<p>Talabyň beýnisini etmeli köp ýadyň uly tagallasyndan boşatmak ýeňil bolanda, orta mekdebiň okuwçylaryna ýadro gurluşyny we elementleriň döwürleýin tablisasyny öwretmek we bakalawr derejesine eýe bolan adamyň gatnaşygyna we kwantlara düşünmegi mümkin bolar.</p>\n<p>Orta mekdepleriň käbir professorlary we professorlary bilen söhbetdeş bolanymyzda, köne pedagogika antiku we wagty geçen wagtda hakyky fanatizm bilen gorkuzylýandygyna düşünýäris. Okuwçylaryň düşünmese-de, hemme zady ýatdan öwrenmeklerini isleýärler.</p>\n<p>Käwagt ýatdan has gowudygyna razy bolýarlar, ýöne soňra fizika, himiýa, matematika we ş. m. formulalarynyň ýatda saklanmalydygyny aýdýarlar.</p>\n<p>Bu düşünjäniň ýalandygy düşnüklidir, sebäbi fizika, himiýa, matematika we ş. m. formula diňe intellektual derejede däl, eýsem, aňyň beýleki derejelerinde, mysal üçin, aňsyzlykda, aňastynda, aňastynda we ş. m. hem dogry düşünilende. Ýatda saklamak zerurlygy ýok, psihikamyzyň bir bölegine öwrülýär we durmuş şertleri talap edende, derrew instinktiw bilim hökmünde ýüze çykyp biler.</p>\n<p>Bu doly bilim bize HEMME ZADY BILMEK görnüşini, bilkastlaýyn obýektiw ýüze çykarmak usulyny berýär.</p>\n<p>Aňyň ähli derejelerinde düýpli düşünmek diňe çuň introspektiw oýlanma arkaly mümkindir.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/tk/educacion-fundamental/comprension-y-memoria.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tk/educacion-fundamental/comprension-y-memoria.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tk/educacion-fundamental/comprension-y-memoria.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Бұл тарау испан тіліндегі түпнұсқадан автоматты түрде аударылған. Әлі адам тексерісінен өтпеген. Егер тексеруге көмектескіңіз келсе, мына жерді басып бізбен байланысыңыз.","originalMessage":"Бұл тараудың мазмұны түпнұсқа испан мәтініне негізделген.","revisedMessage":"Бұл тарау испан тіліндегі түпнұсқадан адам тексерісі мен аудармадан өтті. Егер әлі де түзетулер қажет болса, мына жерді басып бізбен байланысыңыз."};
+const status = {"automatic":"Автоматты Аударма","original":"Түпнұсқа","revised":"Қаралған"};
+const kk = {
+  "404.text": "Бет табылмады. URL мекенжайын тексеріңіз немесе іздеу жолағын пайдаланып көріңіз.",
+  "aside.caution": "Сақтық",
+  "aside.danger": "Қауіп",
+  "aside.note": "Ескертпе",
+  "aside.tip": "Кеңес",
+  "builtWithStarlight.label": "Starlight-пен жасалған",
+  "fileTree.directory": "Каталог",
+  "i18n.untranslatedContent": "Бұл мазмұн әзірге сіздің тіліңізде қолжетімді емес.",
+  "languageSelect.accessibleLabel": "Тілді таңдау",
+  "menuButton.accessibleLabel": "Мәзір",
+  messages,
+  "page.draft": "Бұл мазмұн нобай және өндірістік нұсқаларға енгізілмейді.",
+  "page.editLink": "Бетті өңдеу",
+  "page.lastUpdated": "Соңғы жаңарту:",
+  "page.nextLink": "Келесі",
+  "page.previousLink": "Алдыңғы",
+  "search.cancelLabel": "Болдырмау",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Іздеу тек өндірістік нұсқаларда қолжетімді. \nЖергілікті тексеру үшін сайтты құрып, алдын ала қарауды көріңіз.",
+  "search.label": "Іздеу",
+  "sidebarNav.accessibleLabel": "Негізгі",
+  "skipLink.label": "Мазмұнға өту",
+  status,
+  "tableOfContents.onThisPage": "Осы тарауда",
+  "tableOfContents.overview": "Басы",
+  "themeSelect.accessibleLabel": "Тақырыпты таңдау",
+  "themeSelect.auto": "Автоматты",
+  "themeSelect.dark": "Қараңғы",
+  "themeSelect.light": "Жарық",
+};
+
+export { kk as default, messages, status };

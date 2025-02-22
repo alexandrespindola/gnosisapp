@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Integrasi",
+  "locale": "id",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "14. Integrasi",
+    "order": 14
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Salah satu kerinduan terbesar psikologi adalah mencapai INTEGRASI TOTAL.</p>\n<p>Jika AKU bersifat INDIVIDUAL, masalah INTEGRASI PSIKOLOGIS akan terpecahkan dengan sangat mudah, tetapi sayangnya bagi dunia, AKU ada di dalam setiap orang dalam bentuk JAMAK.</p>\n<p>AKU JAMAK adalah penyebab mendasar dari semua kontradiksi batin kita.</p>\n<p>Jika kita dapat melihat diri kita di cermin seluruh tubuh seperti apa adanya kita secara PSIKOLOGIS dengan semua kontradiksi batin kita, kita akan sampai pada kesimpulan yang menyakitkan bahwa kita belum memiliki individualitas yang sejati.</p>\n<p>Organisme manusia adalah mesin luar biasa yang dikendalikan oleh AKU JAMAK yang dipelajari secara mendalam oleh PSIKOLOGI REVOLUSIONER.</p>\n<p>Saya akan membaca koran, kata AKU INTELEKTUAL; Saya ingin menghadiri pesta, seru AKU EMOSIONAL; Persetan dengan pesta, gerutu AKU GERAKAN, lebih baik saya jalan-jalan, SAYA tidak mau jalan-jalan, teriak AKU insting pelestarian diri, saya lapar dan saya akan makan, dll.</p>\n<p>Masing-masing AKU kecil yang membentuk EGO, ingin memerintah, menjadi tuan, menjadi raja.</p>\n<p>Dalam terang psikologi revolusioner, kita dapat memahami bahwa AKU adalah legiun dan bahwa Organisme adalah mesin.</p>\n<p>AKU-AKU kecil bertengkar satu sama lain, mereka berkelahi untuk supremasi, masing-masing ingin menjadi kepala, tuan, raja.</p>\n<p>Ini menjelaskan keadaan disintegrasi psikologis yang menyedihkan di mana makhluk intelektual malang yang salah disebut MANUSIA hidup.</p>\n<p>Penting untuk memahami apa arti kata DISINTEGRASI dalam PSIKOLOGI. Hancur adalah berantakan, tersebar, terkoyak, bertentangan, dll.</p>\n<p>Penyebab utama DISINTEGRASI PSIKOLOGIS adalah kecemburuan yang sering kali terwujud dalam bentuk yang sangat halus dan menyenangkan.</p>\n<p>Kecemburuan itu multifaset dan ada ribuan alasan untuk membenarkannya. Kecemburuan adalah mata air rahasia dari seluruh mesin sosial. Orang-orang bodoh senang membenarkan kecemburuan.</p>\n<p>Orang kaya iri pada orang kaya dan ingin menjadi lebih kaya. Orang miskin iri pada orang kaya dan ingin menjadi kaya juga. Orang yang menulis iri pada orang yang menulis dan ingin menulis lebih baik. Orang yang memiliki banyak pengalaman iri pada orang yang memiliki lebih banyak pengalaman dan ingin memiliki lebih banyak dari orang itu.</p>\n<p>Orang tidak puas dengan roti, pakaian, dan tempat tinggal. Mata air rahasia kecemburuan atas mobil orang lain, atas rumah orang lain, atas setelan tetangga, atas banyak uang teman atau musuh, dll. menghasilkan keinginan untuk meningkatkan, memperoleh barang dan lebih banyak barang, gaun, setelan jas, kebajikan, agar tidak kalah dengan orang lain, dll. dll. dll.</p>\n<p>Hal yang paling tragis dari semua ini adalah bahwa proses akumulasi pengalaman, kebajikan, barang, uang, dll. memperkuat AKU JAMAK yang kemudian mengintensifkan di dalam diri kita sendiri kontradiksi batin, air mata yang mengerikan, pertempuran kejam dari hati nurani kita, dll. dll. dll.</p>\n<p>Semua itu adalah rasa sakit. Tidak ada yang dapat membawa kepuasan sejati bagi hati yang berduka. Semua itu menghasilkan peningkatan kekejaman dalam jiwa kita, penggandaan rasa sakit, ketidakpuasan setiap saat dan lebih dalam.</p>\n<p>AKU JAMAK selalu menemukan pembenaran bahkan untuk kejahatan terburuk dan proses iri hati, memperoleh, mengakumulasi, mendapatkan ini, bahkan jika itu dengan mengorbankan pekerjaan orang lain, disebut evolusi, kemajuan, kemajuan, dll.</p>\n<p>Orang-orang memiliki kesadaran yang tertidur dan tidak menyadari bahwa mereka iri hati, kejam, serakah, cemburu, dan ketika karena alasan tertentu mereka menyadari semua ini, maka mereka membenarkan diri mereka sendiri, mengutuk, mencari alasan, tetapi tidak mengerti.</p>\n<p>Kecemburuan sulit ditemukan karena fakta konkret bahwa pikiran manusia itu iri hati. Struktur pikiran didasarkan pada kecemburuan dan akuisisi.</p>\n<p>Kecemburuan dimulai dari bangku sekolah. Kami iri pada kecerdasan terbaik teman sekelas kami, nilai terbaik, pakaian terbaik, gaun terbaik, sepatu terbaik, sepeda terbaik, sepatu roda yang indah, bola yang bagus, dll. dll.</p>\n<p>Guru dan guru yang dipanggil untuk membentuk kepribadian siswa dan siswi, harus memahami apa itu proses kecemburuan yang tak terbatas dan membangun di dalam PSIKIS siswa mereka fondasi yang memadai untuk pemahaman.</p>\n<p>Pikiran, yang iri hati secara alami, hanya berpikir dalam fungsi LEBIH BANYAK. “SAYA dapat menjelaskan lebih baik, SAYA memiliki lebih banyak pengetahuan, SAYA lebih cerdas, SAYA memiliki lebih banyak kebajikan, lebih banyak penyucian, lebih banyak kesempurnaan, lebih banyak evolusi, dll.”</p>\n<p>Semua fungsionalisme pikiran didasarkan pada LEBIH BANYAK. LEBIH BANYAK adalah mata air rahasia batin dari kecemburuan.</p>\n<p>LEBIH BANYAK adalah proses komparatif pikiran. Setiap proses komparatif adalah KEKEJIAN. Contoh: Saya lebih pintar dari Anda. Si Anu lebih saleh dari Anda. Si Anu lebih baik dari Anda, lebih bijaksana, lebih ramah, lebih cantik, dll. dll.</p>\n<p>LEBIH BANYAK menciptakan waktu. AKU JAMAK membutuhkan waktu untuk menjadi lebih baik dari tetangga, untuk menunjukkan kepada keluarga bahwa ia sangat jenius dan dapat melakukannya, untuk menjadi seseorang dalam hidup, untuk menunjukkan kepada musuh-musuhnya, atau mereka yang iri padanya, bahwa ia lebih cerdas, lebih kuat, lebih kuat, dll.</p>\n<p>Berpikir komparatif didasarkan pada kecemburuan dan menghasilkan apa yang disebut ketidakpuasan, kegelisahan, kepahitan.</p>\n<p>Sayangnya orang-orang pergi dari satu yang berlawanan ke yang lain, dari satu ekstrem ke yang lain, mereka tidak tahu bagaimana berjalan di tengah. Banyak yang berjuang melawan ketidakpuasan, kecemburuan, keserakahan, kecemburuan, tetapi perjuangan melawan ketidakpuasan tidak pernah membawa kepuasan sejati hati.</p>\n<p>Sangat mendesak untuk memahami bahwa kepuasan sejati hati yang tenang, tidak dibeli atau dijual dan hanya lahir di dalam diri kita dengan seluruh alamiah dan secara spontan ketika kita telah memahami secara mendalam penyebab ketidakpuasan itu sendiri; kecemburuan, iri hati, keserakahan, dll. dll.</p>\n<p>Mereka yang ingin mendapatkan uang, posisi sosial yang luar biasa, kebajikan, kepuasan dari segala jenis, dll. dengan tujuan mencapai kepuasan sejati, benar-benar salah karena semua itu didasarkan pada kecemburuan dan jalan kecemburuan tidak akan pernah dapat membawa kita ke pelabuhan hati yang tenang dan puas.</p>\n<p>Pikiran yang terperangkap dalam AKU JAMAK menjadikan kecemburuan sebagai kebajikan dan bahkan memberikan kemewahan untuk memberikan nama yang menyenangkan. Kemajuan, evolusi spiritual, kerinduan untuk perbaikan diri, perjuangan untuk martabat, dll. dll. dll.</p>\n<p>Semua ini menghasilkan disintegrasi, kontradiksi batin, perjuangan rahasia, masalah yang sulit dipecahkan, dll.</p>\n<p>Sulit menemukan dalam hidup seseorang yang benar-benar UTUH dalam arti kata yang paling lengkap.</p>\n<p>Sangat tidak mungkin untuk mencapai INTEGRASI TOTAL selama AKU JAMAK ada di dalam diri kita sendiri.</p>\n<p>Penting untuk memahami bahwa di dalam setiap orang ada tiga faktor dasar, Pertama: Kepribadian. Kedua: AKU JAMAK. Ketiga: Materi psikis, yaitu, ESENSI DIRI SESEORANG.</p>\n<p>AKU JAMAK membuang-buang materi psikologis dengan ceroboh dalam ledakan atom kecemburuan, iri hati, keserakahan, dll. dll. Penting untuk melarutkan AKU jamak, dengan tujuan untuk mengumpulkan di dalam, materi psikis untuk membangun di dalam diri kita pusat kesadaran permanen.</p>\n<p>Mereka yang tidak memiliki pusat kesadaran permanen, tidak dapat menjadi utuh.</p>\n<p>Hanya pusat kesadaran permanen yang memberi kita individualitas sejati.</p>\n<p>Hanya pusat kesadaran permanen yang membuat kita utuh.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/id/educacion-fundamental/integracion.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/id/educacion-fundamental/integracion.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/id/educacion-fundamental/integracion.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

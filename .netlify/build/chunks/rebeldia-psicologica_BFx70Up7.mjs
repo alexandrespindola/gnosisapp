@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Psihološka upornost",
+  "locale": "sl",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "32. Psihološka upornost",
+    "order": 32
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Tisti, ki so se posvetili potovanju po vseh državah sveta z namenom podrobnega preučevanja vseh človeških ras, so se lahko sami prepričali, da je narava tega ubogega INTELEKTUALNEGA ŽIVALI, napačno imenovanega človek, vedno enaka, ne glede na to, ali je v stari Evropi ali v Afriki, utrujeni od toliko suženjstva, v sveti deželi Ved ali v Zahodni Indiji, v Avstriji ali na Kitajskem.</p>\n<p>To konkretno dejstvo, ta grozljiva resničnost, ki preseneča vsakega študenta, se lahko posebej preveri, če popotnik obišče šole, kolidže in univerze.</p>\n<p>Prišli smo v obdobje serijske proizvodnje. Zdaj se vse proizvaja na tekočem traku in v velikem obsegu. Serije letal, avtomobilov, luksuznega blaga itd. itd. itd.</p>\n<p>Čeprav se sliši nekoliko groteskno, je zelo res, da so industrijske šole, univerze itd. postale tudi intelektualne tovarne za serijsko proizvodnjo.</p>\n<p>V teh časih serijske proizvodnje je edini cilj v življenju najti ekonomsko varnost. Ljudje se vsega bojijo in iščejo varnost.</p>\n<p>Neodvisno razmišljanje je v teh časih serijske proizvodnje skoraj nemogoče, ker sodobni tip izobraževanja temelji na zgolj priročnih stvareh.</p>\n<p>“Novi val” je zelo zadovoljen s to intelektualno povprečnostjo. Če želi biti kdo drugačen, drugačen od drugih, ga vsi diskvalificirajo, ga vsi kritizirajo, ga izolirajo, mu odrekajo delo itd.</p>\n<p>Želja po pridobitvi denarja za življenje in zabavo, nujnost doseganja uspeha v življenju, iskanje ekonomske varnosti, želja po nakupu veliko stvari, da bi se hvalili pred drugimi itd., zaustavljajo čisto, naravno in spontano mišljenje.</p>\n<p>Popolnoma je bilo dokazano, da strah otopi um in otrdi srce.</p>\n<p>V teh časih tolikšnega strahu in iskanja varnosti se ljudje skrivajo v svojih jamah, v svojih brlogih, v svojem kotu, na mestu, kjer verjamejo, da lahko imajo več varnosti, manj težav in nočejo od tam, se bojijo življenja, se bojijo novih pustolovščin, novih izkušenj itd. itd. itd.</p>\n<p>Vse to, kar se toliko HVALI sodobno izobraževanje, temelji na strahu in iskanju varnosti, ljudje so prestrašeni, bojijo se celo lastne sence.</p>\n<p>Ljudje se vsega bojijo, se bojijo izstopiti iz starih ustaljenih norm, biti drugačni od drugih ljudi, razmišljati revolucionarno, prekiniti vse predsodke dekadentne družbe itd.</p>\n<p>Na srečo na svetu živi nekaj iskrenih in razumevajočih ljudi, ki si resnično želijo poglobljeno preučiti vse težave uma, vendar v veliki večini nas sploh ni duha nezadovoljstva in upora.</p>\n<p>Obstajata dve vrsti UPORA, ki sta že ustrezno razvrščeni. Prvič: Nasilen psihološki upor. Drugič: Globok psihološki upor INTELIGENCE.</p>\n<p>Prvi tip upora je reakcionaren, konservativen in zaostal. Drugi tip upora je REVOLUCIONAREN.</p>\n<p>V prvem tipu psihološkega upora najdemo REFORMATORJA, ki krpa stara oblačila in popravlja zidove starih stavb, da se ne porušijo, regresivni tip, revolucionarja krvi in žganja, vodjo državnih udarov in pučev, človeka s puško na rami, diktatorja, ki uživa v tem, da na zid postavi vse, ki ne sprejemajo njegovih muh, njegovih teorij.</p>\n<p>V drugem tipu psihološkega upora najdemo BUDO, JEZUSA, HERMESA, transformatorja, INTELIGENTNEGA UPORNIKA, INTUITIVNEGA, VELIKE prvake REVOLUCIJE ZAVESTI itd. itd. itd.</p>\n<p>Tisti, ki se izobražujejo samo z absurdnim namenom, da bi se povzpeli na veličastne položaje znotraj birokratskega panja, se povzpeli na vrh lestvice, se pustili slišati itd., nimajo prave globine, so po naravi bedaki, površinski, prazni, stoodstotno prevaranti.</p>\n<p>Že je bilo več kot dovolj dokazano, da če v človeku ni prave INTEGRACIJE misli in občutkov, čeprav smo prejeli veliko izobrazbe, je življenje nepopolno, protislovno, dolgočasno in mučeno z neštetimi strahovi vseh vrst.</p>\n<p>Brez dvoma in brez strahu pred napako lahko kategorično trdimo, da je brez INTEGRALNE izobrazbe življenje škodljivo, neuporabno in škodljivo.</p>\n<p>INTELECTUALNA ŽIVAL ima notranji EGO, ki je na žalost sestavljen iz oddaljenih ENTITET, ki se krepijo z NAPAČNO IZOBRAŽBO.</p>\n<p>PLURALIZIRANI JAZ, ki ga vsak od nas nosi v sebi, je temeljni vzrok vseh naših kompleksov in protislovij.</p>\n<p>TEMELJNA IZOBRAZBA bi morala nove generacije učiti našO PSIHOLOŠKO DIDAKTIKO za RAZTOPITEV JAZA.</p>\n<p>Samo z raztopitvijo različnih entitet, ki skupaj tvorijo Ego (JAZ), lahko v sebi vzpostavimo trajno središče individualne zavesti, potem bomo INTEGRALNI.</p>\n<p>Dokler znotraj vsakega od nas obstaja PLURALIZIRANI JAZ, si ne bomo samo zagrenili življenja, ampak ga bomo zagrenili tudi drugim.</p>\n<p>Kaj pomaga, da študiramo pravo in postanemo odvetniki, če ohranjamo spore? Kaj pomaga kopičiti v našem umu veliko znanja, če smo še vedno zmedeni? Kaj koristijo tehnične in industrijske spretnosti, če jih uporabljamo za uničenje naših bližnjih?</p>\n<p>Nič ne pomaga, če se učimo, obiskujemo predavanja, študiramo, če se v procesu vsakodnevnega življenja mizerno uničujemo drug drugega.</p>\n<p>Cilj izobraževanja ne sme biti samo vsako leto proizvesti nove iskalce zaposlitve, novo vrsto prevarantov, novega tipa bedakov, ki niti ne znajo spoštovati religije bližnjega itd.</p>\n<p>Pravi cilj TEMELJNE IZOBRAZBE bi moral biti ustvariti resnične INTEGRIRANE moške in ženske in zato zavestne in inteligentne.</p>\n<p>Na žalost učitelji in učiteljice v šolah, kolidžih in univerzah mislijo na vse, razen na to, da bi prebudili INTEGRALNO INTELIGENCO UČENCEV.</p>\n<p>Vsakdo si lahko zaželi in pridobi nazive, odlikovanja, diplome in celo postane zelo učinkovit na mehanicističnem področju življenja, vendar to ne pomeni biti INTELIGENTEN.</p>\n<p>INTELIGENCA ne more biti nikoli zgolj mehansko delovanje, INTELIGENCA ne more biti rezultat preprostih knjižnih informacij, INTELIGENCA ni sposobnost samodejnega odzivanja z iskrivimi besedami na vsak izziv. INTELIGENCA ni zgolj verbalizacija spomina. INTELIGENCA je sposobnost neposrednega sprejemanja BISTVA, REALNOSTI, tega, kar resnično JE.</p>\n<p>TEMELJNA IZOBRAZBA je znanost, ki nam omogoča, da prebudimo to sposobnost v sebi in v drugih.</p>\n<p>TEMELJNA IZOBRAZBA pomaga vsakemu POSAMEZNIKU odkriti resnične VREDNOTE, ki nastanejo kot rezultat poglobljenega raziskovanja in INTEGRALNEGA RAZUMEVANJA SAMEGA SEBE.</p>\n<p>Ko v nas ne obstaja SAMO-SPOZNAVANJE, se SAMO-IZRAŽANJE spremeni v EGOISTIČNO IN UNIČUJOČO SAMO-POTRDITEV.</p>\n<p>TEMELJNA IZOBRAZBA si prizadeva samo prebuditi v vsakem posamezniku SPOSOBNOST razumeti samega sebe na vseh področjih uma in ne samo prepustiti se samozadovoljstvu napačnega SAMO-IZRAŽANJA PLURALIZIRANEGA JAZA.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/sl/educacion-fundamental/rebeldia-psicologica.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/sl/educacion-fundamental/rebeldia-psicologica.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/sl/educacion-fundamental/rebeldia-psicologica.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

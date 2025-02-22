@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Pemberontakan Psikologi",
+  "locale": "ms",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "32. Pemberontakan Psikologi",
+    "order": 32
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Mereka yang telah mengembara ke seluruh negara di dunia dengan tujuan untuk mengkaji secara terperinci semua ras manusia, telah dapat membuktikan sendiri bahawa sifat ANIMAL INTELEKTUAL yang malang ini yang silap dipanggil manusia, adalah sentiasa sama, sama ada di Eropah lama atau di Afrika yang letih dengan perhambaan, di tanah suci Veda atau di Hindia Barat, di Austria atau di China.</p>\n<p>Fakta konkrit ini, realiti dahsyat ini yang memeranjatkan setiap lelaki yang rajin, boleh disahkan terutamanya jika pengembara itu melawat Sekolah, Kolej dan Universiti.</p>\n<p>Kita telah sampai ke era pengeluaran besar-besaran. Kini semuanya dihasilkan dalam barisan berturut-turut dan dalam skala besar. Siri Pesawat, Kereta, Barangan Mewah, dll., dll., dll.</p>\n<p>Walaupun ia agak pelik, adalah sangat benar bahawa Sekolah Industri, Universiti, dll. juga telah menjadi kilang intelektual pengeluaran besar-besaran.</p>\n<p>Pada zaman pengeluaran besar-besaran ini, satu-satunya matlamat dalam hidup adalah untuk mencari keselamatan ekonomi. Orang ramai takut kepada segala-galanya dan mencari keselamatan.</p>\n<p>Pemikiran bebas pada zaman pengeluaran besar-besaran ini, menjadi hampir mustahil kerana jenis Pendidikan moden adalah berdasarkan kemudahan semata-mata.</p>\n<p>“Gelombang Baru” hidup sangat selesa dengan kesederhanaan intelektual ini. Jika seseorang mahu menjadi berbeza, berbeza daripada yang lain, semua orang mendiskualifikasinya, semua orang mengkritiknya, mereka diketepikan, pekerjaan dinafikan, dll.</p>\n<p>Keinginan untuk mendapatkan wang untuk hidup dan berseronok, desakan untuk mencapai kejayaan dalam hidup, pencarian keselamatan, ekonomi, keinginan untuk membeli banyak perkara untuk menunjuk-nunjuk kepada orang lain, dan lain-lain, menghentikan pemikiran yang tulen, semula jadi dan spontan.</p>\n<p>Telah terbukti sepenuhnya bahawa ketakutan menumpulkan minda dan mengeraskan hati.</p>\n<p>Pada zaman yang penuh dengan ketakutan dan pencarian keselamatan ini, orang bersembunyi di dalam gua mereka, di dalam sarang mereka, di sudut mereka, di tempat yang mereka percaya boleh mempunyai lebih banyak keselamatan, kurang masalah dan mereka tidak mahu keluar dari sana, mereka takut kepada kehidupan, takut kepada pengembaraan baru, pengalaman baru, dll., dll., dll.</p>\n<p>Semua pendidikan moden yang diuar-uarkan ini adalah berdasarkan ketakutan dan pencarian keselamatan, orang ramai ketakutan, mereka takut walaupun bayang-bayang mereka sendiri.</p>\n<p>Orang ramai, takut kepada segala-galanya, takut untuk keluar daripada norma lama yang ditetapkan, menjadi berbeza daripada orang lain, berfikir secara revolusioner, memutuskan semua prasangka Masyarakat yang merosot, dll.</p>\n<p>Mujurlah, terdapat beberapa orang yang ikhlas dan memahami di dunia, yang benar-benar ingin mengkaji secara mendalam semua masalah minda, tetapi dalam majoriti besar kita, semangat ketidakpuasan dan pemberontakan pun tidak wujud.</p>\n<p>Terdapat dua jenis PEMBERONTAKAN yang telah diklasifikasikan dengan sewajarnya. Pertama: Pemberontakan Psikologi yang ganas. Kedua: Pemberontakan Psikologi yang mendalam tentang KEBIJAKSANAAN.</p>\n<p>Jenis Pemberontakan pertama adalah Reaksioner konservatif dan retardat. Jenis Pemberontakan kedua adalah REVOLUSI.</p>\n<p>Dalam jenis Pemberontakan Psikologi yang pertama, kita dapati PEMBAHARU yang menampal pakaian lama dan membaiki dinding bangunan lama supaya tidak runtuh, jenis regresif, Revolusioner darah dan wain, pemimpin rampasan kuasa dan rampasan kuasa, lelaki bersenjata, Diktator yang gemar membawa mereka yang tidak menerima kerenah, teori mereka ke dinding.</p>\n<p>Dalam jenis Pemberontakan Psikologi yang kedua, kita dapati BUDDHA, JESUS, HERMES, pengubah, PEMBERONTAK BIJAK, INTUITIF, juara HEBAT REVOLUSI KESEDARAN, dll., dll., dll.</p>\n<p>Mereka yang hanya dididik dengan tujuan yang tidak masuk akal untuk mendaki kedudukan yang hebat dalam sarang birokrasi, naik, memanjat ke puncak tangga, membuat diri mereka berasa, dll., tidak mempunyai kedalaman yang sebenar, mereka adalah Bodoh secara semula jadi, cetek, kosong, seratus peratus bajingan.</p>\n<p>Telah dibuktikan sepenuhnya bahawa apabila dalam manusia tidak ada INTEGRASI pemikiran dan perasaan yang sebenar, walaupun kita telah menerima pendidikan yang hebat, kehidupan menjadi tidak lengkap, bercanggah, membosankan dan diseksa oleh ketakutan yang tidak terkira banyaknya dari semua jenis.</p>\n<p>Tanpa keraguan dan tanpa rasa takut untuk melakukan kesilapan, kita boleh menegaskan dengan tegas bahawa tanpa pendidikan INTEGRAL, kehidupan menjadi berbahaya, tidak berguna dan memudaratkan.</p>\n<p>ANIMAL INTELEKTUAL mempunyai EGO DALAMAN yang terdiri malangnya daripada ENTITI yang berbeza yang diperkukuhkan dengan PENDIDIKAN YANG SALAH.</p>\n<p>DIRI JAMAK yang setiap kita bawa di dalam, adalah punca asas kepada semua kompleks dan percanggahan kita.</p>\n<p>PENDIDIKAN ASAS mesti mengajar generasi baru DIDAKTIK Psikologi kita untuk PEMBUBARAN DIRI.</p>\n<p>Hanya dengan membubarkan pelbagai entiti yang secara kolektif membentuk Ego (DIRI) kita boleh mewujudkan dalam diri kita pusat kesedaran individu yang kekal, maka kita akan menjadi UTUH.</p>\n<p>Selagi DIRI JAMAK wujud dalam diri setiap kita, kita bukan sahaja akan memburukkan kehidupan untuk diri kita sendiri tetapi juga akan memburukkan kehidupan untuk orang lain.</p>\n<p>Apa gunanya kita belajar undang-undang dan menjadi peguam, jika kita mengekalkan litigasi? Apa gunanya mengumpul banyak pengetahuan dalam fikiran kita, jika kita terus keliru? Apa gunanya kemahiran teknikal dan perindustrian jika kita menggunakannya untuk memusnahkan sesama manusia?</p>\n<p>Tidak ada gunanya mengarahkan diri kita, menghadiri kelas, belajar, jika dalam proses kehidupan seharian kita memusnahkan diri kita dengan teruk antara satu sama lain.</p>\n<p>Objektif pendidikan tidak seharusnya hanya untuk menghasilkan setiap tahun pencari kerja baru, jenis bajingan baru, orang kasar baru yang tidak tahu menghormati Agama orang lain, dll.</p>\n<p>Objektif sebenar PENDIDIKAN ASAS haruslah untuk mewujudkan lelaki dan wanita UTUH yang sebenar dan oleh itu sedar dan bijak.</p>\n<p>Malangnya, Guru-guru Sekolah, Kolej dan Universiti, semua berfikir, kecuali membangkitkan KEBIJAKSANAAN INTEGRAL ORANG YANG DIDIDIK.</p>\n<p>Sesiapa sahaja boleh mengingini dan memperoleh gelaran, pingat, diploma dan bahkan menjadi sangat cekap dalam bidang mekanistik kehidupan, tetapi ini tidak bermakna menjadi BIJAK.</p>\n<p>KEBIJAKSANAAN tidak boleh menjadi sekadar fungsionalisme mekanikal, KEBIJAKSANAAN tidak boleh menjadi hasil maklumat berasaskan buku yang mudah, KEBIJAKSANAAN bukanlah keupayaan untuk bertindak balas secara automatik dengan kata-kata yang berkilauan kepada sebarang cabaran. KEBIJAKSANAAN bukanlah sekadar verbalisasi ingatan. KEBIJAKSANAAN adalah keupayaan untuk menerima secara langsung ESENSI, REALITI, apa yang sebenarnya ADA.</p>\n<p>PENDIDIKAN ASAS ialah sains yang membolehkan kita membangkitkan keupayaan ini dalam diri kita dan orang lain.</p>\n<p>PENDIDIKAN ASAS membantu setiap INDIVIDU untuk menemui NILAI sebenar yang timbul sebagai hasil daripada penyelidikan mendalam dan KEFAHAMAN INTEGRAL tentang DIRI SENDIRI.</p>\n<p>Apabila KESEDARAN DIRI tidak wujud dalam diri kita, maka EKSPRESI DIRI menjadi PENYATAAN DIRI YANG EGOIS DAN MEMUSNAHKAN.</p>\n<p>PENDIDIKAN ASAS hanya mengambil berat tentang membangkitkan dalam setiap individu KEUPAYAAN untuk memahami dirinya sendiri dalam semua bidang minda dan bukan sekadar menyerahkan diri kepada kepuasan EKSPRESI DIRI yang salah bagi DIRI JAMAK.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/ms/educacion-fundamental/rebeldia-psicologica.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/ms/educacion-fundamental/rebeldia-psicologica.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/ms/educacion-fundamental/rebeldia-psicologica.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Ова поглавје е автоматски преведено од шпанскиот оригинал. Сè уште не е прегледано од човек. Ако сакате да помогнете со прегледот, контактирајте нè со кликнување тука.","originalMessage":"Содржината на ова поглавје е базирана на оригиналниот шпански текст.","revisedMessage":"Ова поглавје помина човечки преглед и превод од оригиналниот шпански текст. Ако сè уште има потреба од корекции, контактирајте нè со кликнување тука."};
+const status = {"automatic":"Автоматски Превод","original":"Оригинал","revised":"Прегледано"};
+const mk = {
+  "404.text": "Страницата не е пронајдена. Проверете го URL или обидете се со лентата за пребарување.",
+  "aside.caution": "Внимание",
+  "aside.danger": "Опасност",
+  "aside.note": "Забелешка",
+  "aside.tip": "Совет",
+  "builtWithStarlight.label": "Изградено со Starlight",
+  "fileTree.directory": "Директориум",
+  "i18n.untranslatedContent": "Оваа содржина сè уште не е достапна на вашиот јазик.",
+  "languageSelect.accessibleLabel": "Изберете јазик",
+  "menuButton.accessibleLabel": "Мени",
+  messages,
+  "page.draft": "Оваа содржина е нацрт и нема да биде вклучена во продукциските верзии.",
+  "page.editLink": "Уреди страница",
+  "page.lastUpdated": "Последно ажурирање:",
+  "page.nextLink": "Следно",
+  "page.previousLink": "Претходно",
+  "search.cancelLabel": "Откажи",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Пребарувањето е достапно само во продукциските верзии. \nОбидете се да ја изградите и прегледате страницата локално.",
+  "search.label": "Пребарување",
+  "sidebarNav.accessibleLabel": "Главно",
+  "skipLink.label": "Скокни до содржина",
+  status,
+  "tableOfContents.onThisPage": "Во ова поглавје",
+  "tableOfContents.overview": "Почеток",
+  "themeSelect.accessibleLabel": "Изберете тема",
+  "themeSelect.auto": "Автоматски",
+  "themeSelect.dark": "Темна",
+  "themeSelect.light": "Светла",
+};
+
+export { mk as default, messages, status };

@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Devrimci Psikoloji",
+  "locale": "tr",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "31. Devrimci Psikoloji",
+    "order": 31
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Okul, koleji ve üniversite öğretmenleri, Uluslararası Gnostik Hareketinin öğrettiği DEVRİMCİ PSİKOLOJİYİ derinlemesine incelemelidir.</p>\n<p>Devrimin psikolojisi, bu isimle daha önce bilinen her şeyden radikal bir şekilde farklıdır.</p>\n<p>Hiç şüphe yok ki, bizi izleyen yüzyıllar boyunca, tüm çağların derin karanlığından bu yana, PSİKOLOJİNİN “NEDENSİZ ASI” ve ROCK şövalyelerinin bu çağında olduğu kadar dibe vurmadığını korkusuzca söyleyebiliriz.</p>\n<p>Bu modern zamanların gerici ve tutucu Psikolojisi, talihsizliğin de ötesinde, ne yazık ki anlamını yitirmiş ve gerçek kökeniyle tüm doğrudan temasını kaybetmiştir.</p>\n<p>Cinsel dejenerasyon ve zihnin tamamen bozulduğu bu zamanlarda, sadece PSİKOLOJİ terimini yetersiz bir kesinlikle tanımlamak imkansız olmakla kalmıyor, aynı zamanda Psikolojinin temel konuları da gerçekten bilinmiyor.</p>\n<p>PSİKOLOJİNİN çağdaş, son dakika bir bilim olduğunu hatalı bir şekilde varsayanlar, PSİKOLOJİNİN ARKAİK MİSTERY okullarında kökeni olan çok eski bir bilim olduğu için gerçekten kafası karışmış durumdadır.</p>\n<p>SNOB tipi, ultra modern dolandırıcı, gerici için PSİKOLOJİ olarak bilinen şeyi tanımlamak imkansızdır, çünkü bu çağdaş dönem dışında, PSİKOLOJİNİN kendi adıyla asla var olmadığı açıktır, çünkü şu veya bu nedenlerle, her zaman siyasi veya dini nitelikteki yıkıcı eğilimlerden şüphelenilmiş ve bu nedenle çok sayıda kılığa girmek zorunda kalmıştır.</p>\n<p>Eski zamanlardan beri, hayat tiyatrosunun farklı sahnelerinde, PSİKOLOJİ her zaman felsefe kılığında akıllıca gizlenerek rolünü oynamıştır.</p>\n<p>VEDALARIN Kutsal Hindistan’ında, Ganj kıyısında, yüzyılların dehşet verici gecesinden beri, temelde yüksek uçuşlu saf DENEYSEL PSİKOLOJİ olan YOGA biçimleri vardır.</p>\n<p>Yedi YOGA her zaman yöntemler, prosedürler veya felsefi sistemler olarak tanımlanmıştır.</p>\n<p>Arap dünyasında, SUFİLERİN kutsal öğretileri, kısmen metafizik, kısmen dini, gerçekten tamamen PSİKOLOJİK düzendedir.</p>\n<p>O kadar çok savaş, ırksal önyargı ile kemiklerine kadar çürümüş eski Avrupa. Dini, politik vb. geçen yüzyılın sonlarına kadar, PSİKOLOJİ fark edilmeden geçebilmek için Felsefe kıyafetine bürünmüştü.</p>\n<p>Felsefe, Mantık, bilgi teorisi, Etik, Estetik vb. gibi tüm bölünmelerine ve alt bölümlerine rağmen, hiç şüphe yok ki kendi içinde AÇIK ÖZ-YANSIMA, VARLIĞIN MİSTİK BİLGİSİ, UYANIK BİLİNCİN BİLİŞSEL FONKSİYONELİZMİ’dir.</p>\n<p>Birçok FELSEFE OKULUNUN hatası, psikolojiyi FELSEFEdan daha aşağı, yalnızca insan doğasının en düşük ve hatta önemsiz yönleriyle ilgili bir şey olarak görmeleridir.</p>\n<p>Dinlerin karşılaştırmalı bir çalışması, PSİKOLOJİ BİLİMİNİN her zaman tüm DİNİ İLKELERLE çok yakından ilişkili olduğu mantıksal sonucuna varmamızı sağlar. Dinlerin herhangi bir karşılaştırmalı çalışması, çeşitli ülke ve dönemlerin en Ortodoks KUTSAL EDEBİYATINDA, PSİKOLOJİK bilimin harika hazinelerinin bulunduğunu göstermektedir.</p>\n<p>GNOSTİSİZM alanındaki derin araştırmalar, Hıristiyanlığın ilk zamanlarından gelen ve özellikle keşişlerin eğitimi için DOĞU KİLİSESİNDE günümüzde hala kullanılan PHILOKALIA başlığı altında bilinen çeşitli Gnostik yazarların bu harika derlemesini bulmamızı sağlar.</p>\n<p>Hiç şüphe duymadan ve aldanmaya düşme korkusu olmadan, PHILOKALIA’NIN esasen SAF DENEYSEL PSİKOLOJİ olduğunu kesin olarak söyleyebiliriz.</p>\n<p>Yunanistan, Mısır, Roma, Hindistan, İran, Meksika, Peru, Asur, Keldani vb. ANTİK MİSTERY OKULLARINDA PSİKOLOJİ her zaman felsefeye, gerçek nesnel sanata, bilime ve dine bağlıydı.</p>\n<p>Eski zamanlarda PSİKOLOJİ, Kutsal Dansçıların zarif biçimleri, tuhaf Hiyerogliflerin veya güzel heykellerin gizemi, şiir, trajedi ve hatta tapınakların enfes müziği arasında akıllıca gizlenmişti.</p>\n<p>Bilim, Felsefe, Sanat ve Din bağımsız olarak dönmek için ayrılmadan önce, PSİKOLOJİ tüm ANTİK MİSTERY OKULLARINDA egemen olarak hüküm sürdü.</p>\n<p>İnisiyasyon Kolejleri, hala içinde bulunduğumuz KALIYUGA veya KARA ÇAĞ nedeniyle kapatıldığında, PSİKOLOJİ, DÜNYANIN çeşitli EZOTERİK ve SÖZDE EZOTERİK OKULLARININ sembolizmi ve özellikle GNOSTİK EZOTERİZM arasında hayatta kaldı.</p>\n<p>Derin analizler ve derinlemesine araştırmalar, geçmişte var olan ve günümüzde var olan farklı Psikolojik sistem ve doktrinlerin iki kategoriye ayrılabileceğini tüm berraklığıyla anlamamızı sağlar.</p>\n<p>Birincisi: Pek çok entelektüelin varsaydığı gibi doktrinler. Modern Psikoloji aslında bu kategoriye aittir.</p>\n<p>İkincisi: İnsanı BİLİNÇ DEVRİMİ açısından inceleyen doktrinler.</p>\n<p>Bunlar aslında en eski, orijinal Doktrinlerdir, sadece onlar Psikolojinin yaşayan kökenlerini ve derin anlamını anlamamızı sağlar.</p>\n<p>Hepimiz ZİHNİN tüm SEVİYELERİNDE, insanın BİLİNÇ DEVRİMİ’nin yeni bakış açısından incelenmesinin ne kadar önemli olduğunu tam olarak anladığımızda, o zaman Psikolojinin, BİREYİN RADİKAL ve kesin DÖNÜŞÜMÜ ile yakından ilişkili ilkeler, yasalar ve gerçeklerin incelenmesi olduğunu anlayacağız.</p>\n<p>Okul, Kolej ve Üniversite öğretmenlerinin içinde yaşadığımız KRİTİK saati ve yeni Neslin içinde bulunduğu felaket Psikolojik yönelim bozukluğu durumunu tam olarak anlamaları acildir.</p>\n<p>“YENİ AKIMI” BİLİNÇ DEVRİMİ yoluna yönlendirmek gereklidir ve bu ancak TEMEL EĞİTİMİN DEVRİMCİ PSİKOLOJİSİ ile mümkündür.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/tr/educacion-fundamental/psicologia-revolucionaria.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tr/educacion-fundamental/psicologia-revolucionaria.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tr/educacion-fundamental/psicologia-revolucionaria.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

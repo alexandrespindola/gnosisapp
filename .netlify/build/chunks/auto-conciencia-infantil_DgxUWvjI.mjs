@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Auto-Conciencia Infantil",
+  "locale": "es",
+  "statusTranslation": "original",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-tratado-de-psicologia-revolucionaria.webp-5e15e1cec4e0ebebcde5d7fc7565d8fd.webp",
+  "sidebar": {
+    "label": "26. Auto-Conciencia Infantil",
+    "order": 26
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Se nos ha dicho muy sabiamente que tenemos noventa y siete por ciento de SUBCONSCIENCIA y TRES POR CIENTO DE CONCIENCIA.</p>\n<p>Hablando francamente y sin ambages, diremos que el noventa y siete por ciento de la Esencia que en nuestro interior llevamos, se encuentra embotellada, embutida, metida, dentro de cada uno de los Yoes que en su conjunto constituyen el “Mi Mismo”.</p>\n<p>Obviamente la Esencia o Conciencia enfrascada entre cada Yo, se procesa en virtud de su propio condicionamiento.</p>\n<p>Cualquier Yo desintegrado libera determinado porcentaje de Conciencia, la emancipación o liberación de la Esencia o Conciencia, seria imposible sin la desintegración de cada Yo.</p>\n<p>A mayor cantidad de Yoes desintegrados, mayor Auto-Conciencia. A menor cantidad de Yoes desintegrados, menor porcentaje de Conciencia despierta.</p>\n<p>El despertar de la Conciencia sólo es posible disolviendo el YO, muriendo en si mismo, aquí y ahora.</p>\n<p>Incuestionablemente mientras la Esencia o Conciencia este embutida entre cada uno de los Yoes que cargamos en nuestro interior, se encuentra dormida, en estado subconsciente.</p>\n<p>Es urgente transformar al subconsciente en consciente y esto sólo es posible aniquilando los Yoes; muriendo en si mismos.</p>\n<p>No es posible despertar sin haber muerto previamente en si mismos. Quienes intentan despertar primero para luego morir, no poseen experiencia real de lo que afirman, marchan resueltamente por el camino del error.</p>\n<p>Los niños recién nacidos son maravillosos, gozan de plena auto-conciencia; se encuentran totalmente despiertos.</p>\n<p>Dentro del cuerpo del niño recién nacido se encuentra reincorporada la Esencia y eso da a la criatura su belleza.</p>\n<p>No querernos decir que el ciento por ciento de la Esencia o Conciencia esté reincorporada en el recién nacido, pero si el tres por ciento libre que normalmente no está enfrascado entre los Yoes.</p>\n<p>Sin embargo, ese porcentaje de Esencia libre reincorporado entre el organismo de los niños recién nacidos, les da plena auto-conciencia, lucidez, etc.</p>\n<p>Los adultos ven al recién nacido con piedad, piensan que la criatura se encuentra inconsciente, pero se equivocan lamentablemente.</p>\n<p>El recién nacido ve al adulto tal como en realidad es; inconsciente, cruel, perverso, etc.</p>\n<p>Los Yoes del recién nacido van y vienen, dan vueltas alrededor de la cuna, quisieran meterse entre el nuevo cuerpo, pero debido a que el recién nacido aún no ha fabricado la personalidad, todo intento de los Yoes para entrar en el nuevo cuerpo, resulta algo más que imposible.</p>\n<p>A veces las criaturas se espantan al ver a esos fantasmas o Yoes que se acercan a su cuna y entonces gritan, lloran, pero los adultos no entienden esto y suponen que el niño está enfermo o que tiene hambre o sed; tal es la inconsciencia de los adultos.</p>\n<p>A medida que la nueva personalidad se va formando, los Yoes que vienen de existencias anteriores, van penetrando poco a poco en el nuevo cuerpo.</p>\n<p>Cuando ya la totalidad de los Yoes se ha reincorporado, aparecemos en el mundo con esa horrible fealdad interior que nos caracteriza; entonces, andamos como sonámbulos por todas partes; siempre inconscientes, siempre perversos.</p>\n<p>Cuando morimos, tres cosas van al sepulcro: 1) El cuerpo físico. 2) El fondo vital orgánico. 3) La personalidad.</p>\n<p>El fondo vital, cual fantasma se va desintegrando poco a poco, frente a la fosa sepulcral a medida que el cuerpo físico se va también desintegrando.</p>\n<p>La personalidad es subconsciente o infraconsciente, entra y sale del sepulcro cada vez que quiere, se alegra cuando los dolientes le llevan flores, ama a sus familiares y se va disolviendo muy lentamente hasta convertirse en polvareda cósmica.</p>\n<p>Eso que continúa más allá del sepulcro es el EGO, el YO pluralizado, el mi mismo, un montón de diablos dentro de los cuales se encuentra enfrascada la Esencia, la Conciencia, que a su tiempo y a su hora retorna, se reincorpora.</p>\n<p>Resulta lamentable que al fabricarse la nueva personalidad del niño, se reincorporen también los Yoes.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/tratado-de-psicologia-revolucionaria/auto-conciencia-infantil.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tratado-de-psicologia-revolucionaria/auto-conciencia-infantil.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tratado-de-psicologia-revolucionaria/auto-conciencia-infantil.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

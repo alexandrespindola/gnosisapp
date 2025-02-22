@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"बे अध्याय खौ स्पेनिस गुबै बिजाब निफ्राय गावनो राव सोलायनाय जादों। बेखौ सुबुंफोरा नायफिननाया। जुदि नों रिभिउ होनो हाय खालामनो लुबैयो, बेयाव क्लिक खालामनानै जोंजों सोमोन्दो लाफा।","originalMessage":"बे अध्यायनि जारिमिन गुबै स्पेनिस बिजाबनि सायाव सोनारनाय।","revisedMessage":"बे अध्याय खौ सुबुंफोरा नायफिननाय आरो गुबै स्पेनिस बिजाब निफ्राय राव सोलायनाय जाबाय। जुदि बेखौ थिक खालामनायनि गोनांथि दं, बेयाव क्लिक खालामनानै जोंजों सोमोन्दो लाफा।"};
+const status = {"automatic":"गावनो राव सोलायनाय","original":"गुबै","revised":"रिभाइज जाबाय"};
+const brx = {
+  "404.text": "बिलाइ मोनथिया। URL खौ नायनो एबा नागिरनायनि बार खौ बाहायनो नाजानो।",
+  "aside.caution": "सावधान",
+  "aside.danger": "जोबोद खैफोद",
+  "aside.note": "फोरमायथि",
+  "aside.tip": "फोरोंथि",
+  "builtWithStarlight.label": "स्टारलाइटजों दानाय",
+  "fileTree.directory": "फाइल बिथों",
+  "i18n.untranslatedContent": "बे जारिमिन नोंनि राव आव दङा।",
+  "languageSelect.accessibleLabel": "राव बासिख",
+  "menuButton.accessibleLabel": "मेनु",
+  messages,
+  "page.draft": "बे जारिमिन ड्राफ्ट जायो आरो प्रोडाक्सन बिल्डसआव दाजाबदेरनाय नङा।",
+  "page.editLink": "बिलाइ सुजु",
+  "page.lastUpdated": "जोबथा आपडेट:",
+  "page.nextLink": "उननि",
+  "page.previousLink": "सिगांनि",
+  "search.cancelLabel": "बातिल",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "नागिरनाया जोबथा बानायनायावनो मोनो हायो। \nलोकेल्लि टेस्ट खालामनो साइट बानायनो आरो नायनो नाजा।",
+  "search.label": "नागिर",
+  "sidebarNav.accessibleLabel": "गाहाय",
+  "skipLink.label": "जारिमिनाव थां",
+  status,
+  "tableOfContents.onThisPage": "बे अध्यायाव",
+  "tableOfContents.overview": "जागायजेननाय",
+  "themeSelect.accessibleLabel": "थिम बासिख",
+  "themeSelect.auto": "गावनो",
+  "themeSelect.dark": "गोजोब",
+  "themeSelect.light": "गोजां",
+};
+
+export { brx as default, messages, status };

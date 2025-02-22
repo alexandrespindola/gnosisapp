@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"ဤအခန်းကို စပိန်မူရင်းမှ အလိုအလျောက် ဘာသာပြန်ဆိုထားခြင်း ဖြစ်သည်။ လူကိုယ်တိုင် ပြန်လည်သုံးသပ်ခြင်း မပြုရသေးပါ။ ပြန်လည်သုံးသပ်ရာတွင် ကူညီလိုပါက ဤနေရာတွင် နှိပ်၍ ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။","originalMessage":"ဤအခန်း၏ အကြောင်းအရာသည် မူရင်းစပိန်စာသားကို အခြေခံထားသည်။","revisedMessage":"ဤအခန်းသည် လူကိုယ်တိုင် ပြန်လည်သုံးသပ်ခြင်းနှင့် မူရင်းစပိန်စာသားမှ ဘာသာပြန်ဆိုခြင်းကို ပြုလုပ်ပြီးဖြစ်သည်။ ပြင်ဆင်ရန် လိုအပ်နေသေးပါက ဤနေရာတွင် နှိပ်၍ ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။"};
+const status = {"automatic":"အလိုအလျောက် ဘာသာပြန်","original":"မူရင်း","revised":"ပြန်လည်သုံးသပ်ပြီး"};
+const my = {
+  "404.text": "စာမျက်နှာ မတွေ့ပါ။ URL ကို စစ်ဆေးပါ သို့မဟုတ် ရှာဖွေရေးဘားကို သုံးကြည့်ပါ။",
+  "aside.caution": "သတိပေး",
+  "aside.danger": "အန္တရာယ်",
+  "aside.note": "မှတ်စု",
+  "aside.tip": "အကြံပြုချက်",
+  "builtWithStarlight.label": "Starlight ဖြင့် တည်ဆောက်ထားသည်",
+  "fileTree.directory": "လမ်းညွှန်",
+  "i18n.untranslatedContent": "ဤအကြောင်းအရာကို သင့်ဘာသာစကားဖြင့် မရရှိနိုင်သေးပါ။",
+  "languageSelect.accessibleLabel": "ဘာသာစကား ရွေးချယ်ပါ",
+  "menuButton.accessibleLabel": "မီနူး",
+  messages,
+  "page.draft": "ဤအကြောင်းအရာသည် မူကြမ်းဖြစ်ပြီး ထုတ်လုပ်မှုတွင် ထည့်သွင်းမည် မဟုတ်ပါ။",
+  "page.editLink": "စာမျက်နှာကို တည်းဖြတ်ရန်",
+  "page.lastUpdated": "နောက်ဆုံး ပြင်ဆင်ချိန်:",
+  "page.nextLink": "နောက်",
+  "page.previousLink": "ရှေ့",
+  "search.cancelLabel": "ပယ်ဖျက်",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "ရှာဖွေခြင်းကို ထုတ်လုပ်မှုတွင်သာ ရရှိနိုင်ပါသည်။ \nဒေသတွင်း စမ်းသပ်ရန် ဝဘ်ဆိုက်ကို တည်ဆောက်ပြီး ကြိုကြည့်ရှုပါ။",
+  "search.label": "ရှာဖွေရန်",
+  "sidebarNav.accessibleLabel": "အဓိက",
+  "skipLink.label": "အကြောင်းအရာသို့ သွားရန်",
+  status,
+  "tableOfContents.onThisPage": "ဤအခန်းတွင်",
+  "tableOfContents.overview": "စတင်ခြင်း",
+  "themeSelect.accessibleLabel": "အပြင်အဆင် ရွေးချယ်ပါ",
+  "themeSelect.auto": "အလိုအလျောက်",
+  "themeSelect.dark": "အမှောင်",
+  "themeSelect.light": "အလင်း",
+};
+
+export { my as default, messages, status };

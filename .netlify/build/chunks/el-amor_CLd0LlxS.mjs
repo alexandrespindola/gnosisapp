@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Láska",
+  "locale": "sk",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "8. Láska",
+    "order": 8
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Už od školských lavíc by mali žiaci a žiačky komplexne chápať to, čo sa nazýva LÁSKA.</p>\n<p>STRACH a ZÁVISLOSŤ sa často zamieňajú s LÁSKOU, ale nie sú LÁSKOU.</p>\n<p>Žiaci a žiačky sú závislí od svojich rodičov a učiteľov a je jasné, že ich rešpektujú a zároveň sa ich boja.</p>\n<p>Deti, mladí ľudia a mladé slečny sú závislí od svojich rodičov, pokiaľ ide o oblečenie, jedlo, peniaze, ubytovanie atď., a je úplne jasné, že sa cítia chránení, vedia, že sú závislí od svojich rodičov, a preto ich rešpektujú a dokonca sa ich boja, ale to nie je LÁSKA.</p>\n<p>Ako príklad toho, čo hovoríme, môžeme s úplnou presnosťou overiť, že každé dieťa, mladý človek alebo mladá slečna má väčšiu dôveru vo svojich priateľov alebo priateľky zo školy ako vo svojich rodičov.</p>\n<p>V skutočnosti sa deti, mladí ľudia a mladé slečny rozprávajú so svojimi spolužiakmi a spolužiačkami o intímnych veciach, o ktorých by sa nikdy v živote nerozprávali so svojimi rodičmi.</p>\n<p>To nám dokazuje, že medzi deťmi a rodičmi neexistuje skutočná dôvera, že neexistuje skutočná LÁSKA.</p>\n<p>Je NALIEHAVÉ pochopiť, že existuje zásadný rozdiel medzi LÁSKOU a tým, čo je úcta, strach, závislosť, obava.</p>\n<p>Je NALIEHAVÉ vedieť rešpektovať našich rodičov a učiteľov, ale nezamieňať si rešpekt s LÁSKOU.</p>\n<p>RESPEKT a LÁSKA by mali byť INTIMNE SPojenÉ, ale nemali by sme si ich zamieňať.</p>\n<p>Rodičia sa boja o svoje deti, želajú si pre ne to najlepšie, dobré povolanie, dobré manželstvo, ochranu atď., a zamieňajú si tento strach so skutočnou LÁSKOU.</p>\n<p>Je potrebné pochopiť, že bez SKUTOČNEJ LÁSKY je nemožné, aby rodičia a učitelia múdro viedli nové generácie, aj keď majú veľmi dobré úmysly.</p>\n<p>Cesta, ktorá vedie do PRIEPASTI, je vydláždená VEĽMI DOBRÝMI ÚMYSLAMI.</p>\n<p>Vidíme celosvetovo známy prípad “REBELOV BEZ PRÍČINY”. Toto je mentálna epidémia, ktorá sa rozšírila po celom svete. Množstvo “DOBRÝCH DETÍ”, údajne veľmi milovaných svojimi rodičmi, veľmi rozmaznávaných, veľmi milovaných, prepadáva bezbranných okoloidúcich, bije a znásilňuje ženy, kradne, hádže kamene, chodí v gangoch a spôsobuje škody všade, nerešpektuje učiteľov a rodičov atď. atď. atď.</p>\n<p>“REBELI BEZ PRÍČINY” sú produktom nedostatku skutočnej LÁSKY.</p>\n<p>Tam, kde existuje skutočná LÁSKA, nemôžu existovať “REBELI BEZ PRÍČINY”.</p>\n<p>Ak by rodičia SKUTOČNE MILOVALI svoje deti, vedeli by ich inteligentne usmerňovať, a potom by neexistovali “REBELI BEZ PRÍČINY”.</p>\n<p>Rebeli bez príčiny sú produktom zlej orientácie.</p>\n<p>Rodičia nemali dostatok LÁSKY na to, aby sa skutočne venovali múdremu usmerňovaniu svojich detí.</p>\n<p>Moderní rodičia myslia len na peniaze a dávajú deťom stále viac a viac, a auto najnovšieho modelu, a obleky najnovšej módy atď., ale nemilujú skutočne, nevedia milovať, a preto sú tu “rebeli bez príčiny”.</p>\n<p>Povrchnosť tejto doby je spôsobená nedostatkom SKUTOČNEJ LÁSKY.</p>\n<p>Moderný život sa podobá mláke bez hĺbky.</p>\n<p>V hlbokom jazere života môže žiť veľa tvorov, veľa rýb, ale mláka, ktorá sa nachádza na okraji cesty, rýchlo vyschne pod horúcimi slnečnými lúčmi, a potom zostane len blato, hniloba, škaredosť.</p>\n<p>Je nemožné pochopiť krásu života v celej jej kráse, ak sme sa nenaučili MILOVAŤ.</p>\n<p>Ľudia si zamieňajú úctu a strach s tým, čo sa nazýva LÁSKA.</p>\n<p>Rešpektujeme našich nadriadených a bojíme sa ich, a potom si myslíme, že ich milujeme.</p>\n<p>Deti sa boja svojich rodičov a učiteľov a rešpektujú ich, a potom si myslia, že ich milujú.</p>\n<p>Dieťa sa bojí biča, pravítka, zlej známky, pokarhania doma alebo v škole atď., a potom si myslí, že miluje svojich rodičov a učiteľov, ale v skutočnosti sa ich len bojí.</p>\n<p>Sme závislí od zamestnania, od šéfa, bojíme sa biedy, toho, že zostaneme bez práce, a potom si myslíme, že milujeme šéfa, a dokonca sa staráme o jeho záujmy, chránime jeho majetok, ale to nie je LÁSKA, to je strach.</p>\n<p>Mnoho ľudí sa bojí premýšľať sami o sebe o záhadách života a smrti, bojí sa pýtať, skúmať, chápať, študovať atď., a potom zvolajú: MILUJEM BOHA, A TO STAČÍ!</p>\n<p>Myslia si, že milujú BOHA, ale v skutočnosti NEMILUJÚ, boja sa.</p>\n<p>V čase vojny manželka cíti, že zbožňuje svojho manžela viac ako kedykoľvek predtým a s nekonečnou túžbou očakáva jeho návrat domov, ale v skutočnosti ho nemiluje, len sa bojí, že zostane bez manžela, bez ochrany atď. atď. atď.</p>\n<p>Psychologické otroctvo, závislosť, závislosť od niekoho, nie je LÁSKA. Je to len STRACH, a to je všetko.</p>\n<p>Dieťa je vo svojom štúdiu závislé od UČITEĽA alebo UČITEĽKY a je jasné, že sa bojí VYLUČOVANIA, zlej známky, pokarhania, a často si myslí, že ho MILUJE, ale v skutočnosti sa ho bojí.</p>\n<p>Keď manželka rodí alebo je v ohrození života v dôsledku akejkoľvek choroby, manžel si myslí, že ju miluje oveľa viac, ale v skutočnosti sa bojí, že ju stratí, je od nej závislý v mnohých veciach, ako sú jedlo, sex, pranie oblečenia, pohladenia atď., a bojí sa, že ju stratí. To nie je LÁSKA.</p>\n<p>Každý hovorí, že miluje každého, ale to nie je pravda: Je veľmi zriedkavé nájsť v živote niekoho, kto vie SKUTOČNE MILOVAŤ.</p>\n<p>Ak by rodičia skutočne milovali svoje deti, ak by deti skutočne milovali svojich rodičov, ak by učitelia skutočne milovali svojich žiakov a žiačky, nemohli by byť vojny. Vojny by boli na sto percent nemožné.</p>\n<p>Ľudia jednoducho nepochopili, čo je to láska, a každý strach a každé psychologické otroctvo a každú vášeň atď. si zamieňajú s tým, čo sa nazýva LÁSKA.</p>\n<p>Ľudia nevedia MILOVAŤ, ak by ľudia vedeli milovať, život by bol v skutočnosti rajom.</p>\n<p>ZAĽÚBENÍ si myslia, že milujú, a mnohí by boli dokonca schopní prisahať krvou, že milujú. Ale sú len ZAĽÚBENÍ. Uspokojená VÁŠEŇ, domček z karát sa zrúti.</p>\n<p>VÁŠEŇ často klame MYSEĽ a SRDCE. Každý ZAĽÚBENÝ si myslí, že je ZAĽÚBENÝ.</p>\n<p>Je veľmi zriedkavé nájsť v živote pár, ktorý je skutočne zaľúbený. Párikov plných VÁŠNE je veľa, ale nájsť pár ZAĽÚBENÝCH je veľmi ťažké.</p>\n<p>Všetci umelci spievajú o LÁSKE, ale nevedia, čo je to LÁSKA, a zamieňajú si VÁŠEŇ s LÁSKOU.</p>\n<p>Ak je v tomto živote niečo veľmi ťažké, je to NEzamieňať si VÁŠEŇ s LÁSKOU.</p>\n<p>VÁŠEŇ je najchutnejší a najjemnejší jed, aký si možno predstaviť, vždy končí víťazstvom za cenu krvi.</p>\n<p>VÁŠEŇ je sexuálna na sto percent, VÁŠEŇ je zvieracia, ale niekedy je aj veľmi rafinovaná a jemná. Vždy sa zamieňa s LÁSKOU.</p>\n<p>Učitelia a učiteľky by mali učiť žiakov, mladých ľudí a mladé slečny, aby rozlišovali medzi LÁSKOU a VÁŠŇOU. Len tak sa neskôr v živote vyhnú mnohým tragédiám.</p>\n<p>Učitelia a učiteľky sú povinní formovať zodpovednosť žiakov a žiačiek, a preto ich musia náležite pripraviť, aby sa v živote nestali tragédmi.</p>\n<p>Je potrebné pochopiť to, čo je LÁSKA, to, čo sa nedá miešať so žiarlivosťou, vášňami, násilím, strachom, pripútanosťami, psychologickou závislosťou atď. atď. atď.</p>\n<p>LÁSKA, žiaľ, v ľudských bytostiach neexistuje, ale nie je to ani niečo, čo sa dá ZÍSKAŤ, kúpiť, pestovať ako kvet v skleníku atď.</p>\n<p>LÁSKA sa musí NARODIŤ v nás a NARODÍ sa len vtedy, keď sme do hĺbky pochopili, čo je NENÁVISŤ, ktorú nosíme v sebe, čo je STRACH, SEXUÁLNA VÁŠEŇ, obava, psychologické otroctvo, závislosť atď. atď. atď.</p>\n<p>Musíme pochopiť, čo sú tieto PSYCHOLOGICKÉ nedostatky, musíme pochopiť, ako sa spracovávajú v nás, nielen na intelektuálnej úrovni života, ale aj na iných skrytých a neznámych úrovniach PODVEDOMIA.</p>\n<p>Je potrebné extrahovať zo všetkých zákutí mysle všetky tieto nedostatky. Len tak sa v nás spontánne a čisto narodí to, čo sa nazýva LÁSKA.</p>\n<p>Je nemožné chcieť premeniť svet bez plameňa LÁSKY. Len LÁSKA môže skutočne premeniť svet.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/sk/educacion-fundamental/el-amor.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/sk/educacion-fundamental/el-amor.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/sk/educacion-fundamental/el-amor.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Dan il-kapitlu ġie tradott awtomatikament mill-oriġinal Spanjol. Għadu ma għaddiex minn reviżjoni umana. Jekk tixtieq tgħin bir-reviżjoni, ikkuntattjana billi tikklikkja hawn.","originalMessage":"Il-kontenut ta' dan il-kapitlu huwa bbażat fuq it-test oriġinali Spanjol.","revisedMessage":"Dan il-kapitlu għadda minn reviżjoni umana u traduzzjoni mit-test oriġinali Spanjol. Jekk għad għandu bżonn korrezzjonijiet, ikkuntattjana billi tikklikkja hawn."};
+const status = {"automatic":"Traduzzjoni Awtomatika","original":"Oriġinali","revised":"Rivedut"};
+const mt = {
+  "404.text": "Il-paġna ma nstabitx. Iċċekkja l-URL jew ipprova uża l-bar tat-tfittxija.",
+  "aside.caution": "Attenzjoni",
+  "aside.danger": "Periklu",
+  "aside.note": "Nota",
+  "aside.tip": "Suġġeriment",
+  "builtWithStarlight.label": "Mibni bi Starlight",
+  "fileTree.directory": "Direttorju",
+  "i18n.untranslatedContent": "Dan il-kontenut għadu mhux disponibbli bil-lingwa tiegħek.",
+  "languageSelect.accessibleLabel": "Agħżel lingwa",
+  "menuButton.accessibleLabel": "Menu",
+  messages,
+  "page.draft": "Dan il-kontenut huwa abbozz u mhux se jiġi inkluż fil-bini tal-produzzjoni.",
+  "page.editLink": "Editja l-paġna",
+  "page.lastUpdated": "L-aħħar aġġornament:",
+  "page.nextLink": "Li jmiss",
+  "page.previousLink": "Preċedenti",
+  "search.cancelLabel": "Ikkanċella",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "It-tfittxija hija disponibbli biss fil-bini tal-produzzjoni. \nIpprova ibni u ara l-websajt biex tittestjaha lokalment.",
+  "search.label": "Fittex",
+  "sidebarNav.accessibleLabel": "Prinċipali",
+  "skipLink.label": "Mur għall-kontenut",
+  status,
+  "tableOfContents.onThisPage": "F'dan il-kapitlu",
+  "tableOfContents.overview": "Bidu",
+  "themeSelect.accessibleLabel": "Agħżel tema",
+  "themeSelect.auto": "Awtomatiku",
+  "themeSelect.dark": "Skur",
+  "themeSelect.light": "Ċar",
+};
+
+export { mt as default, messages, status };

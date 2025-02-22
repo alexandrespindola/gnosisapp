@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Bab ini telah diterjemahkan secara automatik dari teks asal Sepanyol. Ia belum melalui semakan manusia. Jika anda ingin membantu dengan semakan, sila hubungi kami dengan mengklik di sini.","originalMessage":"Kandungan bab ini berdasarkan teks asal Sepanyol.","revisedMessage":"Bab ini telah melalui semakan manusia dan terjemahan dari teks asal Sepanyol. Jika ia masih memerlukan pembetulan, sila hubungi kami dengan mengklik di sini."};
+const status = {"automatic":"Terjemahan Automatik","original":"Asal","revised":"Disemak"};
+const ms = {
+  "404.text": "Halaman tidak dijumpai. Semak URL atau cuba menggunakan bar carian.",
+  "aside.caution": "Awas",
+  "aside.danger": "Bahaya",
+  "aside.note": "Nota",
+  "aside.tip": "Petua",
+  "builtWithStarlight.label": "Dibina dengan Starlight",
+  "fileTree.directory": "Direktori",
+  "i18n.untranslatedContent": "Kandungan ini belum tersedia dalam bahasa anda.",
+  "languageSelect.accessibleLabel": "Pilih bahasa",
+  "menuButton.accessibleLabel": "Menu",
+  messages,
+  "page.draft": "Kandungan ini adalah draf dan tidak akan dimasukkan dalam pembinaan pengeluaran.",
+  "page.editLink": "Edit halaman",
+  "page.lastUpdated": "Kemas kini terakhir:",
+  "page.nextLink": "Seterusnya",
+  "page.previousLink": "Sebelumnya",
+  "search.cancelLabel": "Batal",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Carian hanya tersedia dalam pembinaan pengeluaran. \nCuba bina dan pratonton laman web untuk mengujinya secara tempatan.",
+  "search.label": "Cari",
+  "sidebarNav.accessibleLabel": "Utama",
+  "skipLink.label": "Langkau ke kandungan",
+  status,
+  "tableOfContents.onThisPage": "Dalam bab ini",
+  "tableOfContents.overview": "Permulaan",
+  "themeSelect.accessibleLabel": "Pilih tema",
+  "themeSelect.auto": "Auto",
+  "themeSelect.dark": "Gelap",
+  "themeSelect.light": "Terang",
+};
+
+export { ms as default, messages, status };

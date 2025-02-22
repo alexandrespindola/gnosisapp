@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Armastus",
+  "locale": "et",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "8. Armastus",
+    "order": 8
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Juba koolipingist peavad õpilased terviklikult mõistma seda, mida nimetatakse ARMASTUSEKS.</p>\n<p>HIRM ja SÕLTUVUS aetakse sageli segi ARMASTUSEGA, kuid need ei ole ARMASTUS.</p>\n<p>Õpilased sõltuvad oma vanematest ja õpetajatest ning on selge, et nad austavad neid ja kardavad neid samal ajal.</p>\n<p>Poisid ja tüdrukud, noored mehed ja naised sõltuvad oma vanematest riiete, toidu, raha, peavarju jne osas ning on ilmselge, et nad tunnevad end kaitstuna, teavad, et sõltuvad oma vanematest ja seetõttu austavad ja isegi kardavad neid, kuid see ei ole ARMASTUS.</p>\n<p>Selle näiteks, mida me ütleme, võime täpselt kontrollida, et igal poisil või tüdrukul, noorel mehel või naisel on rohkem usaldust oma kooli sõprade vastu kui oma vanemate vastu.</p>\n<p>Tegelikult räägivad poisid, tüdrukud, noored mehed ja naised oma kaaslastega intiimseid asju, mida nad kunagi oma vanematega ei räägiks.</p>\n<p>See näitab meile, et laste ja vanemate vahel ei ole tõelist usaldust, et ei ole tõelist ARMASTUST.</p>\n<p>On KIIRE mõista, et ARMASTUSE ja selle vahel, mis on austus, hirm, sõltuvus, hirm, on radikaalne erinevus.</p>\n<p>On KIIRE osata austada oma vanemaid ja õpetajaid, kuid mitte segi ajada austust ARMASTUSEGA.</p>\n<p>AUSTUS ja ARMASTUS peavad olema LÄHEDASELT ÜHENDUSES, kuid me ei tohiks neid segi ajada.</p>\n<p>Vanemad kardavad oma laste pärast, soovivad neile parimat, head elukutset, head abielu, kaitset jne ja ajavad selle hirmu segi tõelise ARMASTUSEGA.</p>\n<p>On vaja mõista, et ilma TÕELISE ARMASTUSETA on vanematel ja õpetajatel võimatu uusi põlvkondi targalt juhtida, isegi kui on väga head kavatsused.</p>\n<p>TEE, MIS JUHIB PÕRGUSSE, ON KIVISTATUD VÄGA HEADE KAVATSUSTEGA.</p>\n<p>Me näeme ülemaailmselt tuntud juhtumit “PÕHJUSETA MÄSSULISED”. See on vaimne epideemia, mis on levinud üle kogu maailma. Hulgaliselt “HEID LASTEID”, keda vanemad väidetavalt väga armastavad, keda hellitatakse, keda armastatakse, ründavad kaitsetuid möödujaid, peksavad ja vägistavad naisi, varastavad, loobivad kividega, käivad jõugus, tekitades kõikjal kahju, ei austa õpetajaid ja lapsevanemaid jne jne jne.</p>\n<p>“PÕHJUSETA MÄSSULISED” on tõelise ARMASTUSE puudumise tagajärg.</p>\n<p>Kus on tõeline ARMASTUS, ei saa olla “PÕHJUSETA MÄSSULISI”.</p>\n<p>Kui lapsevanemad ARMASTAKSID oma lapsi tõeliselt, oskaksid nad neid targalt suunata ja siis ei oleks “PÕHJUSETA MÄSSULISI”.</p>\n<p>Põhjuseta mässulised on halva suunamise tagajärg.</p>\n<p>Lapsevanematel ei ole olnud piisavalt ARMASTUST, et tõeliselt pühenduda oma laste targale suunamisele.</p>\n<p>Kaasaegsed lapsevanemad mõtlevad ainult rahale ja annavad lapsele aina rohkem ja rohkem, ja viimase mudeli auto ja viimase moe järgi ülikonnad jne, kuid nad ei armasta tõeliselt, nad ei oska armastada ja seetõttu “põhjuseta mässulised”.</p>\n<p>Selle vähesuse pealiskaudsus on tingitud TÕELISE ARMASTUSE puudumisest.</p>\n<p>Kaasaegne elu on nagu madal lomp, ilma sügavuseta.</p>\n<p>Elu sügavas järves võib elada palju olendeid, palju kalu, kuid teeäärne lomp kuivab peagi päikese kiirguse käes ja siis jääb järele vaid muda, kõdunemine, inetudus.</p>\n<p>On võimatu mõista elu ilu kogu selle hiilguses, kui me ei ole õppinud ARMASTAMA.</p>\n<p>Inimesed ajavad austuse ja hirmu segi sellega, mida nimetatakse ARMASTUSEKS.</p>\n<p>Me austame oma ülemusi ja kardame neid ning siis me usume, et armastame neid.</p>\n<p>Lapsed kardavad oma vanemaid ja õpetajaid ning austavad neid ja usuvad siis, et armastavad neid.</p>\n<p>Laps kardab piitsa, vitsa, halba hinnet, noomitust kodus või koolis jne ja usub siis, et armastab oma vanemaid ja õpetajaid, kuid tegelikult ta ainult kardab neid.</p>\n<p>Me sõltume töökohast, patroonist, kardame viletsust, tööta jäämist ja siis me usume, et armastame patrooni ja isegi hoolitseme tema huvide eest, hoolitseme tema vara eest, kuid see ei ole ARMASTUS, see on hirm.</p>\n<p>Paljud inimesed kardavad ise mõelda elu ja surma saladuste üle, kardavad uurida, uurida, mõista, õppida jne ja siis hüüavad nad: MA ARMASTAN JUMALAT JA SEE ON PIISAV!</p>\n<p>Nad usuvad, et armastavad JUMALAT, kuid tegelikult nad ei ARMASTA, nad kardavad.</p>\n<p>Sõjaajal tunneb naine, et kummardab oma meest rohkem kui kunagi varem ja igatseb lõpmata tema kojutulekut, kuid tegelikult ta ei armasta teda, ta ainult kardab jääda ilma meheta, ilma kaitseta jne jne jne.</p>\n<p>Psühholoogiline orjus, sõltuvus, kellestki sõltumine ei ole ARMASTUS. See on ainult HIRM ja see on kõik.</p>\n<p>Laps sõltub oma õpingutes ÕPETAJAST ja on selge, et ta kardab VÄLJAHEITMIST, halba hinnet, noomitust ja sageli usub, et ta ARMASTAB teda, kuid tegelikult ta kardab teda.</p>\n<p>Kui naine sünnitab või on suremas mõne haiguse tõttu, usub mees, et armastab teda palju rohkem, kuid tegelikult ta kardab teda kaotada, sõltub temast paljudes asjades, nagu toit, seks, pesu pesemine, hellitused jne ja kardab teda kaotada. See ei ole ARMASTUS.</p>\n<p>Kõik ütlevad, et kummardavad kõiki, kuid see ei ole nii: Elus on väga haruldane leida keegi, kes oskaks TÕELISELT ARMASTADA.</p>\n<p>Kui vanemad armastaksid tõeliselt oma lapsi, kui lapsed armastaksid tõeliselt oma vanemaid, kui õpetajad armastaksid tõeliselt oma õpilasi, ei saaks olla sõdu. Sõjad oleksid sada protsenti võimatud.</p>\n<p>Juhtub see, et inimesed ei ole aru saanud, mis on armastus, ja nad ajavad iga hirmu ja iga psühholoogilise orjuse ja iga kire jne segi sellega, mida nimetatakse ARMASTUSEKS.</p>\n<p>Inimesed ei oska ARMASTADA, kui inimesed oskaksid armastada, oleks elu tegelikult paradiis.</p>\n<p>ARMSAD usuvad, et armastavad, ja paljud oleksid isegi valmis verega vanduma, et nad armastavad. Kuid nad on ainult KIRGLIKUD. Kui KIRG on rahuldatud, variseb kaardimaja kokku.</p>\n<p>KIRG petab tavaliselt MÕISTUST ja SÜDANT. Iga KIRGLIK inimene usub, et on ARMASTUNUD.</p>\n<p>Elus on väga haruldane leida mõni tõeliselt armunud paar. KIRGLIKKE paare on palju, kuid ARMASTUNUD paari on väga raske leida.</p>\n<p>Kõik kunstnikud laulavad ARMASTUSEST, kuid nad ei tea, mis on ARMASTUS, ja ajavad KIRGE segi ARMASTUSEGA.</p>\n<p>Kui selles elus on midagi väga rasket, siis on see mitte ajada KIRGE segi ARMASTUSEGA.</p>\n<p>KIRG on kõige maitsvam ja peenem mürk, mida saab ette kujutada, see lõppeb alati vere hinnaga.</p>\n<p>KIRG on sada protsenti SEKSUAALNE, KIRG on metsik, kuid mõnikord on see ka väga rafineeritud ja peen. Alati aetakse see segi ARMASTUSEGA.</p>\n<p>Õpetajad peavad õpetama õpilastele, noortele meestele ja naistele, eristama ARMASTUST ja KIRGE. Ainult nii saab hiljem elus palju tragöödiaid vältida.</p>\n<p>Õpetajad on kohustatud kujundama õpilaste vastutust ja seetõttu peavad nad neid nõuetekohaselt ette valmistama, et nad ei muutuks elus traagilisteks.</p>\n<p>On vaja mõista seda, mis on ARMASTUS, seda, mida ei saa segada armukadeduse, kirgede, vägivalla, hirmu, kiindumuse, psühholoogilise sõltuvuse jne jne jne.</p>\n<p>ARMASTUST kahjuks inimestes ei ole, aga see ei ole ka midagi, mida saab OMANDADA, osta, kasvatada nagu kasvuhoone lilli jne.</p>\n<p>ARMASTUS peab meies sündima ja see SÜNNIB ainult siis, kui oleme põhjalikult mõistnud, mis on VIHAK, mida me endas kanname, mis on HIRM, SEKSUAALNE KIRG, hirm, psühholoogiline orjus, sõltuvus jne jne jne.</p>\n<p>Me peame mõistma, mis need PSÜHHOLOOGILISED vead on, me peame mõistma, kuidas neid meiega töödeldakse, mitte ainult elu intellektuaalsel tasandil, vaid ka teistel SUBCONSCIOUS’I varjatud ja tundmatutel tasanditel.</p>\n<p>On vaja eemaldada meele erinevatest nurkadest kõik need vead. Ainult nii sünnib meis spontaanselt ja puhtalt see, mida nimetatakse ARMASTUSEKS.</p>\n<p>On võimatu tahta maailma muuta ilma ARMASTUSE leegita. Ainult ARMASTUS saab tõeliselt maailma muuta.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/et/educacion-fundamental/el-amor.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/et/educacion-fundamental/el-amor.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/et/educacion-fundamental/el-amor.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

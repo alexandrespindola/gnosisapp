@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"এই অধ্যায়টি স্প্যানিশ মূল থেকে স্বয়ংক্রিয়ভাবে অনুবাদ করা হয়েছে। এটি এখনও মানুষের পর্যালোচনা হয়নি। আপনি যদি পর্যালোচনায় সাহায্য করতে চান, এখানে ক্লিক করে আমাদের সাথে যোগাযোগ করুন।","originalMessage":"এই অধ্যায়ের বিষয়বস্তু মূল স্প্যানিশ টেক্সট ভিত্তিক।","revisedMessage":"এই অধ্যায়টি মূল স্প্যানিশ টেক্সট থেকে মানুষের পর্যালোচনা এবং অনুবাদ করা হয়েছে। এটি যদি এখনও সংশোধন প্রয়োজন হয়, এখানে ক্লিক করে আমাদের সাথে যোগাযোগ করুন।"};
+const status = {"automatic":"স্বয়ংক্রিয় অনুবাদ","original":"মূল","revised":"পর্যালোচিত"};
+const bn = {
+  "404.text": "পৃষ্ঠা পাওয়া যায়নি। URL চেক করুন বা সার্চ বার ব্যবহার করে দেখুন।",
+  "aside.caution": "সতর্কতা",
+  "aside.danger": "বিপদ",
+  "aside.note": "নোট",
+  "aside.tip": "পরামর্শ",
+  "builtWithStarlight.label": "Starlight দিয়ে তৈরি",
+  "fileTree.directory": "ডিরেক্টরি",
+  "i18n.untranslatedContent": "এই বিষয়বস্তু এখনও আপনার ভাষায় উপলব্ধ নয়।",
+  "languageSelect.accessibleLabel": "ভাষা নির্বাচন করুন",
+  "menuButton.accessibleLabel": "মেনু",
+  messages,
+  "page.draft": "এই বিষয়বস্তু একটি খসড়া এবং প্রোডাকশন বিল্ডে অন্তর্ভুক্ত করা হবে না।",
+  "page.editLink": "পৃষ্ঠা সম্পাদনা করুন",
+  "page.lastUpdated": "সর্বশেষ আপডেট:",
+  "page.nextLink": "পরবর্তী",
+  "page.previousLink": "পূর্ববর্তী",
+  "search.cancelLabel": "বাতিল",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "অনুসন্ধান শুধুমাত্র প্রোডাকশন বিল্ডে উপলব্ধ। \nস্থানীয়ভাবে পরীক্ষা করার জন্য সাইট তৈরি এবং প্রিভিউ করার চেষ্টা করুন।",
+  "search.label": "অনুসন্ধান",
+  "sidebarNav.accessibleLabel": "প্রধান",
+  "skipLink.label": "বিষয়বস্তুতে যান",
+  status,
+  "tableOfContents.onThisPage": "এই অধ্যায়ে",
+  "tableOfContents.overview": "শুরু",
+  "themeSelect.accessibleLabel": "থিম নির্বাচন করুন",
+  "themeSelect.auto": "স্বয়ংক্রিয়",
+  "themeSelect.dark": "গাঢ়",
+  "themeSelect.light": "হালকা",
+};
+
+export { bn as default, messages, status };

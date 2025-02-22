@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Vanemad ja Õpetajad",
+  "locale": "et",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "36. Vanemad ja Õpetajad",
+    "order": 36
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Avaliku HARIDUSE kõige tõsisem probleem ei ole alg-, kesk- või gümnaasiumiõpilased, vaid VANEMAD ja ÕPETAJAD.</p>\n<p>Kui vanemad ja õpetajad ei tunne ennast, ei suuda mõista last, ei suuda sügavalt mõista oma suhteid nende elama hakkavate olenditega, kui nad hoolivad ainult oma õpilaste intellekti arendamisest, kuidas me siis saame luua uut tüüpi haridust?</p>\n<p>Laps läheb kooli, et saada teadlikku juhendamist, aga kui õpetajad on kitsarinnalised, konservatiivsed, reaktsioonilised, mahajäänud, siis selline on ka õpilane.</p>\n<p>Haridustöötajad peavad ennast ümber õpetama, tundma õppima, oma teadmised üle vaatama ja mõistma, et oleme sisenemas uude ajastusse.</p>\n<p>Kui haridustöötajad muutuvad, muutub ka avalik haridus.</p>\n<p>HARIDA HARIDUSTÖÖTAJAT on kõige raskem, sest igaüks, kes on palju lugenud, igaüks, kellel on kraad, igaüks, kes peab õpetama, kes töötab kooliõpetajana, on juba selline nagu ta on, tema mõistus on pudelisse pandud viiekümne tuhande teooriaga, mida ta on õppinud ja ei muutu enam isegi kahurikuulide abil.</p>\n<p>Õpetajad peaksid õpetama KUIDAS MÕELDA, aga kahjuks hoolivad nad ainult selle õpetamisest, MIDA NAD PEAVAD MÕTLEMA.</p>\n<p>Vanemad ja õpetajad on täis kohutavaid majanduslikke, sotsiaalseid, sentimentaalseid jne muresid.</p>\n<p>Vanemad ja õpetajad on enamasti hõivatud oma konfliktide ja muredega, nad ei ole tõsiselt huvitatud “UUE LAINE” poiste ja tüdrukute probleemide uurimisest ja lahendamisest.</p>\n<p>Eksisteerib tohutu vaimne, moraalne ja sotsiaalne degeneratsioon, aga vanemad ja õpetajad on täis isiklikke ärevusi ja muresid ning neil on aega mõelda ainult laste majanduslikule aspektile, neile elukutse andmisele, et nad nälga ei sureks ja see on kõik.</p>\n<p>Vastupidiselt levinud arvamusele ei armasta enamik lapsevanemaid oma lapsi tõeliselt, kui nad neid armastaksid, võitleksid nad ühise heaolu eest, nad hooliksid AVALIKU HARIDUSE probleemidest, et saavutada tõeline muutus.</p>\n<p>Kui lapsevanemad tõesti armastaksid oma lapsi, ei oleks sõdu, perekonda ja rahvust ei tõstetaks nii esile vastandina kogu maailmale, sest see tekitab probleeme, sõdu, kahjulikke lõhesid, põrgulikku keskkonda meie poegadele ja tütardele.</p>\n<p>Inimesed õpivad, valmistuvad olema arstid, insenerid, juristid jne ja selle asemel ei valmistuta kõige tõsisemaks ja raskemaks ülesandeks, milleks on lapsevanemaks olemine.</p>\n<p>See perekondlik egoism, see armastuse puudumine oma ligimeste vastu, see perekondliku isolatsiooni poliitika on sada protsenti absurdne, sest see muutub lagunemise ja pideva sotsiaalse degeneratsiooni teguriks.</p>\n<p>Progress, tõeline revolutsioon, on võimalik ainult nende kuulsate Hiina müüride lammutamisega, mis meid eraldavad, mis meid ülejäänud maailmast isoleerivad.</p>\n<p>Me kõik oleme ÜKS PERE ja on absurdne üksteist piinata, pidada perekonnaks ainult neid väheseid inimesi, kes meiega koos elavad jne.</p>\n<p>EGOISTLIK PEREKONNA eksklusiivsus pidurdab sotsiaalset progressi, lõhestab inimolendeid, tekitab sõdu, privileege, majandusprobleeme jne.</p>\n<p>Kui lapsevanemad tõesti armastavad oma lapsi, langevad tolmuks seinad, isolatsiooni jälestusväärsed aiad ja siis lakkab perekond olemast egoistlik ja absurdne ring.</p>\n<p>Kui perekonna egoistlikud müürid langevad, eksisteerib vennalik ühtsus kõigi teiste isade ja emadega, õpetajatega, kogu ühiskonnaga.</p>\n<p>TÕELISE VENNASKONNA tulemus on TÕELINE SOTSIAALNE MUUTUS, haridusvaldkonna autentne REVOLUTSIOON parema maailma nimel.</p>\n<p>HARIDUSTÖÖTAJA peab olema teadlikum, ta peab kokku kutsuma isad ja emad, vanemate hoolekogu ja nendega selgelt rääkima.</p>\n<p>On vaja, et lapsevanemad mõistaksid, et avaliku hariduse ülesanne viiakse ellu lapsevanemate ja õpetajate vastastikuse koostöö kindlal alusel.</p>\n<p>Vanematele on vaja öelda, et PÕHIKOOLITUS on vajalik uute põlvkondade kasvatamiseks.</p>\n<p>Vanematele on hädavajalik öelda, et intellektuaalne haridus on vajalik, aga see pole veel kõik, vaja on midagi enamat, vaja on õpetada poistele ja tüdrukutele tundma iseennast, tundma omaenda vigu, omaenda psühholoogilisi puudusi.</p>\n<p>Vanematele tuleb öelda, et lapsi tuleb sigitada ARMASTUSEST, mitte LOOMALIKUST KIRGIST.</p>\n<p>On julm ja halastamatu projitseerida oma loomseid soove, oma vägivaldseid seksuaalkirge, oma haiglasi sentimentaalsusi ja loomlikke emotsioone oma järeltulijatesse.</p>\n<p>Pojad ja tütred on meie endi projektsioonid ja on kuritegelik nakatada maailma loomlike projektsioonidega.</p>\n<p>Koolide, kolledžite ja ülikoolide õpetajad peavad koguma aktusesaali isad ja emad, eesmärgiga õpetada neile moraalset vastutust oma laste ja ühiskonna ning maailma ees.</p>\n<p>HARIDUSTÖÖTAJATEL on kohustus ennast ÜMBER ÕPETADA ja juhendada isasid ja emasid.</p>\n<p>Me peame tõeliselt armastama, et muuta maailma. Me peame ühinema, et ehitada üheskoos üles Uue Ajastu imeline tempel, mis praegu mõtte augustliku müristamise keskel algamas on.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/et/educacion-fundamental/padres-y-maestros.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/et/educacion-fundamental/padres-y-maestros.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/et/educacion-fundamental/padres-y-maestros.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

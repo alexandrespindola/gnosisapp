@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"މި ބާބު އަމިއްލައަށް ސްޕެނިޝް އަސްލުން ތަރުޖަމާކުރެވިފައިވަނީ. އަދި އިންސާނުންގެ މުރާޖަޢާއެއް ނުވެއެވެ. މުރާޖަޢާގައި އެހީތެރިވާން ބޭނުންފުޅުނަމަ، މިތަނުގައި ކްލިކްކޮށް އަޅުގަނޑުމެންނާ ގުޅުއްވާ.","originalMessage":"މި ބާބުގެ މަޢުލޫމާތު އަސްލު ސްޕެނިޝް ލިޔުމަށް ބިނާކޮށްފައި.","revisedMessage":"މި ބާބު އިންސާނުންގެ މުރާޖަޢާ އަދި ތަރުޖަމާ ކުރެވިފައިވަނީ އަސްލު ސްޕެނިޝް ލިޔުމުން. އިތުރު އިސްލާޙު ބޭނުންވާނަމަ، މިތަނުގައި ކްލިކްކޮށް އަޅުގަނޑުމެންނާ ގުޅުއްވާ."};
+const status = {"automatic":"އަމިއްލަ ތަރުޖަމާ","original":"އަސްލު","revised":"މުރާޖަޢާކުރެވިފައި"};
+const dv = {
+  "404.text": "ޞަފްޙާ ނުފެނުނެވެ. URL ޗެކްކުރައްވާ ނުވަތަ ހޯދުމުގެ ބާ ބޭނުންކުރައްވާ.",
+  "aside.caution": "ސަމާލުވުން",
+  "aside.danger": "ނުރައްކާ",
+  "aside.note": "ނޯޓު",
+  "aside.tip": "ޓިޕް",
+  "builtWithStarlight.label": "ސްޓާލައިޓްއިން އުފެއްދިފައި",
+  "fileTree.directory": "ޑައިރެކްޓަރީ",
+  "i18n.untranslatedContent": "މި މަޢުލޫމާތު އަދި ތިޔަ ބަހުން ލިބެން ނެތް.",
+  "languageSelect.accessibleLabel": "ބަސް ޚިޔާރުކުރައްވާ",
+  "menuButton.accessibleLabel": "މެނޫ",
+  messages,
+  "page.draft": "މިއީ ޑްރާފްޓެކެވެ އަދި ޕްރޮޑަކްޝަން ބިލްޑްތަކުގައި ހިމެނިގެން ނުދާނެއެވެ.",
+  "page.editLink": "ޞަފްޙާ އެޑިޓްކުރައްވާ",
+  "page.lastUpdated": "އެންމެފަހުން އަޕްޑޭޓްކުރެވުނީ:",
+  "page.nextLink": "ދެން",
+  "page.previousLink": "ކުރިން",
+  "search.cancelLabel": "ކެންސަލް",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "ހޯދުން ލިބެނީ ހަމައެކަނި ޕްރޮޑަކްޝަން ބިލްޑްތަކުގައެވެ. \nލޯކަލީ ޓެސްޓްކުރުމަށް ސައިޓް ބިލްޑްކޮށް ޕްރިވިއުކުރަން މަސައްކަތްކުރައްވާ.",
+  "search.label": "ހޯދުން",
+  "sidebarNav.accessibleLabel": "މައިގަނޑު",
+  "skipLink.label": "މަޢުލޫމާތަށް ދާން",
+  status,
+  "tableOfContents.onThisPage": "މި ބާބުގައި",
+  "tableOfContents.overview": "ފެށުން",
+  "themeSelect.accessibleLabel": "ތީމް ޚިޔާރުކުރައްވާ",
+  "themeSelect.auto": "އަމިއްލަ",
+  "themeSelect.dark": "އަނދިރި",
+  "themeSelect.light": "އަލި",
+};
+
+export { dv as default, messages, status };

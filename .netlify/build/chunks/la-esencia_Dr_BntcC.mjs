@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "ಸಾರ",
+  "locale": "kn",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-tratado-de-psicologia-revolucionaria.webp-5e15e1cec4e0ebebcde5d7fc7565d8fd.webp",
+  "sidebar": {
+    "label": "4. ಸಾರ",
+    "order": 4
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>ಪ್ರತಿ ನವಜಾತ ಶಿಶುವನ್ನು ಸುಂದರ ಮತ್ತು ಆರಾಧ್ಯನನ್ನಾಗಿ ಮಾಡುವುದು ಅದರ ಸಾರ; ಇದು ತನ್ನಲ್ಲಿಯೇ ಅದರ ನಿಜವಾದ ವಾಸ್ತವತೆಯನ್ನು ರೂಪಿಸುತ್ತದೆ…</p>\n<p>ಪ್ರತಿ ಜೀವಿಗಳಲ್ಲಿ ಸಾರದ ಸಾಮಾನ್ಯ ಬೆಳವಣಿಗೆಯು ಖಂಡಿತವಾಗಿಯೂ ತುಂಬಾ ಉಳಿದಿದೆ, ಆರಂಭಿಕವಾಗಿದೆ…</p>\n<p>ಮಾನವ ದೇಹವು ಜಾತಿಯ ಜೈವಿಕ ನಿಯಮಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ಬೆಳೆಯುತ್ತದೆ ಮತ್ತು ಅಭಿವೃದ್ಧಿಪಡುತ್ತದೆ, ಆದಾಗ್ಯೂ ಅಂತಹ ಸಾಧ್ಯತೆಗಳು ಸ್ವತಃ ಸಾರಕ್ಕೆ ತುಂಬಾ ಸೀಮಿತವಾಗಿವೆ…</p>\n<p>ನಿಸ್ಸಂದೇಹವಾಗಿ ಸಾರವು ಯಾರ ಸಹಾಯವಿಲ್ಲದೆ ತಾನಾಗಿಯೇ ಬೆಳೆಯಬಹುದು, ಅತ್ಯಲ್ಪ ಪ್ರಮಾಣದಲ್ಲಿ…</p>\n<p>ಸ್ಪಷ್ಟವಾಗಿ ಮತ್ತು ಮುಕ್ತವಾಗಿ ಹೇಳುವುದಾದರೆ, ಸಾರದ ಸ್ವಾಭಾವಿಕ ಮತ್ತು ನೈಸರ್ಗಿಕ ಬೆಳವಣಿಗೆಯು ಕೇವಲ ಮೂರು, ನಾಲ್ಕು ಮತ್ತು ಐದು ವರ್ಷ ವಯಸ್ಸಿನಲ್ಲಿ ಮಾತ್ರ ಸಾಧ್ಯ, ಅಂದರೆ, ಜೀವನದ ಮೊದಲ ಹಂತದಲ್ಲಿ…</p>\n<p>ಸಾರದ ಬೆಳವಣಿಗೆ ಮತ್ತು ವಿಕಸನವು ಯಾವಾಗಲೂ ವಿಕಾಸದ ಯಂತ್ರಶಾಸ್ತ್ರಕ್ಕೆ ಅನುಗುಣವಾಗಿ ನಿರಂತರವಾಗಿ ನಡೆಯುತ್ತದೆ ಎಂದು ಜನರು ಭಾವಿಸುತ್ತಾರೆ, ಆದರೆ ಸಾರ್ವತ್ರಿಕ ಜ್ಞಾನೋದಯವು ಇದು ಹೀಗಲ್ಲ ಎಂದು ಸ್ಪಷ್ಟವಾಗಿ ಕಲಿಸುತ್ತದೆ…</p>\n<p>ಸಾರವು ಹೆಚ್ಚು ಬೆಳೆಯಲು, ಬಹಳ ವಿಶೇಷವಾದದ್ದು ಸಂಭವಿಸಬೇಕು, ಹೊಸದನ್ನು ಸಾಧಿಸಬೇಕು.</p>\n<p>ನಾನು ತನ್ನ ಮೇಲೆ ತಾನೇ ಕೆಲಸ ಮಾಡುವ ಬಗ್ಗೆ ಒತ್ತಿ ಹೇಳಲು ಬಯಸುತ್ತೇನೆ. ಪ್ರಜ್ಞಾಪೂರ್ವಕ ಕೆಲಸಗಳು ಮತ್ತು ಸ್ವಯಂಪ್ರೇರಿತ ಸಂಕಟಗಳ ಆಧಾರದ ಮೇಲೆ ಮಾತ್ರ ಸಾರದ ಬೆಳವಣಿಗೆ ಸಾಧ್ಯ…</p>\n<p>ಈ ಕೆಲಸಗಳು ವೃತ್ತಿ, ಬ್ಯಾಂಕುಗಳು, ಬಡಗಿ ಕೆಲಸ, ಕಲ್ಲುಕುಟಿಗ, ರೈಲ್ವೆ ಮಾರ್ಗಗಳನ್ನು ಸರಿಪಡಿಸುವುದು ಅಥವಾ ಕಚೇರಿ ವ್ಯವಹಾರಗಳಿಗೆ ಸಂಬಂಧಿಸಿಲ್ಲ ಎಂದು ಅರ್ಥಮಾಡಿಕೊಳ್ಳುವುದು ಅವಶ್ಯಕ…</p>\n<p>ಈ ಕೆಲಸವು ವ್ಯಕ್ತಿತ್ವವನ್ನು ಬೆಳೆಸಿಕೊಂಡಿರುವ ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಆಗಿದೆ; ಇದು ಮಾನಸಿಕ ವಿಷಯವಾಗಿದೆ…</p>\n<p>ನಮ್ಮೆಲ್ಲರಿಗೂ ನಮ್ಮೊಳಗೆ ಅಹಂ, ನಾನು, ನನ್ನನ್ನು, ತಾನೇ ಎಂದು ಕರೆಯಲ್ಪಡುವ ವಿಷಯವಿದೆ ಎಂದು ತಿಳಿದಿದೆ…</p>\n<p>ದುರದೃಷ್ಟವಶಾತ್ ಸಾರವು ಅಹಂನ ನಡುವೆ ಬಾಟಲ್ ಆಗಿ, ಸಿಲುಕಿಕೊಂಡಿದೆ, ಮತ್ತು ಇದು ವಿಷಾದಕರವಾಗಿದೆ.</p>\n<p>ಮಾನಸಿಕ “ನಾನು” ಅನ್ನು ಕರಗಿಸುವುದು, ಅದರ ಅನಪೇಕ್ಷಿತ ಅಂಶಗಳನ್ನು ವಿಭಜಿಸುವುದು ತುರ್ತು, ಮುಂದೂಡಲಾಗದ ಮತ್ತು ವಿಳಂಬವಿಲ್ಲದ ಕೆಲಸವಾಗಿದೆ… ಇದು ತನ್ನ ಮೇಲೆ ತಾನೇ ಕೆಲಸ ಮಾಡುವ ಅರ್ಥವಾಗಿದೆ.</p>\n<p>ಮಾನಸಿಕ “ನಾನು” ಅನ್ನು ಮೊದಲು ವಿಭಜಿಸದೆ ನಾವು ಸಾರವನ್ನು ಎಂದಿಗೂ ಬಿಡುಗಡೆ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ…</p>\n<p>ಸಾರದಲ್ಲಿ ಧರ್ಮವಿದೆ, ಬುದ್ಧನಿದ್ದಾನೆ, ಜ್ಞಾನವಿದೆ, ಸ್ವರ್ಗದಲ್ಲಿರುವ ನಮ್ಮ ತಂದೆಯ ನೋವಿನ ಕಣಗಳಿವೆ ಮತ್ತು ಆತ್ಮದ ಅಂತರಂಗದ ಸಾಕ್ಷಾತ್ಕಾರಕ್ಕೆ ನಮಗೆ ಬೇಕಾದ ಎಲ್ಲಾ ಮಾಹಿತಿಗಳಿವೆ.</p>\n<p>ನಮ್ಮೊಳಗೆ ಇರುವ ಅಮಾನವೀಯ ಅಂಶಗಳನ್ನು ತೆಗೆದುಹಾಕದೆ ಯಾರೂ ಮಾನಸಿಕ “ನಾನು” ಅನ್ನು ನಾಶಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ…</p>\n<p>ಈ ಕಾಲದ ಕ್ರೂರ ರಾಕ್ಷಸತ್ವವನ್ನು ನಾವು ಬೂದಿಗೆ ಇಳಿಸಬೇಕಾಗಿದೆ: ದುರದೃಷ್ಟವಶಾತ್ ಕ್ರಿಯೆಯ ರಹಸ್ಯ ಮೂಲವಾಗಿ ಮಾರ್ಪಟ್ಟಿರುವ ಅಸೂಯೆ; ಜೀವನವನ್ನು ತುಂಬಾ ಕಹಿಯಾಗಿಸಿದ ಅಸಹನೀಯ ದುರಾಸೆ; ಹೇಸಿಗೆ ಹುಟ್ಟಿಸುವ ದ್ವೇಷ; ದುರಂತಗಳನ್ನು ಸೃಷ್ಟಿಸುವ ಅಪಪ್ರಚಾರ; ಕುಡಿತ; ಅಸಹ್ಯಕರ ಕಾಮವು ತುಂಬಾ ದುರ್ವಾಸನೆ ಬೀರುತ್ತದೆ; ಇತ್ಯಾದಿ, ಇತ್ಯಾದಿ, ಇತ್ಯಾದಿ.</p>\n<p>ಈ ಎಲ್ಲಾ ಅಸಹ್ಯಗಳು ಕಾಸ್ಮಿಕ್ ಧೂಳಾಗಿ ಕಡಿಮೆಯಾದಂತೆ, ಸಾರವು ಬಿಡುಗಡೆಯಾಗುವುದರ ಜೊತೆಗೆ, ಸಾಮರಸ್ಯದಿಂದ ಬೆಳೆಯುತ್ತದೆ ಮತ್ತು ವಿಕಸನಗೊಳ್ಳುತ್ತದೆ…</p>\n<p>ನಿಸ್ಸಂದೇಹವಾಗಿ ಮಾನಸಿಕ “ನಾನು” ಸತ್ತಾಗ, ಸಾರವು ನಮ್ಮಲ್ಲಿ ಬೆಳಗುತ್ತದೆ…</p>\n<p>ಮುಕ್ತ ಸಾರವು ನಮಗೆ ಆಂತರಿಕ ಸೌಂದರ್ಯವನ್ನು ನೀಡುತ್ತದೆ; ಅಂತಹ ಸೌಂದರ್ಯದಿಂದ ಪರಿಪೂರ್ಣ ಸಂತೋಷ ಮತ್ತು ನಿಜವಾದ ಪ್ರೀತಿ ಹೊರಹೊಮ್ಮುತ್ತದೆ…</p>\n<p>ಸಾರವು ಪರಿಪೂರ್ಣತೆಯ ಬಹು ಅರ್ಥಗಳನ್ನು ಮತ್ತು ಅಸಾಧಾರಣ ನೈಸರ್ಗಿಕ ಶಕ್ತಿಗಳನ್ನು ಹೊಂದಿದೆ…</p>\n<p>ನಾವು “ತಮ್ಮಲ್ಲಿಯೇ ಸತ್ತಾಗ”, ನಾವು ಮಾನಸಿಕ “ನಾನು” ಅನ್ನು ಕರಗಿಸಿದಾಗ, ನಾವು ಸಾರದ ಅಮೂಲ್ಯ ಅರ್ಥಗಳು ಮತ್ತು ಶಕ್ತಿಗಳನ್ನು ಆನಂದಿಸುತ್ತೇವೆ…</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/kn/tratado-de-psicologia-revolucionaria/la-esencia.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/kn/tratado-de-psicologia-revolucionaria/la-esencia.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/kn/tratado-de-psicologia-revolucionaria/la-esencia.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

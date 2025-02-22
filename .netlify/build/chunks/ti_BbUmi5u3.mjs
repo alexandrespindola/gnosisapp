@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"እዚ ምዕራፍ ካብ ስፓኒሽ ቋንቋ ብኣውቶማቲክ ተተርጒሙ። ገና ብሰብ ኣይተገምገመን። ኣብ ምግምጋም ክትሕግዝ እንተደሊኻ፡ ኣብዚ ጠውቕ።","originalMessage":"ትሕዝቶ እዚ ምዕራፍ ካብ ናይ ቀዳማይ ስፓኒሽ ጽሑፍ ዝተወስደ እዩ።","revisedMessage":"እዚ ምዕራፍ ብሰብ ተገምጊሙን ካብ ቀዳማይ ስፓኒሽ ጽሑፍ ተተርጒሙን እዩ። ገና መዕረዪ እንተደልዩ፡ ኣብዚ ጠውቕ።"};
+const status = {"automatic":"ኣውቶማቲክ ትርጉም","original":"ቀዳማይ","revised":"ዝተገምገመ"};
+const ti = {
+  "404.text": "ገጽ ኣይተረኽበን። URL ኣረጋግጽ ወይ ናይ ምድላይ መስመር ተጠቐም።",
+  "aside.caution": "ጥንቃቐ",
+  "aside.danger": "ሓደጋ",
+  "aside.note": "ምልክታ",
+  "aside.tip": "ምኽሪ",
+  "builtWithStarlight.label": "ብ Starlight ዝተሰርሐ",
+  "fileTree.directory": "ዝርዝር",
+  "i18n.untranslatedContent": "እዚ ትሕዝቶ ኣብ ቋንቋኻ ገና ኣይተረኽበን።",
+  "languageSelect.accessibleLabel": "ቋንቋ ምረጽ",
+  "menuButton.accessibleLabel": "መምርሒ",
+  messages,
+  "page.draft": "እዚ ትሕዝቶ ንድፊ እዩ፡ ኣብ ፍርያት ኣይክካተትን እዩ።",
+  "page.editLink": "ገጽ ኣመዓራርይ",
+  "page.lastUpdated": "ዝሓለፈ ምዕራይ:",
+  "page.nextLink": "ቀጺሉ",
+  "page.previousLink": "ቅድሚኡ",
+  "search.cancelLabel": "ኣቋርጽ",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "ምድላይ ኣብ ፍርያት ጥራይ እዩ ዝርከብ። \nነቲ መርበብ ሓበሬታ ኣብ ቦታኻ ንምፍታን ምህናጽን ምርኣይን ፈትን።",
+  "search.label": "ድለይ",
+  "sidebarNav.accessibleLabel": "ቀንዲ",
+  "skipLink.label": "ናብ ትሕዝቶ ሕለፍ",
+  status,
+  "tableOfContents.onThisPage": "ኣብዚ ምዕራፍ",
+  "tableOfContents.overview": "መጀመርታ",
+  "themeSelect.accessibleLabel": "ቅዲ ምረጽ",
+  "themeSelect.auto": "ኣውቶማቲክ",
+  "themeSelect.dark": "ጸልማት",
+  "themeSelect.light": "ብርሃን",
+};
+
+export { ti as default, messages, status };

@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Salphinaa",
+  "locale": "om",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "15. Salphinaa",
+    "order": 15
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Wanti ariifachiisaa dha, hubannoo uumaa guddisuun barbaachisaa dha sababiin isaas inni bilisummaa dhugaa jireenyaa namaaf fida. Hubannoo malee dandeettii qeeqaa dhugaa xiinxala gadi fagoo argachuun hin danda’amu.</p>\n<p>Barsiisotaa fi barsiisitoonni manneen barnootaa, koolleejjii fi yuunivarsiitii barattoota isaanii karaa hubannaa of qeequu keessatti geggeessuu qabu.</p>\n<p>Boqonnaa darbe keessatti adeemsa hinaaffaa bal’inaan baranneerra yoo xiqqaatee immoo hamma waan jaalalaan wal qabate ykn amantaan wal qabate illee ofittummaatti ykn hinaaffaatti xumura gochuu yoo barbaadne waa’ee hinaaffaa guutuu hubannoo qabaachuu qabna sababiin isaas adeemsa daangaa hin qabne hinaaffaa gadi fageenyaan fi karaa dhihoo ta’een yoo hubanne qofa ofittummaa gosa hundaa ni balleessina.</p>\n<p>Ofittummaan gaa’ela ni balleessa, ofittummaan hariiroo ni balleessa, ofittummaan waraana amantaa, jibba obbolaa, ajjeechaa fi dhiphina gosa hundaa ni kakaasa.</p>\n<p>Hinaaffaan miiliyoonoota isaanii hundumaan galma ol aanaa duubaatti dhokata. Namni waa’ee qulqulloota ol aanaa, Mahatmas ykn Gurus jiraachuu isaa odeeffannoo argatee qulqulluu ta’uu barbaadu keessatti hinaaffaan jira. Namni carraa kennaa warra kennaa biraa caaluuf carraaqqii godhu keessatti hinaaffaan jira. Nama dandeettii hawwu hunda keessatti hinaaffaan jira sababiin isaas odeeffannoo qaba, sababiin isaas sammuu isaa keessa odeeffannoo waa’ee namoota qulqulluu dandeettiidhaan guutamanii jira.</p>\n<p>Fedhiin qulqulluu ta’uu, fedhiin qulqullina qabaachuu, fedhiin guddaa ta’uu bu’uura isaa hinaaffaa dha.</p>\n<p>Qulqulloonni dandeettii isaaniitiin miidhaa hedduu geessisaniiru. Fakkeenya nama ofuma isaatti qulqulluu akka ta’etti of lakkaa’uu yaadanna.</p>\n<p>Yeroo tokko weeddisaan beela’ee fi gadadoo qabu balbala isaa rukutee weelluu bareedaa addatti qulqulluu seenaa keenyaaf kenname harka isaa keessa kaa’uuf. Weeddisaan horii xinnoo qaama isaa dadhabaa fi dullumaaf nyaata ittiin bitu qofa eeggachaa ture.</p>\n<p>Weeddisaan arrabsoo malee waan hundumaa yaade. Qulqulluun ija gara laafinaa fi fuula dhiphoo qabu balbala cufnaan weeddisaa gaddisiisaaf akkana jechuun yeroo dubbatu baay’ee ajaa’ibsiifate: “Asirraa deemii, fagaadhu, fagaadhu… ani wantoota kana hin jaalladhu, tola oolmaa nan jibba… ani mataa of gurguruu addunyaa hin jaalladhu, jireenyi kun soba… ani karaa gad of qabuu fi miidhaginaa hordofa. Weeddisaan gadadoo qabu kun horii xinnoo barbaada ture jecha qulqulluu irraa arrabsoo argate, jecha nama madeessu, arrabsoo, onnee miidhamee fi meeshaa muuziqaa ykn Liiraa caccabee qabu magaalaa keessa karaa irra suuta… suuta… suuta deeme.</p>\n<p>Dhaloonni haaraan bu’uura hubannaa dhugaa irratti ka’uu qaba sababiin isaas inni guutummaatti uumaa dha.</p>\n<p>Yaadannoon fi yaadachuun uumaa miti. Yaadannoon awwaala waan darbee ti. Yaadannoon fi yaadachuun du’a dha.</p>\n<p>Hubannoon dhugaa wanta sammuu keessatti bilisa baasu guutuu dha.</p>\n<p>Yaadannoon yoomiyyuu bilisummaa dhugaa nuuf hin fidu sababiin isaas waan darbe waan ta’eef kan du’e dha.</p>\n<p>Hubannoon kan waan darbee ykn kan fuula duraa miti. Hubannoon kan yeroo amma jirra kanaa ti. Yaadannoon yeroo hundumaa yaada fuula duraa fida.</p>\n<p>Saayinsii, falaasamaa, aartii fi amantaa barachuun barbaachisaa dha, garuu barumsichi amanamummaa yaadannoo irratti hin hundaa’uu qabu sababiin isaas isheen amanamaa miti.</p>\n<p>Beekumsa awwaala yaadannoo keessa galchuun gowwummaa dha. Beekumsa hubachuu qabnu boolla waan darbee keessa awwaaluun gowwummaadha.</p>\n<p>Barumsa, ogummaa, saayinsii irratti yoomiyyuu hin morminu, garuu miidhagina lubbuu qaban beekumsaa awwaala yaadannoo keessa galchuun sirrii miti.</p>\n<p>Barachuun barbaachisaa dha, qorachuun barbaachisaa dha, xiinxaluun barbaachisaa dha, sammuu sadarkaa hundatti hubachuuf gadi fageenyaan yaaduu qabna.</p>\n<p>Namni dhugaan salphaan hubataa gadi fageenya qabuudha akkasumas sammuu salphaa qaba.</p>\n<p>Wanti jireenya keessatti barbaachisaan waan awwaala yaadannoo keessatti kuufanne osoo hin taane waan hubanne qofa dha sadarkaa beekumsaatiin qofa osoo hin taane lafa sammuu gadii keessatti sammuu keessatti.</p>\n<p>Saayinsiin, beekumsi hubannoo ariifachiisaatti jijjiiramuu qaba. Beekumsi yeroo hubannoo uumaa dhugaa ta’u, yeroo sana wantoota hundumaa yeroodhaan hubachuu dandeenya sababiin isaas hubannoon ariifachiisaa ta’a.</p>\n<p>Nama salphaa keessatti sammuu keessatti rakkina hin jiru sababiin isaas rakkinni sammuu hundi yaadannootti kan deebi’u dha. Anummaan Maakiyaaveelik keessa keenya jiru yaadannoo kuufamaa dha.</p>\n<p>Muuxannoowwan jireenyaa hubannaa dhugaatti jijjiiramuu qabu.</p>\n<p>Muuxannoowwan hubannootti yeroo hin jijjiiramin, muuxannoowwan yaadannoo keessa yeroo itti fufan faalama awwaalaati irratti ibsaan gowwaa fi Luusifeer kan hubannoo boba’u.</p>\n<p>Hubannoon bineensaa tan guutummaatti lubbuu hin qabne dubbii yaadannoo qofa akka ta’e, ibsaa awwaala boordii awwaala irratti boba’u beekuun barbaachisaa dha.</p>\n<p>Namni salphaan sammuu isaa muuxannoowwan irraa bilisa qaba sababiin isaas isaan hubannoo ta’aniiru, hubannoo uumaatti jijjiiramaniiru.</p>\n<p>Duuti fi jireenyi walitti hidhamiinsa qabu. Firii du’u qofa biqiltuun dhalata, muuxannoon du’u qofa hubannoon dhalata. Kun adeemsa jijjiirama dhugaa ti.</p>\n<p>Namni rakkinni qabu yaadannoo muuxannoowwaniin guutameera.</p>\n<p>Kun hubannoo uumaa akka hin qabne ni agarsiisa sababiin isaas muuxannoowwan guutummaatti sadarkaa sammuu hunda irratti hubatamnaan akka muuxannootti jiraachuu dhiisuun hubannoottti dhalatu.</p>\n<p>Duraan muuxannoo qabaachuun barbaachisaa dha, garuu lafa muuxannoo keessa hin turuu qabnu yeroo sana sammuun ni ulfaataa ni rakkisaa ta’a. Jireenya ciminaan jiraachuun fi muuxannoowwan hundumaa hubannaa uumaa dhugaatti jijjiiruun barbaachisaa dha.</p>\n<p>Warreen dogoggoraan yoo hubataa salphaa fi laafaa ta’uu barbaadnee addunyaa dhiisuu akka qabnu, kadhattoota taanee maneeffannaa keessa jiraannee uffata bareedaa bakkaatti wayyaa uffachuu qabna jedhanii yaadan guutummaatti dogoggora qabu.</p>\n<p>Aanaa hedduun, bakkeewwan nama tokkeen jiraatan hedduun, kadhattoota hedduun sammuu ulfaataa fi rakkisaa qabu.</p>\n<p>Yaadannoon muuxannoowwaniin kan guutamee yaada bilisaa ta’e kan hin dhiisneef addunyaa irraa fagaachuun akka aanaa jiraachuun hin fayyadu.</p>\n<p>Odeeffannoon sirriitti kan hin hubatamne, kan hin beekamne iddoo hundatti, karaa irraa fi naannoo sammuu keessa jiru keessatti guutamanii jiraachuu yoo barbaadnee akka mana nama tokkee jiraachuun hin fayyadu.</p>\n<p>Warreen odeeffannoo beekumsaa hubannaa uumaa dhugaatti jijjiiran, warreen muuxannoowwan jireenyaa hubannaa gadi fageenya dhugaatti jijjiiran yaadannoo keessa waan tokko hin qaban, yeroodhaa gara yerootti guutudhaan jiraatu dhugaan salphaa ta’aniiru, yoo mana bareedaatti jiraatanillee fi daangaa jireenya magaalaa keessa jiraataniillee.</p>\n<p>Ijoolleen umuriin isaanii waggaa torbaa gadi ta’e laafinaa fi bareedina keessoo dhugaatiin guutamaniiru sababiin isaas ESSENCE jireenyaa kan jiraatu YOO PSICOOLÓGICO hin jiru.</p>\n<p>Garaagarummaa dhabuu yeroodhaa darbetti garaa keenya keessatti fi sammuu keenya keessatti deebisnee argachuu qabna. Yoo dhugaan gammachuu barbaadnee balleessaa dhabuu deebisnee argachuu qabna.</p>\n<p>Muuxannoowwan fi barumsichi hubannootti yeroo jijjiiraman hadhaa awwaala yaadannoo keessa hin dhiisan yeroo sana salphaa, laafaa, balleessaa hin qabne, gammachuu qabaannaa.</p>\n<p>Yaadannoo muuxannoowwanii fi beekumsa argame irratti gadi fageenyaan yaaduun, of qeequu gadi fageenyaan, xiinxalli lubbuu kan dhihoo wantoota hundumaa hubannoo uumaa gadi fageenyaatti ni jijjiira ni jijjiira. Kun karaa gammachuu dhugaa ogummaatti fi jaalalaatti dhalatuu ti.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/om/educacion-fundamental/la-sencillez.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/om/educacion-fundamental/la-sencillez.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/om/educacion-fundamental/la-sencillez.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

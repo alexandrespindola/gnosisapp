@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"To poglavje je bilo samodejno prevedeno iz španskega izvirnika. Še ni bilo pregledano s strani človeka. Če želite pomagati pri pregledu, nas kontaktirajte s klikom tukaj.","originalMessage":"Vsebina tega poglavja temelji na izvirnem španskem besedilu.","revisedMessage":"To poglavje je bilo pregledano in prevedeno iz izvirnega španskega besedila. Če še potrebuje popravke, nas kontaktirajte s klikom tukaj."};
+const status = {"automatic":"Samodejni Prevod","original":"Izvirnik","revised":"Pregledano"};
+const sl = {
+  "404.text": "Stran ni najdena. Preverite URL ali poskusite uporabiti iskalno vrstico.",
+  "aside.caution": "Pozor",
+  "aside.danger": "Nevarnost",
+  "aside.note": "Opomba",
+  "aside.tip": "Nasvet",
+  "builtWithStarlight.label": "Zgrajeno s Starlight",
+  "fileTree.directory": "Imenik",
+  "i18n.untranslatedContent": "Ta vsebina še ni na voljo v vašem jeziku.",
+  "languageSelect.accessibleLabel": "Izberi jezik",
+  "menuButton.accessibleLabel": "Meni",
+  messages,
+  "page.draft": "Ta vsebina je osnutek in ne bo vključena v produkcijske gradnje.",
+  "page.editLink": "Uredi stran",
+  "page.lastUpdated": "Zadnja posodobitev:",
+  "page.nextLink": "Naprej",
+  "page.previousLink": "Nazaj",
+  "search.cancelLabel": "Prekliči",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Iskanje je na voljo samo v produkcijskih gradnjah. \nPoskusite zgraditi in predogledati stran za lokalno testiranje.",
+  "search.label": "Iskanje",
+  "sidebarNav.accessibleLabel": "Glavno",
+  "skipLink.label": "Preskoči na vsebino",
+  status,
+  "tableOfContents.onThisPage": "V tem poglavju",
+  "tableOfContents.overview": "Začetek",
+  "themeSelect.accessibleLabel": "Izberi temo",
+  "themeSelect.auto": "Samodejno",
+  "themeSelect.dark": "Temno",
+  "themeSelect.light": "Svetlo",
+};
+
+export { sl as default, messages, status };

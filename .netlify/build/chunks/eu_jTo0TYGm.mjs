@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"See peatükk on automaatselt tõlgitud hispaaniakeelsest originaalist. See pole veel läbinud inimese ülevaatust. Kui soovite aidata ülevaatamisega, võtke meiega ühendust, klõpsates siin.","originalMessage":"Selle peatüki sisu põhineb hispaaniakeelsel originaaltekstil.","revisedMessage":"See peatükk on läbinud inimese ülevaatuse ja tõlke hispaaniakeelsest originaalist. Kui see vajab veel parandusi, võtke meiega ühendust, klõpsates siin."};
+const status = {"automatic":"Automaatne Tõlge","original":"Originaal","revised":"Ülevaadatud"};
+const eu = {
+  "404.text": "Lehte ei leitud. Kontrollige URL-i või proovige kasutada otsinguriba.",
+  "aside.caution": "Ettevaatust",
+  "aside.danger": "Oht",
+  "aside.note": "Märkus",
+  "aside.tip": "Vihje",
+  "builtWithStarlight.label": "Loodud Starlight'iga",
+  "fileTree.directory": "Kataloog",
+  "i18n.untranslatedContent": "See sisu pole veel teie keeles saadaval.",
+  "languageSelect.accessibleLabel": "Vali keel",
+  "menuButton.accessibleLabel": "Menüü",
+  messages,
+  "page.draft": "See sisu on mustand ja seda ei kaasata tootmisversioonidesse.",
+  "page.editLink": "Muuda lehte",
+  "page.lastUpdated": "Viimati uuendatud:",
+  "page.nextLink": "Järgmine",
+  "page.previousLink": "Eelmine",
+  "search.cancelLabel": "Tühista",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Otsing on saadaval ainult tootmisversioonides. \nProovige saiti kohalikuks testimiseks ehitada ja eelvaadata.",
+  "search.label": "Otsi",
+  "sidebarNav.accessibleLabel": "Peamine",
+  "skipLink.label": "Liigu sisu juurde",
+  status,
+  "tableOfContents.onThisPage": "Selles peatükis",
+  "tableOfContents.overview": "Algus",
+  "themeSelect.accessibleLabel": "Vali teema",
+  "themeSelect.auto": "Automaatne",
+  "themeSelect.dark": "Tume",
+  "themeSelect.light": "Hele",
+};
+
+export { eu as default, messages, status };

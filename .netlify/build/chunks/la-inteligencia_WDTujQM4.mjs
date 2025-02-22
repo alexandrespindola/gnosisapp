@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Inteligencja",
+  "locale": "pl",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "19. Inteligencja",
+    "order": 19
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Mogliśmy zweryfikować, że wielu nauczycieli i nauczycielek historii powszechnej w zachodniej części świata zwykło kpić z Buddy, Konfucjusza, Mahometa, Hermesa, Quetzacoatla, Mojżesza, Kryszny, itp.</p>\n<p>Poza wszelką wątpliwością mogliśmy również do syta przekonać się o sarkazmie, drwinach, ironii rzucanych przez nauczycieli i nauczycielki w stronę religii starożytnych, bogów, mitologii, itp. Wszystko to jest właśnie brakiem inteligencji.</p>\n<p>W szkołach podstawowych, średnich i na uniwersytetach, tematy religijne powinny być traktowane z większym szacunkiem, z wysokim poczuciem czci, z prawdziwą inteligencją twórczą.</p>\n<p>Formy religijne zachowują wartości wieczne i są zorganizowane zgodnie z potrzebami psychologicznymi i historycznymi każdego narodu, każdej rasy.</p>\n<p>Wszystkie religie mają te same zasady, te same wartości wieczne i różnią się tylko formą.</p>\n<p>Nie jest inteligentne, aby chrześcijanin kpił z religii Buddy, religii Hebrajskiej czy Hinduistycznej, ponieważ wszystkie religie opierają się na tych samych fundamentach.</p>\n<p>Satyry wielu intelektualistów przeciwko religiom i ich założycielom wynikają z trucizny MARKSIZM, która w tych czasach zatruwa wszystkie słabe umysły.</p>\n<p>Nauczyciele i nauczycielki w szkołach podstawowych, średnich i na uniwersytetach powinni kierować swoich uczniów i uczennice na drogę prawdziwego szacunku dla naszych bliźnich.</p>\n<p>Jest rzeczą z gruntu przewrotną i niegodną, aby prostak w imię jakiejkolwiek teorii kpił z świątyń, religii, sekt, szkół lub stowarzyszeń duchowych.</p>\n<p>Opuszczając sale lekcyjne, studenci muszą mieć do czynienia z ludźmi wszystkich religii, szkół, sekt i nie jest inteligentne, aby nie potrafili zachować należytej powagi w świątyni.</p>\n<p>Opuszczając sale lekcyjne po dziesięciu lub piętnastu latach nauki, młodzi ludzie są tak ospali i uśpieni, jak inni ludzie, tak pełni pustki i braku inteligencji, jak pierwszego dnia, w którym wstąpili do szkoły.</p>\n<p>Konieczne jest, aby studenci między innymi rozwijali centrum emocjonalne, ponieważ nie wszystko to intelekt. Konieczne jest nauczenie się odczuwania intymnych harmonii życia, piękna samotnego drzewa, śpiewu ptaszka w lesie, symfonii muzyki i kolorów pięknego zachodu słońca.</p>\n<p>Konieczne jest również odczuwanie i głębokie zrozumienie wszystkich okropnych kontrastów życia, takich jak okrutny i bezwzględny porządek społeczny tej epoki, w której żyjemy, ulice pełne nieszczęśliwych matek, które ze swoimi niedożywionymi i głodnymi dziećmi żebrają o kawałek chleba, brzydkie budynki, w których żyją tysiące biednych rodzin, odrażające drogi, po których krążą tysiące samochodów napędzanych paliwami, które szkodzą organizmom, itp.</p>\n<p>Student, który opuszcza sale lekcyjne, musi zmierzyć się nie tylko z własnym egoizmem i własnymi problemami, ale także z egoizmem wszystkich ludzi i z wieloma problemami społeczeństwa ludzkiego.</p>\n<p>Najpoważniejsze jest to, że student, który opuszcza sale lekcyjne, nawet mając przygotowanie intelektualne, nie ma inteligencji, jego świadomość jest uśpiona, jest niedostatecznie przygotowany do walki z życiem.</p>\n<p>Nadszedł czas, aby zbadać i odkryć, czym jest to, co nazywa się INTELIGENCJĄ. Słownik, encyklopedia, okazują się bezsilne, aby poważnie zdefiniować INTELIGENCJĘ.</p>\n<p>Bez inteligencji nigdy nie może być radykalnej transformacji ani prawdziwego szczęścia i bardzo rzadko w życiu spotyka się osoby naprawdę inteligentne.</p>\n<p>Ważne w życiu jest nie tylko znać słowo INTELIGENCJA, ale doświadczyć w nas samych jego głębokiego znaczenia.</p>\n<p>Wielu jest tych, którzy chełpią się inteligencją, nie ma pijaka, który by się nią nie chełpił, a Karol Marks, uważając się za zbyt inteligentnego, napisał swoją materialistyczną farsę, która kosztowała świat utratę wiecznych wartości, rozstrzelanie tysięcy kapłanów różnych religii, gwałt na zakonnicach, Buddyjskich, Chrześcijańskich, itp., zniszczenie wielu świątyń, tortury tysięcy i milionów ludzi, etc etc. etc.</p>\n<p>Każdy może chełpić się inteligencją, trudno jest być nią naprawdę.</p>\n<p>Nie poprzez zdobywanie większej ilości informacji z książek, więcej wiedzy, więcej doświadczeń, więcej rzeczy, aby olśnić ludzi, więcej pieniędzy, aby kupić sędziów i policję; etc. osiągnie się to, co nazywa się INTELIGENCJĄ.</p>\n<p>Nie z tym WIĘCEJ można dojść do posiadania INTELIGENCJI. Mylą się ci, którzy sądzą, że inteligencję można podbić procesem WIĘCEJ.</p>\n<p>Należy pilnie zrozumieć dogłębnie i we wszystkich dziedzinach umysłu podświadomego i nieświadomego, czym jest ten zgubny proces WIĘCEJ, ponieważ w głębi bardzo sekretnie ukrywa się ukochane EGO, JA, MOJE SAME, które pragnie i chce zawsze WIĘCEJ i WIĘCEJ, aby utuczyć się i wzmocnić.</p>\n<p>Ten Mefistofeles, którego nosimy w sobie, ten SZATAN, to JA, mówi: JA mam WIĘCEJ pieniędzy, więcej piękna, więcej inteligencji niż tamten, więcej prestiżu, więcej sprytu, etc. etc. etc.</p>\n<p>Kto naprawdę chce zrozumieć, czym jest INTELIGENCJA, musi nauczyć się ją odczuwać, musi ją przeżywać i doświadczać poprzez głęboką medytację.</p>\n<p>Wszystko, co ludzie gromadzą między zgniłym grobowcem niewiernej pamięci, informacje intelektualne, doświadczenia z życia, zawsze fatalnie przekłada się na termin WIĘCEJ i WIĘCEJ. Tak więc nigdy nie poznają głębokiego znaczenia tego wszystkiego, co gromadzą.</p>\n<p>Wielu czyta książkę, a następnie umieszcza ją w pamięci, usatysfakcjonowani nagromadzeniem większej ilości informacji, ale kiedy zostają wezwani do odpowiedzi za doktrynę napisaną w przeczytanej książce, okazuje się, że nie znają głębokiego znaczenia nauki, ale JA chce więcej i więcej informacji, więcej i więcej książek, nawet jeśli nie przeżyło doktryny żadnej z nich.</p>\n<p>Inteligencji nie zdobywa się poprzez więcej informacji z książek, ani poprzez więcej doświadczenia, ani poprzez więcej pieniędzy, ani poprzez więcej prestiżu, inteligencja może rozkwitnąć w nas, gdy zrozumiemy cały proces JA, kiedy dogłębnie zrozumiemy cały ten automatyzm psychologiczny WIĘCEJ.</p>\n<p>Niezbędne jest zrozumienie, że umysł jest podstawowym centrum WIĘCEJ. Naprawdę to WIĘCEJ to to samo psychologiczne JA, które wymaga, a umysł jest jego fundamentalnym jądrem.</p>\n<p>Kto chce być naprawdę inteligentny, musi postanowić umrzeć nie tylko na powierzchownym poziomie intelektualnym, ale także we wszystkich podświadomych i nieświadomych obszarach umysłu.</p>\n<p>Kiedy JA umiera, kiedy JA całkowicie się rozpuszcza, jedyne, co pozostaje w nas, to autentyczne BYĆ, prawdziwe BYĆ, legalna inteligencja tak pożądana i tak trudna.</p>\n<p>Ludzie wierzą, że umysł jest twórczy, mylą się. JA nie jest twórcze, a umysł jest podstawowym jądrem JA.</p>\n<p>Inteligencja jest twórcza, ponieważ ona jest z BYĆ, jest atrybutem BYĆ. Nie powinniśmy mylić umysłu z INTELIGENCJĄ.</p>\n<p>Mylą się ZUPEŁNIE i w sposób radykalny ci, którzy sądzą, że INTELIGENCJA jest czymś, co można uprawiać jak kwiat szklarniowy LUB coś, co można kupić, tak jak kupuje się tytuły szlacheckie lub posiadając imponującą bibliotekę.</p>\n<p>Konieczne jest głębokie zrozumienie wszystkich procesów umysłu, wszystkich reakcji, tego psychologicznego WIĘCEJ, które gromadzi, itp. Tylko w ten sposób wytryska w nas w naturalny i spontaniczny sposób płomień gorejącej INTELIGENCJI.</p>\n<p>W miarę jak Mefistofeles, którego nosimy w sobie, rozpuszcza się, ogień twórczej inteligencji manifestuje się stopniowo w nas, aż do rozpalenia się płomieniem.</p>\n<p>Naszym prawdziwym BYĆ jest MIŁOŚĆ i z tej MIŁOŚCI rodzi się autentyczna i legalna INTELIGENCJA, która nie jest z czasu.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/pl/educacion-fundamental/la-inteligencia.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/pl/educacion-fundamental/la-inteligencia.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/pl/educacion-fundamental/la-inteligencia.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

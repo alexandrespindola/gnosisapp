@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "La Oración en el Trabajo",
+  "locale": "es",
+  "statusTranslation": "original",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-tratado-de-psicologia-revolucionaria.webp-5e15e1cec4e0ebebcde5d7fc7565d8fd.webp",
+  "sidebar": {
+    "label": "32. La Oración en el Trabajo",
+    "order": 32
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Observación, Juicio y Ejecución, son los tres factores básicos de la disolución.</p>\n<p>Primero: se observa. Segundo: se enjuicia. Tercero: se ejecuta.</p>\n<p>A los espías en la guerra, primero se les observa; segundo se les enjuicia; tercero se les fusila.</p>\n<p>En la inter-relación existe auto-descubrimiento y auto-revelación. Quien renuncia a la convivencia con sus semejantes, renuncia también al auto-descubrimiento.</p>\n<p>Cualquier incidente de la vida por insignificante que parezca, indubitablemente tiene por causa un actor íntimo en nosotros, un agregado psíquico, un “Yo”.</p>\n<p>El auto-descubrimiento es posible cuando nos encontramos en estado de alerta percepción, alerta novedad.</p>\n<p>“Yo”, descubierto in fraganti, debe ser observado cuidadosamente en nuestro cerebro, corazón y sexo.</p>\n<p>Un Yo cualquiera de lujuria podría manifestarse en el corazón como amor, en el cerebro como un Ideal, más al poner atención al sexo, sentiríamos cierta excitación morbosa inconfundible.</p>\n<p>El enjuiciamiento de cualquier Yo debe ser definitivo. Necesitamos sentarle en el banquillo de los acusados y juzgarle despiadadamente.</p>\n<p>Cualquier evasiva, justificación, consideración, debe ser eliminada, si es que en verdad queremos hacemos conscientes del “Yo” que anhelamos extirpar de nuestra psiquis.</p>\n<p>Ejecución es diferente; no sería posible ejecutar a un “Yo” cualquiera, sin haberle previamente observado y enjuiciado.</p>\n<p>Oración en el trabajo psicológico es fundamental para la disolución. Necesitamos de un poder superior a la mente, si es que en realidad deseamos desintegrar tal o cual “Yo”.</p>\n<p>La mente por si misma nunca podría desintegrar ningún “Yo”, esto es irrebatible, irrefutable.</p>\n<p>Orar es platicar con Dios. Nosotros debemos apelar a Dios Madre en Nuestra Intimidad, si es que en verdad queremos desintegrar “Yoes”, quien no ama a su Madre, el hijo ingrato, fracasará en el trabajo sobre si mismo.</p>\n<p>Cada uno de nosotros tiene su Madre Divina particular, individual, ella en si mismo es una parte de nuestro propio Ser, pero derivado.</p>\n<p>Todos los pueblos antiguos adoraron a “Dios Madre” en lo más profundo de nuestro Ser. El principio femenino del Eterno es ISIS, MARÍA, TONANZIN, CIBELES, REA, ADONIA, INSOBERTA, etc., etc., etc.</p>\n<p>Si en lo meramente físico tenemos padre y madre, en lo más hondo de nuestro Ser tenemos también a nuestro Padre que esta en secreto y a nuestra Divina Madre KUNDALINI.</p>\n<p>Hay tantos Padres en el Cielo cuantos hombres en la tierra. Dios Madre en nuestra propia intimidad es el aspecto femenino de nuestro Padre que está en secreto.</p>\n<p>EL y ELLA son ciertamente las dos partes superiores de nuestro Ser intimo. Indubitablemente EL y ELLA son nuestro mismo Ser Real más allá del “YO” de la Psicología.</p>\n<p>EL se desdobla en ELLA y manda, dirige, instruye. ELLA elimina los elementos indeseables que en nuestro interior llevamos, a condición de un trabajo continuo sobre si mismo.</p>\n<p>Cuando hayamos muerto radicalmente, cuando todos los elementos indeseables hayan sido eliminados después de muchos trabajos concientes y padecimientos voluntarios nos fusionaremos e integraremos con el “PADRE-MADRE”, entonces seremos Dioses terriblemente divinos, mas allá del bien y del mal.</p>\n<p>Nuestra Madre Divina particular, individual, mediante sus poderes flamígeros puede reducir a polvareda cósmica a cualquiera de esos tantos “Yoes”, que haya sido previamente observado y enjuiciado.</p>\n<p>En modo alguno sería necesaria una fórmula específica para rezarle a nuestra Madre Divina interior. Debemos ser muy naturales y simples al dirigirnos a ELLA. El niño que se dirige a su madre, nunca tiene fórmulas especiales, dice lo que sale de su corazón y eso es todo.</p>\n<p>Ningún “Yo” se disuelve instantáneamente; nuestra Divina Madre debe trabajar y hasta sufrir muchísimo antes de lograr una aniquilación de cualquier “Yo”.</p>\n<p>Volveos introvertidos, dirigid vuestra plegaria hacia adentro, buscando dentro de vuestro interior a vuestra Divina Señora y con súplicas sinceras podéis hablarle. Rogadle desintegre aquel “Yo” que hayáis previamente observado y enjuiciado.</p>\n<p>El sentido de auto-observación intima, conforme se vaya desarrollando, os permitirá verificar el avance progresivo de vuestro trabajo.</p>\n<p>Comprensión, discernimiento, son fundamentales, sin embargo se necesita de algo mas si es que en realidad queremos desintegrar el “MI MISMO”.</p>\n<p>La mente puede darse el lujo de rotular cualquier defecto, pasarlo de un departamento a otro, exhibirlo, esconderlo, etc., más nunca podría alterarlo fundamentalmente.</p>\n<p>Se necesita de un “poder especial” superior a la mente, de un poder flamígero capaz de reducir a cenizas cualquier defecto.</p>\n<p>STELLA MARIS, nuestra Divina Madre, tiene ese poder, puede pulverizar cualquier defecto psicológico.</p>\n<p>Nuestra Madre Divina, vive en nuestra intimidad, mas allá del cuerpo, de los afectos y la mente. Ella es por si misma un poder ígneo superior a la mente.</p>\n<p>Nuestra Madre Cósmica particular, individual, posee Sabiduría, Amor y Poder. En ella existe absoluta perfección.</p>\n<p>Las buenas intenciones y la repetición constante de las mismas, de nada sirven, a nada conducen.</p>\n<p>De nada serviría repetir: “no seré lujurioso”; los Yoes de la lascivia de todas maneras continuarían existiendo en el fondo mismo de nuestra psiquis.</p>\n<p>De nada serviría repetir diariamente: “no tendré más ira”. Los “Yoes” de la ira continuarían existiendo en nuestros fondos psicológicos.</p>\n<p>De nada serviría decir diariamente: “no seré más codicioso”. Los “Yoes” de la codicia continuarían existiendo en los diversos trasfondos de nuestra psiquis.</p>\n<p>De nada serviría apartamos del mundo y encerrarnos en un convento o vivir en alguna caverna; los “Yoes” dentro de nosotros continuarían existiendo.</p>\n<p>Algunos anacoretas cavernarios a base de rigurosas disciplinas llegaron al éxtasis de los santos y fueron llevados a los cielos, donde vieron y oyeron cosas que a los seres humanos no les es dable comprender; sin embargo los “Yoes” continuaron existiendo en su interior.</p>\n<p>Incuestionablemente la Esencia puede escaparse del “Yo” a base de rigurosas disciplinas y gozar del éxtasis, empero, después de la dicha, retorna al interior del “Mi Mismo”.</p>\n<p>Quienes se han acostumbrado al éxtasis, sin haber disuelto el “Ego”, creen que ya alcanzaron la liberación, se auto-engañan creyéndose Maestros y hasta Ingresan a la Involución sumergida.</p>\n<p>Jamás nos pronunciaríamos contra el arrobamiento místico, contra el éxtasis y la felicidad del Alma en ausencia del EGO.</p>\n<p>Sólo queremos poner énfasis en la necesidad de disolver “Yoes” para lograr la liberación final.</p>\n<p>La Esencia de cualquier anacoreta disciplinado, acostumbrado a escaparse del “Yo”, repite tal hazaña después de la muerte del cuerpo físico, goza por un tiempo del éxtasis y luego vuelve como el Genio de la lámpara de Aladino al interior de la botella, al Ego, al Mi Mismo.</p>\n<p>Entonces no le queda más remedio que retornar a un nuevo cuerpo físico, con el propósito de repetir su vida sobre el tapete de la existencia.</p>\n<p>Muchos místicos que desencarnaron en las cavernas de los Himalayas, en el Asia Central, ahora son personas vulgares, comunes y corrientes en este mundo, a pesar de que sus seguidores todavía les adoren y veneren.</p>\n<p>Cualquier intento de liberación por grandioso que este sea, si no tiene en cuenta la necesidad de disolver el Ego, está condenado al fracaso.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/tratado-de-psicologia-revolucionaria/la-oracion-en-el-trabajo.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tratado-de-psicologia-revolucionaria/la-oracion-en-el-trabajo.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tratado-de-psicologia-revolucionaria/la-oracion-en-el-trabajo.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

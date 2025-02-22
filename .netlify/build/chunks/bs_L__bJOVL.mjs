@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Ovo poglavlje je automatski prevedeno sa španskog originala. Još nije prošlo ljudsku reviziju. Ako želite pomoći s pregledom, kontaktirajte nas klikom ovdje.","originalMessage":"Sadržaj ovog poglavlja zasnovan na originalnom španskom tekstu.","revisedMessage":"Ovo poglavlje je prošlo ljudsku reviziju i prevod sa originalnog španskog teksta. Ako su još potrebne ispravke, kontaktirajte nas klikom ovdje."};
+const status = {"automatic":"Automatski Prevod","original":"Original","revised":"Pregledano"};
+const bs = {
+  "404.text": "Stranica nije pronađena. Provjerite URL ili pokušajte koristiti traku za pretragu.",
+  "aside.caution": "Oprez",
+  "aside.danger": "Opasnost",
+  "aside.note": "Napomena",
+  "aside.tip": "Savjet",
+  "builtWithStarlight.label": "Napravljeno sa Starlight",
+  "fileTree.directory": "Direktorij",
+  "i18n.untranslatedContent": "Ovaj sadržaj još nije dostupan na vašem jeziku.",
+  "languageSelect.accessibleLabel": "Odaberite jezik",
+  "menuButton.accessibleLabel": "Meni",
+  messages,
+  "page.draft": "Ovaj sadržaj je nacrt i neće biti uključen u produkcijske verzije.",
+  "page.editLink": "Uredi stranicu",
+  "page.lastUpdated": "Posljednje ažuriranje:",
+  "page.nextLink": "Sljedeće",
+  "page.previousLink": "Prethodno",
+  "search.cancelLabel": "Otkaži",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Pretraga je dostupna samo u produkcijskim verzijama. \nPokušajte izgraditi i pregledati sajt da biste ga testirali lokalno.",
+  "search.label": "Pretraga",
+  "sidebarNav.accessibleLabel": "Glavno",
+  "skipLink.label": "Preskoči na sadržaj",
+  status,
+  "tableOfContents.onThisPage": "U ovom poglavlju",
+  "tableOfContents.overview": "Početak",
+  "themeSelect.accessibleLabel": "Odaberite temu",
+  "themeSelect.auto": "Automatski",
+  "themeSelect.dark": "Tamno",
+  "themeSelect.light": "Svijetlo",
+};
+
+export { bs as default, messages, status };

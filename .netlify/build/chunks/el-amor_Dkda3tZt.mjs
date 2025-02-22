@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Mīlestība",
+  "locale": "lv",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "8. Mīlestība",
+    "order": 8
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Jau no skolas sola skolēniem jāsaprot, kas patiesībā ir MĪLESTĪBA.</p>\n<p>BAILLES un ATKARĪBA bieži tiek sajauktas ar MĪLESTĪBU, bet tās NAV MĪLESTĪBA.</p>\n<p>Skolēni ir atkarīgi no saviem vecākiem un skolotājiem, un ir skaidrs, ka viņi viņus ciena un vienlaikus baidās.</p>\n<p>Bērni un jaunieši ir atkarīgi no saviem vecākiem attiecībā uz apģērbu, ēdienu, naudu, pajumti utt., un ir pilnīgi skaidrs, ka viņi jūtas aizsargāti, zina, ka ir atkarīgi no saviem vecākiem, un tāpēc viņus ciena un pat baidās, bet tā nav MĪLESTĪBA.</p>\n<p>Kā piemēru tam, ko mēs sakām, mēs varam pilnīgi precīzi pārbaudīt, ka katrs bērns vai jaunietis vairāk uzticas saviem skolas draugiem nekā saviem vecākiem.</p>\n<p>Patiesībā bērni un jaunieši runā ar saviem klasesbiedriem par intīmām lietām, par kurām viņi nekad mūžā nerunātu ar saviem vecākiem.</p>\n<p>Tas mums pierāda, ka starp bērniem un vecākiem nav patiesas uzticēšanās, ka nav patiesas MĪLESTĪBAS.</p>\n<p>NEKAVĒJOTIES jāsaprot, ka pastāv radikāla atšķirība starp MĪLESTĪBU un to, kas ir cieņa, bailes, atkarība, bailes.</p>\n<p>NEKAVĒJOTIES jāiemācās cienīt savus vecākus un skolotājus, bet nesajaukt cieņu ar MĪLESTĪBU.</p>\n<p>CIEŅAI un MĪLESTĪBAI jābūt CIEŠI SAISTĪTĀM, bet mums nevajadzētu sajaukt vienu ar otru.</p>\n<p>Vecāki baidās par saviem bērniem, vēlas viņiem to labāko, labu profesiju, labu laulību, aizsardzību utt., un sajauc šīs bailes ar patiesu MĪLESTĪBU.</p>\n<p>Ir jāsaprot, ka bez PATIESAS MĪLESTĪBAS vecāki un skolotāji nespēj gudri vadīt jaunās paaudzes, pat ja viņiem ir ļoti labi nodomi.</p>\n<p>Ceļš, kas ved uz BEZDIBENI, ir bruģēts ar ĻOTI LABIEM NODOMIEM.</p>\n<p>Mēs redzam pasaulē labi zināmo gadījumu “BEZCELONI BEZ IEMESLA”. Tā ir garīga epidēmija, kas ir izplatījusies visā pasaulē. Liels skaits “LABU BĒRNU”, kurus it kā ļoti mīl viņu vecāki, ļoti lutina, ļoti mīl, uzbrūk neaizsargātiem garāmgājējiem, sit un izvaro sievietes, zog, apmētā ar akmeņiem, staigā bandās, nodarot kaitējumu visur, neciena skolotājus un vecākus utt. utt. utt.</p>\n<p>“BEZCELONI BEZ IEMESLA” ir patiesas MĪLESTĪBAS trūkuma produkts.</p>\n<p>Kur ir patiesa MĪLESTĪBA, tur nevar būt “BEZCELOŅU BEZ IEMESLA”.</p>\n<p>Ja vecāki patiešām MĪLĒTU savus bērnus, viņi zinātu, kā tos gudri orientēt, un tad nebūtu “BEZCELOŅU BEZ IEMESLA”.</p>\n<p>Bezceloņi bez iemesla ir sliktas orientācijas produkts.</p>\n<p>Vecākiem nav bijis pietiekami daudz MĪLESTĪBAS, lai patiesi veltītu sevi savu bērnu gudrai orientācijai.</p>\n<p>Mūsdienu vecāki domā tikai par naudu un dot bērnam arvien vairāk un vairāk, un jaunāko automašīnas modeli, un jaunākās modes tērpus utt., bet viņi nemīl patiesi, nezina, kā mīlēt, un tāpēc ir “bezceloņi bez iemesla”.</p>\n<p>Šī laikmeta virspusējība ir saistīta ar PATIESAS MĪLESTĪBAS trūkumu.</p>\n<p>Mūsdienu dzīve ir līdzīga peļķei bez dziļuma, bez dziļuma.</p>\n<p>Dziļajā dzīves ezerā var dzīvot daudzas radības, daudzas zivis, bet peļķe, kas atrodas ceļa malā, drīz izžūst karstajos saules staros, un tad vienīgais, kas paliek, ir dubļi, puve, neglītums.</p>\n<p>Nav iespējams aptvert dzīves skaistumu visā tās krāšņumā, ja neesam iemācījušies MĪLĒT.</p>\n<p>Cilvēki sajauc cieņu un bailes ar to, ko sauc par MĪLESTĪBU.</p>\n<p>Mēs cienām savus priekšniekus un baidāmies no viņiem, un tad mēs ticam, ka mīlam viņus.</p>\n<p>Bērni baidās no saviem vecākiem un skolotājiem un viņus ciena, un tad viņi tic, ka mīl viņus.</p>\n<p>Bērns baidās no pātagas, lineāla, sliktas atzīmes, rājiena mājās vai skolā utt., un tad tic, ka mīl savus vecākus un skolotājus, bet patiesībā viņš tikai baidās no viņiem.</p>\n<p>Mēs esam atkarīgi no darba, no priekšnieka, mēs baidāmies no nabadzības, no palikšanas bez darba, un tad mēs ticam, ka mīlam priekšnieku un pat rūpējamies par viņa interesēm, rūpējamies par viņa īpašumiem, bet tā nav MĪLESTĪBA, tās ir bailes.</p>\n<p>Daudzi cilvēki baidās domāt paši par sevi par dzīves un nāves noslēpumiem, baidās jautāt, pētīt, saprast, mācīties utt., un tad viņi saka: ES MĪLU DIEVU, UN AR TO IR PIETIEKAMI!</p>\n<p>Viņi tic, ka mīl DIEVU, bet patiesībā viņi NEMĪL, viņi baidās.</p>\n<p>Kara laikā sieva jūt, ka pielūdz savu vīru vairāk nekā jebkad agrāk, un ar bezgalīgu satraukumu vēlas viņa atgriešanos mājās, bet patiesībā viņa nemīl viņu, viņa tikai baidās palikt bez vīra, bez aizsardzības utt. utt. utt.</p>\n<p>Psiholoģiska verdzība, atkarība, būt atkarīgam no kāda, nav MĪLESTĪBA. Tās ir tikai BAILLES un viss.</p>\n<p>Bērns mācībās ir atkarīgs no SKOLOTĀJA vai SKOLOTĀJAS, un ir skaidrs, ka viņš baidās no IZSLĒGŠANAS, no sliktas atzīmes, no rājiena, un daudzas reizes viņš tic, ka viņu MĪL, bet patiesībā viņš no viņa baidās.</p>\n<p>Kad sievai ir dzemdības vai viņa ir nāves briesmās kādas slimības dēļ, vīrs tic, ka mīl viņu daudz vairāk, bet patiesībā viņš baidās viņu zaudēt, ir no viņas atkarīgs daudzās lietās, piemēram, ēdienā, seksā, drēbju mazgāšanā, glāstos utt., un baidās viņu zaudēt. Tā nav MĪLESTĪBA.</p>\n<p>Visi saka, ka pielūdz visus, bet tā nav: Dzīvē ir ļoti reti atrast kādu, kurš zina, kā PATIESI MĪLĒT.</p>\n<p>Ja vecāki patiesi mīlētu savus bērnus, ja bērni patiesi mīlētu savus vecākus, ja skolotāji patiesi mīlētu savus skolēnus, kari nevarētu notikt. Kari simtprocentīgi būtu neiespējami.</p>\n<p>Lieta ir tāda, ka cilvēki nav sapratuši, kas ir mīlestība, un visas bailes un visu psiholoģisko verdzību un visas kaislības utt. viņi sajauc ar to, ko sauc par MĪLESTĪBU.</p>\n<p>Cilvēki nezina, kā MĪLĒT, ja cilvēki zinātu, kā mīlēt, dzīve patiesībā būtu paradīze.</p>\n<p>IEMĪLĒJIES cilveki tic, ka mīl, un daudzi pat būtu gatavi zvērēt ar asinīm, ka mīl. Bet viņi ir tikai AIZRAUTI. Kad KAISLĪBA ir apmierināta, kāršu namiņš sabrūk.</p>\n<p>KAISLĪBA bieži vien maldina PRĀTU un SIRDI. Katrs AIZRAUTIS cilvēks tic, ka ir IEMĪLĒJIES.</p>\n<p>Dzīvē ir ļoti reti atrast patiesi iemīlējušos pāri. AIZRAUTĪGU pāru ir daudz, bet ļoti grūti atrast IEMĪLĒJUŠOS pāri.</p>\n<p>Visi mākslinieki dzied par MĪLESTĪBU, bet nezina, kas ir MĪLESTĪBA, un sajauc KAISLĪBU ar MĪLESTĪBU.</p>\n<p>Ja šajā dzīvē ir kaut kas ļoti grūts, tas ir NEsaistīt KAISLĪBU ar MĪLESTĪBU.</p>\n<p>KAISLĪBA ir visgaršīgākā un smalkākā inde, kādu vien var iedomāties, tā vienmēr beidzas ar uzvaru par asins cenu.</p>\n<p>KAISLĪBA ir seksuāla simtprocentīgi, KAISLĪBA ir zvēriska, bet dažreiz tā ir arī ļoti izsmalcināta un smalka. To vienmēr sajauc ar MĪLESTĪBU.</p>\n<p>Skolotājiem un skolotājām jāiemāca skolēniem, jauniešiem un jaunietēm, atšķirt MĪLESTĪBU no KAISLĪBAS. Tikai tādā veidā vēlāk dzīvē tiks novērstas daudzas traģēdijas.</p>\n<p>Skolotājiem un skolotājām ir pienākums veidot skolēnu atbildību, un tāpēc viņiem ir pienācīgi jāsagatavo viņi, lai viņi nekļūtu par traģēdijām dzīvē.</p>\n<p>Ir jāsaprot, kas ir MĪLESTĪBA, ko nevar sajaukt ar greizsirdību, kaislībām, vardarbību, bailēm, piesaistēm, psiholoģisku atkarību utt. utt. utt.</p>\n<p>MĪLESTĪBA diemžēl nepastāv cilvēkos, bet tā arī nav kaut kas, ko var IEGŪT, nopirkt, audzēt kā siltumnīcas ziedu utt.</p>\n<p>MĪLESTĪBAI jāPIEDZIMST mūsos, un tā PIEDZIMST tikai tad, kad esam pilnībā sapratuši, kas ir ŅEŅAVĪBA, ko mēs nesam iekšā, kas ir BAILLES, SEKSUĀLĀ KAISLĪBA, bailes, psiholoģiska verdzība, atkarība utt. utt. utt.</p>\n<p>Mums jāsaprot, kas ir šie PSIHOLOĢISKIE trūkumi, mums jāsaprot, kā tie tiek apstrādāti mūsos ne tikai intelektuālajā dzīves līmenī, bet arī citos slēptos un nezināmos APZIŅAS līmeņos.</p>\n<p>Ir nepieciešams izvilkt no dažādiem prāta kaktiem visus šos trūkumus. Tikai tādā veidā mūsos spontāni un tīrā veidā piedzimst tas, ko sauc par MĪLESTĪBU.</p>\n<p>Nav iespējams vēlēties pārveidot pasauli bez MĪLESTĪBAS liesmas. Tikai MĪLESTĪBA patiesi var pārveidot pasauli.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/lv/educacion-fundamental/el-amor.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/lv/educacion-fundamental/el-amor.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/lv/educacion-fundamental/el-amor.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

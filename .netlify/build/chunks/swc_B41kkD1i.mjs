@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Sura hii imetafsiriwa automatiki kutoka Kihispania cha asili. Haijapitia ukaguzi wa binadamu bado. Kama unataka kusaidia na ukaguzi, tupigie kwa kubonyeza hapa.","originalMessage":"Maudhui ya sura hii yanatokana na maandishi ya asili ya Kihispania.","revisedMessage":"Sura hii imepitia ukaguzi wa binadamu na tafsiri kutoka maandishi ya asili ya Kihispania. Kama inahitaji marekebisho zaidi, tupigie kwa kubonyeza hapa."};
+const status = {"automatic":"Tafsiri ya Automatiki","original":"Asili","revised":"Imepitiwa"};
+const swc = {
+  "404.text": "Ukurasa haupatikani. Angalia URL ao jaribu kutumia bar ya kutafuta.",
+  "aside.caution": "Tahadhari",
+  "aside.danger": "Hatari",
+  "aside.note": "Kumbuka",
+  "aside.tip": "Shauri",
+  "builtWithStarlight.label": "Imetengenezwa na Starlight",
+  "fileTree.directory": "Directoriya",
+  "i18n.untranslatedContent": "Maudhui haya hayapatikani kwa lugha yako bado.",
+  "languageSelect.accessibleLabel": "Chagua lugha",
+  "menuButton.accessibleLabel": "Menu",
+  messages,
+  "page.draft": "Maudhui haya ni rasimu na hayatakuwa ndani ya toleo la uzalishaji.",
+  "page.editLink": "Hariri ukurasa",
+  "page.lastUpdated": "Ilisasishwa mwisho:",
+  "page.nextLink": "Inayofuata",
+  "page.previousLink": "Iliyotangulia",
+  "search.cancelLabel": "Ghairi",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Kutafuta kunapatikana tu katika toleo la uzalishaji. \nJaribu kujenga na kuona tovuti kwa kujaribu hapa.",
+  "search.label": "Tafuta",
+  "sidebarNav.accessibleLabel": "Kuu",
+  "skipLink.label": "Ruka kwenda maudhui",
+  status,
+  "tableOfContents.onThisPage": "Katika sura hii",
+  "tableOfContents.overview": "Mwanzo",
+  "themeSelect.accessibleLabel": "Chagua mandhari",
+  "themeSelect.auto": "Otomatiki",
+  "themeSelect.dark": "Giza",
+  "themeSelect.light": "Mwanga",
+};
+
+export { swc as default, messages, status };

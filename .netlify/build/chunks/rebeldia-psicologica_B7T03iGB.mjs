@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Psychologische Rebellie",
+  "locale": "nl",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "32. Psychologische Rebellie",
+    "order": 32
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Zij die zich eraan hebben gewijd om alle landen van de wereld te bereizen met als doel alle menselijke rassen in detail te bestuderen, hebben zelf kunnen vaststellen dat de aard van dit arme INTELLECTUELE DIER, ten onrechte mens genoemd, altijd dezelfde is, of het nu in het oude Europa is of in het Afrika dat moe is van zoveel slavernij, in het heilige land van de Veda’s of in West-Indië, in Oostenrijk of in China.</p>\n<p>Dit concrete feit, deze enorme realiteit die elke studerende mens verbaast, kan vooral worden geverifieerd als de reiziger scholen, colleges en universiteiten bezoekt.</p>\n<p>We zijn aangekomen in het tijdperk van serieproductie. Alles wordt nu in een opeenvolgende band en op grote schaal geproduceerd. Series vliegtuigen, auto’s, luxe goederen, etc., etc., etc.</p>\n<p>Hoewel het een beetje grotesk klinkt, is het heel waar dat de industriële scholen, universiteiten, enz. ook intellectuele fabrieken van serieproductie zijn geworden.</p>\n<p>In deze tijden van serieproductie is het enige doel in het leven het vinden van economische zekerheid. Mensen zijn bang voor alles en zoeken zekerheid.</p>\n<p>Onafhankelijk denken is in deze tijden van serieproductie bijna onmogelijk omdat het moderne type onderwijs gebaseerd is op louter gemakken.</p>\n<p>“De Nieuwe Golf” leeft zeer tevreden met deze intellectuele middelmatigheid. Als iemand anders wil zijn, anders dan de rest, wordt hij door iedereen gediskwalificeerd, door iedereen bekritiseerd, hij wordt buitengesloten, hij krijgt geen werk, enz.</p>\n<p>Het verlangen om geld te verdienen om te leven en zich te vermaken, de drang om succes te behalen in het leven, het zoeken naar economische zekerheid, het verlangen om veel dingen te kopen om mee te pronken voor anderen, enz., stoppen het pure, natuurlijke en spontane denken.</p>\n<p>Het is volledig bewezen dat angst de geest afstompt en het hart verhardt.</p>\n<p>In deze tijden van zoveel angst en het zoeken naar zekerheid, verstoppen mensen zich in hun holen, in hun holen, in hun hoek, op de plek waar ze denken dat ze meer veiligheid, minder problemen kunnen hebben en ze willen daar niet weg, ze zijn doodsbang voor het leven, bang voor nieuwe avonturen, voor nieuwe ervaringen, enz., enz., enz.</p>\n<p>Al dit zo AANGEPREZEN moderne onderwijs is gebaseerd op angst en het zoeken naar zekerheid, mensen zijn bang, ze zijn zelfs bang voor hun eigen schaduw.</p>\n<p>Mensen zijn doodsbang voor alles, ze zijn bang om af te wijken van de oude gevestigde normen, anders te zijn dan andere mensen, revolutionair te denken, te breken met alle vooroordelen van de decadente samenleving, enz.</p>\n<p>Gelukkig leven er in de wereld een paar oprechte en begripvolle mensen, die echt de problemen van de geest diepgaand willen onderzoeken, maar in de overgrote meerderheid van ons bestaat niet eens de geest van ontevredenheid en rebellie.</p>\n<p>Er zijn twee soorten REBELLIE die al naar behoren zijn geclassificeerd. Ten eerste: gewelddadige psychologische rebellie. Ten tweede: diepe psychologische rebellie van de INTELLIGENTIE.</p>\n<p>Het eerste type rebellie is reactionair conservatief en vertragend. Het tweede type rebellie is REVOLUTIONAIR.</p>\n<p>In het eerste type psychologische rebellie vinden we de HERVORMER die oude kleren repareert en muren van oude gebouwen repareert zodat ze niet instorten, het regressieve type, de revolutionair van bloed en sterke drank, de leider van de staatsgrepen en staatsgrepen, de man met het geweer op zijn schouder, de dictator die ervan geniet om iedereen die zijn grillen en theorieën niet accepteert tegen de muur te zetten.</p>\n<p>In het tweede type psychologische rebellie vinden we BUDDHA, JEZUS, HERMES, de transformator, de INTELLIGENTE REBEL, de INTUÏTIEVE, de GROTE voorvechters van de REVOLUTIE VAN HET BEWUSTZIJN, enz., enz., enz.</p>\n<p>Degenen die zich alleen opleiden met het absurde doel om prachtige posities te beklimmen binnen de bureaucratische bijenkorf, om op te klimmen, naar de top van de ladder te klimmen, zich te laten gelden, enz., missen ware diepgang, zijn van nature Imbecielen, oppervlakkig, leeg, honderd procent schurken.</p>\n<p>Het is al tot vervelens toe bewezen dat wanneer er in de mens geen echte INTEGRATIE van denken en voelen bestaat, hoewel we een geweldige opleiding hebben genoten, het leven onvolledig, tegenstrijdig, saai en gekweld door talloze angsten van allerlei aard is.</p>\n<p>Buiten kijf en zonder bang te zijn om het mis te hebben, kunnen we met nadruk stellen dat zonder INTEGRALE educatie het leven schadelijk, nutteloos en schadelijk is.</p>\n<p>HET INTELLECTUELE DIER heeft een INTERN EGO dat helaas is samengesteld uit verre ENTITEITEN die worden versterkt door de VERKEERDE OPVOEDING.</p>\n<p>HET GEPLURALISEERDE ZELF dat ieder van ons in zich draagt, is de fundamentele oorzaak van al onze complexen en tegenstrijdigheden.</p>\n<p>DE FUNDAMENTELE OPVOEDING moet de nieuwe generaties onze psychologische DIDACTIEK leren voor de ONTBINDING van het ZELF.</p>\n<p>Alleen door de verschillende entiteiten die samen het Ego (ZELF) vormen op te lossen, kunnen we in onszelf een permanent centrum van individueel bewustzijn vestigen, dan zullen we INTEGRAAL zijn.</p>\n<p>Zolang HET GEPLURALISEERDE ZELF in ieder van ons bestaat, zullen we niet alleen ons eigen leven verbitteren, maar ook dat van anderen.</p>\n<p>Wat heeft het voor zin dat we rechten studeren en advocaat worden, als we de rechtszaken in stand houden? Wat heeft het voor zin om veel kennis in onze geest te verzamelen, als we nog steeds verward zijn? Wat hebben technische en industriële vaardigheden voor zin als we ze gebruiken voor de vernietiging van onze medemensen?</p>\n<p>Het heeft geen zin om ons te instrueren, lessen te volgen, te studeren, als we elkaar in het dagelijkse leven ellendig vernietigen.</p>\n<p>Het doel van het onderwijs mag niet alleen zijn om elk jaar nieuwe werkzoekenden te produceren, een nieuw soort schurken, nieuwe patsers die niet eens de religie van hun naaste respecteren, enz.</p>\n<p>Het ware doel van de FUNDAMENTELE OPVOEDING moet zijn het creëren van echte geïntegreerde mannen en vrouwen en daarom bewust en intelligent.</p>\n<p>Helaas denken de leraren en leraressen van scholen, colleges en universiteiten aan alles, behalve aan het wekken van de INTEGRALE INTELLIGENTIE van de OPVOEDING.</p>\n<p>Iedereen kan titels, onderscheidingen, diploma’s begeren en verwerven en zelfs zeer efficiënt worden op het mechanistische gebied van het leven, maar dit betekent niet dat je INTELLIGENT bent.</p>\n<p>INTELLIGENTIE kan nooit louter mechanisch functionalisme zijn, INTELLIGENTIE kan niet het resultaat zijn van simpele boekenkennis, INTELLIGENTIE is geen vermogen om automatisch met sprankelende woorden te reageren op elke uitdaging. INTELLIGENTIE is geen loutere verwoording van het geheugen. INTELLIGENTIE is het vermogen om direct de ESSENTIE, het REËLE, dat wat werkelijk IS te ontvangen.</p>\n<p>DE FUNDAMENTELE OPVOEDING is de wetenschap die ons in staat stelt dit vermogen in onszelf en in anderen te wekken.</p>\n<p>DE FUNDAMENTELE OPVOEDING helpt elk INDIVIDU om de ware WAARDEN te ontdekken die voortkomen uit het diepgaande onderzoek en het INTEGRALE BEGRIP van ZICHZELF.</p>\n<p>Wanneer er in ons geen ZELF-KENNIS bestaat, dan wordt de ZELF-UITDRUKKING een EGOÏSTISCHE EN VERNIETIGENDE ZELF-BEVESTIGING.</p>\n<p>DE FUNDAMENTELE OPVOEDING maakt zich alleen zorgen over het wekken in elk individu VAN HET VERMOGEN om zichzelf te begrijpen op alle gebieden van de geest en niet alleen om zich over te geven aan het behagen van de verkeerde ZELF-UITDRUKKING van HET GEPLURALISEERDE ZELF.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/nl/educacion-fundamental/rebeldia-psicologica.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/nl/educacion-fundamental/rebeldia-psicologica.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/nl/educacion-fundamental/rebeldia-psicologica.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

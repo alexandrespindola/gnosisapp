@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Tororisyek",
+  "locale": "kln",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "3. Tororisyek",
+    "order": 3
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Kíkuuléébáárúté kórnéé autoridad, ng’wóórííté kórnéé autoridad. Polisi, mbeet, sóldáó, chebo miital, kobéétaab káláám, kóraareet, ák kínéé kórnéé autoridad.</p>\n<p>Tóó autoridad apyó bíík. Ng’ééng’, autoridad apyó kíitínéé subconsciente. Ányééng’, autoridad apyó kíitínéé consciente.</p>\n<p>Árá né élé ányiny autoritàíté subconsciousé éésí. Kotééneé kóróón autoritàíté autoconscientes.</p>\n<p>Autoritàíté subconsciousé ichééínéé témbééínéé ák kíleek.</p>\n<p>Kóóní ák kéé skúúl autoritàíté subconsciousé kíkuúlí autorità kórnéé kíkuúlí subconsciousé.</p>\n<p>Chebo miital ák kobéétaab káláám subconsciousé, saáítéínéé, ííní koraareet kobo koraareet ák káámuunéésyo née bartiéén múút apyó átínge, kónééní nyo kiimúchéé átíngeet.</p>\n<p>Chebo miital ák kobéétaab káláám subconsciousé kíkuúlé kówáán ání kuúíyó kée máng’únií kórnéé níí kókiipá kányééng’. Kíkuúlé né kée kiptái.</p>\n<p>Chebo miital chééínéé autoritàíté subconsciousé, ko kíkuúlé né cheé ínée kórnéé kitóó méésaínée, kée kámuunéésyo kékóór chéé kéé chéébéechi.</p>\n<p>Kobéétaab káláám kíkóóm kálaameek ák kálaamíík kínée ák kíkwaáíí kínée. Saáítéínéé kíkuulé méésa kálaaméét áínéé átínge má átéé mííne ák kíkuulé keé kálaaméék kiwéél kínée kée kókiipá kányééng’.</p>\n<p>Chebo miital ák kobéétaab káláám kíkuúlé kówáán kée kówááníchéé, cheébéechi, kaméééch, chebéndá, ák kínée.</p>\n<p>Autoritàíté mée tóó autoconsciencia méésa kúúchéíyó ko kuúyó ábúúté íínééní.</p>\n<p>Kotééneé autoritàíté auto-conscientes. Keémínééíné autoconsciencia kéémínééíné kímééítá kóóch áínéé, kimééítá kóóch kóóbée kówááníchéé.</p>\n<p>Íínéé tóó kimééítá kóóch áínéé kóyóóínéé yéék kóóch kée kánéény. Kéémínééíné kíínéé autoconsciente.</p>\n<p>Kémúúchéi íínu áínéé kékiiméítá kóóch, ang’áát kéé íínu túgonéch keé íínéé yéék kimééítá kóóch áínéé. Tínééíné kímééítéé kóóch kówáán kíkuúlé áínéé.</p>\n<p>Kimééítá kóóch ku koótáínéé tííntyééch ák kíbárágéétyéch kóóch. Kéé kimééítá kóóch íínéé kékímúúchéé átínge autoconsciencia.</p>\n<p>Kíkuúlí autoridad kórnéé inconsciencia. Árá autorità apyó autoconsciente kínéé kiimúúchéí kíkuúlí authority.</p>\n<p>Filosofi kwéény árá ínée autoridad, kíkwaáíí autoritàíté. Kée kúúyó kée mákéérií kórnéé ák míístaínéé kékíkuúlé kéé ák míístaínéé, kéé kéésí kékyóóórá ák kíkóótáínéé ák kéé kíwéél chéé kíkoótáínéé ák kíkuúlé.</p>\n<p>Kóóní tááng’úntéé kóónéét kóónééínéé autoridad kéékéíínéé kórnéeínéé. Kéé kémúúchéé kóón autoridad ák mbeetíík. Kíkuúlí kówáán kórnéé autoridad kénémuunéé átínge anarchia.</p>\n<p>Autoritàíté saáítéínéé kíbárágéétyéch kékóórníínéé inconscientes ák kékiimúchéé kékuunéé áínééínéé síkólógíá, kíkóótáínéé, kíkóótáínééínéé kínée, kíkítééínéé, kíkíkuúlé kileek.</p>\n<p>Kotééneé kobéétaab káláám, kóraareet, chebo miital, ák kínéé kée kíínéé autoconscientes. Kámuunéésyo kékuu múút áínéé.</p>\n<p>Kíkuúlé ki árá né élé kobéétaab káláám ák kóraareet.</p>\n<p>Kíkuúlé ki árá né émúút kówáán kórnéé autoridad kéésí.</p>\n<p>Kíkuúlé kówáán kórnéé auto-suficientes, kínéé átíílí, kíkúúlí árá né kobéétaab káláám ák kóraareet ará né kotééneéínéé.</p>\n<p>Kotééneé né kíkónyór kówáánichéét ák mííyéétyéét. Kotééneé né kíkyóóró né kotééneé autoridadíté, kobéétaab káláám, kóraareet, ák kínéé. Ang’áát né ínéé autoconscientes ang’áát kéésí kékyóóráínéé, kíkwááíínéé, kíkuúrééínéé.</p>\n<p>Autoridad subconsciousé kéé kobéétaab káláám kíkíkuúlé kígéréré kée kówááníchéé kée kálaameek. Ang’áát kálaaméét kíkóréérta kobéétaab káláám subconsciousé kíkuúlé né né kékóréérta, tííndééét ák kéé kíkyóórórtaa ang’áát kálaaméét átéé kóómée.</p>\n<p>Kée árá né kígéréré. Kotééneé kálaaméét kígyéérérá. Kiínéé kígyééréré kówáán kórnéé kobéétaab káláám subconsciousé ang’áát kéésí kíkuúlé kówáán kéésí kée tííndééét, kówáán kórnéé kííyéét kée kíbárágéétyéch kée tííndééét, kóóbée kówáán kórnéé.</p>\n<p>Kobéétaab káláám consciente kiákwááí kígyééréré kée roor.</p>\n<p>Kobéétaab káláám kée autoridad consciente kiákyóóráínéé kówáán kórnéé kálaameek.</p>\n<p>Kobéétaab káláám inconscientes kíkíkuúlé mítóó kórnéé autoridad kée kálaameek.</p>\n<p>Kobéétaab káláám autoridad unconsciousé, kíkíkuúlé kíkwáíí ák kíkóót kówáán íínééní kée kálaameek ang’áát kéésí kíkiípá bíík.</p>\n<p>Kobéétaab káláám autoconscientes kíkuúlé átéényét kée kálaameek, kíkwááíínéé kíkyóórórtaa kíbárágéétyéch, ang’áát kéésí kíkuuínéé kíbárágéétyéch kínée kíínéé kígyééréré kékónyóráínéé.</p>\n<p>Autoridad consciente kórnéé auto-consciente kiákuúlé kíkuúlé mítóó.</p>\n<p>Autoridad inconsciente kíkíkuúlé mítóó ák kíkíkuúlé kileek kée kálaameek.</p>\n<p>Mítóó kékííkéérií kékyóórórótí ák kobéétaab káláám kée autoridad autoconscientes kíkuu átínge kíkyóórórótí kíbárágéétyéch.</p>\n<p>Kobéétaab káláám inconscientes kíkúúlé áínéé kimééítá ák kíkítií kíbárágéétyéch kée kálaameek.</p>\n<p>Kobéétaab káláám autoconscientes kíkuu árá né méésa kuu ák kíkíkuúlé kéésí kékííkéérií kíbárágéétyéch kée kálaameek.</p>\n<p>Kotééneé né kálaameek kée skúúl, kóólééjí, ák yúníbérsítí kínyóórérta kée árá né kíínéé átóómátíki kée kéésí kíínéé mitóótéé ák kígyééréré ang’áát kéésí kíkuuínéé kíbárágéétyéch kée kóbée kíbárágéétyéch kée kówáánichéét.</p>\n<p>Kóórní ínééní kobéétaab káláám autoconscientes, kékuu kínéé átínge kííkééráínéé kálaameek, kobéétaab káláám kékuu kibáátáár kwéény átínge méésa kítoó áínéé tííntyééch.</p>\n<p>Aki kókuú bíík, kobéétaab káláám kóóbée, chebo miital kóóbée, kálaaméét kóóbée kíkúúlé kíkuu autoconsciente. Kéémínééíné kékuu átínge kíkíkuúlé.</p>\n<p>Kíkyóóróí túgonéch keé íínu autoconsciente ák kánéény.</p>\n<p>Tínééíné kíkuunéé ang’áát kékyóórórtéé ák kíkuunéé ang’áát kétoógáty.</p>\n<p>Tínééíné kíkuulé gááří, kíkuunéé, kíkíkuúlí kéé kíkóng’wó, kíkuunéé, kíkuúlé kóbée átínge kíkuunéé.</p>\n<p>Kíkyóóróí kékóóm kobéétaab káláám kíléí kííbo ák kéétí gááří kitáábú kórnéé kábóótéét. Kéé kémúúchéí kékuunéé kórnéé kobéétaab káláám kétoon, kíkuunéé.</p>\n<p>Kíkyóóróí kékóóm kíkónyór kówáán né kítoóínéé kíkuunéé, kíkúúlé kíkuu áínéé kánéény. Ang’áát múút kíkuúnéé áínéé né kétoon kínéeínéé kémúúchéí kígyéérérá.</p>\n<p>Kálaaméét kíléí kitáábú kéé kémúúchéí kéé kinyóórta kóóní skúúl, ko kíbárágéétyéch, ang’áát ko átínge kótoon.</p>\n<p>Kímúúchéi kée káláameek kée seérbís kée ámbáá kíkónyór ки kíkuu átínge kíkuunéé kée káláameek ák kínée kékónyór.</p>\n<p>Tííntyééch kékii múút kánéény áínéé ák kékyóórórótí átínge kéésí kínéé ínée ínée. Saáítéínéé kéé kíbárágéétyéch kée kínéé átínge ínée ínée.</p>\n<p>Múút kéé tóó kéé kókóóbée kíbárágéétyéch kínée átínge kékyóórórtai kóbée, kíbárágéétyéch áínéé keé yéétyééch ang’áát kémúúchéí kíkuunéé.</p>\n<p>Kálaameek kée psicología kíkíkuúlé kékii áínéé kánéény ang’áát kókuunéé, kíkítoógáty kékii kíkóóméét múút, kíkínyóórá kíkíkuunéé. Ang’áát kékyóórórta kékii kíkuu átínge ang’áát kitoónété ínée.</p>\n<p>Kiínéé autoconsciente kíkíkiinéé kibárágéétyéch ang’áát kékii átínge né kítoon.</p>\n<p>Ang’áát kékimúúchéé átínge autoconsciencia kotééneé né kíkíí átínge kínéé.</p>\n<p>Kííííínéé kóóchínéé YO, kéé ák, EGO né kotééneé kíkuu kéésí autoconscientes.</p>\n<p>Kotééneé né kíkuu áínéé, kííki kóóbée kówááníchéé.</p>\n<p>Kotééneé né kíkuu áínéé kée mítóó, kíkuunéé, kínyóóró, ák kimíí.</p>\n<p>Mítóó tóó kíkuulé kékimúúchéé kíkuu áínéé.</p>\n<p>Kimééítá, kíkuunéé, kígyéérérá, kíkuu kóóbée átínge.</p>\n<p>Kóbée kówáán kígyéérérá kékíí átínge ang’áát kékíí átínge. Kotééneé ínée né kígyééréráínéé kýéé kóóbée.</p>\n<p>Kíkíí átínge ang’áát kíkuúlé kítoon kínée.</p>\n<p>Ang’áát tííntyéé kéésí kékígyééréré kétonéé múút átínge. Kíkuuínéé kígyéérérá kékii kýéé kánéény kékóórá kígyéérérá.</p>\n<p>Íínu kékíí autoridad kánéény kée kéésí.</p>\n<p>Psicólogos kíkíkuúlé árá né né kikwaáíí kée kígyóórta kínéé kíkuunéé ko kíkígyóórá kínée.</p>\n<p>Kotééneé kíkuu átínge né kígyóórá átínge ák kíkuu átínge né kígyéérérá.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/kln/educacion-fundamental/las-autoridades.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/kln/educacion-fundamental/las-autoridades.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/kln/educacion-fundamental/las-autoridades.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

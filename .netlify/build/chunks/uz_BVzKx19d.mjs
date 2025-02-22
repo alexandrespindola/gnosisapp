@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Bu bob ispan tilidan avtomatik tarjima qilingan. U hali inson tomonidan ko'rib chiqilmagan. Agar ko'rib chiqishda yordam bermoqchi bo'lsangiz, bu yerga bosib biz bilan bog'laning.","originalMessage":"Bu bobning tarkibi asl ispan tilidagi matnga asoslangan.","revisedMessage":"Bu bob inson tomonidan ko'rib chiqilgan va asl ispan tilidagi matndan tarjima qilingan. Agar tuzatishlar kerak bo'lsa, bu yerga bosib biz bilan bog'laning."};
+const status = {"automatic":"Avtomatik Tarjima","original":"Asl","revised":"Ko'rib Chiqilgan"};
+const uz = {
+  "404.text": "Sahifa topilmadi. URL manzilni tekshiring yoki qidiruv panelidan foydalaning.",
+  "aside.caution": "Ehtiyot",
+  "aside.danger": "Xavf",
+  "aside.note": "Eslatma",
+  "aside.tip": "Maslahat",
+  "builtWithStarlight.label": "Starlight bilan yaratilgan",
+  "fileTree.directory": "Katalog",
+  "i18n.untranslatedContent": "Bu tarkib hali sizning tilingizda mavjud emas.",
+  "languageSelect.accessibleLabel": "Tilni tanlang",
+  "menuButton.accessibleLabel": "Menyu",
+  messages,
+  "page.draft": "Bu tarkib qoralama va ishlab chiqarish versiyalariga kiritilmaydi.",
+  "page.editLink": "Sahifani tahrirlash",
+  "page.lastUpdated": "Oxirgi yangilanish:",
+  "page.nextLink": "Keyingi",
+  "page.previousLink": "Oldingi",
+  "search.cancelLabel": "Bekor qilish",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Qidiruv faqat ishlab chiqarish versiyalarida mavjud. \nMahalliy sinovdan o'tkazish uchun saytni yaratib ko'rishga harakat qiling.",
+  "search.label": "Qidirish",
+  "sidebarNav.accessibleLabel": "Asosiy",
+  "skipLink.label": "Tarkibga o'tish",
+  status,
+  "tableOfContents.onThisPage": "Bu bobda",
+  "tableOfContents.overview": "Boshlanish",
+  "themeSelect.accessibleLabel": "Mavzuni tanlang",
+  "themeSelect.auto": "Avtomatik",
+  "themeSelect.dark": "Qorong'i",
+  "themeSelect.light": "Yorug'",
+};
+
+export { uz as default, messages, status };

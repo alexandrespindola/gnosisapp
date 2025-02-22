@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Ev beş ji Spanî ya orîjînal bi awayekî otomatîk hatiye wergerandin. Hê ji aliyê mirovî ve nehatiye nirxandin. Eger hûn dixwazin alîkariya nirxandinê bikin, li vir bitikînin û bi me re têkilî daynin.","originalMessage":"Naveroka vê beşê li ser teksta orîjînal a Spanî ye.","revisedMessage":"Ev beş ji aliyê mirovî ve hatiye nirxandin û ji teksta Spanî ya orîjînal hatiye wergerandin. Eger hê jî rastkirinên wê hewce ne, li vir bitikînin û bi me re têkilî daynin."};
+const status = {"automatic":"Wergerandina Otomatîk","original":"Orîjînal","revised":"Hatiye Nirxandin"};
+const kmr = {
+  "404.text": "Rûpel nehat dîtin. URL kontrol bikin an jî darika lêgerînê bikar bînin.",
+  "aside.caution": "Hişyar",
+  "aside.danger": "Xeter",
+  "aside.note": "Not",
+  "aside.tip": "Şîret",
+  "builtWithStarlight.label": "Bi Starlight hatiye çêkirin",
+  "fileTree.directory": "Peldank",
+  "i18n.untranslatedContent": "Ev naverok hê bi zimanê we tune ye.",
+  "languageSelect.accessibleLabel": "Ziman hilbijêre",
+  "menuButton.accessibleLabel": "Menu",
+  messages,
+  "page.draft": "Ev naverok reşnivîs e û dê di versiyonên hilberînê de neyê bicihkirin.",
+  "page.editLink": "Rûpelê biguherîne",
+  "page.lastUpdated": "Nûvekirina dawî:",
+  "page.nextLink": "Pêş",
+  "page.previousLink": "Paş",
+  "search.cancelLabel": "Betal",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Lêgerîn tenê di versiyonên hilberînê de heye. \nBiceribîne ku malperê ava bike û pêşdîtinê bike ji bo testkirina herêmî.",
+  "search.label": "Lêgerîn",
+  "sidebarNav.accessibleLabel": "Sereke",
+  "skipLink.label": "Here naveroka",
+  status,
+  "tableOfContents.onThisPage": "Li vê beşê",
+  "tableOfContents.overview": "Destpêk",
+  "themeSelect.accessibleLabel": "Tema hilbijêre",
+  "themeSelect.auto": "Otomatîk",
+  "themeSelect.dark": "Tarî",
+  "themeSelect.light": "Ronî",
+};
+
+export { kmr as default, messages, status };

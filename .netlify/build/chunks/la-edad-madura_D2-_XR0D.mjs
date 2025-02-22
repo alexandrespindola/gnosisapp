@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Taggayt n tmezɣa",
+  "locale": "kab",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "27. Taggayt n tmezɣa",
+    "order": 27
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Tameddurt tilellit tettbeddu ɣef tlatin yiwet seg snat d ssebaεin iseggasen, tettfakk deg semmus d mseggasen iseggasen.</p>\n<p>Argaz n tmeddurt tilellit ilaq ad yefhem amek ara iddaε waddaɣ di taddart-is u ad isemγer arrac-is.</p>\n<p>Di tudert timawit argaz n tmeddurt tilellit d ameqqran n twacult. Argaz ur yessulin ara axxam-is d lmal-is di lemγar d tmeddurt tilellit ur ten-ittessuli ara, d asergel deg tidet.</p>\n<p>Wid itettεawan ad ssulin axxam d lmal di tuγmest d wid itettwaqesdlen seg ul.</p>\n<p>Yiwen-nniγ n ṭṭmeε itettuɣal γer tneγruft u ixeddem γef lmal meqqren. Benadem yeḥwaj aɣrum, aseɣwu d usirem. Ilaq ad yili γur-k aɣrum, taddart tebdar, lbisa, iḍrisen, iseggafan akken ad tseγwuḍ lǧeṭṭa, maca ur yeḥwaj ara ad tjemmεeḍ aṭas n yedrimen akken ad teddreḍ.</p>\n<p>Nekni ur nettarra ara lmal neγ tigellilt, sin-nniγ d wid itettwaḥettmen.</p>\n<p>Aṭas n wid itettqellben ger lḥellaq n tigellilt d wid itettqellben ger lḥellaq n lmal.</p>\n<p>Ilaq ad yili γur-k lmal meqqren, di netta-nni, taddart teεceq d uẓenẓar yesεan imeẓẓuγen, aɣbalu yeẓẓun n lxerǧ, ad ili دايما tefham w ad ur tella γur-k laẓ. Ayagi d tilawt i benadem.</p>\n<p>Tigellilt, laẓ, aṭṭanen d tujjelt ur ilaq ara ad ilin di tmurt ara isseqsi γef tγerma d tmeddurt.</p>\n<p>Mazal ur tella ara tdemsit maca ḥwajneγ ad tt-nexleq. Ma yella yiwen ucengad ur yesεi ara aɣrum, aseɣwu d usirem, tdemsit ur tettεeddi ara γef teγri tezzayan.</p>\n<p>Imeqqranen n twacult ilaq ad ilin d wid ifehmen, d wid ifehmen, دايما d wid ur tessen ara ccṛab, d wid ur yettettun ara, d wid imesker, d wid iḍehhṛen, akkd…</p>\n<p>Argaz ameqqran yeẓra seg tameddurt-is iman-is belli arrac ttεawan amedya-s d belli ma yella umedya-nniγ ur yeẓri ara yesserkel iẓri γer iẓri imerkaten i tarwa-s.</p>\n<p>D imekkrez deg tidet belli argaz ameqqran yesεi aṭas n tilawin u ittedder di tmeskrejt, temlilit, tmeskrejt, akkd.</p>\n<p>γef argaz ameqqran teffeɣ tamejjayt n twacult d netta-nni ma idda γef iberdan ur yeẓrin ara ad yewwi γer umaḍal iḍesseg, tirwi, tγersa.</p>\n<p>Baba d yemma ilaq ad fehmen amgarad ger sin-nniγ n tawsit. D imekkrez belli tullas ad γrent fizik, kimya, alǧebra, akkd. Uẓɣar n tmeṭṭut yemxalaf γef win n urgaz, tallit-nniγ ttaḍra γer tewsit n urgaz maca ur ttḥwaj ara d ḥettem γef uɣbalu n tmeṭṭut.</p>\n<p>Ilaq ad ddaε baba d yemma seg ul-nsen akken ad ssulin aberri yernan di uγerbaz n waγzen.</p>\n<p>Tameṭṭut ilaq ad γer, ad tektib, ad tewwet البيانو, ad tesxerreb, ad teḥseb d di netta-nni tallit n lexdeε n tlawin.</p>\n<p>γer tmeṭṭut ilaq ad teḥzzer seg uẓenẓar n uγerbaz akken ad teffeɣ tamejjayt tessuddem γur-s am YEMMA d tmektar.</p>\n<p>D imekkrez ad ḍeḥṛen uẓɣar n tulawin s uγerbaz yesεan tγermaḍ d waεren i tewsit n urgaz.</p>\n<p>Ilaq ad εeqqlen baba n twacult d ustaḍen n uγerbaz, lexliǧa d tusnakt akken ad awin tameṭṭut γer tmeṭṭut ara iddaε. D imekkrez ad ttalilen tulawin, ad tent-ḥettmen ad tettemγerrad s lbanḍirat d uṭebbaɛ ger iberdan n temdinin am urgazen.</p>\n<p>Tameṭṭut ilaq ad tili d tameṭṭut teεceq u argaz ilaq ad yili d argaz teεceq.</p>\n<p>Sin-nniγ n tawsit ger sin-nniγ, aḍuḍ, d afraḍ n ẓẓuḍḍ d tamγenγrent.</p>\n<p>Tullas itettewwten i γer-tɣerḍin d waεren ttuγlent d tiɣerdayin u yiwen ur itettemsawaḍ γur-sent.</p>\n<p>Di tudert tazwara, d ameɣzar belli tulawin ad χedment tiweccaɛ timsegzin, taγuri n tebγest, teḥsiba, taḥsabt, taγẓent, taḥuzrit, akkd…, akkd…, akkd.</p>\n<p>Tameṭṭut ilaq ad tili di tudert n taddart maca γef laẓa n tallit i nettedder, tameṭṭut teḥwaj ad txeddem akken ad tečč d ad tedder.</p>\n<p>Di temγerma d temdurt, tameṭṭut ur teḥwaj ara ad txeddem barra n taddart akken ad tedder. Ayagi n uxeddim barra n taddart d laẓa n tewsit yesseḥrazen.</p>\n<p>Argaz n tallit iẓuḍḍen yexleq adrar ur yelli deg-s, yeǧǧa tameṭṭut ad teḍegger tmeṭṭut-is, yessufeɣ-itt seg taddart-is u yessufeɣ-itt d taqbuṭ.</p>\n<p>Tameṭṭut yettwaγalen d “amarimacu” s uẓɣar n urgaz, tettsuru tugaḍ d tettγer taγziwt, teẓẓun s lbisa γef tkeffaε neγ tetthurru γef teswint, d afraḍ n urgazen iẓuḍḍen n tallit-nni, aɣersan amγani n tγerma itettmettan.</p>\n<p>Tameṭṭut yettwaγalen d amesteqsi amsegzi, taḍuktur yettemmasen iḍɣaɣen, tameṭṭut tamesγant n waddal, tameskrejt, teẓγet i yemma s yelli-s akken ur teḍegger ara tebγest-is d aẓayer yettwaḥettmen n tγerma ur yelli deg-s.</p>\n<p>Yuḍen tura ad nesselqed army n tselmat n umaḍal s urgazen d tulawin n tumast yesεan ul ad ddaε deg tidet mgal adrar ur yelli deg-s.</p>\n<p>Yuḍen tura ad nessuli di umaḍal tγerma tajḍidt, taγuri tajḍidt.</p>\n<p>Tameṭṭut d tazedɣa tameqqrant n taddart d ma yella tazedɣa-nniγ d uḍris, yeččuṛ s idurar d ẓẓuḍḍen n tewsit, afraḍ n tudert tamγanit ad yili d taḍfiqt.</p>\n<p>Argaz yemxalaf, yemxalaf d γef ayagi yezmer ad yeqqen ad γer tsenεa, fizik, kimya, tseddart, tahendis, tusnakt, akkd…, akkd…, akkd.</p>\n<p>Lexliǧa taramyt n urgazen ur telli deg-s taggaḍ, maca lexliǧa taramyt n tulawin amgal ad yili deg-s taggaḍ, tettuγal d taḥettmt taǧḍiṭ.</p>\n<p>Yettεejjib ad nezri iḍrisen n tmektar, yemma taramyt ara iddaε arrac gar idmaren-is tettemγerrad am urgazen gar iberdan n temdinin.</p>\n<p>Ayagi ur ittεawan ara deg uḍegger n tmeṭṭut di tewsit-is maca ittfer γef uẓar yettawi γef uḍegger n urgaz di tewsit-is.</p>\n<p>Argaz, argaz deg tidet, argaz itettεawan ur yezmer ad yeqbel deg ul-is timeγri taramyt n tulawin. Aγilif n urgazen, tidet n uẓɣar n urgaz, aɣerbal n urgaz itteḥrez d afraḍ γef tewsit n iẓran i yettεawnen γef tmersut n tudert taneggarut.</p>\n<p>Ḥwajneγ ad terǧeε tmeṭṭut γer taddart-is, γer tmeṭṭut-is, γer tebγest-is tezzayan, γer tebγest-is tazwarant d γer tewreγ tajḍidt-is. Ḥwajneγ ad nefγeg s adrar-agi ammer u ad nessuli γef umettar n wakal tγerma tajḍidt d teγri tajḍidt.</p>\n<p>Baba n twacult d ustaḍen ilaq ad fehmen amek ara d aɣen tarwa tajḍidt s tγerma d tumast.</p>\n<p>Arraε ur ilaq ara ad awin kan aɣerbal di uẓɣar u ad γren taγuri neγ ad awin ḍeftur n tsenεa. Ilaq ad fehmen arraε tamejjayt n tselmat u ad wten γef temγar n tidet d tumast teẓẓun.</p>\n<p>γef idmaren n urgaz ameqqran teffeɣ tamejjayt n tmektar, n arrac d tulawin.</p>\n<p>Argaz ameqqran yesεan aγerbal meqqren n tselmat, yeččuṛen, yezzin, yeǧǧan, iεeqqlen akkd., yettaεqaq gar twacult-is d gar ucengad.</p>\n<p>Argaz ameqqran ara yessawen γer γur ucengad s zzina-s, tmeddurt-is, tira-s, taḍfiqt n tewsit, yettaγal d iḥezzan i ucengad u ur ittewwi ara kan azzal γer iman-is maca yewwi-t γer tarwa-s u yewwi-t γer umaḍal ammer.</p>\n<p>Ilaq ad yeẓer argaz ameqqran amek ara yedder tallit-is deg imir. Yernu ad yefhem argaz ameqqran belli lemγar teffeɣ.</p>\n<p>D iḥettem ad ttettεawan di tmeddurt tallit tamezwarut d tiẓri n lemγar.</p>\n<p>Tallit γur-s tebγest-is u ilaq ad tili γur-k amek ara teddreḍ-itt.</p>\n<p>Argaz ameqqran ilaq ad yexdem s tseddart meqqren uqbel ad teffeɣ tuγmest am tcerrant tettemγarrad s tγerma tettewwi idderen γer tmeɣri-is uqbel ad teffeɣ tgrist teẓɣet, am akken tewwet s tseddart d tidet urgaz ameqqran.</p>\n<p>Aṭas n urgazen iẓezzan iḍegger seg ul-nsen ḍefaε meqqren, u mi ttewwten γer tmeddurt tilellit ttettεawan d wid ur yexleq ara, tiḥezzanin, igellilen, isergilen.</p>\n<p>D iḥettem deg tidet ad nezri aṭas n urgazen ameqqran itettεawan tazɣa n lemγar ur ttγerran deg-s ara belli tura d iḥezzanin u belli lemγar teffeɣ.</p>\n<p>Yiwen seg taγersa tewγer d tameqqrant seg tγerma itettmettan d uεeqqel n ccṛab.</p>\n<p>Di lemγar aṭas itettemγarraden i ssarɣ-nniγ d mi tetteffeɣ tmeddurt tilellit ur ssulin ara taddart, ur ssulin ara aγurim, ur ḥezzren ara taγuri teḍheṛ, tteddren gar tneεrufin ttettemenγen lexlil, iḥezzanin, itettwaḥettmen, igellilen.</p>\n<p>Imeqqranen n twacult d ustaḍen ilaq ad ssulin ẓer γef ilemẓiyen ttseγγun-ten s tγerma akken ad χedmen amaḍal yerγan.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/kab/educacion-fundamental/la-edad-madura.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/kab/educacion-fundamental/la-edad-madura.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/kab/educacion-fundamental/la-edad-madura.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

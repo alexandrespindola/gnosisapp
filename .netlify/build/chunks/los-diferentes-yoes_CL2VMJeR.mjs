@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "The Different Selves",
+  "locale": "en",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-tratado-de-psicologia-revolucionaria.webp-5e15e1cec4e0ebebcde5d7fc7565d8fd.webp",
+  "sidebar": {
+    "label": "10. The Different Selves",
+    "order": 10
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>The rational mammal mistakenly called man does not truly possess a defined individuality.</p>\n<p>Unquestionably, this lack of psychological unity in the humanoid is the cause of so many difficulties and bitternesses.</p>\n<p>The physical body is a complete unit and works as an organic whole, unless it is ill.</p>\n<p>However, the inner life of the humanoid is in no way a psychological unit.</p>\n<p>The most serious thing of all, despite what the various pseudo-esoteric and pseudo-occultist schools say, is the absence of psychological organisation in the innermost depths of each subject.</p>\n<p>Certainly, in such conditions, there is no harmonious work as a whole in the inner life of people.</p>\n<p>The humanoid, with respect to its inner state, is a psychological multiplicity, a sum of “I’s”.</p>\n<p>The enlightened ignoramuses of this dark age worship the “I”, they idolise it, they put it on the altars, they call it “ALTER EGO”, “HIGHER SELF”, “DIVINE SELF”, etc., etc., etc.</p>\n<p>The “know-it-alls” of this dark age in which we live do not want to realise that “Higher Self” or “Lower Self” are two sections of the same pluralised Ego…</p>\n<p>The humanoid certainly does not have a “Permanent Self” but a multitude of different Infra-human and absurd “I’s”.</p>\n<p>The poor intellectual animal mistakenly called man is like a house in disarray where, instead of one master, there are many servants who always want to command and do what they please…</p>\n<p>The biggest mistake of cheap Pseudo-Esotericism and Pseudo-Occultism is to suppose that others possess or that one has a “Permanent and Immutable Self” without beginning and without end…</p>\n<p>If those who think that way awakened consciousness even for an instant, they could clearly see for themselves that the rational humanoid is never the same for long…</p>\n<p>The intellectual mammal, from a psychological point of view, is constantly changing…</p>\n<p>To think that if a person is called Luis, he is always Luis, is something like a joke in very bad taste…</p>\n<p>That subject who is called Luis has within himself other “I’s”, other egos, that express themselves through his personality at different moments and although Luis does not like greed, another “I” in him – let’s call him Pepe – likes greed and so on…</p>\n<p>No person is the same continuously, it really does not take much wisdom to fully realise the innumerable changes and contradictions of each subject…</p>\n<p>To suppose that someone possesses a “Permanent and Immutable Self” is, of course, an abuse towards one’s neighbour and towards oneself…</p>\n<p>Within each person live many people, many “I’s”, this can be verified for oneself and in a direct way, by any awake, conscious person…</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/en/tratado-de-psicologia-revolucionaria/los-diferentes-yoes.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/en/tratado-de-psicologia-revolucionaria/los-diferentes-yoes.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/en/tratado-de-psicologia-revolucionaria/los-diferentes-yoes.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

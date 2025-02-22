@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Ng'ima ya utulivu",
+  "locale": "lag",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "6. Ng'ima ya utulivu",
+    "order": 6
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Lelo anahembwa, vinyau wanajikisa munyi zenga za mama yao ili wapate ulinzi.</p>\n<p>Mwana mdogo anaogopa na anakimbilia kwa mama yake ili apate ulinzi.</p>\n<p>Kwa hivyo, inaonekana wazi kwamba UOGA na utafutaji wa ULINZI vinahusiana sana.</p>\n<p>Mtu anayeogopa kushambuliwa na majambazi anatafuta ulinzi kwa bastola yake.</p>\n<p>Nchi inayoogopa kushambuliwa na nchi nyingine itanunua mizinga, ndege, meli za kivita na kuunda majeshi na kujiandaa kwa vita.</p>\n<p>Watu wengi ambao hawajui kufanya kazi, wanaogopa umaskini na wanatafuta ulinzi kwa uhalifu, na wanakuwa wezi, majambazi, n.k.</p>\n<p>Wanawake wengi wasio na akili wanaogopa uwezekano wa umaskini na wanakuwa makahaba.</p>\n<p>Mtu mwenye wivu anaogopa kumpoteza mke wake na anatafuta ulinzi kwa bastola, anaua na kisha anaishia jela.</p>\n<p>Mwanamke mwenye wivu anamuua mpinzani wake au mume wake na anakuwa muuaji.</p>\n<p>Anaogopa kumpoteza mume wake na anataka kuhakikisha kuwa yuko salama, anamuuua yule mwingine au anaamua kumuua.</p>\n<p>Mmiliki wa nyumba anaogopa kwamba watu hawatalipa kodi ya nyumba, anadai mikataba, wadhamini, amana, n.k., akitaka kujihakikishia usalama na ikiwa mjane masikini aliyejaa watoto hawezi kukidhi mahitaji hayo makubwa, na ikiwa wamiliki wote wa nyumba katika jiji wanafanya vivyo hivyo, hatimaye mwanamke huyo asiye na furaha atalazimika kwenda kulala na watoto wake mitaani au katika mbuga za jiji.</p>\n<p>Vita vyote vinatokana na uoga.</p>\n<p>Gestapo, mateso, kambi za mateso, Siberia, magereza ya kutisha, uhamishaji, kazi ngumu, risasi, n.k. zote zinatokana na uoga.</p>\n<p>Mataifa hushambulia mataifa mengine kwa uoga; wanatafuta ulinzi kwa vurugu, wanaamini kwamba kwa kuua, kuvamia, n.k. wanaweza kujifanya salama, wenye nguvu, na wakuu.</p>\n<p>Katika ofisi za polisi ya siri, ujasusi, n.k. mashariki na magharibi, wapelelezi wanateswa, wanaogopwa, wanataka kuwafanya wakiri kwa lengo la kupata ulinzi kwa Taifa.</p>\n<p>Uhalifu wote, vita vyote, uhalifu wote, unatokana na uoga na utafutaji wa ulinzi.</p>\n<p>Katika nyakati zingine kulikuwa na ukweli kati ya watu, leo uoga na utafutaji wa ulinzi umeharibu harufu nzuri ya ukweli.</p>\n<p>Rafiki hamwamini rafiki, anaogopa kwamba atamwibia, atamlaghai, atamnyanyasa na hata kuna kanuni za kijinga na za uovu kama hii: “USIWASILISHE MGONGO WAKO KWA RAFIKI YAKO MWEMA”. WAHITLER walisema kwamba KANUNI hii ilikuwa ya DHAHABU.</p>\n<p>Tayari rafiki anamwogopa rafiki na hata anatumia KANUNI kulinda. Hakuna tena ukweli kati ya marafiki. Uoga na utafutaji wa ulinzi umeharibu harufu nzuri ya ukweli.</p>\n<p>Castro Rus huko Cuba amewaua maelfu ya raia akiogopa kwamba atamalizwa; Castro anatafuta ulinzi kwa kuua. Anaamini kwamba anaweza kupata Ulinzi kwa njia hii.</p>\n<p>Stalin, Stalin muovu na mkatili, alichafua Urusi na utakaso wake wa umwagaji damu. Hiyo ndiyo ilikuwa njia yake ya kutafuta ulinzi wake.</p>\n<p>Hitler aliandaa Gestapo, Gestapo ya kutisha, kwa usalama wa Serikali. Hakuna shaka kwamba aliogopa kwamba wangempindua na kwa hiyo alianzisha Gestapo ya umwagaji damu.</p>\n<p>Mateso yote ya ulimwengu huu yanatokana na uoga na utafutaji wa ulinzi.</p>\n<p>Walimu wa shule wanapaswa kuwafundisha wanafunzi fadhila ya ujasiri.</p>\n<p>Inasikitisha kwamba watoto wamejaa hofu tangu nyumbani kwao.</p>\n<p>Watoto wanatishwa, wanatishwa, wanaogopwa, wanapigwa, n.k.</p>\n<p>Ni kawaida kwa wazazi na walimu kuwatisha watoto na vijana ili wasome.</p>\n<p>Kwa kawaida, watoto na vijana wanaambiwa kwamba ikiwa hawatasoma, watalazimika kuomba, kutangatanga na njaa mitaani, kufanya kazi duni sana kama vile kung’arisha viatu, kubeba mizigo, kuuza magazeti, kufanya kazi shambani, n.k. n.k. n.k. (Kama kazi ingekuwa uhalifu)</p>\n<p>Kimsingi, nyuma ya maneno haya yote ya wazazi na walimu, kuna uoga kwa mtoto na utafutaji wa ulinzi kwa mtoto.</p>\n<p>Jambo baya kuhusu yote tunayosema ni kwamba mtoto na kijana wanakuwa na wasiwasi, wanaogopa na baadaye katika maisha ya vitendo wao ni watu waliojaa uoga.</p>\n<p>Wazazi na walimu ambao wana tabia mbaya ya kuwatisha watoto na wasichana, vijana na wanawake wachanga, bila kujua wanawaelekeza kwenye njia ya uhalifu, kwa sababu kama tulivyosema tayari, uhalifu wote unatokana na uoga na utafutaji wa ulinzi.</p>\n<p>Leo hii UOGA na UTAFUTAJI WA ULINZI umegeuza sayari ya dunia kuwa jahanamu ya kutisha. Kila mtu anaogopa. Kila mtu anataka ulinzi.</p>\n<p>Katika nyakati zingine unaweza kusafiri kwa uhuru, sasa mipaka imejaa walinzi wenye silaha, pasipoti na vyeti vya kila aina vinahitajika ili kuwa na haki ya kuvuka kutoka nchi moja hadi nyingine.</p>\n<p>Haya yote ni matokeo ya uoga na UTAFUTAJI WA ULINZI. Mtu anaye safiri anaogopwa, mtu anayefika anaogopwa na ulinzi unatafutwa katika pasipoti na karatasi za kila aina.</p>\n<p>Walimu wa shule, vyuo, vyuo vikuu wanapaswa kuelewa hofu ya haya yote na kushirikiana kwa manufaa ya ulimwengu, wakijua jinsi ya kuelimisha vizazi vipya, wakiwafundisha njia ya ujasiri wa kweli.</p>\n<p>Ni HARAKA kuwafundisha vizazi vipya kutokuogopa na kutotafuta ulinzi katika kitu chochote au mtu yeyote.</p>\n<p>Ni muhimu kwamba kila mtu ajifunze kujiamini zaidi.</p>\n<p>UOGA na UTAFUTAJI wa ULINZI ni udhaifu mbaya ambao umegeuza maisha kuwa jahanamu ya kutisha.</p>\n<p>Woga, waoga, dhaifu wengi wanazunguka kila mahali wakitafuta ULINZI kila wakati.</p>\n<p>Unaogopa maisha, unaogopa kifo, unaogopa watasema nini, “wanasema nini”, kupoteza nafasi ya kijamii, nafasi ya kisiasa, heshima, pesa, nyumba nzuri, mke mzuri, mume mwema, ajira, biashara, ukiritimba, samani, gari, n.k. n.k. n.k. kila kitu kinaogopwa, waoga, waoga, dhaifu wengi wanazunguka kila mahali, lakini hakuna mtu anayejiona kuwa mwoga, kila mtu anadai kuwa mwenye nguvu, jasiri, n.k.</p>\n<p>Katika matabaka yote ya kijamii kuna maelfu na mamilioni ya maslahi ambayo yanaogopa kupoteza na kwa sababu hiyo kila mtu anatafuta ulinzi ambao kwa nguvu ya kuwa ngumu zaidi na zaidi, kwa kweli hufanya maisha kuwa magumu zaidi, magumu zaidi, machungu zaidi, ya kikatili na yasiyo na huruma.</p>\n<p>Manung’uniko yote, kashfa zote, fitina, n.k., zinatokana na uoga na utafutaji wa ulinzi.</p>\n<p>Ili tusipoteze bahati, nafasi, nguvu, heshima, kashfa zinaenezwa, uvumi, tunaua, tunalipa ili wauawe kwa siri, n.k.</p>\n<p>Wenye nguvu wa dunia wanajipa anasa ya kuwa na wauaji walioajiriwa na kulipwa vizuri sana, kwa madhumuni ya kuchukiza ya kuondoa mtu yeyote anayetishia kuwafunika.</p>\n<p>Wanapenda nguvu kwa nguvu yenyewe na wanajihakikishia kulingana na pesa na damu nyingi.</p>\n<p>Magazeti yanatoa habari mara kwa mara za matukio mengi ya kujiua.</p>\n<p>Wengi wanaamini kwamba mtu anayejiua ni jasiri lakini kwa kweli mtu anayejiua ni mwoga ambaye anaogopa maisha na anatafuta ulinzi katika mikono iliyoachwa ya kifo.</p>\n<p>Mashujaa wengine wa vita walijulikana kama watu dhaifu na waoga, lakini walipokutana uso kwa uso na kifo, hofu yao ilikuwa ya kutisha sana, kwamba waligeuka kuwa wanyama wakali wakitafuta usalama kwa maisha yao, wakifanya juhudi kuu dhidi ya kifo. Kisha wakatangazwa kuwa MASHUJAA.</p>\n<p>Uoga mara nyingi huchanganyikiwa na ujasiri. Yeye anayejiua anaonekana kuwa jasiri sana, yule anayebeba bastola anaonekana kuwa jasiri sana, lakini kwa kweli wauaji na wamiliki wa bunduki ni waoga sana.</p>\n<p>Yeye asiyeogopa maisha hajiui. Yeye asiyeogopa mtu yeyote habebi bastola kiunoni.</p>\n<p>Ni HARAKA kwamba walimu wa shule wamfundishe raia kwa njia iliyo wazi na sahihi, kile ambacho ni UJASIRI wa kweli na kile ambacho ni uoga.</p>\n<p>UOGA na UTAFUTAJI wa ULINZI umegeuza ulimwengu kuwa jahanamu ya kutisha.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/lag/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/lag/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/lag/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

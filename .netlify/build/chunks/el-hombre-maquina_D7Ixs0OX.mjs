@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Borro Dumbuyaŋo",
+  "locale": "dje",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "35. Borro Dumbuyaŋo",
+    "order": 35
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Borro, nga hay ga hima kayne beeri kaŋ gonda yaasi nda gundo-gundo teeko ra, amma a gonda, HIRRI, hal a gonda BABA, nga ma nga boŋ nooma SURUYA RAAYO.</p>\n<p>“MA BORA BAY”. Woo ga zeeri dumo beeri daabu kaŋ i n’a hantum Delfos jine banguyaŋ kaŋ yaŋ mana ciya talam, GEREKIYA JIIRIKOY RA.</p>\n<p>Borro, alwaati jaŋje hima, ngaŋ kaŋ boro n’a noomandi bora, nga kaŋ na masin kayna nda borey kaŋ yaŋ sinda yaazi alfu guna, a bay mo kaŋ hala a ma hin ka nga boŋ dumi MASIN, a na alwaati gumo jeeri nda taalamo, amma waati kaŋ a ga nga boŋ taale gaati, a ga din-din bate, hal a boŋ no masin kaŋ yaŋ kayna ka bisa wa masin kaŋ yaŋ a n’a guna.</p>\n<p>Boro kulu si no kaŋ gonda jiiro jiiro suuban kaŋ yaŋ sinda cimi nga boŋ taale, alhakku beeri ga ti a si ga ka nga boŋ no masin.</p>\n<p>Hima masino si gonda barey kaŋ ga nga boŋ, a ga taama yaasi nda gundo-gundo yeeji tamma nda sanda yaŋ kaŋ yaŋ ga goro ga gandi.</p>\n<p>Foyey kulu, goyey, sanney, suubey, gaabey, biney, duurey, Hima masinoyaŋ ga tiya, yaasi nda gundo-gundo seboy kaŋ yaŋ gonda gundo-gundo nda taale.</p>\n<p>Alwaati jeeri yaasi, ciya kaŋ ga daaru nda yaasi nda faaya, duumo kaŋ ga fun, kaŋ gonda duure kaŋ, yaasi ga himma a ga hin ka te, waati kaŋ cimi din din a si hin ka te.</p>\n<p>Ma sooba, a ga boori nga kaaru, kaŋ borogu masin kaŋ zaama ga nga boŋ.</p>\n<p>Ma sooba, kaŋ duumo din gonda faaya, a ga baa, a ga salaŋ, a ga koy, a ga duuri, a ga hiyayaŋ te, dsb.</p>\n<p>Ma sooba kaŋ duumo din ga te alwaati kulu. Ma sooba kaŋ alwaati kulu ga ti boro kayne, a gonda nga fonney, nga fonney kaŋ yaŋ ga kayndi, kayni, dsb., dsb., dsb.</p>\n<p>Boro kayne kaŋ ga ba ka yamu ta, a na butoŋ kayna, nda duumo din ma nga boŋ di harayey teko ra, boro kayne, saa yame ra wallay alwaati koyne ra, a gonda miila kayne, a na nga duumo din naŋ ka juuri nda haray, boro hinje ga n’a naŋ ka hayya, boro taati ga n’a naŋ ka baa waybooro, boro gu ga n’a naŋ ka baa waybooro kayne, boro iddu ga n’a naŋ ka hayya nda gorocingo kaŋ a te jine kaaba, boro iyye ga n’a naŋ ka nga jere ceeci.</p>\n<p>Cimi din duumo ndaarey mana te hay kulu, amma a ga ti himma a te, a gonda duure kaŋ ga te waati kaŋ cimi din din a si hin ka te zama a si gonda BORA KAYNE.</p>\n<p>Taale kulu yaamo, hayey din kaŋ ga tamma sanda nda guro, waati kaŋ guro harrasi, waati kaŋ guro ga kayndi, amma duumo din ga ti himma a ga te; a gonda DUURE kaŋ din din hay kulu a mana te, nga din alwaatey kaŋ yaŋ n’a kayndi ka nga boŋ kayndi nda duumo masinoye.</p>\n<p>Sanda yaasi no alwaati jeeri yaasi kaaru, kaaru masino sanda nda dumo kaŋ iri n’a gonda, a ga ti himma a ga te waati kaŋ cimi din din a si te, a ga ti duumo kaŋ ga fun kaŋ borogu ga nga boŋ LEGION KAZEEY KAŊ YAŊ SINDA YAAYIZU kaŋ kulu ga ti ya kaŋ boro ga boŋ EGO, MIIRA GUNDEY.</p>\n<p>EVANGELIO KIRISETIYANNO ga kaala yaasi ndaare kulu DEMONIO yaŋ nda nga boŋ kaŋ cimi ga ti LEGION.</p>\n<p>Nda iri ci ngaŋ kaŋ YO ga ti legioŋ DEMONIO kaŋ yaŋ ga Hima masino ga. iri si taaley te, sanda yaasi.</p>\n<p>BORO-MASINO si gonda BORA KAYNE, a si gonda SER, SER din din no gonda HINDO KA TE.</p>\n<p>SER din din ga hin ka iri no BORA KAYNE kaŋ cimi, SER din din no ga iri ciya BORO kaŋ yaŋ gonda CIMI.</p>\n<p>Ngaŋ kaŋ ga ba ka bare ka ciya duumo masino, a ga duumi hay yaasi ndaare kulu kaŋ yaŋ nga kulu te YO. ENTIDAD kulu kaŋ yaŋ ga nga boŋ kayndi nda Hima masino. Ngaŋ kaŋ ga ba ka bare ka ciya duumo masino, a ga duumi ka nga boŋ ga bara nda nga boŋ kaati ga.</p>\n<p>Ngaŋ kaŋ si ga ka nga boŋ kaati ga wallay ngaŋ kaŋ si ba ka hay woo guna, a si hin ka bare, a ga ti yaasi, a ga ti kaayni, a ga boori a na guro naŋ nga yeejo ga nda nga nga boŋ naŋ teeko gindi ga.</p>\n<p>ALWAATI JEERI GA TI MASINO, amma masino beeri, nda masino woo din taale a ga ti MASINO, nda ya si ga nga boŋ nda kaati ga, a ga hin ka bare ka tiya masino nda ka ciya BORO.</p>\n<p>Jine-jine, a ga to ga kaati ga gumo teeko kulu ra, iri si gonda boro kayne, iri si gonda CENTRO JANGAY KAŋ YAŊ GORO, alwaati kayne ra iri ga ti boro kayne nda alwaati kayne ra, borokoyne, kulu ga tiya ENTIDAD kaŋ ga koodi ga alwaati kulu ra.</p>\n<p>Ya kaŋ borey ga ti DUURE kaŋ ga ti GUNDEY nda goro ALWAATI jeeri ga ti nga FUN kaŋ gonda NGA BOŋ HALIMSA, yaasi, nga boŋ gumo nda nga boŋ iddu nda MAHAY nda dumo koyzey kaŋ yaŋ i n’a gaandi a ga FUN, wallay i ta a se kaati din din.</p>\n<p>ALWAATI JEERI si hin ka bare ka tiya MASINO, a si hin ka bare, a si hin ka ta SER BORA DIN DIN ga ka ciya boro cimo, waati kaŋ a si gonda himma ka DUUMI FUN nda kaati fondo ra, yaasi ndaare din kulu kaŋ yaŋ ga ti nga EGO, YO, MI BOŋ.</p>\n<p>Miiila kulu, GAABI kulu, kaayni kulu, IBAA kulu, HAANI kulu, duure kulu, dsb., dsb., dsb. gonda ENTIDAD kayne nda gundey ga ti YO kaŋ gumey ga ti PSICOLOGIA RA.</p>\n<p>ENTIDADES KAYNE, YOEY din kulu kaŋ yaŋ ga ti nga gundey ga ti EGO, si gonda maayiri te, i si gonda yaasi kulu. ENTIDAD kulu ga ti yaasi ga tiya sanda daare te, harey, dsb.</p>\n<p>Banga kaŋ ga fun mindi gaa ga bare nda borey saa kulu, kulu ga tiya ENTIDAD kaŋ kulu ga nga boŋ koodi mindi gaa.</p>\n<p>Banga mindi gaa ga fun ENTIDAD kulu kaŋ yaŋ ga ti nga EGO wallay YO PSICOLOGICO.</p>\n<p>ENTIDADES borey kaŋ yaŋ ga ti nga YO din kaŋ gumey ga ti yaasi, i ga bara kaŋ ga duumi fun ga ti bunde borey dumi sanda nda baabey, i ga hayya, i ga woy ta, i ga bata, dsb., dsb., dsb.</p>\n<p>ENTIDAD kulu kaŋ yaŋ ga legion din kaŋ i boŋ YO, YO iddu, ga ti himma a boŋ kulu ga ti nga, EGO TOTAL, a si sooba din din a ga ti yaasi kidiŋ.</p>\n<p>ENTIDAD kaŋ ga fun harrasi nda wayboro ga kaati ka bara ENTIDAD koyne kaŋ si gonda hay te nda harrasi din, yaasi ngaŋ din ga kayni nda wayboro din ga fun harrasi.</p>\n<p>ENTIDAD kaŋ ga fun harrasi nda hay ga kaati ka bara ENTIDAD koyne kaŋ si gonda hay te nda hay din, yaasi boro din ga duumi bare.</p>\n<p>ENTIDAD kaŋ ga fun harrasi nda GNOSIS ga, ENTIDAD koyne ga fun kaati ka bara GNOSIS ga.</p>\n<p>Hayndarey nda hayndarey wayborey, kuluwoli nda jaŋ hiyandi ga duumi kaatikoyo woo taalamo ga nda a ga boori i ma borey ga nda borey wayborey yaamo ga FONDO kaŋ hiyare ga ka CONCIENCIA.</p>\n<p>A ga to borey ga taale nge ka borey boŋ gaati ga nda teeko kulu.</p>\n<p>I ga duumi suuba miila kaati ra, a ga duumi kaati ga hay kaŋ iri ga ti nda woo ga to ka baara FUN gaa.</p>\n<p>Iri si tay kaŋ nga yamu ga to ka guro, hal iri ma suura sasa nda iri nga boŋ tamma.</p>\n<p>Iri si tay kaŋ ga taalamo ga to, teko, hal iri ga nga yamu ta, amma woo si ti nga, woo ga ti suuban jiiri koyne.</p>\n<p>Jine, fundo ga ti ka nga boŋ bay nga wan iri ga ti, wan na iri fun, iri ga koy wan, wan din na iri gonda.</p>\n<p>A si boori ka iri ma taama duumey sanda masino kaŋ ga fun, kaaru nda borey kaŋ ga fun sanda masino yaŋ.</p>\n<p>A ga duumi bare ka ciya masiney koyzey, a ga duumi ka ciya BORO CIMEY.</p>\n<p>A ga duumi bare kooyaaji nda woo ga to ka baara nga borey kulu kaŋ yaŋ gundey ga ti YO GUNDEY.</p>\n<p>Alwaati jeeri yaasi si ti BORO amma a gonda nga ra hayey kaŋ yaŋ ga hin, ha a ma ciya BORO.</p>\n<p>A si no sariya kaŋ hay din ga boro ga kaaru, yaali din ga fun hay din ga batee.</p>\n<p>Sanda borey hin ka boro noomi hay din.</p>\n<p>Iri na duumi bare nda iri duumi ka hay ta. A ga bara ka iri ma nga boŋ kaati, iri bay yaasi ndaare.</p>\n<p>A ga kaari ga ka YO GUNDEY ga fun.</p>\n<p>A GA LOGICO iri na duumi ka nga boŋ zeeri, nga hin koyzey, nga duumi ka BORO-MASINO ti te amma cimi din a si gonda.</p>\n<p>BORO-MASINO ga ti a gonda borey, CONCIENCIA GA fun, hin ka ga ga nga boŋ, PODER KA TE.</p>\n<p>Nda iri ga ba ka iri bare nda ka tiya masiney koyzey, iri ma fun CONCIENCIA, iri gonda ga ga nga boŋ, hin ka ka nga boŋ kayndi.</p>\n<p>Waati kaŋ YO GUNDEY ga batee SER din no ga goro.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/dje/educacion-fundamental/el-hombre-maquina.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/dje/educacion-fundamental/el-hombre-maquina.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/dje/educacion-fundamental/el-hombre-maquina.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

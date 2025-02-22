@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"ជំពូកនេះត្រូវបានបកប្រែដោយស្វ័យប្រវត្តិពីភាសាអេស្ប៉ាញដើម។ វាមិនទាន់បានឆ្លងកាត់ការពិនិត្យដោយមនុស្សនៅឡើយទេ។ ប្រសិនបើអ្នកចង់ជួយក្នុងការពិនិត្យ សូមទាក់ទងមកយើងដោយចុចនៅទីនេះ។","originalMessage":"មាតិកានៃជំពូកនេះផ្អែកលើអត្ថបទភាសាអេស្ប៉ាញដើម។","revisedMessage":"ជំពូកនេះបានឆ្លងកាត់ការពិនិត្យនិងបកប្រែដោយមនុស្សពីអត្ថបទភាសាអេស្ប៉ាញដើម។ ប្រសិនបើវានៅត្រូវការការកែតម្រូវ សូមទាក់ទងមកយើងដោយចុចនៅទីនេះ។"};
+const status = {"automatic":"ការបកប្រែដោយស្វ័យប្រវត្តិ","original":"ដើម","revised":"បានពិនិត្យ"};
+const km = {
+  "404.text": "រកមិនឃើញទំព័រ។ ពិនិត្យ URL ឬព្យាយាមប្រើរបារស្វែងរក។",
+  "aside.caution": "ប្រុងប្រយ័ត្ន",
+  "aside.danger": "គ្រោះថ្នាក់",
+  "aside.note": "កំណត់ចំណាំ",
+  "aside.tip": "គន្លឹះ",
+  "builtWithStarlight.label": "បង្កើតឡើងដោយ Starlight",
+  "fileTree.directory": "ថត",
+  "i18n.untranslatedContent": "មាតិកានេះមិនទាន់មានជាភាសារបស់អ្នកនៅឡើយទេ។",
+  "languageSelect.accessibleLabel": "ជ្រើសរើសភាសា",
+  "menuButton.accessibleLabel": "ម៉ឺនុយ",
+  messages,
+  "page.draft": "មាតិកានេះជាសេចក្តីព្រាងហើយនឹងមិនត្រូវបានរួមបញ្ចូលក្នុងការកសាងផលិតផលទេ។",
+  "page.editLink": "កែសម្រួលទំព័រ",
+  "page.lastUpdated": "បានធ្វើបច្ចុប្បន្នភាពចុងក្រោយ៖",
+  "page.nextLink": "បន្ទាប់",
+  "page.previousLink": "មុន",
+  "search.cancelLabel": "បោះបង់",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "ការស្វែងរកមានតែនៅក្នុងការកសាងផលិតផលប៉ុណ្ណោះ។ \nព្យាយាមកសាងនិងមើលគេហទំព័រជាមុនដើម្បីសាកល្បងវានៅមូលដ្ឋាន។",
+  "search.label": "ស្វែងរក",
+  "sidebarNav.accessibleLabel": "មេ",
+  "skipLink.label": "រំលងទៅមាតិកា",
+  status,
+  "tableOfContents.onThisPage": "នៅក្នុងជំពូកនេះ",
+  "tableOfContents.overview": "ការចាប់ផ្តើម",
+  "themeSelect.accessibleLabel": "ជ្រើសរើសរូបរាង",
+  "themeSelect.auto": "ស្វ័យប្រវត្តិ",
+  "themeSelect.dark": "ងងឹត",
+  "themeSelect.light": "ភ្លឺ",
+};
+
+export { km as default, messages, status };

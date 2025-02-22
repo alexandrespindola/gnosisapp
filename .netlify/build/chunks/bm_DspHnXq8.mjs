@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Nin sigida yɛlɛmana ka bɔ espanyɔli kɔrɔ la. Mɔgɔ ma a lajɛ fɔlɔ. Ni i b'a fɛ ka dɛmɛ kɛ lajɛli la, i ka anw sɔrɔ yan.","originalMessage":"Nin sigida kunnafoni bɛ bɔ espanyɔli kɔrɔ la.","revisedMessage":"Mɔgɔ ye nin sigida lajɛ ani k'a yɛlɛma ka bɔ espanyɔli kɔrɔ la. Ni a mako bɛ lafiɲɛ la hali bi, i ka anw sɔrɔ yan."};
+const status = {"automatic":"Yɛlɛma Automatique","original":"Fɔlɔ","revised":"A lajɛlen"};
+const bm = {
+  "404.text": "Sɛbɛn tɛ yen. Aw ka URL lajɛ walima aw ka yɛlɛma yɔrɔ kɛ.",
+  "aside.caution": "Hakili la",
+  "aside.danger": "Farati",
+  "aside.note": "Tɔgɔ",
+  "aside.tip": "Hakilina",
+  "builtWithStarlight.label": "A dilan na ni Starlight ye",
+  "fileTree.directory": "Sɛbɛnw ka yɔrɔ",
+  "i18n.untranslatedContent": "Nin kunnafoni tɛ i ka kan na fɔlɔ.",
+  "languageSelect.accessibleLabel": "Kan sugandi",
+  "menuButton.accessibleLabel": "Menu",
+  messages,
+  "page.draft": "Nin kunnafoni ye draft ye ani a tɛna kɛ production builds kɔnɔ.",
+  "page.editLink": "Sɛbɛn yɛlɛma",
+  "page.lastUpdated": "Labɛn laban:",
+  "page.nextLink": "Nɔgɔ",
+  "page.previousLink": "Kɔfɛ",
+  "search.cancelLabel": "A dabila",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Yɛlɛma tɛ se ka kɛ fo production builds kɔnɔ. Aw ka site jɔ ani k'a lajɛ walasa k'a kɔrɔbɔ yan.",
+  "search.label": "Ɲini",
+  "sidebarNav.accessibleLabel": "Fɔlɔ",
+  "skipLink.label": "Tɛmɛ ka taa kunnafoni ma",
+  status,
+  "tableOfContents.onThisPage": "Nin sigida la",
+  "tableOfContents.overview": "Daminɛ",
+  "themeSelect.accessibleLabel": "Cogoya sugandi",
+  "themeSelect.auto": "Auto",
+  "themeSelect.dark": "Dibi",
+  "themeSelect.light": "Yeelen",
+};
+
+export { bm as default, messages, status };

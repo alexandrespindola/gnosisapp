@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Prostota",
+  "locale": "pl",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "15. Prostota",
+    "order": 15
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Pilnie i nieodzownie trzeba rozwijać twórcze zrozumienie, ponieważ przynosi ono człowiekowi prawdziwą wolność życia. Bez zrozumienia niemożliwe jest osiągnięcie autentycznej zdolności krytycznej, głębokiej analizy.</p>\n<p>Nauczyciele i nauczycielki w szkołach, gimnazjach i na uniwersytetach powinni prowadzić swoich uczniów i uczennice ścieżką samokrytycznego zrozumienia.</p>\n<p>W poprzednim rozdziale obszernie omówiliśmy już procesy zazdrości i jeśli chcemy skończyć ze wszystkimi odcieniami zawiści, czy to religijnej, namiętnej, itp., musimy w pełni uświadomić sobie, czym naprawdę jest zazdrość, ponieważ tylko dogłębne i osobiste zrozumienie nieskończonych procesów zazdrości pozwoli nam skończyć z wszelkiego rodzaju zawiścią.</p>\n<p>Zawiść niszczy małżeństwa, zawiść niszczy przyjaźnie, zawiść wywołuje wojny religijne, bratobójcze nienawiści, morderstwa i cierpienia wszelkiego rodzaju.</p>\n<p>Zazdrość ze wszystkimi swoimi nieskończonymi odcieniami kryje się za wzniosłymi celami. Zazdrość istnieje w tym, który poinformowany o istnieniu wzniosłych świętych, mahatmów lub guru, pragnie również stać się świętym. Zazdrość istnieje w filantropie, który stara się przewyższyć innych filantropów. Zazdrość istnieje w każdym człowieku, który pożąda cnót, ponieważ otrzymał informacje, ponieważ w jego umyśle znajdują się dane o istnieniu świętych osób pełnych cnót.</p>\n<p>Pragnienie bycia świętym, pragnienie bycia cnotliwym, pragnienie bycia wielkim ma u podstaw zazdrość.</p>\n<p>Święci ze swoimi cnotami wyrządzili wiele szkód. Przychodzi nam na myśl przypadek człowieka, który uważał się za bardzo świętego.</p>\n<p>Pewnego razu głodny i nędzny poeta zapukał do jego drzwi, aby wręczyć mu piękny wiersz specjalnie poświęcony świętemu z naszej opowieści. Poeta czekał tylko na monetę, aby kupić jedzenie dla swojego wyczerpanego i starzejącego się ciała.</p>\n<p>Poeta spodziewał się wszystkiego, ale nie obelgi. Wielkie było jego zaskoczenie, gdy święty z pobożnym spojrzeniem i zmarszczonym czołem zamknął drzwi, mówiąc nieszczęsnemu poecie: “Precz stąd, przyjacielu, precz… nie lubię takich rzeczy, brzydzę się pochlebstwami… nie lubię marności świata, to życie jest iluzją… podążam ścieżką pokory i skromności. Nieszczęsny poeta, który pragnął tylko monety, zamiast tego otrzymał obelgę od świętego, słowo, które rani, policzek, i z bolącym sercem i lirą rozbitą na kawałki poszedł powoli ulicami miasta… powoli… powoli…</p>\n<p>Nowe pokolenie musi powstać na fundamencie autentycznego zrozumienia, ponieważ jest ono całkowicie twórcze.</p>\n<p>Pamięć i przypominanie sobie nie są twórcze. Pamięć jest grobem przeszłości. Pamięć i przypominanie sobie to śmierć.</p>\n<p>Prawdziwe zrozumienie jest psychologicznym czynnikiem całkowitego wyzwolenia.</p>\n<p>Wspomnienia pamięci nigdy nie mogą przynieść nam prawdziwego wyzwolenia, ponieważ należą do przeszłości, a zatem są martwe.</p>\n<p>Zrozumienie nie jest rzeczą przeszłości ani przyszłości. Zrozumienie należy do momentu, w którym żyjemy tu i teraz. Pamięć zawsze przynosi ideę przyszłości.</p>\n<p>Pilnie trzeba studiować naukę, filozofię, sztukę i religię, ale nie należy powierzać studiów wierności pamięci, ponieważ nie jest ona wierna.</p>\n<p>Absurdem jest deponowanie wiedzy w grobie pamięci. Głupotą jest grzebanie w grobie przeszłości wiedzy, którą musimy zrozumieć.</p>\n<p>Nigdy nie moglibyśmy się wypowiedzieć przeciwko studiowaniu, przeciwko mądrości, przeciwko nauce, ale nieprzystające jest deponowanie żywych klejnotów wiedzy w skorumpowanym grobie pamięci.</p>\n<p>Konieczne jest studiowanie, konieczne jest badanie, konieczne jest analizowanie, ale musimy głęboko medytować, aby zrozumieć na wszystkich poziomach umysłu.</p>\n<p>Człowiek naprawdę prosty jest głęboko rozumiejący i ma prosty umysł.</p>\n<p>W życiu ważne jest nie to, co nagromadziliśmy w grobie pamięci, ale to, co zrozumieliśmy nie tylko na poziomie intelektualnym, ale także na różnych terenach podświadomych, nieświadomych umysłu.</p>\n<p>Nauka, wiedza powinny przekształcić się w natychmiastowe zrozumienie. Kiedy wiedza, kiedy studia przekształciły się w autentyczne twórcze zrozumienie, możemy wtedy natychmiast zrozumieć wszystkie rzeczy, ponieważ zrozumienie staje się natychmiastowe, błyskawiczne.</p>\n<p>W człowieku prostym nie ma komplikacji w umyśle, ponieważ wszelkie komplikacje umysłu wynikają z pamięci. Machiaweliczny JA, które nosimy w sobie, to nagromadzona pamięć.</p>\n<p>Doświadczenia życiowe muszą przekształcić się w prawdziwe zrozumienie.</p>\n<p>Kiedy doświadczenia nie przekształcają się w zrozumienie, kiedy doświadczenia trwają w pamięci, stanowią zgniliznę grobu, nad którym płonie zwodniczy i lucyferyczny płomień intelektu.</p>\n<p>Koniecznie trzeba wiedzieć, że intelekt zwierzęcy całkowicie pozbawiony wszelkiej duchowości jest jedynie werbalizacją pamięci, świecą grobową płonącą nad kamieniem nagrobnym.</p>\n<p>Człowiek prosty ma umysł wolny od doświadczeń, ponieważ te stały się świadomością, przekształciły się w twórcze zrozumienie.</p>\n<p>Śmierć i życie są ze sobą ściśle powiązane. Tylko umierając ziarno, rodzi się roślina, tylko umierając doświadczenie, rodzi się zrozumienie. To jest proces autentycznej transformacji.</p>\n<p>Człowiek skomplikowany ma pamięć pełną doświadczeń.</p>\n<p>To dowodzi jego braku twórczego zrozumienia, ponieważ kiedy doświadczenia są w pełni zrozumiane na wszystkich poziomach umysłu, przestają istnieć jako doświadczenia i rodzą się jako zrozumienie.</p>\n<p>Koniecznie trzeba najpierw doświadczyć, ale nie możemy pozostać na terenie doświadczenia, ponieważ wtedy umysł się komplikuje i staje się trudny. Koniecznie trzeba żyć intensywnie i przekształcać wszystkie doświadczenia w autentyczne twórcze zrozumienie.</p>\n<p>Ci, którzy błędnie przypuszczają, że aby być rozumiejącymi, prostymi i nieskomplikowanymi, musimy porzucić świat, stać się żebrakami, żyć w odizolowanych chatach i nosić przepaski na biodra zamiast eleganckiego garnituru, są w całkowitym błędzie.</p>\n<p>Wielu anachoretów, wielu samotnych pustelników, wielu żebraków ma bardzo skomplikowane i trudne umysły.</p>\n<p>Bezużyteczne jest odsuwanie się od świata i życie jak anachoreci, jeśli pamięć jest pełna doświadczeń, które warunkują swobodny przepływ myśli.</p>\n<p>Bezużyteczne jest życie jak pustelnicy, chcąc prowadzić życie świętych, jeśli pamięć jest wypełniona informacjami, które nie zostały należycie zrozumiane, które nie stały się świadomością w różnych zakamarkach, korytarzach i nieświadomych regionach umysłu.</p>\n<p>Ci, którzy przekształcają informacje intelektualne w prawdziwe twórcze zrozumienie, ci, którzy przekształcają doświadczenia życiowe w prawdziwe głębokie zrozumienie, nic nie mają w pamięci, żyją z chwili na chwilę pełni prawdziwej pełni, stali się prostymi i nieskomplikowanymi, chociaż żyją w wspaniałych rezydencjach i w obrębie życia miejskiego.</p>\n<p>Małe dzieci przed siódmym rokiem życia są pełne prostoty i prawdziwego wewnętrznego piękna, ponieważ wyraża się przez nie jedynie żywa ESENCJA życia w całkowitej nieobecności PSYCHOLOGICZNEGO JA.</p>\n<p>Musimy odzyskać utracone dzieciństwo w naszym sercu i w naszym umyśle. Musimy odzyskać niewinność, jeśli naprawdę chcemy być szczęśliwi.</p>\n<p>Doświadczenia i studia przekształcone w dogłębne zrozumienie nie pozostawiają resztek w grobie pamięci i wtedy stajemy się prostymi, nieskomplikowanymi, niewinnymi, szczęśliwymi.</p>\n<p>Głęboka medytacja nad doświadczeniami i zdobytą wiedzą, głęboka samokrytyka, intymna psychoanaliza przekształcają, przekształcają wszystko w głębokie twórcze zrozumienie. To jest droga autentycznego szczęścia zrodzonego z mądrości i miłości.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/pl/educacion-fundamental/la-sencillez.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/pl/educacion-fundamental/la-sencillez.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/pl/educacion-fundamental/la-sencillez.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

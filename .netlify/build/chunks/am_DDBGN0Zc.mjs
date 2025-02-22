@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"ይህ ምዕራፍ ከስፓኒሽ ኦሪጅናል በራስ-ሰር ተተርጉሟል። ገና የሰው ግምገማ አልተደረገለትም። በግምገማው ላይ እገዛ ማድረግ ከፈለጉ እዚህ ላይ ጠቅ በማድረግ ያግኙን።","originalMessage":"የዚህ ምዕራፍ ይዘት በኦሪጅናል የስፓኒሽ ጽሑፍ ላይ የተመሠረተ ነው።","revisedMessage":"ይህ ምዕራፍ ከኦሪጅናል የስፓኒሽ ጽሑፍ የሰው ግምገማ እና ትርጉም ተደርጎለታል። አሁንም እርማቶች የሚያስፈልጉት ከሆነ እዚህ ላይ ጠቅ በማድረግ ያግኙን።"};
+const status = {"automatic":"ራስ-ሰር ትርጉም","original":"ኦሪጅናል","revised":"የተሻሻለ"};
+const am = {
+  "404.text": "ገጹ አልተገኘም። ዩአርኤሉን ያረጋግጡ ወይም የፍለጋ አሞሌውን ለመጠቀም ይሞክሩ።",
+  "aside.caution": "ትኩረት",
+  "aside.danger": "አደጋ",
+  "aside.note": "ማስታወሻ",
+  "aside.tip": "ጠቃሚ ምክር",
+  "builtWithStarlight.label": "በስታርላይት የተገነባ",
+  "fileTree.directory": "ማውጫ",
+  "i18n.untranslatedContent": "ይህ ይዘት በእርስዎ ቋንቋ ገና አልተገኘም።",
+  "languageSelect.accessibleLabel": "ቋንቋ ምረጥ",
+  "menuButton.accessibleLabel": "ምናሌ",
+  messages,
+  "page.draft": "ይህ ይዘት ረቂቅ ነው እና በምርት ግንባታዎች ውስጥ አይካተትም።",
+  "page.editLink": "ገጽ አርትዕ",
+  "page.lastUpdated": "የመጨረሻው ዝመና:",
+  "page.nextLink": "ቀጣይ",
+  "page.previousLink": "የቀድሞ",
+  "search.cancelLabel": "ሰርዝ",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "ፍለጋ የሚገኘው በምርት ግንባታዎች ውስጥ ብቻ ነው። በአካባቢው ለመፈተሽ ጣቢያውን ለመገንባት እና ለማየት ይሞክሩ።",
+  "search.label": "ፈልግ",
+  "sidebarNav.accessibleLabel": "ዋና",
+  "skipLink.label": "ወደ ይዘት ዝለል",
+  status,
+  "tableOfContents.onThisPage": "በዚህ ገጽ ላይ",
+  "tableOfContents.overview": "አጠቃላይ እይታ",
+  "themeSelect.accessibleLabel": "ገጽታ ምረጥ",
+  "themeSelect.auto": "ራስ-ሰር",
+  "themeSelect.dark": "ጨለማ",
+  "themeSelect.light": "ብርሃን",
+};
+
+export { am as default, messages, status };

@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Güvenlik Arayışı",
+  "locale": "tr",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "6. Güvenlik Arayışı",
+    "order": 6
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Civcivler korktuklarında güvenlik arayışıyla tavuğun sevgi dolu kanatlarının altına saklanırlar.</p>\n<p>Korkmuş çocuk, annesinin yanına koşar çünkü onun yanında güvende olduğuna inanır.</p>\n<p>Bu nedenle KORKU ve GÜVENLİK arayışının her zaman yakından ilişkili olduğu kanıtlanmıştır.</p>\n<p>Haydutlar tarafından saldırıya uğramaktan korkan adam, tabancasında güvenlik arar.</p>\n<p>Başka bir ülke tarafından saldırıya uğramaktan korkan bir ülke, toplar, uçaklar, savaş gemileri satın alacak, ordular kuracak ve savaşa hazırlanacaktır.</p>\n<p>Çalışmayı bilmeyen birçok kişi, sefaletten dehşete düşerek suçta güvenlik arar ve hırsız, soyguncu vb. olurlar…</p>\n<p>Zeka eksikliği olan birçok kadın, sefalet olasılığından korkarak fahişe olur.</p>\n<p>Kıskanç adam karısını kaybetmekten korkar ve tabancada güvenlik arar, öldürür ve sonra hapse gireceği açıktır.</p>\n<p>Kıskanç kadın rakibini veya kocasını öldürür ve böylece katil olur.</p>\n<p>Kocasını kaybetmekten korkar ve onu güvence altına almak için diğerini öldürür veya onu öldürmeye karar verir.</p>\n<p>Ev sahibi, insanların evin kirasını ödememesinden korkarak sözleşmeler, kefiller, depozitolar vb. talep eder ve böylece kendini güvence altına almak ister ve eğer yoksul ve çocuk dolu bir dul kadın bu kadar büyük gereksinimleri karşılayamazsa ve bir şehirdeki tüm ev sahipleri aynı şeyi yaparsa, sonunda zavallı kadın çocuklarıyla birlikte sokakta veya şehir parklarında uyumak zorunda kalacaktır.</p>\n<p>Tüm savaşların kökeni korkudur.</p>\n<p>Gestapo’lar, işkenceler, toplama kampları, Sibiryalar, korkunç hapishaneler, sürgünler, zorunlu çalışma, idamlar vb. korkudan kaynaklanır.</p>\n<p>Uluslar, korkudan dolayı diğer uluslara saldırır; şiddette güvenlik ararlar, öldürerek, işgal ederek vb. güvende, güçlü, kudretli olabileceklerine inanırlar.</p>\n<p>Gerek doğuda gerekse batıda, gizli polis, karşı istihbarat vb. ofislerinde casuslara işkence edilir, onlardan korkulur, devlet için güvenlik bulmak amacıyla onlara itiraf ettirilmek istenir.</p>\n<p>Tüm suçların, tüm savaşların, tüm cinayetlerin kökeni korku ve güvenlik arayışıdır.</p>\n<p>Eskiden insanlar arasında samimiyet vardı, bugün korku ve güvenlik arayışı samimiyetin o muhteşem kokusunu yok etti.</p>\n<p>Arkadaş arkadaşına güvenmiyor, onun kendisini soymasından, dolandırmasından, sömürmesinden korkuyor ve hatta şu aptalca ve sapkın özdeyişler var: “EN İYİ ARKADAŞINA ASLA SIRTINI DÖNME”. HİTLERLER bu ÖZDEYİŞ’in ALTIN değerinde olduğunu söylüyordu.</p>\n<p>Artık arkadaş arkadaştan korkuyor ve hatta kendini korumak için ÖZDEYİŞLER kullanıyor. Artık arkadaşlar arasında samimiyet yok. Korku ve güvenlik arayışı samimiyetin o enfes kokusunu yok etti.</p>\n<p>Küba’da Castro Rus, sonunu getireceklerinden korkarak binlerce vatandaşı idam etti; Castro idam ederek güvenlik arıyor. Böylece Güvenlik bulabileceğine inanıyor.</p>\n<p>Stalin, o sapkın ve kanlı Stalin, kanlı temizlikleriyle Rusya’yı kokuttu. Onun güvenliğini arama biçimi buydu.</p>\n<p>Hitler, devletin güvenliği için Gestapo’yu, o korkunç Gestapo’yu örgütledi. Devrileceğinden şüphesi yoktu ve bu nedenle o kanlı Gestapo’yu kurdu.</p>\n<p>Bu dünyadaki tüm acıların kökeni korku ve güvenlik arayışıdır.</p>\n<p>Okul öğretmenleri, öğrencilere cesaretin erdemini öğretmelidir.</p>\n<p>Çocukların daha evlerinden itibaren korkuyla doldurulması üzücü bir durumdur.</p>\n<p>Çocuklar tehdit ediliyor, sindiriliyor, korkutuluyor, dövülüyor vb.</p>\n<p>Ailelerin ve öğretmenlerin çocukları ve gençleri ders çalışmak amacıyla korkutması adettendir.</p>\n<p>Genellikle çocuklara ve gençlere ders çalışmazlarsa dilenmek zorunda kalacakları, sokaklarda aç dolaşacakları, ayakkabı boyamak, yük taşımak, gazete satmak, tarlada çalışmak gibi çok mütevazı işler yapmak zorunda kalacakları söylenir vb. vb. vb. (Sanki çalışmak suçmuş gibi)</p>\n<p>Temelde, ebeveynlerin ve öğretmenlerin tüm bu sözlerinin ardında, çocuk için korku ve çocuk için güvenlik arayışı vardır.</p>\n<p>Söylediğimiz tüm bu şeylerin vahim yanı, çocuk ve gencin aşağılık kompleksine girmesi, korkuyla dolması ve daha sonra pratik hayatta korku dolu bireyler olmasıdır.</p>\n<p>Çocukları ve gençleri korkutma gibi kötü bir alışkanlığı olan ebeveynler ve öğretmenler, bilinçsizce onları suç yoluna yönlendiriyorlar, çünkü daha önce de söylediğimiz gibi, her suçun kökeni korku ve güvenlik arayışıdır.</p>\n<p>Günümüzde KORKU ve GÜVENLİK ARAYIŞI dünya gezegenini korkunç bir cehenneme çevirmiştir. Herkes korkuyor. Herkes güvenlik istiyor.</p>\n<p>Eskiden özgürce seyahat edilebiliyordu, şimdi sınırlar silahlı muhafızlarla dolu, bir ülkeden diğerine geçme hakkına sahip olmak için her türlü pasaport ve sertifika isteniyor.</p>\n<p>Tüm bunlar korkunun ve GÜVENLİK ARAYIŞININ bir sonucu. Seyahat edenden korkuluyor, gelenden korkuluyor ve pasaportlarda ve her türlü kağıtta güvenlik aranıyor.</p>\n<p>Okul, kolej, üniversite öğretmenleri tüm bunların dehşetini anlamalı ve yeni nesillere gerçek cesaret yolunu öğreterek dünyanın iyiliği için işbirliği yapmalıdır.</p>\n<p>Yeni nesillere korkmamayı ve hiçbir şeyde ve hiç kimsede güvenlik aramamayı öğretmek ACİL bir durumdur.</p>\n<p>Her bireyin kendine daha fazla güvenmeyi öğrenmesi şarttır.</p>\n<p>KORKU ve GÜVENLİK arayışı, hayatı korkunç bir CEHENNEME çeviren korkunç zayıflıklardır.</p>\n<p>Her yerde güvenlik arayışında olan korkaklar, ürkekler, zayıflar bol miktarda bulunur.</p>\n<p>Hayattan korkulur, ölümden korkulur, elalem ne der’den, “söylentiye göre”den, sosyal konumu, siyasi konumu, prestiji, parayı, güzel evi, güzel kadını, iyi kocayı, işi, işi, tekeli, mobilyaları, arabayı vb. vb. vb. kaybetmekten korkulur, her şeyden korkulur, her yerde korkaklar, ürkekler, zayıflar bol miktarda bulunur, ancak kimse kendini korkak sanmaz, herkes güçlü, cesur vb. olduğunu iddia eder.</p>\n<p>Tüm sosyal sınıflarda kaybedilmekten korkulan binlerce ve milyonlarca çıkar vardır ve bu nedenle herkes güvenlik arar ve bunlar giderek daha karmaşık hale geldikçe, aslında hayatı giderek daha karmaşık, giderek daha zor, giderek daha acı, acımasız ve gaddar hale getirirler.</p>\n<p>Tüm dedikoduların, tüm iftiraların, entrikaların vb. kökeni korku ve güvenlik arayışıdır.</p>\n<p>Serveti, konumu, gücü, prestiji kaybetmemek için iftiralar, dedikodular yayılır, cinayet işlenir, gizlice cinayet işlenmesi için para ödenir vb.</p>\n<p>Dünyanın güçlüleri, kendilerini gölgede bırakmakla tehdit eden herkesi ortadan kaldırmak amacıyla ücretli ve çok iyi ödenen katillere sahip olma lüksüne bile sahipler.</p>\n<p>Onlar gücü güç için severler ve para ve çok fazla kan pahasına güvence altına alırlar.</p>\n<p>Gazeteler sürekli olarak birçok intihar vakası haberi veriyor.</p>\n<p>Birçoğu intihar edenin cesur olduğuna inanır, ancak aslında intihar eden, hayattan korkan ve ölümün çıplak kollarında güvenlik arayan bir korkaktır.</p>\n<p>Bazı savaş kahramanları zayıf ve korkak insanlar olarak bilinirlerdi, ancak ölümle yüz yüze geldiklerinde, dehşetleri o kadar büyüktü ki, hayatları için güvenlik arayışıyla korkunç canavarlara dönüştüler ve ölüme karşı üstün bir çaba gösterdiler. O zaman KAHRAMAN ilan edildiler.</p>\n<p>Korku genellikle cesaretle karıştırılır. İntihar eden çok cesur görünür, silah taşıyan çok cesur görünür, ancak gerçekte intihar edenler ve silahlı kişiler çok korkaktır.</p>\n<p>Hayattan korkmayan intihar etmez. Kimseden korkmayan beline silah takmaz.</p>\n<p>Okul öğretmenlerinin vatandaşa gerçek CESARET’in ne olduğunu ve korkunun ne olduğunu açık ve net bir şekilde öğretmesi ACİL bir durumdur.</p>\n<p>KORKU ve GÜVENLİK ARAYIŞI dünyayı korkunç bir cehenneme çevirmiştir.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/tr/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tr/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tr/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"An fassara wannan sashi ta atomatik daga Spanishi na asali. Ba a yi masa bitar mutum ba tukuna. Idan kana son taimakawa wajen bita, tuntuɓe mu ta wannan wurin.","originalMessage":"Abun cikin wannan sashi ya dogara ne kan rubutun Spanishi na asali.","revisedMessage":"Wannan sashi ya shiga bitar mutum da kuma fassara daga rubutun Spanishi na asali. Idan har yanada buƙatar gyara, tuntuɓe mu ta wannan wurin."};
+const status = {"automatic":"Fassara Ta Atomatik","original":"Na Asali","revised":"An Sake Duba"};
+const ha = {
+  "404.text": "Ba a samu shafin ba. Duba URL ko gwada amfani da mazaunin bincike.",
+  "aside.caution": "Hankali",
+  "aside.danger": "Hatsari",
+  "aside.note": "Lura",
+  "aside.tip": "Shawarwari",
+  "builtWithStarlight.label": "An gina da Starlight",
+  "fileTree.directory": "Madaba",
+  "i18n.untranslatedContent": "Wannan abun ba ya samuwa a yarenku tukuna.",
+  "languageSelect.accessibleLabel": "Zaɓi yare",
+  "menuButton.accessibleLabel": "Menu",
+  messages,
+  "page.draft": "Wannan abin zane-zane ne kuma ba za a sa shi a cikin ginin production ba.",
+  "page.editLink": "Gyara shafi",
+  "page.lastUpdated": "An ƙarshe sabuntawa:",
+  "page.nextLink": "Na gaba",
+  "page.previousLink": "Na baya",
+  "search.cancelLabel": "Soke",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Bincike yana samuwa ne kawai a cikin ginin production. \nGwada gina da kuma kallon gaba na rukunin yanar gizo don gwada shi a wurin.",
+  "search.label": "Bincika",
+  "sidebarNav.accessibleLabel": "Babba",
+  "skipLink.label": "Tsallaka zuwa abun ciki",
+  status,
+  "tableOfContents.onThisPage": "A wannan sashi",
+  "tableOfContents.overview": "Farawa",
+  "themeSelect.accessibleLabel": "Zaɓi jigo",
+  "themeSelect.auto": "Na Atomatik",
+  "themeSelect.dark": "Duhu",
+  "themeSelect.light": "Haske",
+};
+
+export { ha as default, messages, status };

@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Obwangu",
+  "locale": "lg",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "15. Obwangu",
+    "order": 15
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Kyetaagisa nnyo, kyamuwendo okukulaakulanya okutegeera okutondekawo kubanga kw’akuleetera omuntu obutafugibwa obw’amazima mu bulamu. Awatali kutegeera, tekisoboka kufuna bukugu bwa kunenyeza bwa kunnyikira.</p>\n<p>Abasomesa b’amasomero, amatendekero, ne yunivasite balina okukulembera abayizi baabwe okuyita mu kkubo ery’okutegeera okwenenyeza.</p>\n<p>Mu ssuula yaffe eyayita twasoma kinene ku nkola z’obuggya era bwe tuba twagala okumaliriza ebikolwa byonna eby’obuggya, ka zibe za ddiini, za mukwano, n’ebirala. tulina okumanya bulungi obuggya bwe butya, kubanga bwe tutegeera obulungi era mu ngeri ey’omunda ennyo engeri ezitaliiko kkomo ez’obuggya, tusobola okumaliriza obuggya obwa buli ngeri.</p>\n<p>Obuggya bwonoona obufumbo, obuggya bwonoona emikwano, obuggya buleeta entalo z’eddiini, obukyayi bw’ab’oluganda, ettima, n’okubonaabona kwa buli ngeri.</p>\n<p>Obuggya n’engeri zaabwo ezitaliiko kkomo bukwekeddwa emabega w’ebigendererwa eby’ekitalo. Waliwo obuggya mu oyo eyategeezebwa ku kubaawo kw’abatukuvu aba waggulu. Bamaahatma oba baguru, naye era ayagala okufuuka omutukuvu. Waliwo obuggya mu mugabi eyeefuba okusinga abagabi abalala. Waliwo obuggya mu buli muntu ayegomba empisa ennungi kubanga yalina amawulire, kubanga mu bwongo bwe mulimu ebifaayo ku bantu abatukuvu abajjudde empisa ennungi.</p>\n<p>Okwegomba okuba omutukuvu, okwegomba okuba omwesigwa, okwegomba okuba omukulu kulina omusingi gw’obuggya.</p>\n<p>Abatukuvu n’empisa zaabwe ennungi bazze baleeta obuvune bungi. Tujjukira omusango gw’omusajja eyali yeetwala ng’omutukuvu ennyo.</p>\n<p>Lumu omusomesi omujoozi era omunafu yakonkona ku nzigi ze okuteeka mu ngalo ze oluyimba olulungi olwawandiikiddwa mu ngeri ey’enjawulo eri omutukuvu ow’olugero lwaffe. Omusomesi yali alindiridde ssente okugula emmere eri omubiri gwe ogukooye era ogukaddiye.</p>\n<p>Omusomesi yali talowooza ku kivume. Kyamwewuunyisa nnyo omutukuvu bwe yazibawo oluggi ng’atunuulira mu ngeri ey’ekisa era ng’amwenyiridde ng’agamba omusomesi omunafu nti: “va wano mukwano, genda wala… simanyi bintu bino, nkyawa okusinzizibwa… simanyi byamasanyu bya nsi, obulamu buno bubuze… ngonderera ekkubo ery’obuwombeefu n’okwetoowaza. Omusomesi omunafu eyali ayagala ssente ezoomu yalemererwa okufuna ekivume okuva eri omutukuvu, ekigambo ekituusa obuvune, oluyi, era n’omutima ogulumirwa era n’ennanga ye ng’emenyese agenda mu nguudo z’ekibuga mpolampola… mpolampola… mpolampola.</p>\n<p>Omulembe omupya gulina okusituka ku musingi gw’okutegeera okw’amazima kubanga kuno kuteekawo byonna.</p>\n<p>Okujjukira n’okujjukira tebiteekawo. Okujjukira kye ntumbwe y’ebiseera ebyayita. Okujjukira n’okujjukira bwe kufa.</p>\n<p>Okutegeera okw’amazima kye kikolwa eky’omutima eky’okwekulula okuva mu bunyolwa.</p>\n<p>Ebintu ebiri mu jjukira tebisobola kutuleetera kukulula kw’amazima kubanga bya biseera byayita era kyokka bafu.</p>\n<p>Okutegeera si kintu kya biseera byayita oba eby’omu maaso. Okutegeera kw’ekiseera kye tuli mu kubeera wano kati. Okujjukira bulijjo kuleeta ekirowoozo ky’ebiseera eby’omu maaso.</p>\n<p>Kyetaagisa nnyo okusoma sayansi, endowooza, obwongo, n’eddiini, naye okusoma tekulina kwesigamizibwa ku bujjukizi obutali bwesigwa.</p>\n<p>Kitasoboka okuteeka okumanya mu ntumbwe y’okujjukira. Bugumu okuziika mu kinnya eky’ebiseera byayita okumanya kwe tulina okutegeera.</p>\n<p>Tetujja kwerowoza ku kusoma, ku magezi, ku sayansi, naye kifuuka kikyamu okuteeka eby’omuwendo ebiriwo eby’okumanya mu ntumbwe enafu ey’okujjukira.</p>\n<p>Kifuuka kyetaagisa okusoma, kifuuka kyetaagisa okunoonyereza, kifuuka kyetaagisa okwekenneenya, naye tulina okufumiitiriza ennyo okutegeera mu buli mutendera gw’obwongo.</p>\n<p>Omuntu omuwombeefu ennyo ategeera nnyo era alina obwongo obwangu.</p>\n<p>Ekikulu mu bulamu si kye twakunganya mu ntumbwe y’okujjukira, wabula kye twategeera si mu mutendera gw’obwongo bwokka wabula ne mu nsi ez’enjawulo ezitaliimu nnyo bwongo eziri mu bwongo.</p>\n<p>Sayansi, okumanya, binafuuka kutegeera kwetoolodde. Okumanya, okusoma bwe bikyuka ne biba kutegeera okutondekawo okw’amazima tusobola okutegeera ebintu byonna amangu ago kubanga okutegeera kufuuka kwa mbagirawo, amangu.</p>\n<p>Mu muntu omuwombeefu temuli buzibu mu bwongo kubanga buli buzibu bw’obwongo buva mu kujjukira. Nze Omukimyaakiyaavelii afuuka okujjukira okukungaanyiziddwa.</p>\n<p>Ebikwata ku bulamu birina okukyuka ne biba kutegeera kw’amazima.</p>\n<p>Ebikwata ku bulamu bwe bitakyuka ne biba kutegeera, ebikwata ku bulamu bwe bikyagenda mu maaso mu kujjukira bikola obuvundu bw’entumbwe waggulu waayo okwokya eddamu erifugibwa n’ettima ly’obwongo</p>\n<p>Kyetaagisa okumanya nti obwongo bw’ensolo obutalina mwoyo gwonna bwe bujjudde obwongo, olumuli lw’entumbwe nga lyaka waggulu w’enkambi.</p>\n<p>Omuntu omuwombeefu alina obwongo obutajjudde bikwata ku bulamu kubanga bino bifuuse okumanya, bikyuse ne biba kutegeera okutondekawo.</p>\n<p>Okufa n’obulamu bikwataganye nnyo. Bwe kuggwaawo akawe kanene okusimba ekimera, bwe kuggwaawo okukwatako ku bulamu okuzaala okutegeera. Eno nkola ya kukyusa okw’amazima.</p>\n<p>Omuntu omutawaanyizibwa alina okujjukira okujjudde ebikwata ku bulamu.</p>\n<p>Kino kiraga obutabaawo bw’okutegeera okutondekawo kubanga ebikwata ku bulamu bwe bitegeerekeka mu mitendera gyonna egy’obwongo bilekeraawo okubaawo ng’ebikwata ku bulamu era bizaalibwa ng’okutegeera.</p>\n<p>Kyetaagisa okusooka okukwatako, naye tetulina kusigala mu ttaka ly’ebikwata ku bulamu kubanga obwongo buba butawaanyiziddwa era ne bubeera buzibu. Kyetaagisa okubeera mu bulamu mu ngeri ey’amaanyi era okukyusa ebikwata ku bulamu byonna ne bifuuka kutegeera okutondekawo okw’amazima.</p>\n<p>Abo abalowooza mu ngeri enkyamu nti okusobola okutegeera ng’obwangu n’obuwombeefu tulina okuleka ensi, okufuuka abasabirizi, okubeera mu nnyumba enkyamu ennyo era n’okwambala olugoye mu kifo ky’engoye ez’ekitalo, bakyamu nnyo.</p>\n<p>Abayita mu ddungu abangi, abayita mu nnyumba entaliimu abangi, abasabirizi abangi, balina obwongo obutawaanyiziddwa ennyo era obuzibu.</p>\n<p>Tekirina mugaso kweyawula ku nsi n’okubeera ng’abayita mu ddungu bwe tuba nga okujjukira kujjudde ebikwata ku bulamu ebikugira okutambula kw’ebirowoozo.</p>\n<p>Tekirina mugaso kubeera ng’abayita mu nnyumba entaliimu nga twagala okubeera obulamu bw’abatukuvu bwe kiba nga okujjukira kujjudde amawulire agataategeerekeka bulungi, agatabanga kumanya mu bifo ebikwekeddwa, empindi, n’ebitundu ebitaliimu bwongo obungi obw’obwongo.</p>\n<p>Abo abakyusa amawulire ag’obwongo ne gafuuka okutegeera okutondekawo okw’amazima, abo abakyusa ebikwata ku bulamu mu bulamu ne biba okutegeera okw’amazima okwa wansi tebalina kintu mu kujjukira, babeera mu kiseera ku kiseera nga bajjudde obujjuvu obw’amazima, bafuuse abangu era abawombeefu wadde nga babeera mu nnyumba ez’ebbeeyi era mu ttaka ly’obulamu bw’omu kibuga.</p>\n<p>Abaana abato nga tebannetuuka myaka musanvu bajjudde obwangu n’obulungi obw’omunda olw’okuba nti bubalagibwa butereevu mu butonde bw’obulamu obulamu mu butabaawo bwonna bwa NZE OBW’OBWENGE.</p>\n<p>Tulina okuddamu okufuna obuto obwabuze, mu mutima gwaffe ne mu bwongo bwaffe. Tulina okuddamu okufuna obutaliiko musango bwe tuba nga twagala okuba abasanyufu.</p>\n<p>Ebikwata ku bulamu n’okusoma okukyusiddwa okutegeera okw’omunda tebisigala mu ntumbwe y’okujjukira era olwo, tufuuka bawangu, abangu, abataliiko musango, abasanyufu.</p>\n<p>Okufumiitiriza okw’omunda ennyo ku bikwata ku bulamu n’okumanya okufuniddwa, okwenenyeza okw’omunda, okwekenneenya okw’omunda bikyusa, bikyusa buli kimu ne kiba kutegeera okutondekawo okw’omunda. Lino lye kkubo ery’essanyu ery’amazima eriva mu magezi n’omukwano.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/lg/educacion-fundamental/la-sencillez.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/lg/educacion-fundamental/la-sencillez.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/lg/educacion-fundamental/la-sencillez.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

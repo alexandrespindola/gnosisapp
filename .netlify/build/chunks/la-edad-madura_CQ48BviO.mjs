@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Ũkũlũ wa kwĩva",
+  "locale": "kam",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "27. Ũkũlũ wa kwĩva",
+    "order": 27
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Ũkũlũ mũnene ũambĩĩaa kũmĩaka mĩtatũ na ĩtano na ũthĩĩaa kũvika mĩaka mĩaanake na ĩtandatũ.</p>\n<p>Mũũme ũla mũkũlũ no mũseo kwĩsĩĩla nyũmba yake na kũeleela syana syake.</p>\n<p>Ũvonokyeo kĩla mũũme mũkũlũ nĩ mũnene wa mũsyĩ. Mũũme ũla ũtatoonye nyũmba na ũtatongeete ũthũku ĩla wa mũika na ũkũlũ ĩvo, ndakatonga, kwĩ w’o nĩ mũsiĩ mũse.</p>\n<p>Ala meethĩwa matonya kũtonya nyũmba na kũtongeea ũthũku ĩla ya ũkala nĩmo mendeeawa nĩ ũsũsũ.</p>\n<p>Ũla nĩĩ wa kĩĩthĩo nũenda kũthi nesa mũno na nũkwenda kũimbany’a ũthũku mũnene. Mũndũ nũkwenda mũkate, ĩvathi na mũsĩĩ. Nĩ vata kwĩthĩwa na mũkate, nyũmba yaku, nguo, nguo sya kũthokya mwĩĩ, ĩndĩ ndũkwenda kũimbany’a mbesa mbingĩ mũno nĩ kana ũtonye kwĩkala.</p>\n<p>Ti twĩthĩĩte ũthũku kana ũtonga, ila mbĩlĩ nĩ nzaũ.</p>\n<p>Aingĩ nĩ ala meethĩwa maĩkwatĩa ĩvungĩnĩ ya ũsiĩ mũse na ningĩ aingĩ nĩ ala meethĩwa maĩkwatĩa ĩvungĩnĩ ya ũthũku.</p>\n<p>Nĩ vata kwĩthĩwa na ũthũku mũnini, nĩ kwĩthaa kwĩthĩwa na nyũmba nzeo na mĩũnda mĩseo, vandũ vala mbesa syoka kĩvũthĩ, kwĩthĩwa ũndũ mũseo na ndũkaĩa nzala. Ũu nĩ w’o kwa kĩla mũndũ.</p>\n<p>Ũsiĩ mũse, nzala, mĩthya na ũvũthĩ wĩsĩ nĩndyaa kũthiĩla kĩsĩnĩ kĩla kĩĩkĩĩte ũvoo na kĩsaĩ.</p>\n<p>Ũsilikalĩ wa andũ no ndũtonyekaa ĩndĩ twĩnaa kũũmbĩka. Yĩla kwĩthĩwa na mũĩkĩĩthya ũmwe ũta mũkate, ĩvathi na mũsĩĩ, ũsilikalĩ wa andũ ndũkũndaa kwĩthĩwa ũndũ mũseo.</p>\n<p>Anene ma nyũmba nĩmĩĩkĩĩĩa, amanyaa, ndĩkaa kunywa ndĩwa, akulia, aleevũ, atĩlani, nthĩna.</p>\n<p>Kĩla mũũme mũkũlũ nũsĩĩ ndũmĩlĩ ũndũ syana syĩkwataa ndũmĩlĩ yake na yĩla ĩsu ndĩ ĩseo, yĩkaaĩtĩkĩĩa syana syaĩsu kũthiĩ kwondũ kũseony’e.</p>\n<p>Nĩ ũsũngũ mũnene mũũme mũkũlũ kwĩthĩwa na aka aingĩ na kwĩkala ũleevũnĩ, mĩkũanĩ na kũthĩna kwa mwĩĩ.</p>\n<p>Ĩũlũ wa mũũme mũkũlũ kwĩthĩwa na ũkũla wa nyũmba yonthe na nĩ kwĩsĩĩla yĩla ethĩwa ĩthiĩte kwondũ kũseony’e, yĩkaaĩtĩkĩĩa kũĩtĩkĩlya mathĩna maingĩ, ũkũtanya na mĩsao.</p>\n<p>Ĩthe na ĩĩko nĩmaĩkĩĩĩa ũkũtũkĩĩlana wa mwĩĩ. Nĩ ũsũngũ syĩĩka kũsoma fizĩkĩ, kemĩkalĩ, algebra, nthĩna. Ũlongo wa mũka nũtũkĩĩanĩte na wa mũũme, maũndũ ũu nĩ maendeeaa nesa na mwĩĩ wa mũũme ĩndĩ nĩ maũndũ matatumĩĩkaa na nĩ maũndũ ma ũkũsũmũkya mũĩkĩĩthya wa mũka.</p>\n<p>Nĩ vata aĩthe na aimũ ma nyũmba kũlasimĩla kũnyuva ũalyũku wa vata nthĩnĩ wa mĩvango ya masomo.</p>\n<p>Mũka nĩmũĩsĩkũ kũsoma, kũandĩka, kũitha piano, kũvĩa na kũthokya na kĩla kĩvathũ kĩla kyaĩkĩaa.</p>\n<p>Mũka nĩmũĩsĩkũ kũeleelwa kuma kwa mĩko ya sukulu kwĩthĩwa ndũmĩlĩ ĩla yaĩkĩĩte ta ĨKO na ta mũka.</p>\n<p>Nĩ ũsũngũ kũthũkia ũlongo wa aka na masomo maseo na mekĩĩĩte nthĩna maendeeaa na mwĩĩ wa mũũme.</p>\n<p>Nĩ vata aĩthe na aimũ ma nyũmba, asomi ma sukulu, koleji na yunivasĩtĩ maĩkĩaa vata nthĩnĩ wa kwĩkaa mũka ethĩwe mũĩkĩĩthya ũla ũendeeaa. Nĩ ũsũngũ kũsilikalisya aka, kũmamĩmĩsa kũthiĩ na mĩtĩ na ngoma kwondũ wa nzĩa sya mĩsyĩ ta me maume.</p>\n<p>Mũka nĩmũĩsĩkũ kwĩthĩwa mũĩkĩĩthya na mũũme nĩmũĩsĩkũ kwĩthĩwa mũũme.</p>\n<p>Mwĩĩ wa katĩ, ũloleevũ, nĩ ndũmĩlĩ ya kũsyoka na ũkũũngũ.</p>\n<p>Aĩĩtu ala maĩkwatĩa masomo male na mekĩĩte nthĩna meethĩwa aka ala akũlũ na vai ũtonya kũkwataa.</p>\n<p>Ũvonokyeo nesa mũno nĩ aka kũtũnga kaũ wĩthĩaa mũĩkĩĩthya, ũandĩkĩthya, ũandĩkĩthya mũnaĩnĩ, ũũmbĩki, ũsomĩsi nthĩna.</p>\n<p>Nĩ w’o mũka nĩmũĩsĩkũ kũtw’ĩĩa kwĩkala nyũmba, ĩndĩ nĩkũndaa nĩ ũseo wa ĩvinda yĩĩ ala twĩkala, mũka nũkwenda kũtunga nĩ kana ũtonye kũlĩa na kwĩkala.</p>\n<p>Nthĩnĩ wa ngwatanĩo ya kwĩyĩĩsa, mũka ndaaĩkũ kwĩthĩwa ũtũngaa nza wa nyũmba nĩ kana ũtonye kwĩkala. Ũu wa kũtunga nza wa nyũmba nĩ ũseo wa mũvango mũseony’e.</p>\n<p>Mũũme wa ĩvinda yĩĩ nũthongeete ndũmĩlĩ yaĩkĩaa na nũtuma mũka atĩĩkĩĩa kwĩthĩwa mũĩkĩĩthya, nũmũtũmĩte kũthiĩ nza wa nyũmba na kũmũtuma kĩanda.</p>\n<p>Mũka ũla wĩthĩwa ta “mũũme” na ũlongo wa mũũme, ũtaũũa ngwĩĩ na kũsoma nyũmba, ũta ĩvathi nĩkũlũka kĩandũ na ũkũndaa nthĩnĩ kana ũtũngaa vaa, nĩ ndũmĩlĩ ya aume ala mathũku ma ĩvinda yĩĩ, kĩvũthĩ kĩla kĩkĩĩte nthĩnĩ wa ngwatanĩo ĩla yĩkĩĩte kwĩsũũvĩka.</p>\n<p>Mũka ũla wĩthĩwa ũtalaĩa ũmũthĩ, ndokta ũla ũkwataa ndawa, mũka ũla mũnungu wa ndũũthĩ, mũlevũ, ũla ũlĩĩĩa kĩvoko kya syana syake nĩ kana ndakatĩĩke ũseo wake nĩ kĩonyesyõ kĩla kĩseo kya ngwatanĩo yĩla ya ũvũngũ.</p>\n<p>Ĩsaa yĩĩ yĩoka nĩ ya kũkũmya mbaĩ ĩla ya kũlũũlũkya nthĩ yonthe na aume na aka a kwenda nesa ala me na kwenda kũlasimĩla na kĩw’o kĩonthe kwĩsĩĩla ndũmĩlĩ ĩsu ya ũvũngũ.</p>\n<p>Ĩsaa yĩĩ yĩoka nĩ ya kũtũnga nthĩnĩ vaa ngwatanĩo mĩĩsĩ, ũvoo mĩĩsĩ.</p>\n<p>Mũka nĩ ĩvia yĩla ya vata ya nyũmba na yĩla ĩvia yĩĩ nĩ nzaũ, ĩemeete kũtonya na syĩthĩo syĩonthe, ndũmĩlĩ ya kwĩkala ngwatanĩonĩ yĩkaaĩtĩkĩĩa mathĩna.</p>\n<p>Mũsumba nũtũkĩĩanĩte na nũtũkĩĩanĩte na nũtonya kwĩkaa ũseo wa kũsoma ndawa, fizĩkĩ, kemĩkalĩ, hesabu, mwanya, injini nthĩna.</p>\n<p>Koleji ya silikalĩ ya asũmba ndĩ nzaũ, ĩndĩ koleji ya silikalĩ ya aka kũngĩ kũlaa kwĩthĩwa nzaũ, yĩkĩĩte kwĩthĩwa ya ũsũngũ mũno.</p>\n<p>Nĩ kĩndũ kya kũsema kũmona aka ala ala maĩkũ kwĩthĩwa aka, aimũ ala maĩkũ kũkwataa syana nthĩnĩ wa voko syaĩsu mathiĩte ta aume kwondũ wa nzĩa sya mĩsyĩ.</p>\n<p>Ũu ũkũndaa kũmonya kũtĩĩkĩĩa kwĩthĩwa mũĩkĩĩthya nthĩnĩ wa mwĩĩ ĩndĩ ningĩ ũkwataa ngatho kũmonya kũtĩĩkĩĩa kwĩthĩwa mũũme nthĩnĩ wa mũũme.</p>\n<p>Mũũme, mũũme wa w’o, mũũme mũĩkĩĩthe nĩtonya kwĩtĩkĩĩa kũmũtuma silikalĩ ya aka. Ũkũũnga wa mwĩĩ wa aume, ndũmĩlĩ ya mwĩĩ ya aume, ũĩkĩĩa wa mũũme wĩthĩawa ũsema nĩ ndũmĩlĩ ĩsu ya kwonany’a ndũmĩlĩ ya kwĩsũmũkya.</p>\n<p>Twĩnaa kũtuma mũka athi ĩĩsyĩ, nthĩnĩ wa kwĩthĩwa mũĩkĩĩthya, nthĩnĩ wa ũseo wake wa w’o, nthĩnĩ wa kũĩkĩĩa kwake, na nthĩnĩ wa kũĩkĩĩa kwake kwa w’o. Twĩnaa kũthĩĩĩa na ndũmĩlĩ ĩsu yonthe na kũtũnga nthĩnĩ vaa ngwatanĩo mĩĩsĩ na ngoma mĩĩsĩ.</p>\n<p>Aĩthe na aimũ ma nyũmba na aeleeli nĩmaĩsĩkũ kwĩtĩĩa itũĩka iitũ na ũĩ na kwenda kwa w’o.</p>\n<p>Syana sya aũme ndĩĩsũ kwĩtĩĩaa ũvoo na kũĩsĩkũ kaũ kana kwĩtĩĩa ĩvĩsa ya ũtũngĩsi. Nĩ vata asũmba kũmanya maana wa ũkũla na kũthiĩ kwondũ wa nzĩa ya ũlũngalu na kwenda kwa kwĩsĩĩla.</p>\n<p>Ĩũlũ wa mavoko ma mũũme mũkũlũ kwĩthĩwa na ũkũla wa mũka, syana sya aũme na syĩĩka.</p>\n<p>Mũũme mũkũlũ na ũĩ mwingĩ wa ũkũla, kũĩlĩĩa kĩsũa, kũsiĩĩa kwĩkaa ũndũ, kũmwĩthĩĩa, kwĩthĩwa mũseo nthĩna, nũendeeawa nĩ nyũmba yake na nĩ aĩkĩthya syonthe.</p>\n<p>Mũũme mũkũlũ ũla ũkĩthangaasya andũ na ũthũku wake, kwĩsũsũkya, kũĩĩa nthĩna, aĩthiawa mũseony’e kwa andũ syonthe na ndaaĩtĩkĩĩa kũĩtĩkĩlya kũĩthĩĩa mwĩĩ ĩndĩ ningĩ nũĩthĩa maĩkĩthya make na nũtuma kũĩthĩĩa na kũkũtanya nthĩ yonthe.</p>\n<p>Nĩ vata mũũme mũkũlũ kwĩsĩkũ kwĩkala ĩvinda yake nesa. Nĩ kĩvũthĩ mũũme mũkũlũ kwĩsĩkũ yĩla ũĩkĩĩa yĩthĩĩte.</p>\n<p>Nĩ ũsũngũ kwenda kwĩtũngĩa nthĩnĩ wa ũkũlũ mathĩna na nyĩĩthĩa ya ũĩkĩĩa.</p>\n<p>Kĩla ĩvinda ya kwĩkala kwĩthĩawa na ũseo wayo, na nĩ vata kwĩsĩkũ kũĩkala.</p>\n<p>Mũũme mũkũlũ nĩmũĩsĩkũ kũtunga na ũlasimĩlo mwingĩ muno mbee wa ũkala kũoka ta ngya yĩkaa kũthiĩ nesa kũtw’aa mĩkũa nthĩnĩ wa kĩsĩnĩ kyayo mbee wa thĩĩna ĩla ya thĩĩna kũoka, nthĩna nũkwenda kwĩkaa na ũlĩĩlĩku mwingĩ mũũme mũkũlũ.</p>\n<p>Aume aingĩ ala akĩĩĩa mathũkĩĩaa ndũmĩlĩ ya ũvonokyeo wao syonthe, na yĩla okĩaa kũmĩaka ya ũkũlũ meethĩawa atĩĩke, maseo, aseony’e na asĩĩ mũse.</p>\n<p>Nĩ ũsũngũ mũno kũmona aume aingĩ ala akũlũ maĩtũngĩa ĩsĩ mũvea ya ũĩkĩĩa mate kwĩsĩkũ atĩ yĩĩ mathũku na ũĩkĩĩa ũthĩĩte.</p>\n<p>Ĩmwe wa mathĩna manene mũno nthĩnĩ wa ngwatanĩo yĩĩ yĩla yĩkĩĩte kwĩsũũvĩka nĩ kũtũmĩa ndĩwa.</p>\n<p>Ũĩkĩĩĩanĩ aingĩ meethĩawa maĩnywa na yĩla okĩaa kũmĩaka ya ũkũlũ matatongeete nyũmba, matatongeete ũthũku, matekwĩthĩwa na kaũ kaseo, mekalaa kwa maũta na kũthaitha ndĩwa, na kũthĩĩa na kũsema kũmona.</p>\n<p>Anene ma nyũmba na aeleeli nĩmaĩkĩaa ũĩ wa ũkũlĩĩla nthĩnĩ wa akĩĩĩa kumaana nesa na kwenda nesa kũtongeea nthĩ nzeo.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/kam/educacion-fundamental/la-edad-madura.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/kam/educacion-fundamental/la-edad-madura.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/kam/educacion-fundamental/la-edad-madura.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

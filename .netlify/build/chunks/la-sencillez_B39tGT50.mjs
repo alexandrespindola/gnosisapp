@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Is-Sempliċità",
+  "locale": "mt",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "15. Is-Sempliċità",
+    "order": 15
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Huwa urġenti, huwa indispensabbli li tiġi żviluppata l-komprensjoni kreattiva għaliex din iġġib lill-bniedem il-vera libertà tal-ħajja. Mingħajr komprensjoni huwa impossibbli li tinkiseb il-fakultà kritika awtentika tal-analiżi profonda.</p>\n<p>L-għalliema tal-iskejjel, il-kulleġġi u l-universitajiet għandhom imexxu lill-istudenti tagħhom fit-triq tal-komprensjoni awtokritika.</p>\n<p>Fil-kapitlu preċedenti tagħna diġà studjajna b’mod estensiv il-proċessi tal-għira u jekk irridu ntemmu d-dettalji kollha tal-għira, kemm jekk reliġjużi, passjonali, eċċ., irridu nagħmlu kuxjenza sħiħa ta’ x’inhi verament l-għira, għaliex billi nifhmu biss fil-fond u b’mod intimu l-proċessi infiniti tal-għira, jirnexxielna ntemmu l-għira ta’ kull tip.</p>\n<p>L-għira teqred iż-żwiġijiet, l-għira teqred il-ħbiberiji, l-għira tipprovoka gwerer reliġjużi, mibegħda bejn l-aħwa, qtil u tbatija ta’ kull speċi.</p>\n<p>L-għira bid-dettalji infiniti kollha tagħha hija moħbija wara skopijiet sublimi. Hemm għira f’dak li wara li ġie infurmat dwar l-eżistenza ta’ qaddisin sublimi. Mahatmas jew Gurus, jixtieq ukoll isir qaddis. Hemm għira fil-filantropu li jagħmel ħiltu biex jaqbeż filantropi oħra. Hemm għira f’kull individwu li jixxennaq għall-virtujiet għax kellu rapporti, għax f’moħħu hemm dejta dwar l-eżistenza ta’ individwi sagri mimlijin virtujiet.</p>\n<p>Ix-xewqa li tkun qaddis, ix-xewqa li tkun virtuż, ix-xewqa li tkun kbir hija bbażata fuq l-għira.</p>\n<p>Il-qaddisin bil-virtujiet tagħhom ikkawżaw ħafna ħsara. Jiġi f’moħħna l-każ ta’ raġel li kien iqis lilu nnifsu bħala qaddis ħafna.</p>\n<p>F’okkażjoni partikolari, poeta bil-ġuħ u miżerabbli ħabbat fuq il-bibien tiegħu biex iqiegħed f’idejh vers sabiħ iddedikat apposta lill-qaddis tar-rakkont tagħna. Il-poeta kien qed jistenna biss munita biex jixtri l-ikel għal ġismu eżawrit u mdaħħal fiż-żmien.</p>\n<p>Il-poeta immaġina kollox ħlief insult. Kienet kbira s-sorpriża tiegħu meta l-qaddis b’ħarsa ħanina u għajnejn imkemmxin għalaq il-bieb u qal lill-poeta sfortunat: “itlaq minn hawn ħabib, itlaq, itlaq… jien ma nħobbx dawn l-affarijiet, nobgħod it-tifħir… ma nħobbx il-vanitajiet tad-dinja, din il-ħajja hija illużjoni… jien insegwi t-triq tal-umiltà u l-modestja. Il-poeta sfortunat li ried biss munita minflokha rċieva l-insult tal-qaddis, il-kelma li tweġġa’, il-palma, u b’qalbu mweġġa’ u l-lira tiegħu mqattgħa telaq fit-toroq tal-belt bil-mod… bil-mod… bil-mod.</p>\n<p>Il-ġenerazzjoni l-ġdida għandha titqajjem fuq il-bażi ta’ komprensjoni awtentika għax din hija totalment kreattiva.</p>\n<p>Il-memorja u t-tifkira mhumiex kreattivi. Il-memorja hija l-qabar tal-passat. Il-memorja u t-tifkira huma mewt.</p>\n<p>Il-komprensjoni vera hija l-fattur psikoloġiku tal-liberazzjoni totali.</p>\n<p>Il-memorji tal-memorja qatt ma jistgħu jġibulna liberazzjoni vera għax jappartjenu għall-passat u għalhekk huma mejta.</p>\n<p>Il-komprensjoni mhix xi ħaġa tal-passat u lanqas tal-futur. Il-komprensjoni tappartjeni għall-mument li qed ngħixu hawn u issa. Il-memorja dejjem iġġib l-idea tal-futur.</p>\n<p>Huwa urġenti li wieħed jistudja x-xjenza, il-filosofija, l-arti u r-reliġjon, iżda l-istudji m’għandhomx jiġu fdati lill-fedeltà tal-memorja għax din mhix fidila.</p>\n<p>Huwa assurdu li wieħed jiddepożita l-għarfien fil-qabar tal-memorja. Huwa stupidu li wieħed jidfen fil-fossa tal-passat l-għarfien li rridu nifhmu.</p>\n<p>Aħna qatt ma nistgħu nippronunzjaw ruħna kontra l-istudju, kontra l-għerf, kontra x-xjenza, iżda jirriżulta inkongruenti li niddepożitaw il-ġojjelli ħajjin tal-għarfien bejn il-qabar korrott tal-memorja.</p>\n<p>Isir meħtieġ li wieħed jistudja, isir meħtieġ li wieħed jinvestiga, isir meħtieġ li wieħed janalizza, iżda rridu nimmeditaw fil-fond biex nifhmu fil-livelli kollha tal-moħħ.</p>\n<p>Il-bniedem verament sempliċi huwa profondament komprensiv u għandu moħħ sempliċi.</p>\n<p>L-importanti fil-ħajja mhuwiex dak li akkumulajna fil-qabar tal-memorja, iżda dak li fhimna mhux biss fil-livell intellettwali iżda wkoll fit-territorji subkonxji inkonxji differenti tal-moħħ.</p>\n<p>Ix-xjenza, l-għarfien, għandhom isiru komprensjoni immedjata. Meta l-għarfien, meta l-istudju jkunu trasformaw ruħhom f’komprensjoni kreattiva awtentika, allura nistgħu nifhmu l-affarijiet kollha immedjatament għax il-komprensjoni ssir immedjata, istantanja.</p>\n<p>Fil-bniedem sempliċi m’hemmx kumplikazzjonijiet fil-moħħ għax kull kumplikazzjoni tal-moħħ hija dovuta għall-memorja. L-I maqjavelliku li għandna ġewwa huwa memorja akkumulata.</p>\n<p>L-esperjenzi tal-ħajja għandhom jinbidlu f’komprensjoni vera.</p>\n<p>Meta l-esperjenzi ma jinbidlux f’komprensjoni, meta l-esperjenzi jkomplu fil-memorja jikkostitwixxu t-tħassir tal-qabar li fuqu jaqbad il-fjamma fatwa u ċ-ċifera tal-intellett.</p>\n<p>Huwa meħtieġ li wieħed ikun jaf li l-intellett annimali mċaħħad totalment minn kull spiritwalità huwa biss il-verbaliżżazzjoni tal-memorja, il-ħuġġieġa sepulkrali tiddi fuq il-blata funerarja.</p>\n<p>Il-bniedem sempliċi għandu moħħ ħieles mill-esperjenzi għax dawn saru kuxjenza, saru komprensjoni kreattiva.</p>\n<p>Il-mewt u l-ħajja huma assoċjati b’mod intimu. Billi jmut biss il-qamħ titwieled il-pjanta, billi tmut biss l-esperjenza titwieled il-komprensjoni. Dan huwa proċess ta’ trasformazzjoni awtentika.</p>\n<p>Il-bniedem ikkumplikat għandu l-memorja mimlija esperjenzi.</p>\n<p>Dan juri n-nuqqas tiegħu ta’ komprensjoni kreattiva għax meta l-esperjenzi jinftiehmu kompletament fil-livelli kollha tal-moħħ jieqfu jeżistu bħala esperjenzi u jitwieldu bħala komprensjoni.</p>\n<p>Huwa meħtieġ li wieħed l-ewwel jesperjenza, iżda m’għandniex nibqgħu fit-territorju tal-esperjenza għax allura l-moħħ jikkomplika u jsir diffiċli. Huwa meħtieġ li wieħed jgħix il-ħajja b’mod intensiv u jittrasforma l-esperjenzi kollha f’komprensjoni kreattiva awtentika.</p>\n<p>Dawk li jassumu b’mod żbaljat li biex inkunu komprensivi sempliċi u sempliċi rridu nabbandunaw id-dinja, insiru tallaba, ngħixu f’għerejjex iżolati u nużaw taparrabos minflok libsa eleganti, qed jiżbaljaw totalment.</p>\n<p>Ħafna anakkoreti, ħafna eremiti solitarji, ħafna tallaba, għandhom moħħijiet ikkumplikati ħafna u diffiċli.</p>\n<p>Huwa inutli li wieħed jitbiegħed mid-dinja u jgħix bħala anakkoreti jekk il-memorja hija mimlija esperjenzi li jikkundizzjonaw il-fluss ħieles tal-ħsieb.</p>\n<p>Huwa inutli li wieħed jgħix bħala eremiti li jrid jgħix ħajja ta’ qaddisin jekk il-memorja hija mimlija informazzjoni li ma ġietx mifhuma kif suppost, li ma saritx kuxjenza fl-irkejjen differenti, il-kurituri u r-reġjuni inkonxji tal-moħħ.</p>\n<p>Dawk li jittrasformaw l-informazzjoni intellettwali f’komprensjoni kreattiva vera, dawk li jittrasformaw l-esperjenzi tal-ħajja f’komprensjoni profonda vera m’għandhom xejn fil-memorja, jgħixu minn mument għal mument mimlijin mil-milja vera, saru sempliċi u sempliċi għalkemm jgħixu f’residenzi lussużi u fil-perimetru tal-ħajja urbana.</p>\n<p>It-tfal żgħar qabel is-seba’ snin huma mimlijin sempliċità u sbuħija interjuri vera minħabba li permezz tagħhom tesprimi ruħha biss l-ESSENZA ħajja tal-ħajja fin-nuqqas totali tal-I PSÍKOLOĠIKU.</p>\n<p>Irridu nerġgħu nikkonkwistaw it-tfulija mitlufa, f’qalbna u f’moħħna. Irridu nerġgħu nikkonkwistaw l-innoċenza jekk verament irridu nkunu kuntenti.</p>\n<p>L-esperjenzi u l-istudju trasformati f’komprensjoni profonda ma jħallu l-ebda fdal fil-qabar tal-memorja u allura, insiru sempliċi, sempliċi, innoċenti, kuntenti.</p>\n<p>Il-meditazzjoni profonda dwar l-esperjenzi u l-għarfien miksub, l-awtokritika profonda, il-psikoanaliżi intima jikkonvertu, jittrasformaw kollox f’komprensjoni kreattiva profonda. Din hija t-triq tal-hena awtentika mwieled mill-għerf u l-imħabba.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/mt/educacion-fundamental/la-sencillez.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/mt/educacion-fundamental/la-sencillez.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/mt/educacion-fundamental/la-sencillez.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

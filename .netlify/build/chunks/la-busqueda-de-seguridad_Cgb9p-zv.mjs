@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Howpsuzlygy Gözlemek",
+  "locale": "tk",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "6. Howpsuzlygy Gözlemek",
+    "order": 6
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Jüýjeler gorkanda, howpsuzlygy gözläp, towugyň mähirli ganatlarynyň aşagynda gizlenýärler.</p>\n<p>Gorkan oglanjyk ejesini gözläp ylgaýar, sebäbi onuň ýanynda özüni howpsuz duýýar.</p>\n<p>Gorky we howpsuzlygy gözlemek hemişe ýakyndan baglanyşyklydygy subut edildi.</p>\n<p>Banditleriň hüjüminden gorkýan adam, pistoletinde howpsuzlygy gözleýär.</p>\n<p>Başga bir ýurt tarapyndan hüjüm edilmeginden gorkýan ýurt, top, uçar, söweş gämilerini satyn alar we goşunlary ýaraglandyrar we söweşe taýýar bolar.</p>\n<p>Işlemegi bilmeýän köp adam, garyplykdan gorkup, jenaýatda howpsuzlygy gözleýärler we ogrulara, talaňçylara öwrülýärler we ş.m.</p>\n<p>Akyly ýetmeýän köp aýal garyplykdan gorkup jeleplere öwrülýärler.</p>\n<p>Gabanjaň adam aýalyny ýitirmekden gorkýar we pistoletde howpsuzlygy gözleýär, öldürýär we soň bolsa türmä düşýändigi belli.</p>\n<p>Gabanjaň aýal bäsdeşini ýa-da adamsyny öldürýär we şeýdip ganhor bolýar.</p>\n<p>Ol adamsyny ýitirmekden gorkýar we ony üpjün etmek isläp, beýlekisini öldürýär ýa-da ony öldürmegi karar edýär.</p>\n<p>Adamlaryň öýüniň kärendesini tölemejekdiginden gorkýan öý eýesi şertnamalar, girewler, depozitler talap edýär we şeýdip özüni üpjün etmek isleýär we garyp dul aýal we çagalarynyň köplügi şeýle uly talaplary kanagatlandyryp bilmese we bir şäheriň ähli öý eýeleri şol bir zady etseler, ahyrynda biwepalyk öz çagalary bilen köçede ýa-da şäheriň seýilgählerinde ýatmaly bolar.</p>\n<p>Ähli uruşlaryň düýbünde gorky bar.</p>\n<p>Gestapolar, gynamalar, konslagerler, Sibirler, elhenç türmeler, sürgünler, mejbury zähmetler, atyşlar we ş.m. gorkudan gelip çykýar.</p>\n<p>Milletler gorkudan beýleki milletlere hüjüm edýärler; zorlukda howpsuzlygy gözleýärler, öldürip, basyp alyp we ş.m. howpsuz, güýçli, güýçli bolup biljekdiklerine ynanýarlar.</p>\n<p>Gündogarda-da, Günbatarda-da gizlin polisiýa bölümlerinde, garşylykly derňewde içalylar gynamalara sezewar edilýär, olardan gorkýarlar, döwlet üçin howpsuzlyk tapmak maksady bilen olary boýun aldyrmak isleýärler.</p>\n<p>Ähli jenaýatlar, ähli uruşlar, ähli jenaýatlar gorkudan we howpsuzlygy gözlemekden gelip çykýar.</p>\n<p>Öňler adamlaryň arasynda tüýs ýüreklik bardy, häzir gorky we howpsuzlygy gözlemek tüýs ýürekliligiň ajaýyp ysyny gutardy.</p>\n<p>Dost dostuna ynanmaýar, onuň ogurlanjakdygyndan, aldanjakdygyndan, ýesir aljakdygyndan gorkýar we hatda şuňa meňzeş samsyk we erbet maksatlar bar: “Hiç haçan iň gowy dostuňa arkaňy öwrüň”. GITLERLER bu maksadyň ALTYNDYGYNY aýtdylar.</p>\n<p>Dost eýýäm dostundan gorkýar we hatda özüni goramak üçin maksatlardan peýdalanýar. Dostlaryň arasynda eýýäm tüýs ýüreklik ýok. Gorky we howpsuzlygy gözlemek tüýs ýürekliligiň lezzetli ysyny gutardy.</p>\n<p>Kuba döwletinde Castro Rus gutulmagyndan gorkup, müňlerçe raýaty atdy; Castro atyşyp howpsuzlygy gözleýär. Şeýdip howpsuzlygy tapyp biljekdigine ynanýar.</p>\n<p>Erbap we ganhor Stalin Stalin Russiýany ganly arassalamalary bilen hapalady. Bu onuň howpsuzlygyny gözlemegiň usulydy.</p>\n<p>Gitler döwletiň howpsuzlygy üçin Gestapo, elhenç Gestapo gurady. Onuň agdaryljakdygyndan gorkýandygyna şübhe ýok we şonuň üçin ganhor Gestapony esaslandyrdy.</p>\n<p>Bu dünýädäki ähli ajy zatlaryň düýbünde gorky we howpsuzlygy gözlemek bar.</p>\n<p>Mugallymlar we mugallymlar okuwçylara edermenligiň artykmaçlygyny öwretmeli.</p>\n<p>Çagalaryň öýünden başlap gorky bilen doldurylmagy gynançly.</p>\n<p>Çagalara howp salynýar, gorkuzylýar, gorkuzylýar, taýak berilýär we ş.m.</p>\n<p>Maşgala başlyklarynyň we mugallymlaryň çagany we ýaşy okatmak maksady bilen gorkuzmak däbi bar.</p>\n<p>Adatça çagalara we ýaşlara okamasalar sadaka diläp, köçelerde aç gezmeli, aýakgap arassalamak, ýük daşamak, gazet satmak, ekin meýdanynda işlemek we ş.m. ýaly gaty pes işleýmelidigi aýdylýar. we ş.m. we ş.m. (Iş jenaýat ýaly)</p>\n<p>Esasynda ene-atalaryň we mugallymlaryň ähli sözleriniň aňyrsynda çaga gorkusu we çaga üçin howpsuzlygy gözlemek bar.</p>\n<p>Aýdýan zatlarymyzyň agyr tarapy, çaganyň we ýaşyň kynlaşmagy, gorky bilen dolmagy we soňra durmuşda gorky bilen doly adamlar bolmagydyr.</p>\n<p>Çagalary we gyzlary, ýaşlary we ýaş gyzlary gorkuzmakda erbet tagamy bolan maşgala başlyklary we mugallymlar, bilkastlaýyn jenaýat ýoluna gönükdirýärler, sebäbi öň aýdyşymyz ýaly, ähli jenaýatlaryň düýbünde gorky we howpsuzlygy gözlemek bar.</p>\n<p>Şu gün GORKY we HOWPSUZLYGY GÖZLEMEK ýer planetasyny elhenç dowzaha öwürdi. Ähli adam gorkýar. Her kim howpsuzlygy isleýär.</p>\n<p>Öňler erkin syýahat edip bolýardy, häzir serhetler ýaragly esgerler bilen doly, bir ýurtdan başga bir ýurda geçmek hukugyna eýe bolmak üçin pasportlar we ähli görnüşli şahadatnamalar talap edilýär.</p>\n<p>Munuň hemmesi gorkynyň we HOWPSUZLYGY GÖZLEMEGIŇ netijesidir. Syýahat edýänlerden, gelýänlerden gorkýarlar we pasportlarda we ähli görnüşli kagyzlarda howpsuzlygy gözleýärler.</p>\n<p>Mugallymlar we mugallymlar, kollejler, uniwersitetler munuň elhençligine düşünmeli we täze nesilleri terbiýeläp, hakyky edermenligiň ýoluny öwredip, dünýäniň bähbidi üçin hyzmatdaşlyk etmeli.</p>\n<p>Täze nesillere hiç zatdan we hiç kimden gorkmazlygy we howpsuzlygy gözlemezligi öwretmek GATY GEREK.</p>\n<p>Her bir adamyň özüne has köp ynanmagy zerurdyr.</p>\n<p>GORKY we HOWPSUZLYGY GÖZLEMEK durmuşy elhenç DOWZAH öwrülen elhenç ejizlikdir.</p>\n<p>Howpsuzlygy gözläp ýören gorkaklaryň, gorkaklaryň, gowşaklaryň köplügi bar.</p>\n<p>Durmuşdan gorkýarlar, ölümden gorkýarlar, “aýdylan sözden”, jemgyýetçilik ýagdaýyny, syýasy ýagdaýy, abraýyny, puluny, owadan öýüni, owadan aýalyny, gowy adamsyny ýitirmekden, işinden, işinden, monopoliýasyndan, mebelden, arabasyndan we ş.m. we ş.m. we ş.m. her zatdan gorkýarlar, gorkaklar, gorkaklar, gowşaklar köp, ýöne hiç kim özüne gorkak diýip ynanmaýar, hemmesi güýçli, edermen we ş.m. diýip hasaplaýarlar.</p>\n<p>Ähli jemgyýetçilik gatlaklarynda ýitirmekden gorkýan müňlerçe we millionlarça gyzyklanma bar we şonuň üçin her kim hasam çylşyrymlaşdyryp, durmuşy has çylşyrymly, has kyn, has ajy, rehimsiz we rehimsiz edýän howpsuzlygy gözleýär.</p>\n<p>Ähli myş-myşlaryň, ähli töhmetleriň, intriagalaryň we ş.m. düýbünde gorky we howpsuzlygy gözlemek bar.</p>\n<p>Döwleti, ýagdaýy, güýji, abraýyny ýitirmezlik üçin töhmetler, gep-sözler ýaýradylýar, öldürilýär, gizlin öldürilmegi üçin tölenýär we ş.m.</p>\n<p>Ýer ýüzüniň güýçlileri hatda ýitirmek howpuny döredýänleri aýyrmak maksady bilen tölenýän we gowy tölenýän adam öldürijilere eýe bolmak luksuna hem eýe.</p>\n<p>Olar güýji diňe güýç üçin söýýärler we pulyň we köp ganyň esasynda üpjün edýärler.</p>\n<p>Gazetler hemişe öz janyna kast etmegiň köp sanly hadysasy barada habar berýärler.</p>\n<p>Köpler öz janyna kast edýäniň edermen diýip hasaplaýarlar, ýöne hakykatdanam öz janyna kast edýän durmuşdan gorkýan we ölümiň ýalaňaç ellerinde howpsuzlygy gözleýän gorkakdyr.</p>\n<p>Uruş gahrymanlarynyň käbiri gowşak we gorkak adamlar hökmünde tanalýardy, ýöne ölüm bilen ýüzbe-ýüz bolanlarynda olaryň gorkusy şeýle elhençdi welin, ömrüne howpsuzlyk gözläp, ölüm bilen göreşmek üçin ýokary tagalla edip, elhenç haýwanlara öwrüldiler. Şonda olar GAHRAMAN diýlip yglan edildi.</p>\n<p>Gorky edermenlik bilen bulaşdyrylýar. Öz janyna kast edýän gaty edermen görünýär, pistolet göterýän gaty edermen görünýär, ýöne hakykatda öz janyna kast edýänler we pistoletçiler gaty gorkakdyrlar.</p>\n<p>Durmuşdan gorkmaýan öz janyna kast etmeýär. Hiç kimden gorkmaýan kemerde pistolet götermeýär.</p>\n<p>Mugallymlaryň we mugallymlaryň raýata hakyky EDERMENLIGIŇ nämedigini we gorkynyň nämedigini aýdyň we takyk öwretmegi GATY GEREK.</p>\n<p>GORKY we HOWPSUZLYGY GÖZLEMEK dünýäni elhenç dowzaha öwürdi.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/tk/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tk/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tk/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

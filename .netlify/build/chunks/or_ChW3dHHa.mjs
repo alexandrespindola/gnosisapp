@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"ଏହି ଅଧ୍ୟାୟଟି ସ୍ପାନିଶ୍ ମୂଳରୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଅନୁବାଦ କରାଯାଇଛି। ଏହା ଏବେ ସୁଦ୍ଧା ମାନବ ସମୀକ୍ଷା ହୋଇନାହିଁ। ଯଦି ଆପଣ ସମୀକ୍ଷାରେ ସାହାଯ୍ୟ କରିବାକୁ ଚାହାଁନ୍ତି, ଏଠାରେ କ୍ଲିକ୍ କରି ଆମ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।","originalMessage":"ଏହି ଅଧ୍ୟାୟର ବିଷୟବସ୍ତୁ ମୂଳ ସ୍ପାନିଶ୍ ପାଠ୍ୟ ଉପରେ ଆଧାରିତ।","revisedMessage":"ଏହି ଅଧ୍ୟାୟଟି ମୂଳ ସ୍ପାନିଶ୍ ପାଠ୍ୟରୁ ମାନବ ସମୀକ୍ଷା ଏବଂ ଅନୁବାଦ ହୋଇଛି। ଯଦି ଏହା ଏବେ ବି ସଂଶୋଧନ ଆବଶ୍ୟକ କରେ, ଏଠାରେ କ୍ଲିକ୍ କରି ଆମ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।"};
+const status = {"automatic":"ସ୍ୱୟଂଚାଳିତ ଅନୁବାଦ","original":"ମୂଳ","revised":"ସଂଶୋଧିତ"};
+const or = {
+  "404.text": "ପୃଷ୍ଠା ମିଳିଲା ନାହିଁ। URL ଯାଞ୍ଚ କରନ୍ତୁ କିମ୍ବା ସର୍ଚ୍ଚ ବାର୍ ବ୍ୟବହାର କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ।",
+  "aside.caution": "ସତର୍କତା",
+  "aside.danger": "ବିପଦ",
+  "aside.note": "ଟିପ୍ପଣୀ",
+  "aside.tip": "ପରାମର୍ଶ",
+  "builtWithStarlight.label": "Starlight ସହ ନିର୍ମିତ",
+  "fileTree.directory": "ନିର୍ଦେଶିକା",
+  "i18n.untranslatedContent": "ଏହି ବିଷୟବସ୍ତୁ ଆପଣଙ୍କ ଭାଷାରେ ଏବେ ଉପଲବ୍ଧ ନାହିଁ।",
+  "languageSelect.accessibleLabel": "ଭାଷା ବାଛନ୍ତୁ",
+  "menuButton.accessibleLabel": "ମେନୁ",
+  messages,
+  "page.draft": "ଏହି ବିଷୟବସ୍ତୁ ଏକ ଡ୍ରାଫ୍ଟ ଅଟେ ଏବଂ ଉତ୍ପାଦନ ନିର୍ମାଣରେ ଅନ୍ତର୍ଭୁକ୍ତ ହେବ ନାହିଁ।",
+  "page.editLink": "ପୃଷ୍ଠା ସମ୍ପାଦନା କରନ୍ତୁ",
+  "page.lastUpdated": "ଶେଷ ଅପଡେଟ୍:",
+  "page.nextLink": "ପରବର୍ତ୍ତୀ",
+  "page.previousLink": "ପୂର୍ବବର୍ତ୍ତୀ",
+  "search.cancelLabel": "ବାତିଲ",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "ଖୋଜିବା କେବଳ ଉତ୍ପାଦନ ନିର୍ମାଣରେ ଉପଲବ୍ଧ। \nସ୍ଥାନୀୟ ପରୀକ୍ଷଣ ପାଇଁ ସାଇଟ୍ ନିର୍ମାଣ ଏବଂ ପୂର୍ବାବଲୋକନ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ।",
+  "search.label": "ସନ୍ଧାନ",
+  "sidebarNav.accessibleLabel": "ମୁଖ୍ୟ",
+  "skipLink.label": "ବିଷୟବସ୍ତୁକୁ ଯାଆନ୍ତୁ",
+  status,
+  "tableOfContents.onThisPage": "ଏହି ଅଧ୍ୟାୟରେ",
+  "tableOfContents.overview": "ଆରମ୍ଭ",
+  "themeSelect.accessibleLabel": "ଥିମ୍ ବାଛନ୍ତୁ",
+  "themeSelect.auto": "ସ୍ୱୟଂଚାଳିତ",
+  "themeSelect.dark": "ଗାଢ଼",
+  "themeSelect.light": "ହାଲୁକା",
+};
+
+export { or as default, messages, status };

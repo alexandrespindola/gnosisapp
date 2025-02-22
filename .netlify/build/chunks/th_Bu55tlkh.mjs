@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"บทนี้ถูกแปลโดยอัตโนมัติจากต้นฉบับภาษาสเปน ยังไม่ได้ผ่านการตรวจสอบโดยมนุษย์ หากคุณต้องการช่วยตรวจสอบ กรุณาติดต่อเราโดยคลิกที่นี่","originalMessage":"เนื้อหาของบทนี้อ้างอิงจากต้นฉบับภาษาสเปน","revisedMessage":"บทนี้ได้ผ่านการตรวจสอบและแปลโดยมนุษย์จากต้นฉบับภาษาสเปน หากยังต้องการการแก้ไข กรุณาติดต่อเราโดยคลิกที่นี่"};
+const status = {"automatic":"การแปลอัตโนมัติ","original":"ต้นฉบับ","revised":"ตรวจแก้แล้ว"};
+const th = {
+  "404.text": "ไม่พบหน้า กรุณาตรวจสอบ URL หรือลองใช้แถบค้นหา",
+  "aside.caution": "ข้อควรระวัง",
+  "aside.danger": "อันตราย",
+  "aside.note": "บันทึก",
+  "aside.tip": "เคล็ดลับ",
+  "builtWithStarlight.label": "สร้างด้วย Starlight",
+  "fileTree.directory": "ไดเรกทอรี",
+  "i18n.untranslatedContent": "เนื้อหานี้ยังไม่มีในภาษาของคุณ",
+  "languageSelect.accessibleLabel": "เลือกภาษา",
+  "menuButton.accessibleLabel": "เมนู",
+  messages,
+  "page.draft": "เนื้อหานี้เป็นฉบับร่างและจะไม่ถูกรวมในการสร้างเพื่อการผลิต",
+  "page.editLink": "แก้ไขหน้า",
+  "page.lastUpdated": "อัปเดตล่าสุด:",
+  "page.nextLink": "ถัดไป",
+  "page.previousLink": "ก่อนหน้า",
+  "search.cancelLabel": "ยกเลิก",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "การค้นหามีให้ใช้ในการสร้างเพื่อการผลิตเท่านั้น \nลองสร้างและดูตัวอย่างเว็บไซต์เพื่อทดสอบในเครื่อง",
+  "search.label": "ค้นหา",
+  "sidebarNav.accessibleLabel": "หลัก",
+  "skipLink.label": "ข้ามไปยังเนื้อหา",
+  status,
+  "tableOfContents.onThisPage": "ในบทนี้",
+  "tableOfContents.overview": "เริ่มต้น",
+  "themeSelect.accessibleLabel": "เลือกธีม",
+  "themeSelect.auto": "อัตโนมัติ",
+  "themeSelect.dark": "มืด",
+  "themeSelect.light": "สว่าง",
+};
+
+export { th as default, messages, status };

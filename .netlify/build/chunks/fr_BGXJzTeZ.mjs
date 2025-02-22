@@ -1,0 +1,10 @@
+const status = {"original":"Original","automatic":"Traduction automatique","revised":"Révisé"};
+const messages = {"originalMessage":"Contenu de ce chapitre basé sur le texte original en espagnol.","automaticMessage":"Ce chapitre a été traduit automatiquement de l'original en espagnol. Il n'a pas encore fait l'objet d'une révision humaine. Si vous souhaitez aider à la révision, contactez-nous en cliquant ici.","revisedMessage":"Ce chapitre a fait l'objet d'une révision et d'une traduction humaine à partir du texte original en espagnol. S'il nécessite encore des corrections, contactez-nous en cliquant ici."};
+const fr = {
+  "tableOfContents.onThisPage": "Dans ce chapitre",
+  "tableOfContents.overview": "Début",
+  status,
+  messages,
+};
+
+export { fr as default, messages, status };

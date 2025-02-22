@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "تيّري",
+  "locale": "shi",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "8. تيّري",
+    "order": 8
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Zɣ imezdaɣ n tmezgida, inelmaden d inelmaden ad fhmen s tmaddast ayannna ittusemman tayri.</p>\n<p>Aserɣud d wannẓaḍ ittmuccun d tayri maca ur gint tayri.</p>\n<p>Inelmaden d inelmaden gan annẓaḍ ɣef imawlan-nsen d iselmaden-nsen, iḍher belli ttqadaren d ttaggaden deg yiwet n tikkelt.</p>\n<p>Iɛrrimen d tɛerrimin, ilemẓiyen d tlemẓiyin gan annẓaḍ ɣef imawlan-nsen ɣef wayen yeɛnan llebsa, tamɣert, idrimen, lɣella, atg. Iḍher s tidet belli ččan taɛssast, ssn belli gan annẓaḍ ɣef imawlan-nsen, ɣef ayenni ttqadaren-ten d ad-ten-taggaden, maca ayannna ur igi tayri.</p>\n<p>Akken ad nessen ayenna nettini, neẓḍar ad nssan s tehḥeqqaqit belli yal aɛrrim neɣ taɛrrimt, ilemẓi neɣ tlemẓit, tella tettamen ɣef imdukkal-nnes neɣ tidduklin-nnes n tmezgida, ugar n imawlan-nnes.</p>\n<p>S tidet, iɛrrimen, tɛerrimin, ilemẓiyen d tlemẓiyin, sawalen d imdukkal-nnes, ayennna ur d-ssawalen ara i imawlan-nnes.</p>\n<p>Ayannna ar aɣ-d ittbeyyinen belli ur tella ara tmentelt s tidet ger warraw d imawlan, ur tella ara tayri s tidet.</p>\n<p>Yeǧǧa ad nefhem belli tella tegrawla tameqqrant ger tayri d wayen ittusemman taqadact, aserɣud, annẓaḍ, aserɣud.</p>\n<p>Yeǧǧa ad nessen ad nqader imawlan-nneɣ d iselmaden-nneɣ, maca ur nettaḍa taqadact d tayri.</p>\n<p>Taqadact d tayri ad ilint ttwafɣen s tameẓẓuɣt, maca ur neṣṣḍar ad nettaḍa yiwet d tayyaḍ.</p>\n<p>Imawlan ttaggaden ɣef warraw-nsen, ssarmen-asen ayen yellan d aḥsen, taseddawit yaggugen, tameɣra taḥeqqit, taɛssast, atg. Ttmuccun aserɣud-a d tayri s tidet.</p>\n<p>Yeǧǧa ad nefhem belli bla tayri s tidet, ur isserḥa ara i imawlan d iselmaden ad ssiwḍen i imawlan s tmazirest, ɣas ma gan tmegriwin yelhan.</p>\n<p>Abrid yettwassebbaɣen ɣer Tanezruft tteḍsen-t tmegriwin yelhan.</p>\n<p>Nttwali amedya ittusennan deg umaḍal merra “Irẓaẓen bla ssebba”. D tabuḍḍi tanufgan ittwasenfarren deg umaḍal merra. Aṭas n “Warraw ɣursen kullec”, s yisem ttwarɣban s tayri sɣur imawlan-nsen, ttwakksen, ttwarɣban, ttṣṭin imeddukal ur ɣursen ara ɛawn, ttexxḍɛen tameṭṭut, tteɣẓen, ttɛeqqḍen iḍɣaɣen, tteddukunen ad ḍurren deg kullec, ur ttqadaren iselmaden d imawlan, atg. atg. atg.</p>\n<p>“Irẓaẓen bla ssebba” gan axṣaṣ n tayri s tidet.</p>\n<p>Anda tella tayri s tidet ur izmir ad ilin “Irẓaẓen bla ssebba”.</p>\n<p>Lemmer ar ttaran imawlan i warraw-nsen s tidet, ad ssn ad ten-ssiwḍen s tmazirest, ɣef ayenni ur ilin “Irẓaẓen bla ssebba”.</p>\n<p>Irẓaẓen bla ssebba gan axṣaṣ n tannaya yelhan.</p>\n<p>Imawlan ur ɣursen ara tayri aseqqad akken ad zedɣen ɣef warraw-nsen s tmazirest.</p>\n<p>Imawlan imezwura ttḥssiben kan ɣef idrimen d ad fken i mmi-sen ugar d ugar, d takerrust tamezwarut deg ufran, d ulɣuḍ amezwaru deg ufran, atg. maca ur ttaran ara s tidet ur ssinen ara ad aran, ɣef ayennna llan “Irẓaẓen bla ssebba”.</p>\n<p>Taẓẓant n wussan-a tennaɣa d axṣaṣ n tayri s tidet.</p>\n<p>Tudert tamezwurt tettuɣal i d aɣbalu war aẓar, war tiddi.</p>\n<p>Deg ugar n tudert yaggugen, zemren ad zedɣen aṭas n tɣawsiwin, aṭas n iselman, maca aɣbalu yellan deg ubrid, ad iqqur s tɛeqqiḍt n tefukt, ɣef ayennna ad yeqqimen kan aẓur, tɛezzult, tkerḍiwt.</p>\n<p>Ur izmir ad nefhem tzemmurt n tudert s kullec, ɣas ma nɣra ad nar.</p>\n<p>Aytmaṣ ar ttmuccun taqadect d aserɣud d wayen ittusemman tayri.</p>\n<p>Nttqadar imeqqranen-nneɣ d nettaga-ten, ɣef ayennna nttamen belli nttaran-ten.</p>\n<p>Iɛrrimen ttaggaden imawlan-nsen d iselmaden-nsen d ttqadaren-ten, ɣef ayennna ttmaren belli tttaran-ten, maca s tidet ttaga-ten kan.</p>\n<p>Ittagad uɛrrim tifirest, taqḍaɛt, taɣmarat yelhan, teɣmert deg uxxam neɣ deg tmezgida, atg. ɣef ayennna ittamar belli ittara imawlan-nnes d iselmaden-nnes maca s tidet ittaggad-ten kan.</p>\n<p>Nnẓḍaɣ ɣef lxedma, ɣef ubeṭṭal, nttagad taḍḍanga, ad neqqim bla lxedma, ɣef ayennna nttamar belli nttara ubeṭṭal d ar nttɛessa ɣef tmeɣriwin-nnes, ar nettɛessa ɣef uɣaras-nnes maca ayannna ur igi tayri, ayannna igi aserɣud.</p>\n<p>Aṭas n aytmaṣ ɣursen aserɣud ad ḥessben ɣef iman-nsen deg israrnen n tudert d tmettant, aserɣud ad seqsiwen, ad ḥessben, ad fhmen, ad ɣren, atg. ɣef ayennna ar ttekkan !TTARA AṚEBBI, D AYANNNA Yeqqen!</p>\n<p>Ttmaren belli ttaran AṚEBBI maca s tidet ur ttaran ara, ttaggaden.</p>\n<p>Deg wussan n tegrawla, tameṭṭut tettḥuss belli tettɛecciḍ i wergaz-nnes ugar n zik, d ar tessaɣsi s ɛessat tameqqrant i uɛawd-nnes ɣer uxxam, maca s tidet ur ttara ara, tettaɣa kan ad teqqim bla wergaz, bla taɛssast, atg. atg. atg.</p>\n<p>Tafruxt tanufgant, annẓaḍ, annẓaḍ ɣef kra, ur igi tayri. Igi kan aserɣud d ayannna yeqqen.</p>\n<p>Aɛrrim deg tɣuriwin-nnes yella d annẓaḍ ɣef USELMAD neɣ TESELMADT, d iḍher belli ittaggad taɣṣart, taɣmarat yelhan, teɣmert d aṭas n tikkal ittamar belli tttara-tt maca ayen yettḍerrun d ar ttaggad-tt.</p>\n<p>Mara tella tameṭṭut deg uɛeyyaḍ neɣ deg teɣḍawt n tmettant s kra n waṭṭan, wergaz ittamar belli ttara-tt aṭas, maca s tidet ayen yettḍerrun d ar ittaggad ad tt-itḍḍer, yella d annẓaḍ ɣef-s deg aṭas n tɣawsiwin, am tamɣert, sex, aseccu n ibernasen, tiḥnin, atg. d ittaggad ad tt-itḍḍer. Ayannna ur igi tayri.</p>\n<p>Umaḍal merra itteni belli ittaɛecciḍ i umaḍal merra maca ur yelli ara: Yella d ameqqran ad naf deg tudert kra n win yettar s tidet.</p>\n<p>Lemmer ttaran imawlan i warraw-nsen s tidet, lemmer ttaran warraw i imawlan-nsen s tidet, lemmer ttaran iselmaden i inelmaden-nsen s tidet, ur zemrent ad ilint tegrawliwin. Tegrawliwin ad ilint d urgi deg waḍu.</p>\n<p>Ayen yettḍerrun d ar aytmaṣ ur fhmen ayen igi tayri, d i kullec ittaggad d i kullec tafruxt tanufgant, d i kullec tasekkirt, atg. ttmuccun-t d wayen ittusemman tayri.</p>\n<p>Aytmaṣ ur ssinen ara ad aran, lemmer ssinen aytmaṣ ad aran, tudert ad tettuɣal d ajennat.</p>\n<p>Imɣraḍen ttamnen belli ttran d aṭas ad zedɣen ad sersen s idammen belli ttran. Maca gint kan imzekren. Mara tɣer tasekkirt, tɣer tsenjart n leḥrir s uzzal.</p>\n<p>Tasekkirt tettuɣal i ufgan d ul. Kul win yellan d amzekren ittamar belli yella d amɣraḍ.</p>\n<p>Yella d ameqqran ad naf deg tudert kra n timɣraḍin ttwarɣban s tidet. Ḥedden timɣraḍin timzekren maca yella d aɛessas ad naf timɣraḍin timɣraḍin.</p>\n<p>Kul wid yettazzanen ttekkan i tayri maca ur ssinen kra igi tayri d ttmuccun tasekkirt d tayri.</p>\n<p>Mara tella kra tɣawsa d aɛessas deg tudert-a, ur nettaḍa tasekkirt d tayri.</p>\n<p>Tasekkirt d ssmeɛ aɛessas d uɣar aḥlawan ittizmir ad yili, ar tettɣellab s wawal n idammen.</p>\n<p>Tasekkirt d SEX tabɛedrit d waḍu, tasekkirt d aɣersan maca kra n tikkal tella daɣen d tazzit d tabɛedrit. Ar tettmuccu i tayri.</p>\n<p>Iselmaden d tiselmadin ad slemden i inelmaden, ilemẓiyen d tlemẓiyin, ad fregen ger tayri d tasekkirt. Ɣas amannna ad qqsen aṭas n temukristin deg tudert.</p>\n<p>Iselmaden d tiselmadin ttwajjben ad bnun tiẓun d tayri n inelmaden d ɣef ayennna ad ten-heggin s waḍu akken ur tettuɣalen ara i wid yellan d imukrisen deg tudert.</p>\n<p>Yeǧǧa ad nefhem wayen igi tayri, wayen ur izmir ad yezdi d tisufar, tasikkirin, idusanen, aserɣud, tidɣiɣin, annẓaḍ anufgan, atg. atg. atg.</p>\n<p>Tayri s urǧi ur tella ara deg yimdanen, maca ur telli ara d kra n wayen izmir ad yaɣ ad tt-yexes, ad tt-yebdu am imɣan deg uxxam, atg.</p>\n<p>Tayri ad ilul deg-nneɣ d kan tettlal mara nefhem aẓar n wayen igi tazit yellan deg uɣaras, wayen igi aserɣud, tasekkirt SEX, aserɣud, tafruxt tanufgant, annẓaḍ, atg. atg. atg.</p>\n<p>Ad nefhem wayen gint taɛyyanin tanufganin-a, ad nefhem amek ttɛeddant deg-nneɣ ur telli ara kan deg usiɣi anufgan n tudert, maca daɣen deg usiɣi n wayyaḍ yeffren d ur nessin, n UẒẒAṚ.</p>\n<p>Yeǧǧa ad neẓẓuɣen zɣ kullec iɛezzan deg ul kullec wayen d aɛyyan. Ɣas amannna ad ilul deg-nneɣ s tayri d tasemɣurt, wayen ittusemman tayri.</p>\n<p>Ur izmir ad ira ad isbeddel amaḍal bla tɣarast n tayri. Kan tayri izmer s tidet ad isbeddel amaḍal.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/shi/educacion-fundamental/el-amor.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/shi/educacion-fundamental/el-amor.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/shi/educacion-fundamental/el-amor.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

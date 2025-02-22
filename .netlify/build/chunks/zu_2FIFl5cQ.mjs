@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Lesi sahluko sihunyushwe ngokuzenzakalelayo kusuka esiSpanish sokuqala. Asikakabi nokubuyekezwa komuntu. Uma ungathanda ukusiza ngokubuyekeza, xhumana nathi ngokuchofoza lapha.","originalMessage":"Okuqukethwe kwalesi sahluko kusekelwe embhalweni wesiSpanish wokuqala.","revisedMessage":"Lesi sahluko siye sabuyekezwa ngumuntu futhi sahunyushwa kusuka embhalweni wesiSpanish wokuqala. Uma sisadinga ukulungiswa, xhumana nathi ngokuchofoza lapha."};
+const status = {"automatic":"Ukuhumusha Okuzenzakalelayo","original":"Okwangempela","revised":"Kubuyekeziwe"};
+const zu = {
+  "404.text": "Ikhasi alitholakali. Hlola i-URL noma uzame ukusebenzisa ibha yokusesha.",
+  "aside.caution": "Qaphela",
+  "aside.danger": "Ingozi",
+  "aside.note": "Qaphela",
+  "aside.tip": "Iseluleko",
+  "builtWithStarlight.label": "Yakhiwe nge-Starlight",
+  "fileTree.directory": "Uhlu lwamafayela",
+  "i18n.untranslatedContent": "Lokuqukethwe akukho ngolimi lwakho okwamanje.",
+  "languageSelect.accessibleLabel": "Khetha ulimi",
+  "menuButton.accessibleLabel": "Imenyu",
+  messages,
+  "page.draft": "Lokuqukethwe kuyidrafti futhi ngeke kufakwe ekwakhiweni kokukhiqiza.",
+  "page.editLink": "Hlela ikhasi",
+  "page.lastUpdated": "Kugcine ukubuyekezwa:",
+  "page.nextLink": "Okulandelayo",
+  "page.previousLink": "Okwedlule",
+  "search.cancelLabel": "Khansela",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Ukusesha kutholakala kuphela ekwakhiweni kokukhiqiza. \nZama ukwakha futhi ubuke isizinda ukuze uhlole ngokwendawo.",
+  "search.label": "Sesha",
+  "sidebarNav.accessibleLabel": "Okubalulekile",
+  "skipLink.label": "Yeqa uye kokuqukethwe",
+  status,
+  "tableOfContents.onThisPage": "Kulesi sahluko",
+  "tableOfContents.overview": "Isiqalo",
+  "themeSelect.accessibleLabel": "Khetha itimu",
+  "themeSelect.auto": "Okuzenzakalelayo",
+  "themeSelect.dark": "Mnyama",
+  "themeSelect.light": "Ukukhanya",
+};
+
+export { zu as default, messages, status };

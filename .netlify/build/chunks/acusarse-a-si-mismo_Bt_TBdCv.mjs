@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "තමන්ටම චෝදනා කිරීම",
+  "locale": "si",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-tratado-de-psicologia-revolucionaria.webp-5e15e1cec4e0ebebcde5d7fc7565d8fd.webp",
+  "sidebar": {
+    "label": "5. තමන්ටම චෝදනා කිරීම",
+    "order": 5
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>අප සෑම කෙනෙකුගේම අභ්‍යන්තරයේ ඇති සාරය, ඉහළින්, අහසින්, තරු වලින් පැමිණේ…</p>\n<p>ප්‍රශ්න කළ නොහැකි ලෙසම අපූරු සාරය පැමිණෙන්නේ “LA” ස්වරයෙන් (ක්ෂීරපථය, අප ජීවත්වන මන්දාකිණිය)</p>\n<p>අගනා සාරය “SOL” ස්වරයෙන් (සූර්යයා) ගමන් කර පසුව “FA” ස්වරයෙන් (ග්‍රහලෝක කලාපය) මෙම ලෝකයට ඇතුළු වී අපගේ අභ්‍යන්තරයට විනිවිද යයි.</p>\n<p>තරු වලින් පැමිණෙන මෙම සාරය ලබා ගැනීම සඳහා අපගේ දෙමාපියන් සුදුසු ශරීරයක් නිර්මාණය කළහ…</p>\n<p>තීව්‍ර ලෙස අප ගැනම වැඩ කර අපගේ අසල්වාසීන් වෙනුවෙන් කැපවීමෙන්, අපි යුරේනියාගේ ගැඹුරු ගර්භයට ජයග්‍රාහීව නැවත පැමිණෙමු…</p>\n<p>අපි මේ ලෝකයේ ජීවත් වන්නේ යම් හේතුවක් නිසා, යම් දෙයක් සඳහා, යම් විශේෂ සාධකයක් නිසා…</p>\n<p>පැහැදිලිවම අප තුළ අප දැකිය යුතු, අධ්‍යයනය කළ යුතු සහ තේරුම් ගත යුතු බොහෝ දේ ඇත, අප සැබවින්ම අප ගැනම, අපගේම ජීවිතය ගැන යමක් දැන ගැනීමට ආශා කරන්නේ නම්…</p>\n<p>තම ජීවිතයේ අරමුණ නොදැන මිය යන අයගේ පැවැත්ම ඛේදජනකය…</p>\n<p>සෑම කෙනෙකුම තම ජීවිතයේ අරුත තමා විසින්ම සොයා ගත යුතුය, වේදනාවේ සිරගෙදර ඔහු සිරකරුවෙකු ලෙස තබා ගන්නේ කුමක්ද…</p>\n<p>පෙනෙන විදිහට අප සෑම කෙනෙකු තුළම අපගේ ජීවිතය තිත්ත කරන යමක් තිබේ, අප එයට එරෙහිව දැඩි ලෙස සටන් කළ යුතුය…</p>\n<p>අපි දිගටම අවාසනාවන්ත තත්ත්වයක සිටීම අත්‍යවශ්‍ය නොවේ, අපව දුර්වල හා අසතුටට පත් කරන දේ කොස්මික් දූවිලි බවට පත් කිරීම කල් දැමිය නොහැක.</p>\n<p>තනතුරු, ගෞරව, ඩිප්ලෝමා, මුදල්, නිෂ්ඵල ආත්මීය තාර්කිකත්වය, හොඳින් දන්නා ගුණධර්ම ආදියෙන් අපව අලංකාර කිරීමෙන් කිසිදු ප්‍රයෝජනයක් නැත.</p>\n<p>ව්‍යාජ පෞරුෂයේ කුහකකම සහ මෝඩ නිෂ්ඵලකම අපව අදක්ෂ, පරණ, පසුගාමී, ප්‍රතිගාමී, අලුත් දේ දැකීමට නොහැකි අය බවට පත් කරන බව අප කිසි විටෙකත් අමතක නොකළ යුතුය…</p>\n<p>මරණයට ධනාත්මක මෙන්ම ඍණාත්මක අර්ථයන් බොහෝ ඇත.</p>\n<p>“මහා කබීර් ජේසුස් ක්‍රිස්තුස්”ගේ එම විශිෂ්ට නිරීක්ෂණය සලකා බලන්න. “මළවුන් තම මළවුන් භූමදානය කිරීමට ඉඩ දෙන්න.” බොහෝ අය ජීවතුන් අතර සිටියද, ඔවුන් තමන් ගැනම කළ හැකි සෑම කාර්යයකටම මිය ගොස් ඇති අතර එම නිසා ඕනෑම අභ්‍යන්තර පරිවර්තනයකට මිය ගොස් ඇත.</p>\n<p>ඔවුන්ගේ මතවාදයන් සහ විශ්වාසයන් අතර හිර වී සිටින පුද්ගලයින්; බොහෝ ඊයේ දවස්වල මතකයන් තුළ ගල් වූ මිනිසුන්; පෞරාණික අගතීන්ගෙන් පිරුණු පුද්ගලයන්; කුමක් කියයිද යන්නෙහි වහලුන්, භයානක ලෙස උණුසුම්, උදාසීන, සමහර විට “දැනුමැති” ඔවුන් සත්‍යයේ සිටින බව ඒත්තු ගැන්වී ඇත, මන්ද ඔවුන්ට එසේ පවසා ඇත, ආදිය, ආදිය, ආදිය.</p>\n<p>අප සැවොම තුළ ඇති එම රහස් අවලස්සනකම නැති කිරීමට හැකි වන “මනෝවිද්‍යාත්මක ව්‍යායාම ශාලාවක්” මෙම ලෝකය බව එම ජනතාවට තේරුම් ගැනීමට අවශ්‍ය නැත…</p>\n<p>එම අසරණ මිනිසුන් ඔවුන් සිටින ඉතා කනගාටුදායක තත්වය තේරුම් ගන්නේ නම්, ඔවුන් භීතියෙන් වෙව්ලනු ඇත…</p>\n<p>එහෙත්, එවැනි අය තමන් ගැනම හොඳම දේ සිතති; ඔවුන් තම ගුණ ගැන පුරසාරම් දොඩයි, ඔවුන් පරිපූර්ණ, කරුණාවන්ත, උපකාරශීලී, උතුම්, දානපතියන්, බුද්ධිමත්, තම යුතුකම් ඉටු කරන්නන් යැයි හැඟේ.</p>\n<p>පාසලක් ලෙස ප්‍රායෝගික ජීවිතය විශිෂ්ටයි, නමුත් එය තමන්ගේම අරමුණක් ලෙස ගැනීම පැහැදිලිවම විකාරයකි.</p>\n<p>ජීවිතය දිනපතා ගත කරන ආකාරයටම ජීවිතය ගත කරන අය “පූර්ණ පරිවර්තනයක්” ලබා ගැනීම සඳහා තමන් ගැනම වැඩ කිරීමේ අවශ්‍යතාවය තේරුම් ගෙන නැත.</p>\n<p>අවාසනාවකට මිනිසුන් ජීවත් වන්නේ යාන්ත්‍රිකවය, ඔවුන් අභ්‍යන්තර වැඩ ගැන කිසිවක් අසා නැත…</p>\n<p>වෙනස් වීම අවශ්‍යයි, නමුත් මිනිසුන් වෙනස් විය යුතු ආකාරය දන්නේ නැත; ඔවුන් බොහෝ දුක් විඳින අතර ඔවුන් දුක් විඳින්නේ ඇයිදැයි ඔවුන් දන්නේ නැත…</p>\n<p>මුදල් තිබීම පමණක් නොවේ. බොහෝ ධනවත් පුද්ගලයින්ගේ ජීවිත සැබවින්ම ඛේදජනක ය.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/si/tratado-de-psicologia-revolucionaria/acusarse-a-si-mismo.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/si/tratado-de-psicologia-revolucionaria/acusarse-a-si-mismo.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/si/tratado-de-psicologia-revolucionaria/acusarse-a-si-mismo.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

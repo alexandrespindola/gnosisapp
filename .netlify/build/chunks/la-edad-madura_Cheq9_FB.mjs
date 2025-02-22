@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Zralý věk",
+  "locale": "cs",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "27. Zralý věk",
+    "order": 27
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Střední věk začíná ve třiceti pěti letech a končí v padesáti šesti letech.</p>\n<p>Muž ve středním věku by měl umět vést svůj dům a usměrňovat své děti.</p>\n<p>V normálním životě je každý muž ve středním věku hlavou rodiny. Muž, který si během mládí a středního věku nezaložil domov a nezískal majetek, už si ho nezaloží, je vlastně neúspěšný.</p>\n<p>Ti, kteří se snaží založit domov a získat majetek ve stáří, jsou opravdu hodni politování.</p>\n<p>Ego chamtivosti jde do extrémů a chce hromadit bohaté majetky. Lidská bytost potřebuje chléb, přístřeší a úkryt. Je nutné mít chléb, vlastní dům, šaty, obleky, kabáty na zakrytí těla, ale není nutné hromadit obrovské sumy peněz, aby člověk mohl žít.</p>\n<p>Neobhajujeme bohatství ani bídu, oba extrémy jsou odsouzeníhodné.</p>\n<p>Mnoho je těch, kteří se válejí v bahně bídy, a také dost těch, kteří se válejí v bahně bohatství.</p>\n<p>Je nutné vlastnit skromný majetek, to znamená krásný dům s krásnými zahradami, jistý zdroj příjmů, být vždy dobře upravený a netrpět hladem. To je normální pro každou lidskou bytost.</p>\n<p>Bída, hlad, nemoci a nevědomost by nikdy neměly existovat v žádné zemi, která se považuje za kulturní a civilizovanou.</p>\n<p>Demokracie ještě neexistuje, ale musíme ji vytvořit. Dokud existuje jediný občan bez chleba, přístřeší a úkrytu, demokracie prakticky není nic víc než krásný ideál.</p>\n<p>Hlavy rodin by měly být chápavé, inteligentní, nikdy pijané vína, nenasytní, opilí, tyrani atd.</p>\n<p>Každý dospělý muž ví z vlastní zkušenosti, že děti napodobují jeho příklad, a pokud je tento příklad špatný, určí svým potomkům absurdní cesty.</p>\n<p>Je opravdu hloupé, aby měl dospělý muž několik žen a žil v opilství, hostinách, orgiích atd.</p>\n<p>Na dospělém muži leží odpovědnost za celou rodinu a je jasné, že pokud kráčí po špatných cestách, přinese do světa více nepořádku, více zmatku, více hořkosti.</p>\n<p>Otec a matka musí chápat rozdíl mezi pohlavími. Je absurdní, aby dcery studovaly fyziku, chemii, algebru atd. Mozek ženy se liší od mozku muže, takové předměty jsou velmi vhodné pro mužské pohlaví, ale jsou zbytečné a dokonce škodlivé pro ženskou mysl.</p>\n<p>Je nutné, aby rodiče a matky rodin z celého srdce usilovali o podporu zásadní změny v celém plánu školních osnov.</p>\n<p>Žena by se měla naučit číst, psát, hrát na klavír, plést, vyšívat a obecně všechny druhy ženských řemesel.</p>\n<p>Žena by měla být připravována již od školních lavic na vznešené poslání, které jí náleží jako MATCE a manželce.</p>\n<p>Je absurdní poškozovat mozky žen komplikovanými a obtížnými studiemi vlastními mužskému pohlaví.</p>\n<p>Je nutné, aby se rodiče i učitelé škol, vysokých škol a univerzit více starali o to, aby ženu přivedli k ženskosti, která jí náleží. Je hloupé militarizovat ženy, nutit je pochodovat s vlajkami a bubny ulicemi měst, jako by to byli chlapi.</p>\n<p>Žena by měla být velmi ženská a muž by měl být velmi mužný.</p>\n<p>Mezipohlaví, homosexualita, je produktem degenerace a barbarství.</p>\n<p>Dívky, které se věnují dlouhým a obtížným studiím, zestárnou a nikdo si je nevezme.</p>\n<p>V moderním životě je vhodné, aby ženy dělaly krátké kurzy, kosmetiku, psaní na stroji, stenografii, šití, pedagogiku atd., atd., atd.</p>\n<p>Normálně by se žena měla věnovat pouze rodinnému životu, ale kvůli krutosti této doby, ve které žijeme, žena potřebuje pracovat, aby se najedla a žila.</p>\n<p>V opravdu kulturní a civilizované společnosti žena nepotřebuje pracovat mimo dům, aby mohla žít. To, že pracuje mimo dům, je krutost nejhoršího druhu.</p>\n<p>Současný zdegenerovaný muž vytvořil falešný řád věcí a připravil ženu o její ženskost, vyhnal ji z domu a proměnil ji v otrokyni.</p>\n<p>Žena proměněná v “chlapici” s mužským intelektem, kouřící cigarety a čtoucí noviny, polonahá se sukní nad kolena nebo hrající kanastu, je výsledkem zdegenerovaných mužů této doby, sociální vředy civilizace, která umírá.</p>\n<p>Žena proměněná v moderního špiona, doktorka drogově závislá, žena šampionka ve sportu, alkoholička, zpříroda zbavená, která odmítá prsa svým dětem, aby neztratila svou krásu, je odporným příznakem falešné civilizace.</p>\n<p>Nadešla hodina zorganizovat armádu světové spásy s muži a ženami dobré vůle, kteří jsou skutečně ochotni bojovat proti tomuto falešnému řádu věcí.</p>\n<p>Nadešla hodina nastolit ve světě novou civilizaci, novou kulturu.</p>\n<p>Žena je základním kamenem domova, a pokud je tento kámen špatně opracován, plný hran a deformací všeho druhu, výsledkem společenského života bude katastrofa.</p>\n<p>Muž je jiný, odlišný, a proto si může dovolit studovat medicínu, fyziku, chemii, matematiku, práva, inženýrství, astronomii atd., atd., atd.</p>\n<p>Militarizovaná chlapecká škola není absurdní, ale militarizovaná dívčí škola je kromě toho, že je absurdní, také strašně směšná.</p>\n<p>Je odporné vidět budoucí manželky, budoucí matky, které mají nosit dítě u prsou, pochodovat jako muži po ulicích města.</p>\n<p>To nejen naznačuje ztrátu ženskosti v pohlaví, ale také ukazuje prstem na bolestivé místo, poukazující na ztrátu mužnosti u muže.</p>\n<p>Muž, opravdový muž, pořádný chlap, nemůže přijmout ani trochu militarizovaný průvod žen. Mužské skrupule, psychologická idiosynkrasie muže, myšlení muže cítí opravdový odpor k tomuto druhu představení, která až do sytosti demonstrují lidskou degeneraci.</p>\n<p>Potřebujeme, aby se žena vrátila do svého domova, ke své ženskosti, ke své přirozené kráse, ke své primitivní nevinnosti a ke své opravdové jednoduchosti. Potřebujeme skoncovat s celým tímto řádem věcí a nastolit na zemském povrchu novou civilizaci a novou kulturu.</p>\n<p>Rodiče a vychovatelé musí vědět, jak vychovávat nové generace s opravdovou moudrostí a láskou.</p>\n<p>Synové by neměli dostávat pouze intelektuální informace a učit se řemeslu nebo získávat odborný titul. Je nutné, aby synové znali smysl pro odpovědnost a vydali se po cestě správnosti a vědomé lásky.</p>\n<p>Na bedrech dospělého muže leží odpovědnost za manželku, syny a dcery.</p>\n<p>Dospělý muž s vysokým smyslem pro odpovědnost, cudný, střídmý, umírněný, ctnostný atd., je respektován svou rodinou i všemi občany.</p>\n<p>Dospělý muž, který pohoršuje lidi svými cizoložstvími, smilstvy, nelibostmi, nespravedlnostmi všeho druhu, se stává odporným pro všechny lidi a nejenže si způsobuje bolest sobě, ale také zarmucuje své příbuzné a přináší bolest a zmatek celému světu.</p>\n<p>Je nutné, aby dospělý muž uměl správně žít svou dobu. Je naléhavé, aby dospělý muž pochopil, že mládí už pominulo.</p>\n<p>Je směšné chtít ve zralosti opakovat stejná dramata a scény z mládí.</p>\n<p>Každá etapa života má svou krásu a je třeba ji umět žít.</p>\n<p>Dospělý muž musí pracovat s maximální intenzitou, než přijde stáří, stejně jako mravenec jedná prozíravě a nosí listy do svého mraveniště, než přijde krutá zima, tak musí jednat rychle a prozíravě i dospělý muž.</p>\n<p>Mnoho mladých mužů mizerně utrácí všechny své životní hodnoty, a když dosáhnou středního věku, jsou oškliví, hrozní, mizerní, neúspěšní.</p>\n<p>Je opravdu směšné vidět mnoho dospělých mužů opakovat hlouposti mládí, aniž by si uvědomili, že nyní jsou hrozní a že mládí už pominulo.</p>\n<p>Jedna z největších pohrom této civilizace, která umírá, je neřest alkoholu.</p>\n<p>V mládí se mnozí oddávají pití, a když přijde střední věk, nezaložili si domov, nezískali majetek, nemají výnosné povolání, žijí od hospody k hospodě, žebrá o alkohol, strašlivě hrozní, odporní, mizerní.</p>\n<p>Hlavy rodin a vychovatelé by měli věnovat zvláštní pozornost mladým lidem a správně je vést se zdravým úmyslem vytvořit lepší svět.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/cs/educacion-fundamental/la-edad-madura.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/cs/educacion-fundamental/la-edad-madura.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/cs/educacion-fundamental/la-edad-madura.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

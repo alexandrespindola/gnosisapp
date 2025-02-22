@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Materinstvo",
+  "locale": "sl",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "23. Materinstvo",
+    "order": 23
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Življenje človeka se začne kot preprosta celica, ki je, seveda, podvržena izjemno hitremu tempu živih celic.</p>\n<p>Spočetje, nosečnost, rojstvo, to je vedno čudovit in izjemen trio, s katerim se začne življenje vsakega bitja.</p>\n<p>Resnično preseneča spoznanje, da moramo prve trenutke svojega obstoja preživeti v neskončno majhnem, spremenjeni, vsak od nas, v preprosto mikroskopsko celico.</p>\n<p>Začnemo obstajati v obliki nepomembne celice in končamo življenje stari, ostareli in preobremenjeni s spomini.</p>\n<p>JAZ je spomin. Mnogi starejši ne živijo niti približno v sedanjosti, mnogi starci živijo samo še v spominjanju preteklosti. Vsak starec ni nič drugega kot glas in senca. Vsak starejši je duh preteklosti, nakopičen spomin, in ta se nadaljuje v genih naših potomcev.</p>\n<p>Človeško spočetje se začne z izjemno hitrim tempom, vendar se skozi različne procese življenja vedno bolj upočasnjuje.</p>\n<p>Mnogi bralci bi se morali spomniti relativnosti časa. Nepomembna žuželka, ki živi le nekaj ur v poletnem popoldnevu, se zdi, kot da skoraj ne bi živela, vendar v resnici živi toliko, kot človek živi v osemdesetih letih, le da živi hitro, človek živi v osemdesetih letih toliko, kot živi planet v milijonih let.</p>\n<p>Ko se spermatozoid združi z jajčecem, se začne nosečnost. Celica, s katero se začne človeško življenje, vsebuje oseminštirideset kromosomov.</p>\n<p>Kromosomi se delijo na gene, stotnija slednjih ali nekaj več pa zagotovo predstavlja to, kar je kromosom.</p>\n<p>Gene je zelo težko preučevati, ker jih sestavlja le nekaj molekul, ki vibrirajo z nepredstavljivo hitrostjo.</p>\n<p>Čudoviti svet genov predstavlja vmesno območje med tridimenzionalnim svetom in svetom četrte dimenzije.</p>\n<p>V genih so atomi dednosti. PSIHOLOŠKI JAZ naših prednikov prežema oplojeno jajčece.</p>\n<p>V tej dobi elektrotehnike in atomske znanosti nikakor ni pretirano trditi, da se je elektro-magnetni odtis, ki ga je pustil prednik, ki je izdihnil svoj zadnji dih, vtisnil v gene in kromosome jajčeca, ki ga je oplodil potomec.</p>\n<p>Pot življenja je oblikovana z odtisi kopit konja smrti.</p>\n<p>Med življenjem po človeškem organizmu tečejo različne vrste energije; vsaka vrsta energije ima svoj sistem delovanja, vsaka vrsta energije se manifestira ob svojem času in uri.</p>\n<p>Pri dveh mesecih po spočetju imamo prebavno funkcijo, pri štirih mesecih po spočetju pa začne delovati motorična sila, ki je tako tesno povezana z dihalnim in mišičnim sistemom.</p>\n<p>Čudovit je znanstveni spektakel rojstva in smrti vseh stvari.</p>\n<p>Mnogi modreci trdijo, da obstaja tesna analogija med rojstvom človeškega bitja in rojstvom svetov v vesolju.</p>\n<p>Pri devetih mesecih se rodi otrok, pri desetih se začne rast z vsemi njenimi čudovitimi metabolizmi in simetričnim ter popolnim razvojem vezivnih tkiv.</p>\n<p>Ko se frontalna fontanela novorojenčkov zapre pri dveh ali treh letih starosti, je to znak, da je možgansko-hrbtenični sistem popolnoma zaključen.</p>\n<p>Mnogi znanstveniki so rekli, da ima narava domišljijo in da ta domišljija daje živo obliko vsemu, kar je, vsemu, kar je bilo, vsemu, kar bo.</p>\n<p>Množica ljudi se smeji domišljiji, nekateri jo celo imenujejo “NORICA HIŠE”.</p>\n<p>Okoli besede DOMIŠLJIJA je veliko zmede in mnogi zamenjujejo DOMIŠLJIJO s FANTAZIJO.</p>\n<p>Nekateri modreci pravijo, da obstajata dve domišljiji. Prvo imenujejo MEHANSKA DOMIŠLJIJA, drugo pa NAMERNA DOMIŠLJIJA: prvo sestavljajo odpadki uma, drugo pa ustreza najbolj vrednemu in spodobnemu, kar imamo v sebi.</p>\n<p>Skozi opazovanje in izkušnje smo lahko preverili, da obstaja tudi vrsta SUB-MEHANSKE DOMIŠLJIJE MORBOSNE PODZAVESTNE in SUBJEKTIVNE.</p>\n<p>Ta vrsta SAMODEJNE SUB-DOMIŠLJIJE deluje pod INTELEKTUALNIM OBMOČJEM.</p>\n<p>Erotične podobe, morbiden film, pikantne zgodbe z dvojnim pomenom, morbidne šale itd., ponavadi nezavedno sprožijo delovanje MEHANSKE SUB-DOMIŠLJIJE.</p>\n<p>Temeljne analize so nas pripeljale do logičnega zaključka, da so erotične sanje in nočne polucije posledica MEHANSKE SUB-DOMIŠLJIJE.</p>\n<p>ABSOLUTNA ČISTOST je nemogoča, dokler obstaja MEHANSKA SUB-DOMIŠLJIJA.</p>\n<p>Kristalno jasno je, da se ZAVEDNA DOMIŠLJIJA radikalno razlikuje od tega, kar se imenuje MEHANSKA, SUBJEKTIVNA, PODZAVESTNA, NEZAVEDNA DOMIŠLJIJA.</p>\n<p>Vsako predstavitev je mogoče dojemati na SAMO POVZDIHUJOČ in dostojanstven način, vendar nas lahko SUB-DOMIŠLJIJA mehanskega, podzavestnega, nezavednega tipa izda, saj samodejno deluje z niansami in čutnimi, strastnimi, potopljenimi podobami.</p>\n<p>Če želimo POPOLNO ČISTOST, enovito, temeljito, moramo nadzorovati ne le ZAVEDNO DOMIŠLJIJO, temveč tudi MEHANSKO DOMIŠLJIJO in NEZAVEDNO, SAMODEJNO, PODZAVESTNO, POTOPLJENO SUB-DOMIŠLJIJO.</p>\n<p>Nikoli ne smemo pozabiti na tesno povezavo med SPOLOM in DOMIŠLJIJO.</p>\n<p>Skozi poglobljeno meditacijo moramo vso vrsto mehanske domišljije in vso obliko SAMODEJNE SUB-DOMIŠLJIJE in POD-DOMIŠLJIJE preoblikovati v ZAVEDNO, objektivno DOMIŠLJIJO.</p>\n<p>OBJEKTIVNA DOMIŠLJIJA je sama po sebi bistveno ustvarjalna, brez nje izumitelj ne bi mogel zasnovati telefona, radia, letala itd.</p>\n<p>DOMIŠLJIJA ŽENSKE v nosečnosti je temeljna za razvoj ploda. Dokazano je, da lahko vsaka mati s svojo DOMIŠLJIJO spremeni psiho ploda.</p>\n<p>Nujno je, da noseča ženska opazuje lepe slike, vzvišene pokrajine in posluša klasično glasbo ter harmonične besede, tako lahko harmonično vpliva na psiho bitja, ki ga nosi v svoji notranjosti.</p>\n<p>Noseča ženska ne sme piti alkohola, kaditi ali opazovati grdega, neprijetnega, ker je vse to škodljivo za harmoničen razvoj bitja.</p>\n<p>Treba je znati odpustiti vse muhe in napake noseče ženske.</p>\n<p>Mnogi nestrpni in nerazumevajoči moški se jezijo in žalijo nosečo žensko. Grenkobe te ženske, žalosti, ki jih povzroča mož, ki nima kakovosti, vplivajo na plod v nosečnosti, ne le fizično, temveč tudi psihično.</p>\n<p>Glede na moč ustvarjalne domišljije je logično trditi, da noseča ženska ne sme opazovati grdega, neprijetnega, neharmoničnega, ogabnega itd.</p>\n<p>Nap čas, da se vlade začnejo ukvarjati z reševanjem velikih problemov, povezanih z materinstvom.</p>\n<p>Nesmiselno je, da v družbi, ki se ponaša s krščansko in demokratično, ne znajo spoštovati in častiti verskega pomena materinstva. Grozljivo je videti na tisoče nosečnic brez kakršne koli zaščite, zapuščenih od moža in družbe, ki prosijo za kos kruha ali zaposlitev in pogosto opravljajo težka fizična dela, da bi lahko preživele z bitjem, ki ga nosijo v trebuhu.</p>\n<p>Ta podčloveška stanja današnje družbe, ta krutost in pomanjkanje odgovornosti vladarjev in ljudstev nam jasno kažejo, da demokracija še ne obstaja.</p>\n<p>Bolnišnice s svojimi porodniškimi oddelki še niso rešile problema, ker v te bolnišnice lahko pridejo ženske šele, ko se porod že bliža.</p>\n<p>Nujno potrebujemo skupne domove, prave vrtne mestove, opremljene s saloni in rezidencami za revne nosečnice, klinike in vrtce za njihove otroke.</p>\n<p>Ti skupni domovi so nastanitev za revne nosečnice, polni vseh vrst udobja, cvetja, glasbe, harmonije, lepote itd., bi v celoti rešili velik problem materinstva.</p>\n<p>Moramo razumeti, da je človeška družba velika družina in da ni tujih problemov, ker vsak problem v eni ali drugi obliki vpliva na vse člane družbe znotraj svojega kroga. Nesmiselno je diskriminirati nosečnice zaradi dejstva, da so zelo revne. Zločinsko jih je podcenjevati, prezirati ali potiskati v zavetišče za reveže.</p>\n<p>V tej družbi, v kateri živimo, ne more biti otrok in pastorkov, ker smo vsi ljudje in imamo enake pravice.</p>\n<p>Ustvariti moramo pravo demokracijo, če res nočemo, da nas požre komunizem.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/sl/educacion-fundamental/la-maternidad.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/sl/educacion-fundamental/la-maternidad.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/sl/educacion-fundamental/la-maternidad.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

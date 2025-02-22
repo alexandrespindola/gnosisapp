@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"यो अध्याय स्पेनिश मूलबाट स्वचालित रूपमा अनुवाद गरिएको छ। यसको अझै मानवीय समीक्षा भएको छैन। यदि तपाईं समीक्षामा मद्दत गर्न चाहनुहुन्छ भने, यहाँ क्लिक गरेर हामीलाई सम्पर्क गर्नुहोस्।","originalMessage":"यो अध्यायको सामग्री मूल स्पेनिश पाठमा आधारित छ।","revisedMessage":"यो अध्याय मूल स्पेनिश पाठबाट मानवीय समीक्षा र अनुवाद गरिएको छ। यदि यसलाई अझै सुधार आवश्यक छ भने, यहाँ क्लिक गरेर हामीलाई सम्पर्क गर्नुहोस्।"};
+const status = {"automatic":"स्वचालित अनुवाद","original":"मूल","revised":"संशोधित"};
+const ne = {
+  "404.text": "पृष्ठ फेला परेन। URL जाँच गर्नुहोस् वा खोज बार प्रयोग गर्नुहोस्।",
+  "aside.caution": "सावधान",
+  "aside.danger": "खतरा",
+  "aside.note": "नोट",
+  "aside.tip": "सुझाव",
+  "builtWithStarlight.label": "Starlight द्वारा निर्मित",
+  "fileTree.directory": "डाइरेक्टरी",
+  "i18n.untranslatedContent": "यो सामग्री तपाईंको भाषामा अझै उपलब्ध छैन।",
+  "languageSelect.accessibleLabel": "भाषा छान्नुहोस्",
+  "menuButton.accessibleLabel": "मेनु",
+  messages,
+  "page.draft": "यो सामग्री मस्यौदा हो र उत्पादन बिल्डहरूमा समावेश गरिने छैन।",
+  "page.editLink": "पृष्ठ सम्पादन गर्नुहोस्",
+  "page.lastUpdated": "अन्तिम अपडेट:",
+  "page.nextLink": "अर्को",
+  "page.previousLink": "अघिल्लो",
+  "search.cancelLabel": "रद्द गर्नुहोस्",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "खोजी केवल उत्पादन बिल्डहरूमा उपलब्ध छ। \nस्थानीय रूपमा परीक्षण गर्न साइट बनाउने र पूर्वावलोकन गर्ने प्रयास गर्नुहोस्।",
+  "search.label": "खोज्नुहोस्",
+  "sidebarNav.accessibleLabel": "मुख्य",
+  "skipLink.label": "सामग्रीमा जानुहोस्",
+  status,
+  "tableOfContents.onThisPage": "यस अध्यायमा",
+  "tableOfContents.overview": "सुरुवात",
+  "themeSelect.accessibleLabel": "थिम छान्नुहोस्",
+  "themeSelect.auto": "स्वचालित",
+  "themeSelect.dark": "गाढा",
+  "themeSelect.light": "हल्का",
+};
+
+export { ne as default, messages, status };

@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "De Drie Hersenen",
+  "locale": "nl",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "21. De Drie Hersenen",
+    "order": 21
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>De revolutionaire psychologie van het nieuwe tijdperk stelt dat de organische machine van het INTELLECTUELE DIER, ten onrechte mens genoemd, bestaat in een tricentraal of tricerebraal formaat.</p>\n<p>De eerste hersenen zijn opgesloten in de schedel. De tweede hersenen komen concreet overeen met de ruggengraat met zijn centrale merg en al zijn zenuwtakken. De derde hersenen bevinden zich niet op een bepaalde plaats en zijn ook geen bepaald orgaan. In werkelijkheid worden de derde hersenen gevormd door de sympathische zenuwplexussen en in het algemeen door alle specifieke zenuwcentra van het menselijk organisme.</p>\n<p>De eerste hersenen zijn het denkcentrum. De tweede hersenen zijn het centrum van beweging, gewoonlijk het motorische centrum genoemd. De derde hersenen zijn het emotionele centrum.</p>\n<p>Het is in de praktijk volledig bewezen dat elk misbruik van de denkende hersenen leidt tot een overmatig verbruik van intellectuele energie. Het is dus logisch om zonder angst voor twijfel te stellen dat psychiatrische inrichtingen ware begraafplaatsen zijn van intellectuele doden.</p>\n<p>Harmonieuze en evenwichtige sporten zijn nuttig voor de motorische hersenen, maar misbruik van sport betekent overmatig verbruik van motorische energie en het resultaat is vaak rampzalig. Het is niet absurd om te stellen dat er doden van de motorische hersenen bestaan. Deze doden staan bekend als patiënten met hemiplegie, paraplegie, progressieve verlamming, enz.</p>\n<p>Het esthetische gevoel, de mystiek, de extase, de hogere muziek, zijn noodzakelijk om het emotionele centrum te cultiveren, maar misbruik van deze hersenen leidt tot nutteloze slijtage en verspilling van emotionele energie. Misbruik van de emotionele hersenen wordt gemaakt door de existentialisten van de “nieuwe golf”, de fanatici van de Rock, de pseudo-artiesten van de sensuele moderne kunst, de ziekelijke gepassioneerden van de sensualiteit, enz., enz.</p>\n<p>Ook al lijkt het ongelooflijk, de dood verloopt zeker in derden in elke persoon. Het is reeds tot in den treure bewezen dat elke ziekte haar basis heeft in een van de drie hersenen.</p>\n<p>De grote wet heeft wijselijk in elk van de drie hersenen van het intellectuele dier een bepaald kapitaal aan LEVENSWAARDEN gedeponeerd. Het sparen van dit kapitaal betekent in feite het verlengen van het leven, het verspillen van dit kapitaal veroorzaakt de dood.</p>\n<p>Archaïsche tradities die vanuit de angstaanjagende nacht van de eeuwen tot ons zijn gekomen, beweren dat de gemiddelde levensduur van de mens op het oude continent MU, gelegen in de Stille Oceaan, schommelde tussen de twaalf en vijftien eeuwen.</p>\n<p>Met het verstrijken van de eeuwen door alle tijdperken heen heeft het verkeerde gebruik van de drie hersenen het leven beetje bij beetje verkort.</p>\n<p>In het zonovergoten land KEM… daar in het oude Egypte van de farao’s bereikte de gemiddelde levensduur van de mens nog slechts honderdveertig jaar.</p>\n<p>Momenteel in deze moderne tijden van benzine en celluloid, in dit tijdperk van existentialisme en rebellen van de Rock, is de gemiddelde levensduur van de mens volgens sommige verzekeringsmaatschappijen nauwelijks vijftig jaar.</p>\n<p>De marxistisch-leninistische heren van de SOVJET-UNIE, opscheppers en leugenaars zoals altijd, zeggen daar dat ze zeer speciale serums hebben uitgevonden om het leven te verlengen, maar de oude Kruschev is nog geen tachtig jaar oud en moet toestemming vragen aan een voet om de andere op te tillen.</p>\n<p>In het centrum van AZIË bevindt zich een religieuze gemeenschap die bestaat uit ouderen die zich hun jeugd niet meer herinneren. De gemiddelde levensduur van deze ouderen schommelt tussen de vierhonderd en vijfhonderd jaar.</p>\n<p>Het hele geheim van het lange leven van deze Aziatische monniken ligt in het wijze gebruik van de drie hersenen.</p>\n<p>De evenwichtige en harmonieuze functionaliteit van de drie hersenen betekent besparing van de LEVENSWAARDEN en als logisch gevolg, verlenging van het leven.</p>\n<p>Er bestaat een kosmische wet die bekend staat als “GELIJKMAKING VAN DE TRILLINGEN VAN VELE BRONNEN”. De monniken van dit klooster weten deze wet te gebruiken door middel van het gebruik van de drie hersenen.</p>\n<p>De buitensporige pedagogie leidt de leerlingen naar misbruik van de denkende hersenen, waarvan de resultaten reeds bekend zijn in de psychiatrie.</p>\n<p>De intelligente cultivering van de drie hersenen is FUNDAMENTEEL ONDERWIJS. In de oude mysteriescholen van Babylon, Griekenland, India, Perzië, Egypte, enz., kregen de leerlingen directe, volledige informatie voor hun drie hersenen door middel van voorschriften, dans, muziek, enz., intelligent gecombineerd.</p>\n<p>De theaters van de oude tijden maakten deel uit van de school. Het drama, de komedie, de tragedie, gecombineerd met speciale mimiek, muziek, mondeling onderwijs, enz., dienden om de drie hersenen van elk individu te informeren.</p>\n<p>Toen maakten de studenten geen misbruik van de denkende hersenen en wisten ze hun drie hersenen intelligent en in evenwicht te gebruiken.</p>\n<p>De dansen van de mysteries van Eleusis in Griekenland, het theater in Babylon, de beeldhouwkunst in Griekenland werden altijd gebruikt om kennis over te dragen aan de discipelen.</p>\n<p>Nu in deze gedegenereerde tijden van de Rock, dwalen de verwarde en gedesoriënteerde leerlingen op het duistere pad van mentaal misbruik.</p>\n<p>Momenteel bestaan er geen echte creatieve systemen voor de harmonieuze cultivering van de drie hersenen.</p>\n<p>De leerkrachten van scholen, hogescholen en universiteiten richten zich alleen op het onbetrouwbare geheugen van de verveelde studenten die vol spanning wachten op het moment om de klas te verlaten.</p>\n<p>Het is dringend, het is essentieel om intellect, beweging en emotie te combineren met het doel om volledige informatie naar de drie hersenen van de studenten te brengen.</p>\n<p>Het is absurd om slechts één hersenen te informeren. De eerste hersenen zijn niet de enige van cognitie. Het is crimineel om misbruik te maken van de denkende hersenen van de leerlingen.</p>\n<p>Het FUNDAMENTEEL ONDERWIJS moet de studenten leiden op het pad van de harmonieuze ontwikkeling.</p>\n<p>De revolutionaire psychologie leert duidelijk dat de drie hersenen drie soorten onafhankelijke associaties hebben die totaal verschillend zijn. Deze drie soorten associaties roepen verschillende soorten impulsen van het wezen op.</p>\n<p>Dit geeft ons in feite drie verschillende persoonlijkheden die niets gemeen hebben, noch in hun aard, noch in hun manifestaties.</p>\n<p>De revolutionaire psychologie van het nieuwe tijdperk leert dat er in elk persoon drie verschillende psychologische aspecten bestaan. Met een deel van de psychische essentie willen we het ene, met een ander deel willen we iets totaal anders en dankzij het derde deel doen we iets totaal tegenovergesteld.</p>\n<p>In een moment van opperste pijn, misschien het verlies van een geliefde of een andere intieme catastrofe, raakt de emotionele persoonlijkheid tot wanhoop, terwijl de intellectuele persoonlijkheid zich afvraagt wat de reden is van al die tragedie en de bewegingspersoonlijkheid alleen maar van de scène wil vluchten.</p>\n<p>Deze drie verschillende en vaak zelfs tegenstrijdige persoonlijkheden moeten intelligent worden gecultiveerd en geïnstrueerd met speciale methoden en systemen in alle scholen, hogescholen en universiteiten.</p>\n<p>Vanuit psychologisch oogpunt is het absurd om uitsluitend de intellectuele persoonlijkheid op te voeden. De mens heeft drie persoonlijkheden die dringend het FUNDAMENTEEL ONDERWIJS nodig hebben.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/nl/educacion-fundamental/los-tres-cerebros.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/nl/educacion-fundamental/los-tres-cerebros.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/nl/educacion-fundamental/los-tres-cerebros.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

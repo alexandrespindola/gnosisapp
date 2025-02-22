@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Ubuhlakani",
+  "locale": "zu",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "19. Ubuhlakani",
+    "order": 19
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Sithole ukuthi othisha abaningi bomlando wezwe lonke entshonalanga yezwe bavame ukugcona uBUDDHA, uConfucius, uMuhammad, uHermes, uQuetzacoal, uMose, uKrishna, njll.</p>\n<p>Ngaphandle kokungabaza, siqinisekisile ngokugcwele, ukucasula, ukugcona, ukugcona okushiwo othisha ngokumelene nezinkolo zasendulo, ngokumelene nonkulunkulu, ngokumelene nezinganekwane, njll. Konke lokho kuwukuntuleka kobuhlakani.</p>\n<p>Ezikhungweni zemfundo, amakolishi namanyuvesi, izihloko zenkolo kufanele ziphathwe ngenhlonipho enkulu, ngomqondo ophezulu wokukhulekela, ngobuhlakani beqiniso bokudala.</p>\n<p>Izindlela zenkolo zigcina izindinganiso zaphakade futhi zihlelwe ngokwezidingo zengqondo nezomlando zabantu ngabanye, uhlanga ngalunye.</p>\n<p>Zonke izinkolo zinezimiso ezifanayo, izindinganiso ezifanayo zaphakade futhi zihlukile kuphela ngefomu.</p>\n<p>Akuhlakaniphile ukuthi umKristu ahlekise ngenkolo yeBuddha noma inkolo yamaHeberu noma yamaHindu ngoba zonke izinkolo zisekelwe ezisekelweni ezifanayo.</p>\n<p>Ukugcona kwezifundiswa eziningi ngezinkolo nabasunguli bazo kungenxa yobuthi be-MARXIST obushesha ukudla yonke imiqondo ebuthakathaka.</p>\n<p>Othisha bezikole, amakolishi namanyuvesi kufanele baqondise abafundi babo endleleni yenhlonipho yangempela kontanga yethu.</p>\n<p>Kubonakala kungalungile futhi kuyihlazo ngomuntu okhohlakele ukuhlekisa ngamathempeli ezinkolo, amahlelo, izikole noma imiphakathi engokomoya egameni lenkolelo yohlobo oluthile.</p>\n<p>Lapho beshiya amakilasi okufunda, abafundi kufanele babhekane nabantu bazo zonke izinkolo, izikole, amahlelo futhi akuhlakaniphile ukuthi bangakwazi nokuziphatha kahle ethempelini.</p>\n<p>Lapho beshiya amakilasi ngemuva kweminyaka eyishumi noma eyishumi nanhlanu befunda, intsha itholakala isinda futhi ilele njengabanye abantu, igcwele ukungabi nalutho futhi intula ubuhlakani njengosuku lokuqala bangena esikoleni.</p>\n<p>Kuphuthuma ukuthi abafundi, phakathi kwezinye izinto, bathuthukise isikhungo semizwelo ngoba akuyona yonke into eyizingqondo. Kuyadingeka ukufunda ukuzwa ubuhle obuseduze bempilo, ubuhle besihlahla esinesizungu, ukucula kwenyoni encane ehlathini, umculo omuhle nemibala yokushona kwelanga okuhle.</p>\n<p>Kuyadingeka futhi ukuzwa nokuqonda ngokujulile konke ukuphikisana okwesabekayo kwempilo, njengokuhleleka komphakathi okungenasihawu nokungenasihawu kwalesi sikhathi esiphilayo, imigwaqo egcwele omama abangajabuli abanezingane zabo ezingondlekile nezilambile abacela isicelo sesinkwa, izakhiwo ezimbi lapho kuhlala khona izinkulungwane zemindeni empofu, imigwaqo ecekelayo lapho izinkulungwane zezimoto zigudluka ngophethiloli ocekela phansi izinhlangano, njll.</p>\n<p>Umfundi oshiya amakilasi kufanele abhekane hhayi kuphela nobugovu bakhe nezinkinga zakhe, kodwa futhi nobugovu babo bonke abantu kanye nezinkinga eziningi zomphakathi wabantu.</p>\n<p>Okubuhlungu kakhulu kunakho konke ukuthi umfundi oshiya amakilasi, ngisho noma enokuqeqeshwa kwengqondo, akanabo ubuhlakani, unembeza wakhe ulele, akakulungiselele kahle ukulwela impilo.</p>\n<p>Sekuyisikhathi sokuthi siphenye futhi sithole ukuthi yini ebizwa nge-INTELLIGENCE. Isichazamazwi, i-encyclopedia, ibonakala ingakwazi ukuchaza ngokungathí sina i-INTELLIGENCE.</p>\n<p>Ngaphandle kobuhlakani akukho ukuguqulwa okukhulu noma injabulo yangempela futhi akuvamile empilweni ukuthola abantu abahlakaniphe ngempela.</p>\n<p>Okubalulekile empilweni akukhona ukwazi kuphela igama elithi INTELLIGENCE, kodwa ukuzizwela kithi incazelo yalo ejulile.</p>\n<p>Baningi abazibiza ngabahlakaniphile, akekho isidakwa esingazibizi ngesihlakaniphile futhi uCarlos Marx, ezibona ehlakaniphe kakhulu, wabhala inhlekisa yakhe yezinto ezibonakalayo eye yabiza umhlaba ukulahlekelwa izindinganiso zaphakade, ukudutshulwa kwezinkulungwane zabapristi bezinkolo ezahlukene, ukudlwengulwa kwezindela, amaBuddha, amaKristu, njll., ukubhujiswa kwamathempeli amaningi, ukuhlukunyezwa kwezinkulungwane nezigidi zabantu, njll njll. njll.</p>\n<p>Noma ubani angazibiza ngesihlakaniphile, into enzima ukuba abe yiyo ngempela.</p>\n<p>Akukona ngokuthola ulwazi olwengeziwe lwezincwadi, ulwazi olwengeziwe, okuhlangenwe nakho okwengeziwe, izinto ezengeziwe zokudida abantu, imali eyengeziwe yokuthenga amajaji namaphoyisa; njll. njengoba kuzotholwa lokho okubizwa nge-INTELLIGENCE.</p>\n<p>Akukhona ngaleyo MAS, njengoba ungathola i-INTELLIGENCE. Bayaphambuka ngokusobala labo abacabanga ukuthi ubuhlakani bungatholwa ngenqubo ye-MAS.</p>\n<p>Kuphuthuma ukukuqonda ngokujulile nangazo zonke izindawo zengqondo engaphansi nengqondo, ukuthi iyini leyo nqubo eyingozi ye-MAS, ngoba ekujuleni kwayo igcina ngasese kakhulu i-EGO ethandekayo, i-YO, i-MI MISMO, efisa futhi ehlala ifuna i-MAS ne-MAS ukuze ikhuluphale futhi iqine.</p>\n<p>Lo Mefistófeles esinawo ngaphakathi, lo SATÁN, lo YO, uthi: Ngine mali ENINGI, ubuhle obuningi, ubuhlakani obuningi kunalowo, udumo olukhulu, ubuqili obukhulu, njll. njll. njll.</p>\n<p>Noma ubani ofuna ngempela ukuqonda ukuthi iyini i-INTELLIGENCE, kufanele afunde ukuyizwa, kufanele ayizwe futhi ayihlole ngokuzindla okujulile.</p>\n<p>Konke abantu abakuqongelelayo phakathi kwethuna elibolile lenkumbulo engathembekile, ulwazi lwengqondo, okuhlangenwe nakho kwempilo, kuhlala kuhunyushwa ngokuyingozi ekupheleni kwe-MAS ne-MAS. Ngakho-ke abaze bayazi incazelo ejulile yakho konke lokho abakuqongelelayo.</p>\n<p>Abaningi bafunda incwadi bese beyibeka phakathi kwememori yanelisekile ngokuthi bakhiphe ulwazi olwengeziwe, kodwa lapho bebizwa ukuthi baphendule imfundiso ebhalwe encwadini abayifundile, kuvela ukuthi abayazi incazelo ejulile yale mfundiso, kodwa i-YO ifuna ulwazi oluningi oluthe xaxa, izincwadi ezithe xaxa ngisho nalapho engazange ayizwe imfundiso yanoma yiziphi zazo.</p>\n<p>Ubuhlakani abutholwa ngolwazi oluthe xaxa lwezincwadi, noma ngokuhlangenwe nakho okuthe xaxa, noma ngemali ethe xaxa, noma ngodumo oluthe xaxa, ubuhlakani bungakhula kithi lapho siqonda yonke inqubo ye-YO, lapho siqonda ngokujulile yonke leyo mshini wezengqondo we-MAS.</p>\n<p>Kubalulekile ukuqonda ukuthi ingqondo iyisikhungo esiyisisekelo se-MAS. Ngempela leyo MAS yi-YO efanayo ngokwengqondo eyifunayo futhi ingqondo iyinhliziyo yayo eyisisekelo.</p>\n<p>Noma ubani ofuna ukuhlakanipha ngempela, kufanele azimisele ukufa hhayi kuphela ezingeni elingenhla lezingqondo, kodwa futhi nazo zonke izindawo ezingaphansi nengqondo zengqondo.</p>\n<p>Lapho i-YO ifa, lapho i-Y0 ihlakazeka ngokuphelele okuwukuphela kwento esala ngaphakathi kithi yi-SER eyiqiniso, i-SER yangempela, ubuhlakani obusemthethweni obufunwa kakhulu futhi obunzima.</p>\n<p>Abantu bakholelwa ukuthi ingqondo iyadala, bayaphazama. I-YO ayiyona eyokudala futhi ingqondo iyinhliziyo eyisisekelo ye-YO.</p>\n<p>Ubuhlakani buyadala ngoba bungoboSER, buyisici se-SER. Akufanele sididanise ingqondo ne-INTELLIGENCE.</p>\n<p>Baphazanyiswa i-PLAN ngokuphelele nangendlela enkulu labo abacabanga ukuthi i-INTELLIGENCE iyinto engalinywa njengembali ye-greenhouse Noma into engathengwa njengoba kuthengwa izihloko zobukhosi noma ukuba nomtapo wezincwadi omkhulu.</p>\n<p>Kuyadingeka ukuqonda ngokujulile zonke izinqubo zengqondo, zonke izenzo, leyo MAS yengqondo eqongelelana, njll. Kungale ndlela kuphela lapho ilangabi elivuthayo le-INTELLIGENCE liphuma kithi ngokwemvelo nangokuzenzakalelayo.</p>\n<p>Njengoba uMefistófeles esithwele ngaphakathi eqala ukuhlakazeka, umlilo wobuhlakani bokudala uqala ukuzibonakalisa kancane kancane ngaphakathi kithi, kuze kukhanye ngokuvutha.</p>\n<p>I-SER yethu yangempela i-AMOR futhi kulolo THANDO kuzalwa i-INTELLIGENCE eyiqiniso nesemthethweni engeyona yesikhathi.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/zu/educacion-fundamental/la-inteligencia.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/zu/educacion-fundamental/la-inteligencia.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/zu/educacion-fundamental/la-inteligencia.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

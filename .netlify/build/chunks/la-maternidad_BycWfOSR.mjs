@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Dental Kaa'e",
+  "locale": "ff",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "23. Dental Kaa'e",
+    "order": 23
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Nguurndam neɗɗo fuɗɗoto ko cellal fotte, jogitoriiɗo, noone ko woni, e nder leyɗe celluuji nguurndam ngoodɗiɗi.</p>\n<p>Mawnintinaare, jibinannde, danyeede, ko ɗum woni tigi-taaɗe muuyɗe e nguurndam fuuɗiiyo tagungal.</p>\n<p>Ko haayre faamde wonde waɗi fuɗɗorde nguurndam amen, en njogitoo nder leyɗe pamare no feewi, noone gooto e amen waɗi cellal mikroskopiijo.</p>\n<p>En fuɗɗoto nguurndam noone cellal fotte, en ndendito nguurndam mawɓe, teddungal e njoɓdi memoraaji.</p>\n<p>Miijo ko memora. Mawɓe heewɓe nguuranaa ko fewjiiɗo, mawɓe heewɓe nguuranaa memoraaji ɓennuɗi. Mo mawɗo fuu wonaa ko daande e eele. Mo tedduɗo fuu ko taalikere ɓennuɗe, memoraaji keewɗi, ko ɗum ɓeydoo e nder jiiniiɗi yeeso amen.</p>\n<p>Mawnintinaare neɗɗo fuɗɗoto ko e leyɗe ngoodɗiɗe, ammaa jaati leyɗe nguurndam, ko ɗum addi ɓaawo ɓaawo.</p>\n<p>Yimɓe jaŋtooɓe heewɓe naati memoreede kaŋŋe nguurndam. Ndamdi pamarde nguurndam maako ko waktuuji fotte e nder kiikiiɗe lewru hoore, ɗum hawri non ko nguurndam mo gorko nguurndi e nder capanɗe tati e jeetato, ko nguurndi e nder goɗɗe, mo gorko nguurndi e nder capanɗe tati e jeetato ko nguurndi kaŋŋe nguurndi e nder miliyoŋaaji duuɓi.</p>\n<p>Ndaa Zoospermo waɗi e nder nokkuure ngesa, ɗum fuɗɗoto ko jibinannde. Cellal ngal nguurndam neɗɗo fuɗɗoto, ɗum jogiti capanɗe nayi e jeetato komosomji.</p>\n<p>Komosomji ɗum heen nder jiiniiɗi, temedere e ɓeydaade ngal ɗum ko komosomjo.</p>\n<p>Jiiniiɗi ɗum ɗuɗɗi faamde sabu ɗum jogitoriiɗi ko molekulaji pamare njooɗiɗe e ngoodɗiɗam ɗuuɗɗam.</p>\n<p>Leyɗe muuyɗe jiiniiɗi ɗum nokkuure hakkunde leyɗe tata e leyɗe nayi.</p>\n<p>E nder jiiniiɗi en njogiti atomji keeriiɗi. Miijo psixolooji yeeso amen ɗum ari jogitoo e nder nokkuure ngesa.</p>\n<p>E nder jamaanu elektro-teknik e sayns atomik, goonga non wonaa ko ɓeydi wonde footere elektor-magnetik iwaade yeeso waɗi taɓe e nder jiiniiɗi e komosomji nokkuure ngesa mo yeeso waɗi.</p>\n<p>Laawol nguurndam ɗum waɗi ko koɓe jawdi maayde.</p>\n<p>E nder darnde nguurndam, leƴƴi nguurndam feccita e nder leyɗe neɗɗo; leƴƴi nguurndam fuu jogiti laawol golle maajum, leƴƴi nguurndam fuu waɗi e nder leyɗe maajum e waktu maajum.</p>\n<p>E nder lewru ɗiɗaɓu nder mawnintinaare, en njogiti golle nelam e nder lewru nayi nder mawnintinaare naati golle semmbe goɗɗe e darnde nguurndam.</p>\n<p>Ko muuyɗe ñiiɓi sayns nguurndam e maayde koɗɗi fuu.</p>\n<p>Saynsajo heewɓe ngoni ko woodi ɓeydaare hakkunde danyeede tagungal neɗɗo e danyeede kaŋŋe e nder nokkuure hesere.</p>\n<p>E nder lewru jeenay danyeede suka, e nder lewru sappo fuɗɗoto mawnintinaare e nelaaji muuyɗe, ɗum nanii ɗum haani haa timmi e nder jihaaje waɗaaɗe.</p>\n<p>Ndaa Fontanela yeeso e nder danyeeɓe waɗi e nder duuɓi ɗiɗi walla tati, ko alama wonde sistem serebro-espinal timmi timmugol.</p>\n<p>Saynsajo heewɓe ngoni ko tabia jogiti miijo e miijo ngal haani haa nguurndam koɗɗi fuu, ko woni, ko waɗi, ko woni.</p>\n<p>Yimɓe ɗuɗɗe mbaɗi miijo e miijoɓe e woodi ko ina wi’i ko “Sukaajo Suudu”.</p>\n<p>E der leyɗe miijo woodi torra ɗuuɗɗe e woodi ko mbada miijo e fantaasi.</p>\n<p>Saynsajo ngoni ko woodi miijo ɗiɗi. E nder fuɗɗorde mbi’i ko miijo mekanikaajo e nder ɗiɗaɓu ɗum jogitoriiɗe: fuɗɗorde ko waɗi ko ko njooɓdi miijo e nder ɗiɗaɓu ɗum haani haa timmi.</p>\n<p>Jaati wallifaare e darnde en nanii ko woodi nooneeɗi sub-miijo mekanikaajo morbooso infrakonscente e subjektiijo.</p>\n<p>Nooneeɗi sub-miijo otomatik golli e gollital zona intellektual.</p>\n<p>Foto erotik, sinema morbooso, koɗɗi picante e noone ɗiɗaɓu, jiste morbooso, ekn., ɗum wawa golli e noone infrakonscente sub-miijo mekanikaajo.</p>\n<p>Analisis e gollital addi en ngoni ko koɗɗi erotik e polusion nocturne ɗum waɗi ko ko sub-miijo mekanikaajo.</p>\n<p>Koɗɗi absouluti ɗum ɗuɗɗi ndaa woodi sub-miijo mekanikaajo.</p>\n<p>Koɗɗi haani haa timmi wonde miijo konscente ɗum feewi e kaŋŋe ngal ina wi’e miijo mekanikaajo, subjektiijo, infrakonsciente. Subkonsciente.</p>\n<p>Golle fuu ina wawa nandeede e noone auto enaltecedor e jogitoriiɗe, ammaa sub-miijo noone mekanikaajo, infraskonsciente, subkonsciente, infraskonsciente ina wawa waɗi en golli e noone otomatik e matices e foto sensuales, pasionarias, sumergidas.</p>\n<p>Ndaa en nangi koɗɗi integra, uni-total, ɗum haani en, en ndaara miijo konscente ammaa miijo mekanikaajo e sub-miijo infraskonsciente, otomatik, subkonsciente, sumergida.</p>\n<p>En ngada yejjitoo woodi ɓeydaare hakkunde seks e miijo.</p>\n<p>E darnde meditasio ɗum haani en nguuɓa golle fuu e ɓeydaade mekanikaaji e noone fuu sub-miijo e infra-miijo otomatik, e miijo konsciente, objektivije.</p>\n<p>Miijo objektivije ko e hoore maajum ko koɗɗi, meeden fuu inventor ngada wawa miijo telephonjo, radio, avion, ekn.</p>\n<p>Miijo debbo e nder jibinannde ɗum haani haa timmi e darnde nguurndam feto. Ɗum tabitii wonde mo neene fuu wawa e nder miijo maajum feewitoo e psixis feto.</p>\n<p>Ɗum hawri wonde debbo e nder jibinannde ndaara foto haani haa timmi, nokkuure haani haa timmi, e nande muusik klassik e koɗɗi haani, ngam wawa feewitoo e psixis tagungal ngal nguurndi e nder nder maajum haani haa timmi.</p>\n<p>Debbo e nder jibinannde ngada ñaama alakool, e ngada wuuɗa, e ngada ndaara ko ngada haani sabu koɗɗi fuu ko perjudicial e darnde haani haa timmi tagungal.</p>\n<p>Ɗum haani faama jogitoreeɗe fuu e error debbo jibinannde.</p>\n<p>Gorko heewɓe ngada muuyi e faamde goonga, mbaɗi tikkere e ngura debbo e nder jibinannde. Amarguraaji ɗum, aflicsiiji waɗaaɗi mo gorko falt de kalitee, e noone feto e nder jibinannde, walla non no psixikamente.</p>\n<p>Jogitoriiɗe semmbe miijo, ɗum haani ɗum haani goonga wonde debbo e nder jibinannde, ngada ndaara ko ngada haani, ngada haani haa timmi, ngada waawa.</p>\n<p>Waktu ari e nder governooji ɗum haani nguurda e darnde mawɓe ɗum wallitaare.</p>\n<p>Resulta incongruente wonde e nder sociedad nga jogiti ko kristiana e demokratio, ngada faama respetaare e veneeraare sentido religioso debbo. Ɗum monstruoso ndaara miliyaaraaji debbo e nder jibinannde e ngada wallitaare, abandonadas de mo gorko e de sociedad, mendigando un pedazo de pan o un empleo e ejerciendo muchas veces trabajos materiales rudos, ngam wawa soobde e tagungal ngal nguurndi e nder maajum.</p>\n<p>Estados infra-humanos de sociedad aktual, koɗɗi krueelde e falta debbo e nder gobiernooji e pueblos no nanga e ɗuuɗɗi wonde demokratio ngada woodi.</p>\n<p>Hospitales con sus salas de maternidad todavía no han resuelto el problema, porque a dichos hospitales sólo pueden llegar las mujeres cuando ya se acerca el parto.</p>\n<p>Se necesitan con urgencia hogares colectivos, verdaderas ciudades jardín dotadas de salones y residencias para las mujeres en estado de embarazo pobres de solemnidad, clínicas y quindes para los hijos de éstas.</p>\n<p>Estos hogares colectivos son alojamiento para las mujeres pobres de solemnidad en estado de embarazo, llenos de toda clase de comodidades, flores, música, armonía, belleza, etc., solucionarían totalmente el gran problema de la maternidad.</p>\n<p>Debemos comprender que la sociedad humana es una gran familia y que no existe problema ajeno porque todo problema en una u otra forma afecta dentro de su respectivo círculo a todos los miembros de la sociedad. Es absurdo discriminar a las mujeres preñadas por el hecho de ser pobres de solemnidad. Es criminoso subestimarlas, despreciarlas o arrinconarlas en un asilo de indigentes.</p>\n<p>En esta sociedad en que vivimos no puede haber hijos y entenados, porque todos somos humanos y tenemos los mismos derechos.</p>\n<p>Necesitamos crear la verdadera democracia, si es que de verdad no queremos ser devorados por el Comunismo.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/ff/educacion-fundamental/la-maternidad.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/ff/educacion-fundamental/la-maternidad.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/ff/educacion-fundamental/la-maternidad.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

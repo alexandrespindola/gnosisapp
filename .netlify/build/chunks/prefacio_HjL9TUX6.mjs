@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Yeesoowo",
+  "locale": "ff",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "Yeesoowo",
+    "order": 0
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>“Ñande eɗɗe cellal” ko anndal ngal jeytaako nde men anndinta hakkunde men e aadeeji, e nguurndam, e kala ko woni. E nder anndal ngal, men anndi golle pittaali sabu pittaali ko huutorde anndal, e men poti janngude no men nasta huutorde ndee, ngam ndee ko ɓernde jaɓɓiinde e miijooji men.</p>\n<p>E nder golle ɗee, men jannginaa no miijooji mbaawi wonde, nder suɓaale, nder anndal, nder faamu, e nder miijooji.</p>\n<p>Ndeɗe habri men, no men moƴƴina hakkilantaagal men, nder nafooje teemedere: aadee, geecee, e nokkuure; hakkilantaagal no woodi fawaare, no ngalaa fawaare e ko men janngi ngam nde ɓaawo e nder hakkilantaagal. Hakkilantaagal moƴƴina nder golle jeytaako alkimiya, nde ɓaawo e ɓaawo nde jannginooɓe mbaawi anndude moƴƴineede nguurndam maɓɓe.</p>\n<p>Ngam aadeeji hirnaange, jannde fuɗɗi e duuɓi 6, ko nii nde ngeeti mbaawi anndude; ngam aadeeji fuɗɗoode, haa teeŋti noon Induu, eɗe fuɗɗi jannde nder nder mbaroodi; ngam Gnostikooɓe, eɗe fuɗɗi nder nguurndam, ko nii, ko adii miijo.</p>\n<p>Jannde fuɗnaange fuuya ɗiɗi feccere: ɗuum ko baaba e yumma mbaawi waɗde e ɗuum ko jannginooɓe mbaawi waɗde. Jannde fuuya ɗum no waɗi jannginooɓe e nder Anndal Laamɗo ngam janngude wonde baaba e yumma. Debbo no haani ngardi e nguurndam, ko ɗuum sabu cuka debbo no jaɓi e baaba nde cuka o woni ngesa ngam nde yi’i ɗum no tiiɗi e no doole; cuka gorko no haani yiɗde, waɗde, waɗde, ko ɗuum sabu cuka gorko no jaɓi e yumma ngam nguurndam. Ɓaawo, nde ɓe njaɓɓi ko laaɓi men ɗiɗo, debbo no ɗaɓɓa leeso moƴƴo walla gorko mo yiɗi ɗum, nde ɗuum nde o haani hokke yiɗde, e, gorko no ɗaɓɓa debbo mo woodi huutorde ngam nguurndam walla mo woodi golle; ngam woɗɓe no ɓuri waawde yeeso e no mbilli nguurndam maɓɓe.</p>\n<p>Ɗum no haaɗi nde yi’a defte jannde, kala golle e ujunaaji su’aalaaji, nde jannginoowo jaabooɓe ɗum e binndi ngam jannginooɓe janngi ɗum e hakkilantaagal, hakkilantaagal caɗtidi ko huutorede anndal ngal cukaŋkooɓe janngi e nder tiiɗgol, ɗuum jannde nguurndam no waɗi ɓe mbaawi ñaamde nguurndam nde ɓe timmini jannde, amma e nguurndam e nder nde ɓe mbaawi nguurndam anndaa, e nder nde ɓe nasta poolo, hatta e nde ɓe jannginaa no nasta suudu e nder moƴƴo, ɗuum jannde no fawaa e gollooɓe e nder somaa.</p>\n<p>Nde no haani cuka faama nde simme ko waɗi nguurndam aadeeji, ko huutorde ɓuri waawde ngam nguurndam aadee (geeɓe), ko barki e ko ɗuum waɗi, njayri golle makko. E nder nokkuure Jamiila Katholika, eɗe wardaa e nder Sagrario e nder teddungal, e nder geɓe nder nguurndam Jesucristo, ɗuum geɓe teddungal; no waɗi e simme ko waɗi geɓe. E nder nokkuure nguurndam, ko nii, nguurndam men, simme men no jogii nokkuure hostia teddungal e nguurndam men nde eɗe tawee nder ɓaawo Cristo Histórico; e nder simme men, eɗen wardaa Cristo nder geɓe men ɓaawo Cristo nguurndam mo nguurndam e no yalla nder ɓaawo simme men.</p>\n<p>E nder tiiɗgol men yi’i nde aadeeji gollooɓe mo wardaa e anndal meeɗe mo no nafii aadee, no janngina aadeeji warde teddungal e simme mo ɗum yalla e nder pade, men yi’i nde ɓe moƴƴinii nguurndam simme ngam waɗde keesaaji moƴƴi, warde e nder leese ɓuri waawde meereeji ngam nguurndam simme mo waɗi tiiɗgol. Men yi’i no aadeeji gollooɓe mo eɗe wardaa e nguurndam aaneeji, ɓe woodi waɗde wurojooji mo coost ko heewi nder coost geeɓe, ko ɗuum no haɓri nde ko simme mo ɓe waɗi, huutorde ko coost heewi. Ko aaneeji darnde, mo eɗe wardaa e geeɓe aadeeji, ngalaa ko no haɓri men e moƴƴineede simme; men no huli ko haani nguurndam e no haɓri jannginooɓe men nde simme aadeeji ko ɓuri ñaamde moƴƴineede, nder huutoreede ko eɗen ñaamaa: nder ko men miijii, ko men heɓi e ko men ñaami. To men miijii e nder ɗereeje, e nder ko waawi, ngalaa huutorde ko nii ko simme nde men waɗi ngam miijo no haani ngam waɗde ɗuum. Cuka mo janngi no fotti e mo ngalaa jannde nder no nguurndam, no woodi feere e nder nguurndam; ko heɓi nde heɓude biyaaji e nder bars e nder cantinas, no waɗi e nder nguurndam e nder nokkuuɓe mo eɗe yahda ɗuum nokkuure: aadeeji mo eɗe ñaamaa pasteles, gujje, biya, picantes, biya e ñaamude waɗi, eɗe nguurndam pasionario mo ɗuum jaɓi ɓe e fornicación.</p>\n<p>Kala aaneeji fornicario ko ɓalli: mbabba, gujje, baddi e hatta caɗeele nder suudu hatta e nder gaalo suudu. E nder ñaamde waawi yi’ude feere mo woodi hakkunde fornicarios e mo aadee no waɗi castos ngam huutoreede ɓe, yi’ude gónadas pucci yaawiinde e pucci naadiinde, hakkunde tooros de lidia e wurojooji mo ndeɗe ɓaawo e nder jarrde, berraco walla cerdo wurojooji, hatta e nder aaneeji famarɗe no mbira ko pasionario e nguurndam makko no bonii, ko goɗɗum no heɓi e gorko fornicario mo wardaa nguurndam makko e desodorantes e parfumes. Nde aadee no waɗi casto, laaɓɗo e saint, e nder miijooji, haala e golle, no heɓi nguurndam ɗum ɓe mo yaltinii, no moƴƴinii e nguurndam e nguurndam e nguurndam makko ngalaa fesɗe.</p>\n<p>No no nasta jannde fuuya? Ɗuum no heɓi hakkunde feccere mo eɗe tawee castidad, ko nii, mo ngalaa simme maɓɓe e nder displicencia e nguurndam fada, ko nii: espoos ɓe yiɗi hokke nguurndam ngam nguurndam njawndi, ɓe ɗaɓɓi ngam dow wonde waɗi ngam heɓude nguurndam, ɓaawo nder no woodi nde yiɗde no nguurndam, ɓe njawaani saa’i nde nguurndam no ɓuri waawde, ko nii no aadeeji mbaawi nde ɓe yalli, eɗe huutora golle ngam waɗde alkímica jonta no gorko e debbo, ko ɗuum jaɓi yaltinde espermatozoide tiiɗi e doole, moƴƴinii e golle mo anndinii ɓe adii nde ndee heɓi waɗde nguurndam teddungal, nde debbo no fami nde o woodi nder mbaroodi, no yalti e gorko, ko nii, nguurndam nguurndam timmini, ɗuum no waɗi ɗum e saahili nde gorko casto ngam no heenii e doole mo ɓuri, ngam kala nokkuure no moƴƴini nguurndam e debbo makko ngam ngalaa o waɗi moole walla ko fotti ngam kala nokkuure no yalli e feto nde nde heɓi, to ɗuum no waɗi njayri ko wonaa ayuntamiento mo nder no libidinosa no waɗi aadeeji mo ngalaa nde heɓi saawara e ndee? Ko waɗi huutorde ngam cukaŋkooɓe heɓi pasiónaji caɗtidii nde ɓe famari e ruboricen a yumma maɓɓe nder no escandalosa.</p>\n<p>Yumma no anndi nde no hokka nguurndam ngam njawndi njawndi mo wardaa e e nder Templa Nguurndam Makko, no geɓe tedduɗe, hokke ɗum e oraciones makko e miijooji mbilli no moƴƴini ngam enaltecer a nguurndam njawndi, ɓaawo yahi heɓude dimaagu ngam ngalaa dolore; e nder no faaɗita e nguurndam ngam tedde ngam baaba e yumma makko. Feccere no wardaa e diete mo no heewi no heewi no duuɓi nder moƴƴineede yahi nokkuure cuna ngam heɓude nguurndam njawndi, no anndi gorko nde debbo mo no ɓaajo e ɗuum no minla ɗum e nguurndam, e caricias sanas ngam kala nokkuure pasionaria no waɗi e senos e yumma e no hokka obstrucciones e canales nder nde ɓaajo ɓuri waawde mo hokka nguurndam, e hijo de sus entrañas, debbo mo yiɗi waɗde e golle ɗuum jannde no yi’i nde ɓe yalti ngenndiyankaaku ngam waɗde senos ngam obstrucciones. To woodi castidad woodi yiɗde e nde nde nguurndam, njawndi no yahi e nguurndam e kala njayri no yalti, ko nii no fuɗɗi ndee eɗɗe cellal ngam heɓude nguurndam nguurndam njawndi mo no yahi e colejo ngam waɗde jannde mo jaɓi ɗum nde nguurndam e ɓaawo ñaamde ngam nde nguurndam.</p>\n<p>E nder fuɗɗi nde duuɓi 7 no waɗi cuka nguurndam makko ko nii nde ɗuum ko haani no ko waawi e mbili ɓaajo e ko nde ɗum no yettaa e nguurndam no ɓe ngalaa sospesan e nder aadeeji. Ndaaron ko ndaaron ndaaron anndal Ser, men poti anndude ngam Ser.</p>\n<p>Yo ngalaa waawi anndude Nguurndam ngam Nguurndam ngalaa yahu e saa’i e Yo.</p>\n<p>Tiiɗgol e jikkaaji njayri jaɓi nguurndam huutoreede. Huutoreede ko waɗde, tiiɗgol ko njayri.</p>\n<p>Análisis kala e miijooji, men yeeɓi conciencia dooɗi.</p>\n<p>Nguurndam ko ko ngalaa anndude e nder saa’i, ngalaa kala nokkuure nder ko wonaa walla ngalaa; nguurndam ko su’aala nder nguurndam, nder nguurndam, nder famude.</p>\n<p>JULIO MEDINA VIZCAÍNO\nS. S. S.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/ff/educacion-fundamental/prefacio.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/ff/educacion-fundamental/prefacio.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/ff/educacion-fundamental/prefacio.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

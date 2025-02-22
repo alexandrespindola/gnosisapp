@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Jakten på sikkerhet",
+  "locale": "nb",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "6. Jakten på sikkerhet",
+    "order": 6
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Når kyllingene er redde, gjemmer de seg under hønas kjærlige vinger for å finne trygghet.</p>\n<p>Det redde barnet løper for å finne moren sin, fordi det føler seg trygt ved hennes side.</p>\n<p>Det er dermed bevist at FRYKT og søken etter TRYGGHET alltid er nært knyttet sammen.</p>\n<p>Mannen som frykter å bli overfalt av banditter, søker trygghet i pistolen sin.</p>\n<p>Landet som frykter å bli angrepet av et annet land, vil kjøpe kanoner, fly, krigsskip og bevæpne hærer og forberede seg på krig.</p>\n<p>Mange individer som ikke kan arbeide, livredde for fattigdom, søker trygghet i kriminalitet og blir tyver, overfallsmenn osv.</p>\n<p>Mange kvinner uten intelligens, redde for muligheten for fattigdom, blir prostituerte.</p>\n<p>Den sjalu mannen frykter å miste sin kone og søker trygghet i pistolen, dreper og havner selvsagt i fengsel.</p>\n<p>Den sjalu kvinnen dreper sin rival eller sin mann og blir dermed morder.</p>\n<p>Hun frykter å miste sin mann og ønsker å sikre seg ham ved å drepe den andre eller bestemmer seg for å myrde ham.</p>\n<p>Huseieren som er redd for at folk ikke skal betale husleien, krever kontrakter, kausjonister, depositum osv., i et forsøk på å sikre seg, og hvis en fattig enke full av barn ikke kan oppfylle slike enorme krav, og hvis alle huseiere i en by gjør det samme, vil den ulykkelige til slutt måtte sove med barna sine på gaten eller i parkene i byen.</p>\n<p>Alle kriger har sin opprinnelse i frykt.</p>\n<p>Gestapo, tortur, konsentrasjonsleirer, Sibir, de grusomme fengslene, eksil, tvangsarbeid, henrettelser osv. har sin opprinnelse i frykt.</p>\n<p>Nasjoner angriper andre nasjoner av frykt; de søker trygghet i vold, de tror at de ved å drepe, invadere osv. kan bli trygge, sterke, mektige.</p>\n<p>I kontorene til det hemmelige politiet, kontraspionasjen osv., både i øst og vest, tortureres spioner, de fryktes, man ønsker å få dem til å tilstå med det formål å finne trygghet for staten.</p>\n<p>Alle forbrytelser, alle kriger, alle drap har sin opprinnelse i frykt og søken etter trygghet.</p>\n<p>I tidligere tider var det oppriktighet blant folk, i dag har frykt og søken etter trygghet ødelagt den fantastiske duften av oppriktighet.</p>\n<p>Vennen mistror vennen, frykter at han skal stjele, svindle, utnytte ham, og det finnes til og med dumme og perverse maksime som denne: “Snu ALDRI ryggen til din beste venn”. HITLERIANERNE sa at denne MAKSIMEN var av GULL.</p>\n<p>Vennen frykter allerede vennen og bruker til og med MAKSIMER for å beskytte seg. Det er ikke lenger oppriktighet mellom venner. Frykt og søken etter trygghet ødela den deilige duften av oppriktighet.</p>\n<p>Castro Rus på Cuba har henrettet tusenvis av borgere i frykt for at de skal bli kvitt ham; Castro søker trygghet ved å henrette. Han tror at han kan finne trygghet på den måten.</p>\n<p>Stalin, den perverse og blodtørstige Stalin, forpestet Russland med sine blodige utrenskninger. Det var hans måte å søke trygghet på.</p>\n<p>Hitler organiserte Gestapo, det fryktelige Gestapo, for statens sikkerhet. Det er ingen tvil om at han fryktet at han skulle bli styrtet, og derfor grunnla han det blodige Gestapo.</p>\n<p>Alle bitterhetene i denne verden har sin opprinnelse i frykt og søken etter trygghet.</p>\n<p>Lærere og lærerinner må lære elevene verdien av mot.</p>\n<p>Det er beklagelig at barn fylles med frykt fra sitt eget hjem.</p>\n<p>Barn trues, skremmes, terroriseres, slås osv.</p>\n<p>Det er vanlig at foreldre og lærere skremmer barn og unge for at de skal studere.</p>\n<p>Vanligvis fortelles barn og unge at hvis de ikke studerer, må de tigge, vandre sultne i gatene, utføre svært ydmyke jobber som å pusse sko, bære bører, selge aviser, jobbe med plogen osv. osv. osv. (Som om arbeid var en forbrytelse)</p>\n<p>I bunn og grunn, bak alle disse ordene fra foreldre og lærere, ligger frykt for barnet og søken etter trygghet for barnet.</p>\n<p>Det alvorlige med alt dette vi sier, er at barn og unge får komplekser, fylles med frykt og senere i det praktiske livet er individer fulle av frykt.</p>\n<p>Foreldre og lærere som har den dårlige smaken å skremme barn og unge, leder dem ubevisst inn på kriminalitetens vei, for som vi allerede har sagt, har all kriminalitet sin opprinnelse i frykt og søken etter trygghet.</p>\n<p>I dag har FRYKT og SØKEN ETTER TRYGGHET gjort planeten jorden til et grusomt helvete. Alle er redde. Alle ønsker trygghet.</p>\n<p>I tidligere tider kunne man reise fritt, nå er grensene fulle av væpnede vakter, det kreves pass og sertifikater av alle slag for å ha rett til å reise fra et land til et annet.</p>\n<p>Alt dette er et resultat av frykt og SØKEN ETTER TRYGGHET. Man frykter den som reiser, man frykter den som kommer, og man søker trygghet i pass og papirer av alle slag.</p>\n<p>Lærere og lærerinner på skoler, høyskoler, universiteter må forstå skrekken i alt dette og samarbeide for verdens beste, ved å vite hvordan man oppdrar de nye generasjonene og lære dem veien til autentisk mot.</p>\n<p>Det er HASTENDE å lære de nye generasjonene å ikke frykte og å ikke søke trygghet i noe eller noen.</p>\n<p>Det er uunnværlig at hvert enkelt individ lærer å stole mer på seg selv.</p>\n<p>FRYKT og SØKEN etter TRYGGHET er fryktelige svakheter som gjorde livet til et grusomt HELVETE.</p>\n<p>Overalt florerer det av feiginger, redde, svake som alltid er på jakt etter TRYGGHET.</p>\n<p>Man frykter livet, man frykter døden, man frykter hva folk vil si, “det sies at det sies”, å miste sin sosiale posisjon, sin politiske posisjon, sin prestisje, sine penger, sitt vakre hus, sin vakre kone, sin gode ektemann, sin jobb, sin virksomhet, sitt monopol, sine møbler, sin bil osv. osv. osv., man frykter alt, det florerer av feiginger, redde, svake overalt, men ingen tror seg selv feige, alle later som om de er sterke, modige osv.</p>\n<p>I alle samfunnsklasser finnes det tusenvis og millioner av interesser som man frykter å miste, og derfor søker alle trygghet som i kraft av å bli stadig mer og mer komplekse, faktisk gjør livet stadig mer komplisert, stadig vanskeligere, stadig mer bittert, grusomt og hensynsløst.</p>\n<p>All baksnakking, all baktalelse, intriger osv. har sin opprinnelse i frykt og søken etter trygghet.</p>\n<p>For ikke å miste formuen, posisjonen, makten, prestisjen, spres det baktalelser, sladder, man myrder, man betaler for at det skal myrdes i hemmelighet osv.</p>\n<p>Jordens mektige gir seg til og med luksusen av å ha mordere på lønningslisten og svært godt betalt, med det avskyelige formålet å eliminere alle som truer med å overskygge dem.</p>\n<p>De elsker makten for maktens egen skyld og sikrer den med penger og mye blod.</p>\n<p>Avisene gir stadig nyheter om mange selvmordstilfeller.</p>\n<p>Mange tror at den som begår selvmord er modig, men egentlig er den som begår selvmord en feiging som er redd for livet og som søker trygghet i dødens avmagrede armer.</p>\n<p>Noen krigshelter var kjent som svake og feige personer, men da de sto ansikt til ansikt med døden, var deres terror så fryktelig at de ble til fryktelige beist som søkte trygghet for livet sitt og gjorde en enorm innsats mot døden. Da ble de erklært HELTER.</p>\n<p>Frykt forveksles ofte med mot. Den som begår selvmord virker veldig modig, den som bærer pistol virker veldig modig, men i virkeligheten er selvmordere og pistolmenn veldig feige.</p>\n<p>Den som ikke er redd for livet, begår ikke selvmord. Den som ikke er redd for noen, bærer ikke pistol i beltet.</p>\n<p>Det er HASTENDE at lærere og lærerinner lærer borgerne tydelig og presist hva som er ekte MOT og hva som er frykt.</p>\n<p>FRYKT og SØKEN etter TRYGGHET har gjort verden til et grusomt helvete.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/nb/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/nb/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/nb/educacion-fundamental/la-busqueda-de-seguridad.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

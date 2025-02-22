@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Aşk",
+  "locale": "tr",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "8. Aşk",
+    "order": 8
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Öğrenciler daha okul sıralarındayken, AŞK denen şeyi BÜTÜNSEL olarak anlamalıdır.</p>\n<p>KORKU ve BAĞIMLILIK genellikle AŞK ile karıştırılır, ancak bunlar AŞK değildir.</p>\n<p>Öğrenciler anne babalarına ve öğretmenlerine bağımlıdır ve onlara saygı duydukları ve aynı zamanda korktukları açıktır.</p>\n<p>Çocuklar, gençler ve genç hanımlar giyim, yemek, para, barınma vb. konularda ebeveynlerine bağımlıdır ve kendilerini korundukları açıktır, ebeveynlerine bağımlı olduklarını bilirler ve bu nedenle onlara saygı duyarlar ve hatta onlardan korkarlar, ancak bu AŞK değildir.</p>\n<p>Söylediklerimizin bir kanıtı olarak, her çocuğun, gencin veya genç hanımın, kendi ebeveynlerinden daha çok okuldaki arkadaşlarına güvendiğini tam olarak doğrulayabiliriz.</p>\n<p>Aslında çocuklar, gençler ve genç hanımlar arkadaşlarıyla, kendi ebeveynleriyle asla konuşmayacakları mahrem şeyleri konuşurlar.</p>\n<p>Bu, çocuklar ve ebeveynler arasında gerçek bir güven olmadığını, gerçek bir AŞK olmadığını gösteriyor.</p>\n<p>AŞK ile saygı, korku, bağımlılık, endişe arasında radikal bir fark olduğunu anlamak ACİLdir.</p>\n<p>Ebeveynlerimize ve öğretmenlerimize saygı duymayı bilmek ACİLdir, ancak saygıyı AŞK ile karıştırmamak gerekir.</p>\n<p>SAYGI ve AŞK SIKI SIKIYA BAĞLI OLMALIDIR, ancak birini diğeriyle karıştırmamalıyız.</p>\n<p>Ebeveynler çocukları için endişelenirler, onlar için iyi bir meslek, iyi bir evlilik, korunma vb. isterler ve bu endişeyi gerçek AŞK ile karıştırırlar.</p>\n<p>Gerçek AŞK olmadan, ebeveynlerin ve öğretmenlerin yeni nesilleri, çok iyi niyetleri olsa bile, akıllıca yönlendirmelerinin imkansız olduğunu anlamak gerekir.</p>\n<p>UÇURUM’a giden yol ÇOK İYİ NİYETLERLE döşenmiştir.</p>\n<p>Dünya çapında bilinen “NEDENSİZ ASİLER” vakasını görüyoruz. Bu, tüm dünyaya yayılmış zihinsel bir salgındır. Aileleri tarafından çok sevildiği, çok şımartıldığı, çok değer verildiği söylenen birçok “İYİ ÇOCUK” savunmasız yayaları soyuyor, kadınları dövüyor ve tecavüz ediyor, hırsızlık yapıyor, taş atıyor, her yerde zarar veren çeteler halinde dolaşıyor, öğretmenlere ve ailelere saygısızlık ediyor vb. vb. vb.</p>\n<p>“NEDENSİZ ASİLER” gerçek AŞK eksikliğinin ürünüdür.</p>\n<p>Gerçek AŞK’ın olduğu yerde “NEDENSİZ ASİLER” olamaz.</p>\n<p>Aileler çocuklarını gerçekten SEVİYORSA, onları akıllıca yönlendirmeyi bilirlerdi ve o zaman “NEDENSİZ ASİLER” olmazdı.</p>\n<p>Nedensiz asiler, kötü bir yönlendirmenin ürünüdür.</p>\n<p>Ailelerin, çocuklarını akıllıca yönlendirmeye gerçekten adanacak kadar AŞK’ı olmamıştır.</p>\n<p>Modern aileler sadece parayı düşünürler ve çocuğa daha fazlasını, en son model arabayı ve en son moda kıyafetleri verirler vb., ancak gerçekten sevmezler, sevmeyi bilmezler ve bu nedenle “nedensiz asiler” ortaya çıkar.</p>\n<p>Bu dönemin yüzeyselliği, gerçek AŞK eksikliğinden kaynaklanmaktadır.</p>\n<p>Modern hayat, derinliği olmayan, sığ bir su birikintisine benzer.</p>\n<p>Hayatın derin gölünde birçok canlı, birçok balık yaşayabilir, ancak yolun kenarındaki su birikintisi, güneşin yakıcı ışınlarıyla yakında kurur ve o zaman geriye kalan tek şey çamur, çürüme, çirkinliktir.</p>\n<p>AŞK’ı öğrenmediysek, hayatın güzelliğini tüm ihtişamıyla anlamak imkansızdır.</p>\n<p>İnsanlar saygıyı ve korkuyu AŞK denen şeyle karıştırırlar.</p>\n<p>Üstlerimize saygı duyarız ve onlardan korkarız ve sonra onları sevdiğimize inanırız.</p>\n<p>Çocuklar ebeveynlerinden ve öğretmenlerinden korkarlar ve onlara saygı duyarlar ve sonra onları sevdiklerine inanırlar.</p>\n<p>Çocuk kamçıdan, cetvelden, kötü nottan, evde veya okuldaki azardan korkar vb. ve sonra ebeveynlerini ve öğretmenlerini sevdiğine inanır, ancak gerçekte onlardan sadece korkar.</p>\n<p>İşe, patrona bağlıyız, sefaletten, işsiz kalmaktan korkuyoruz ve sonra patronu sevdiğimize ve hatta çıkarlarını gözettiğimize, mallarına baktığımıza inanıyoruz, ancak bu AŞK değil, bu korkudur.</p>\n<p>Birçok insan hayatın ve ölümün gizemleri üzerine kendi başına düşünmekten, araştırmaktan, soruşturmaktan, anlamaktan, çalışmaktan vb. korkar ve sonra şöyle derler: TANRI’YI SEVİYORUM VE BU YETERLİ!</p>\n<p>TANRI’yı sevdiklerine inanırlar ama gerçekte SEVMEZLER, korkarlar.</p>\n<p>Savaş zamanlarında eş, kocasını her zamankinden daha çok sevdiğini hisseder ve eve dönmesini sonsuz bir özlemle bekler, ancak gerçekte onu sevmez, sadece kocasız, korumasız kalmaktan korkar vb. vb. vb.</p>\n<p>Psikolojik kölelik, bağımlılık, birine bağımlı olmak AŞK değildir. Sadece KORKU’dur ve hepsi bu.</p>\n<p>Çocuk, çalışmalarında ÖĞRETMEN’e bağımlıdır ve ATILMA’dan, kötü nottan, azardan korktuğu açıktır ve çoğu zaman onu SEVDİĞİNE inanır, ancak olan şey ondan korkmasıdır.</p>\n<p>Eş doğum yaparken veya herhangi bir hastalıktan ölüm tehlikesi altındayken, koca onu çok daha fazla sevdiğini düşünür, ancak gerçekte olan şey onu kaybetmekten korkmasıdır, yemek, seks, çamaşır yıkama, okşama vb. gibi birçok konuda ona bağımlıdır ve onu kaybetmekten korkar. Bu AŞK değildir.</p>\n<p>Herkes herkesi sevdiğini söyler ama öyle bir şey yoktur: Hayatta GERÇEKTEN SEVMEYİ bilen birini bulmak çok nadirdir.</p>\n<p>Ebeveynler çocuklarını gerçekten sevselerdi, çocuklar ebeveynlerini gerçekten sevselerdi, öğretmenler öğrencilerini gerçekten sevselerdi, savaşlar olmazdı. Savaşlar yüzde yüz imkansız olurdu.</p>\n<p>Olan şey, insanların aşkın ne olduğunu anlamaması ve her türlü korkuyu ve her türlü psikolojik köleliği ve her türlü tutkuyu vb. AŞK denen şeyle karıştırmasıdır.</p>\n<p>İnsanlar SEVMEYİ bilmiyor, eğer insanlar sevmeyi bilseydi, hayat aslında bir cennet olurdu.</p>\n<p>AŞIKLAR sevdiklerine inanırlar ve çoğu kanlarıyla yemin etmeye bile hazırdır ki seviyorlardır. Ama sadece TUTKULUDURLAR. TUTKU tatmin olduğunda, iskambil kağıtlarından kule yıkılır.</p>\n<p>TUTKU genellikle AKLI ve KALBİ aldatır. Her TUTKULU AŞIK olduğuna inanır.</p>\n<p>Hayatta gerçekten aşık bir çift bulmak çok nadirdir. TUTKULU çiftler boldur, ancak AŞIK bir çift bulmak çok zordur.</p>\n<p>Tüm sanatçılar AŞK’a şarkılar söylerler ama AŞK’ın ne olduğunu bilmezler ve TUTKU’yu AŞK ile karıştırırlar.</p>\n<p>Bu hayatta çok zor bir şey varsa, o da TUTKU’yu AŞK ile karıştırmamaktır.</p>\n<p>TUTKU, tasavvur edilebilecek en lezzetli ve en ince zehirdir, her zaman kan pahasına galip gelir.</p>\n<p>TUTKU yüzde yüz CİNSELDİR, TUTKU hayvani bir şeydir ama bazen de çok rafine ve inceliklidir. Her zaman AŞK ile karıştırılır.</p>\n<p>Öğretmenler, öğrencilere, gençlere ve genç hanımlara, AŞK ile TUTKU arasındaki farkı öğretmelidir. Ancak bu şekilde hayatta daha sonra birçok trajediden kaçınılabilir.</p>\n<p>Öğretmenler öğrencilerin sorumluluklarını oluşturmakla yükümlüdür ve bu nedenle onları hayatta trajik durumlara düşmemeleri için gerektiği gibi hazırlamalıdır.</p>\n<p>AŞK olan şeyi, kıskançlık, tutku, şiddet, korku, bağlılık, psikolojik bağımlılık vb. ile karıştırılmaması gereken şeyi anlamak gerekir.</p>\n<p>Ne yazık ki AŞK insanlarda mevcut değildir, ancak bir seradaki çiçek gibi EDİNİLEBİLECEK, satın alınabilecek, yetiştirilebilecek bir şey de değildir.</p>\n<p>AŞK içimizde DOĞMALIDIR ve ancak içimizde taşıdığımız NEFRET’in, KORKU’nun, CİNSEL TUTKU’nun, endişenin, psikolojik köleliğin, bağımlılığın vb. ne olduğunu tam olarak anladığımızda DOĞAR.</p>\n<p>Bu PSİKOLOJİK kusurların ne olduğunu anlamalıyız, bunların sadece hayatın entelektüel düzeyinde değil, aynı zamanda BİLİNÇALTInın gizli ve bilinmeyen diğer düzeylerinde de bizde nasıl işlendiğini anlamalıyız.</p>\n<p>Zihnin çeşitli köşelerinden tüm bu kusurları çıkarmak gerekir. Ancak bu şekilde bizde kendiliğinden ve saf bir şekilde AŞK denen şey doğar.</p>\n<p>AŞK’ın alevi olmadan dünyayı dönüştürmek istemek imkansızdır. Dünyayı gerçekten sadece AŞK dönüştürebilir.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/tr/educacion-fundamental/el-amor.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tr/educacion-fundamental/el-amor.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/tr/educacion-fundamental/el-amor.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "తప్పుడు రాష్ట్రాలు",
+  "locale": "te",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-tratado-de-psicologia-revolucionaria.webp-5e15e1cec4e0ebebcde5d7fc7565d8fd.webp",
+  "sidebar": {
+    "label": "8. తప్పుడు రాష్ట్రాలు",
+    "order": 8
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>నిస్సందేహంగా, స్వీయ పరిశీలనలో, ఆచరణాత్మక జీవితంలోని బాహ్య సంఘటనలు మరియు మనస్సాక్షి యొక్క అంతర్గత స్థితుల మధ్య పూర్తి తార్కిక వ్యత్యాసాన్ని చూపడం ఎల్లప్పుడూ అత్యవసరం.</p>\n<p>మనస్సాక్షి యొక్క అంతర్గత స్థితికి మరియు మనకు సంభవిస్తున్న బాహ్య సంఘటన యొక్క నిర్దిష్ట స్వభావానికి సంబంధించి మనం ఒక నిర్దిష్ట సమయంలో ఎక్కడ ఉన్నామో తెలుసుకోవడానికి మనం అత్యవసరంగా తెలుసుకోవాలి.</p>\n<p>జీవితం అనేది కాలక్రమేణా జరిగే సంఘటనల శ్రేణి…</p>\n<p>ఎవరో అన్నారు: “జీవితం ఒక గొలుసు, మనిషి తన ఆత్మలో చిక్కుకున్న బాధల గొలుసు…”</p>\n<p>ప్రతి ఒక్కరూ తమకు నచ్చిన విధంగా ఆలోచించడానికి చాలా స్వేచ్ఛగా ఉంటారు; క్షణికమైన ఆనందాల తర్వాత నిరాశ మరియు చేదు ఎల్లప్పుడూ వస్తాయని నేను నమ్ముతున్నాను…</p>\n<p>ప్రతి సంఘటనకు దాని ప్రత్యేకమైన లక్షణం ఉంటుంది మరియు అంతర్గత స్థితులు కూడా వేర్వేరు తరగతులుగా ఉంటాయి; ఇది తిరుగులేనిది, ఖండించలేనిది…</p>\n<p>ఖచ్చితంగా, తనపై తాను అంతర్గతంగా పనిచేయడం మనస్సాక్షి యొక్క వివిధ మానసిక స్థితులకు సంబంధించినది.</p>\n<p>మనలో చాలా తప్పులు ఉన్నాయని మరియు తప్పు స్థితులు ఉన్నాయని ఎవరూ ఖండించలేరు…</p>\n<p>మనం నిజంగా మారాలని కోరుకుంటే, మనస్సాక్షి యొక్క ఆ తప్పు స్థితులను అత్యవసరంగా మరియు తప్పనిసరిగా పూర్తిగా మార్చాలి…</p>\n<p>తప్పు స్థితుల యొక్క సంపూర్ణ మార్పు, ఆచరణాత్మక జీవితంలో పూర్తి పరివర్తనలకు దారితీస్తుంది…</p>\n<p>ఒకరు తప్పు స్థితులపై తీవ్రంగా పనిచేసినప్పుడు, జీవితంలోని అసహ్యకరమైన సంఘటనలు ఇకపై అతన్ని అంత సులభంగా బాధించలేవు…</p>\n<p>వాస్తవాల మైదానంలో నిజంగా అనుభవించడం ద్వారా, అనుభూతి చెందడం ద్వారా మాత్రమే అర్థం చేసుకోగలిగే విషయాన్ని మేము చెబుతున్నాము…</p>\n<p>తనపై తాను పనిచేయని వాడు పరిస్థితులకు ఎల్లప్పుడూ బాధితుడు; అతను సముద్రపు తుఫాను నీటిలో ఒక దయనీయమైన కర్రలాంటివాడు…</p>\n<p>సంఘటనలు వాటి బహుళ కలయికలలో నిరంతరం మారుతూ ఉంటాయి; అవి తరంగాలలో ఒకటి తర్వాత ఒకటి వస్తాయి, అవి ప్రభావాలు…</p>\n<p>ఖచ్చితంగా మంచి మరియు చెడు సంఘటనలు ఉన్నాయి; కొన్ని సంఘటనలు ఇతరులకన్నా మంచివి లేదా అధ్వాన్నంగా ఉంటాయి…</p>\n<p>కొన్ని సంఘటనలను మార్చడం సాధ్యమే; ఫలితాలను మార్చడం, పరిస్థితులను మార్చడం మొదలైనవి ఖచ్చితంగా అవకాశాల సంఖ్యలో ఉన్నాయి.</p>\n<p>అయినప్పటికీ, నిజంగా మార్చలేని వాస్తవ పరిస్థితులు ఉన్నాయి; ఈ చివరి సందర్భాలలో, కొన్ని చాలా ప్రమాదకరమైనవి మరియు బాధాకరమైనవి అయినప్పటికీ వాటిని స్పృహతో అంగీకరించాలి…</p>\n<p>సమర్పించబడిన సమస్యతో మనం గుర్తించనప్పుడు నొప్పి నిస్సందేహంగా అదృశ్యమవుతుంది…</p>\n<p>మనం జీవితాన్ని వరుస అంతర్గత స్థితుల శ్రేణిగా పరిగణించాలి; మన వ్యక్తిగత జీవితం యొక్క ప్రామాణికమైన కథనం ఆ స్థితులన్నింటితో రూపొందించబడింది…</p>\n<p>మన స్వంత ఉనికిని పూర్తిగా సమీక్షించినప్పుడు, చాలా అసహ్యకరమైన పరిస్థితులు తప్పు అంతర్గత స్థితుల కారణంగా సాధ్యమయ్యాయని మనం స్వయంగా నేరుగా ధృవీకరించగలము…</p>\n<p>అలెగ్జాండర్ ది గ్రేట్ స్వతహాగా నియంత్రణ కలిగి ఉన్నప్పటికీ, అతను గర్వంతో మరణానికి దారితీసే దురాగతాలకు పాల్పడ్డాడు…</p>\n<p>ఫ్రాన్సిస్ I ఒక మురికి మరియు అసహ్యకరమైన వ్యభిచారం కారణంగా మరణించాడు, అది చరిత్ర ఇప్పటికీ బాగా గుర్తుంచుకుంటుంది…</p>\n<p>మరాట్ ఒక దుష్ట సన్యాసినిచే హత్య చేయబడినప్పుడు, అతను అహంకారం మరియు అసూయతో చనిపోతున్నాడు, అతను తనను తాను పూర్తిగా న్యాయంగా భావించాడు…</p>\n<p>సేవకుల ఉద్యానవనంలోని మహిళలు నిస్సందేహంగా లూయిస్ XV అని పిలువబడే భయంకరమైన వ్యభిచారి యొక్క శక్తిని పూర్తిగా అంతం చేశారు.</p>\n<p>అనేక మంది ప్రజలు అత్యాశ, కోపం లేదా అసూయతో మరణిస్తారు, మనస్తత్వవేత్తలకు ఇది బాగా తెలుసు…</p>\n<p>మన ఇష్టం మార్పులేని విధంగా అర్ధంలేని ధోరణిలో ధృవీకరించబడిన వెంటనే, మనం పాంథియోన్ లేదా స్మశానవాటికకు అభ్యర్థులుగా మారుతాము…</p>\n<p>ఒథెల్లో అసూయ కారణంగా హంతకుడిగా మారాడు మరియు జైలు నిజాయితీపరులైన తప్పులతో నిండి ఉంది…</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/te/tratado-de-psicologia-revolucionaria/estados-equivocados.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/te/tratado-de-psicologia-revolucionaria/estados-equivocados.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/te/tratado-de-psicologia-revolucionaria/estados-equivocados.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

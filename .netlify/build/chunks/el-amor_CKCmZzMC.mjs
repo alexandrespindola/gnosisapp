@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Amor",
+  "locale": "kea",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "8. Amor",
+    "order": 8
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Djês di mèsmu bankus di skóla, alunus y alunas debe konprende di un manera konplétu kel kuza ki ta txoma AMÔR.</p>\n<p>MEDU y DEPENDÊNSIA ta kustuma konfundi ku AMÔR, má es ka é AMÔR.</p>\n<p>Alunus y alunas ta depende di ses pais y profesoris y é klaru ma es ta rispeta-s y ten medo di es na mésmu ténpu.</p>\n<p>Mininus y mininas, jovens y sinhoritas ta depende di ses pais pa kel di rópa, kumida, dinheru, albergue, etc. y a tudu luz ta parse klaru ma es ta sinti protejidu, es sabe ma es ta depende di ses pais y pur isu es ta rispeta-s y até ta ten medo di es, má kel la ka é AMÔR.</p>\n<p>Pa móstra di kel ki nu sta ta fla, nu pode verifika ku interu izatidon ma tudu mininu ô minina, joven ô sinhorita, ten más konfiansa na ses amigus ô amigas di skóla, ki na ses prôpriu pais.</p>\n<p>Realmenti mininus, mininas, jovens y sinhoritas ta pâpia ku ses konpanherus y konpanheras, kuzas íntimus ki nunka na vida es ka ta pâpia ku ses prôpriu pais.</p>\n<p>Isu sta ta dimóstra-nu ma ka ten konfiansa verdaderu entri fidjus y pais, ma ka ten verdaderu AMÔR.</p>\n<p>É URJÊNTI konprende ma ten un diferensa radikal entri AMÔR y kel kuza ki é rispetu, medu, dependênsia, medu.</p>\n<p>É URJÊNTI sabe rispeta nos pais y profesoris, má ka konfundi rispetu ku AMÔR.</p>\n<p>RESPETU y AMÔR debe sta ÍNTIMAMENTE UNIDU, má nu ka debe konfundi un ku otu.</p>\n<p>Pais ta ten medo pa ses fidjus, es ta deseja pa es kel mèlhor, un bon profison, un bon kazamentu, proteson, etc. y es ta konfundi kel medu ku verdaderu AMÔR.</p>\n<p>É nesesáriu konprende ma sen AMÔR VERDADERU é inpusível ki pais y profesoris pode guia novas jerasons sabementi mésmu kantu ten mutu bons intenson.</p>\n<p>Kaminhu ki ta konduzi pa ABISMU sta piedrikuadú ku MUTU BONS INTENSON.</p>\n<p>Nu ta odja kazu mundialmenti konxedu di “REBELDIS SEN KAUZA”. Es é un epidemia mental ki dja spadjá pa mundu interu. Multidon di “MININUS BEN”, diz ki mutu amadu pa ses pais, mutu mimadu, mutu keridu, ta salta tranzitanti indefesu, ta bati y viola mudjeris, ta ruba, ta pidiadu, ta anda na pandilha ta kauza danu pa tudu parti, ta falta rispetu ku profesoris y pais di família, etc. etc. etc.</p>\n<p>“REBELDIS SEN KAUZA” é prudutu di falta di verdaderu AMÔR.</p>\n<p>Onde ki izisti verdaderu AMÔR ka pode izisti “REBELDIS SEN KAUZA”.</p>\n<p>Si pais di família AMABA di verdadi ses fidjus es ta sabe orienta-s intelijentementi y anton ka ta izistiba “REBELDIS SEN KAUZA”.</p>\n<p>Rebeldis sen kauza é prudutu di un mau orientason.</p>\n<p>Pais di família ka ten sufisienti AMÔR pa mó pa dedika di verdadi pa orienta ses fidjus sabementi.</p>\n<p>Pais di família modernu ta pensa sô na dinheru y da fidju más y más, y karu últimu mudelu, y rópas di últimu móda, etc. má ka ama di verdadi ka sabe ama y pur isu “rebeldis sen kauza”.</p>\n<p>Superfisialidadi di es époka debe-s a falta di AMÔR VERDADERU.</p>\n<p>Vida modernu é siménti a un txarku sen profundidadi, sen fundura.</p>\n<p>Na lagua profundu di vida, pode vive txeu kriaturas, txeu pexi, má txarku situadu na vera di kaminhu, más sedu ta sika ku raius ardenti di sol y anton úniku kuza ki ta fika é lodu, podridon, feiura.</p>\n<p>É inpusível konpreende biléza di vida na tudu se splendor, si nu ka prende ama.</p>\n<p>Djis ta konfundi rispetu y medu ku kel kuza ki ta txoma AMÔR.</p>\n<p>Nu ta rispeta nos superioris y nu ta ten medo di es y anton nu ta kre ma nu ta ama-s.</p>\n<p>Mininus ta ten medo di ses pais y profesoris y es ta rispeta-s y ta kre anton ma es ta ama-s.</p>\n<p>Mininu ta ten medo di txikoti, di férula, di má skualifikason, di ripréenda na kasa ô na skóla, etc. y ta kre anton ma el ta ama se pais y profesoris má na realidad el sô ta ten medo di es.</p>\n<p>Nu ta depende di enpregu, di patron, nu ta ten medo di miséria, di fika sen trabadju y anton nu ta kre ma nu ta ama patron y até nu ta zela pa ses interésis, nu ta kida ses propriedadis má kel la ka é AMÔR, kel é medu.</p>\n<p>Txeu djis ten medu di pensa pa ses kabésa na mistérius di vida y di mórti, medu di inkiri, invéstiga, konpreende, studa, etc. y anton es ta sklama ¡N TÁ AMA DEUS, Y KU ISU É SUFISIENTI!</p>\n<p>Es ta kre ma es ta ama DEUS má na realidad es ka TÁ AMA, es ta ten medu.</p>\n<p>Na ténpus di géra mudjer ta sinti ma el ta adora se mariu más ki nunka y ta anhela ku ansiedadi infinitu se volta pa kasa, má na realidad el ka ta ama-l, sô ta ten medo di fika sen mariu, sen proteson, etc. etc. etc.</p>\n<p>Skravidon psikolójiku, dependênsia, depende di algén, ka é AMÔR. É únikamenti MEDU y isu é tudu.</p>\n<p>Mininu na ses studus ta depende di MESTRI ô MESTRA y é klaru ki el ta ten medo di ESPULSON, di má skualifikason, di ripréenda y txeu bés el ta kre ma el TÁ AMA-L má kel ki ta susede é ki el ta ten medo di el.</p>\n<p>Kantu mudjer sta di partu ô na perigu di mórti pa kualkér duênsa, mariu ta kre ma el ta ama-l mutu más, má na realidad kel ki ta susede é ki el ta ten medo di perde-l, el ta depende di el na txeu kuzas, komu, é kumida, seksu, laba rópa, karísias, etc. y el ta ten medo di perde-l. Kel la ka é AMÔR.</p>\n<p>Tudu mundu ta fla ma el ta adora tudu mundu má ka ten tal: É mutu raru atxa na vida algén ki sabe AMA VERDADERAMENTE.</p>\n<p>Si pais amaba di verdadi ses fidjus, si fidjus amaba di verdadi ses pais, si profesoris amaba di verdadi ses alunus y alunas ka ta podiba ten géras. Géras ta serba inpusível na un sentu pur sentu.</p>\n<p>Kel ki ta susede é ki djis ka konpreende kel ki é amor, y a tudu medu y a tudu skravidon psikolójiku, y a tudu paxon, etc. es ta konfundi ku kel kuza ki ta txoma AMÔR.</p>\n<p>Djis ka sabe AMA, si djis sabiba ama, vida ta serba di fétu un paraízu.</p>\n<p>ENAMORADUS ta kre ma es sta ta ama y txeu até ta serba kapás di jura ku sangre ma es sta ta ama. Más Sô es sta APASIONADU. Satisfetu PASION, kastelu di kartas ta bin pa txon.</p>\n<p>PASION ta kustuma engana MÊNTI y KORASON. Tudu APASIONADU ta kre ma el sta ENAMORADU.</p>\n<p>É mutu raru atxa na vida algun pâra verdaderamenti inamuradu. Ta abunda pâras di APASIONADUS má é difisilísimu atxa un pâra di ENAMORADUS.</p>\n<p>Tudu artistas ta kanta pa AMÔR má ka sabe kuzé ki é AMÔR y ta konfundi PASION ku AMÔR.</p>\n<p>Si ten algun kuza mutu difísil na es vida, é KA konfundi PASION ku AMÔR.</p>\n<p>PASION é vinen más dilisiosu y más sutíl ki pode konsede, sénpri ta termina ta triunfa a prézu di sangre.</p>\n<p>PASION é SEKSUAL sentu pur sentu, PASION é bestial má algun bés é tanbé mutu rifinadu y sutíl. Sénpri ta konfundi ku AMÔR.</p>\n<p>Mestris y mestras debe inxina alunus, Jôvens y sinhoritas, a diferensia entri AMÔR y PASION. Sô asina es ta evita más tardi txeu trajédias na vida.</p>\n<p>Mestris y mestras sta obrigadu a forma responsabilidadi di alunus y alunas y pur isu debe pripara-s debidamenti pa mó pa es ka konverte na trajikus na vida.</p>\n<p>É nesesáriu konpreende kel ki é AMÔR, kel ki ka pode misturadu ku djélu, paxons, violênsias, medu, apegus, dependênsia psikolójiku, etc. etc. etc.</p>\n<p>AMÔR dizgrasidamenti ka izisti na seris umanus, má tanpôku é algun kuza ki pode ADKIRI, kunpra, kultiva komu flor di invernaderu, etc.</p>\n<p>AMÔR debe NASSE na nos y sô ta NASSE kantu nu konpreende a fundu kel ki é ÓDIU ki nu ta leba drentu, kel ki é MEDU, PASION SEKSUAL, medu, skravidon psikolójiku, dependênsia, etc. etc. etc.</p>\n<p>Nu debe konpreende kel ki é es difetus PSICOLÓJIKUS, nu debe konpreende komu ki es ta prosesa na nos ka sô na nível intelektual di vida, má tanbé na otus níveis okultu y diskonxedu di SUBCONSIÊNTI.</p>\n<p>É nesesáriu strai di distintus rikonvés di ménti tudu es difetus. Sô asina ta nasse na nos na forma spontâniu y puru, kel kuza ki ta txoma AMÔR.</p>\n<p>É inpusível kere transforma mundu sen txama di AMÔR. Sô AMÔR pode di verdadi transforma mundu.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/kea/educacion-fundamental/el-amor.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/kea/educacion-fundamental/el-amor.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/kea/educacion-fundamental/el-amor.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

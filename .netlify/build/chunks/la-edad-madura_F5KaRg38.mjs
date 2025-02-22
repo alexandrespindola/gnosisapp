@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Serdema Temenmezinbûnê",
+  "locale": "kmr",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "27. Serdema Temenmezinbûnê",
+    "order": 27
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Temenê navsere ji sî û pênc saliyê dest pê dike û di pêncî û şeş saliyê de diqede.</p>\n<p>Divê mêrê temenê navsere karibe mala xwe bi rê ve bibe û zarokên xwe bi rê ve bibe.</p>\n<p>Di jiyana normal de her mêrekî temenê navsere serokê malbatê ye. Mirovê ku di ciwanî û temenê xwe yê navsere de mal û milk çênekiribe, êdî çênake, bi rastî jî têk çûye.</p>\n<p>Ew kesên ku hewl didin di pîrbûnê de mal û milk ava bikin, bi rastî jî hêjayî dilovaniyê ne.</p>\n<p>Ezê xwe ya çavbirçî diçe zêdeyiyan û dixwaze sermayeyên dewlemend berhev bike. Mirov hewcedarê nan, stargeh û mal e. Pêdivî ye ku nan, xaniyek, cil û berg, kinc hebin ku laş veşêrin, lê ne hewce ye ku meriv ji bo jiyanê mîqdarên mezin ên drav berhev bike.</p>\n<p>Em ne parêzvaniya dewlemendiyê û ne jî ya xizaniyê dikin, her du zêde jî şermezar in.</p>\n<p>Gelek kes di nav heriyê xizaniyê de diqelibin û gelek kes jî di nav heriyê dewlemendiyê de diqelibin.</p>\n<p>Pêdivî ye ku meriv xwediyê sermayek nerm be, ango xaniyek xweşik bi baxçeyên bedew, çavkaniyek ewledar a dahatiyê, her gav xweş were pêşkêş kirin û birçî nemîne. Ev ji bo her mirovî normal e.</p>\n<p>Xizanî, birçîbûn, nexweşî û nezanî divê qet di tu welatekî ku bi çand û şaristaniyê serbilind e de nebin.</p>\n<p>Hîn demokrasi tune ye lê divê em wê biafirînin. Heta ku yek welatiyekî bê nan, stargeh û mal hebe, demokrasî di pratîkê de ji îdeala xweş wêdetir derbas nabe.</p>\n<p>Divê serokên malbatan têgihîştî, jîr bin, qet şerab vexwin, dilşikestî, serxweş, zordar û hwd nebin.</p>\n<p>Her mêrekî gihîştî ji ezmûna xwe dizane ku zarok mînaka wî dişopînin û ku heke ya paşîn xelet be, ew ê rêgezên bêaqil ji neviyên xwe re destnîşan bike.</p>\n<p>Bi rastî jî ehmeqî ye ku mêrekî gihîştî çend jinên wî hebin û di nav serxweşî, ziyafet û orgiyan de bijî.</p>\n<p>Berpirsiyariya tevahiya malbatê li ser mêrê gihîştî ye û diyar e ku heke ew li rêyên xelet bigere, ew ê ji dinyayê re bêserûberî, tevlihevî û talî zêdetir bîne.</p>\n<p>Divê bav û dê cudahiya di navbera zayendan de fam bikin. Bêaqilî ye ku keç fizîk, kîmya, cebîr û hwd bixwînin. Mejiyê jinê ji yê mêr cuda ye, mijarên wiha pir li gorî cinsê nêr in lê ji bo hişê jinê bêkêr û heta zirar in.</p>\n<p>Pêdivî ye ku dê û bav ji dil ji bo pêşxistina guhertinek girîng di hemî planên xwendina dibistanê de têbikoşin.</p>\n<p>Divê jin fêr bibe ku bixwîne, binivîse, piyanoyê lêxe, bifire, biderzîne û bi gelemperî her cûre pîşeyên jinan.</p>\n<p>Divê jin ji heman kursiyên dibistanê ve ji bo peywira bilind a ku wekî DAYIK û wekî hevjîn jê re tê dayîn were amadekirin.</p>\n<p>Bêaqilî ye ku meriv mejiyê jinan bi lêkolînên tevlihev û dijwar ên ku ji bo cinsê mêr re guncan in, zirarê bibîne.</p>\n<p>Pêdivî ye ku hem dê û bav û hem jî mamosteyên dibistan, zanîngeh û zanîngehan bêtir xem bikin ku jinê bînin femîniya ku jê re tê. Ehmeqî ye ku meriv jinan leşkerî bike, wan neçar bike ku bi al û defan li kolanên bajaran bimeşin mîna ku ew nêr bin.</p>\n<p>Divê jin pir jin be û mêr jî pir mêr be.</p>\n<p>Zayenda navîn, hevzayendîtî, berhema dejenerasyon û barbarîzmê ye.</p>\n<p>Xanimên ku xwe didin lêkolînên dirêj û dijwar pîr dibin û kes bi wan re nezewice.</p>\n<p>Di jiyana nûjen de guncan e ku jin kariyerên kurt, çanda bedewiyê, makîneyê, stenografî, dirûn, pedagojiyê û hwd.</p>\n<p>Bi gelemperî divê jin tenê xwe bide jiyana malê, lê ji ber hovîtiya vê serdemê ya ku em tê de dijîn, jin ji bo xwarin û jiyanê hewce dike ku bixebite.</p>\n<p>Di civakek bi rastî çandî û şaristanî de, jin ne hewce ye ku ji bo jiyanê li derveyî malê bixebite. Ev karê li derveyî malê ji her cureyê hovîtiyê ye.</p>\n<p>Mêrê dejenere yê îroyîn nîzamek derewîn afirandiye û femîniya jinê winda kiriye, ew ji mala xwe derxistiye û kiriye kole.</p>\n<p>Jin ku bûye “mêranî” bi hişmendiya mêrekî, cixare dikişîne û rojname dixwîne, nîv tazî ye ku kirasên wê li ser çokan in an jî lîstikek kartê dilîze, encama mêrên dejenere yên vê serdemê ye, nexweşiya civakî ya şaristaniyek ku dimire.</p>\n<p>Jin ku bûye sîxurekî nûjen, doktora tiryakê, şampiyona werzîşê, alkolîk, bêserûber ku sînga xwe dide zarokên xwe ji bo ku bedewiya xwe winda neke, nîşana nefretê ya şaristaniyek derewîn e.</p>\n<p>Dem hatiye ku meriv artêşa rizgariya cîhanî bi mêr û jinên dilpak ku bi rastî amade ne ku li dijî vê nîzama derewîn şer bikin, organîze bike.</p>\n<p>Dem hatiye ku meriv li cîhanê şaristaniyek nû, çandek nû ava bike.</p>\n<p>Jin kevirê bingehîn ê malê ye û heke ev kevir bi xeletî hatibe çêkirin, tije kevir û deformasyonên her cûre, encama jiyana civakî dê felaket be.</p>\n<p>Mêr cuda ye, cûda ye û ji ber vê yekê dikare luksê bide xwe ku bijîşkî, fizîk, kîmya, matematîk, hiqûq, endezyarî, astronomî û hwd bixwîne.</p>\n<p>Kolejek leşkerî ya nêran ne bêaqilî ye, lê kolejek leşkerî ya jinan ji bilî ku bêaqil be, bi tirsnakî jî rûreş e.</p>\n<p>Mirov aciz dibe ku binihêre zava, dayikên pêşerojê yên ku divê zarok di nav sîngên xwe de hilgirin, mîna mêran li ser rêyên bajêr dimeşin.</p>\n<p>Ev ne tenê nîşana windabûna femînîteya di cinsê de ye, lê di heman demê de tiliya xwe di birînê de dixe û windabûna mêraniyê di mêr de destnîşan dike.</p>\n<p>Mêr, mêrê rastîn, mêrê pir mêranî nikare leşkerek leşkerî ya jinan qebûl bike. Fikra mêranî, idyosynkrasyona psîkolojîk a mêr hestek rastîn a nefretê ji vî rengî pêşandanê ye ku heya têrbûnê dejenerasyona mirovî nîşan dide.</p>\n<p>Pêdivî ye ku jin vegere mala xwe, femîniya xwe, bedewiya xwe ya xwezayî, naîftiya xwe ya seretayî û sadebûna xwe ya rastîn. Pêdivî ye ku em dawî li van hemî nîzaman bînin û li ser rûyê erdê şaristaniyek nû û peykerek nû ava bikin.</p>\n<p>Divê dê û bav û perwerdekar zanibin ku nifşên nû bi şehrezî û hezkirina rastîn bilind bikin.</p>\n<p>Zarokên nêr ne tenê divê agahdariya rewşenbîrî werbigirin û pîşeyek fêr bibin an jî sernavek pîşeyî werbigirin. Pêdivî ye ku nêr wateya berpirsiyariyê bizanibin û di rêya rastdariyê û hezkirina hişmend de biçin.</p>\n<p>Berpirsiyariya jinek, zarok û keçan li ser milên mêrê gihîştî ye.</p>\n<p>Mêrê gihîştî yê xwedî hestek berpirsiyariya bilind, pak, serxweş, nerm, fazîlet û hwd., ji aliyê malbata xwe û hemû welatiyan ve tê rêzgirtin.</p>\n<p>Mêrê gihîştî yê ku bi zînayên xwe, fuhûşên xwe, nerihetiyên xwe, bêdadîyên her cureyî mirovan aciz dike, ji hemû kesan re nefret dibe û ne tenê êşê dide xwe, her wiha malbatên xwe jî tal dike û êş û tevliheviyê dide hemû dinyayê.</p>\n<p>Pêdivî ye ku mêrê gihîştî zanibe ku serdema xwe bi rêkûpêk bijî. Bilez e ku mêrê gihîştî fêm bike ku ciwanî derbas bûye.</p>\n<p>Rûreş e ku meriv di gihîştinê de heman drama û dîmenên ciwaniyê dubare bike.</p>\n<p>Her serdemek jiyanê xwedî bedewiya xwe ye û divê meriv zanibe ku wê bijî.</p>\n<p>Divê mêrê gihîştî berî ku pîr bibe bi dijwarî bixebite, wekî ku mûr bi awayekî pêşbînîker tevdigere û berî ku zivistanek dijwar were pelan dibe mûrgeha xwe, divê mêrê gihîştî jî bi lez û pêşbînî tevbigere.</p>\n<p>Gelek ciwan bi awayekî feqîr hemû nirxên xwe yên jiyanî xerc dikin û dema digihîjin temenê xwe yê gihîştî, ew xweşik, tirsnak, feqîr û têkçûyî dibînin.</p>\n<p>Bi rastî jî rûreş e ku meriv gelek mêrên gihîştî bibîne ku skandalên ciwaniyê dubare dikin bêyî ku hay jê hebe ku ew êdî tirsnak in û ciwanî derbas bûye.</p>\n<p>Yek ji felaketên herî mezin ên vê şaristaniya ku dimire, ehlaqê alkolê ye.</p>\n<p>Di ciwaniyê de gelek kes xwe didin vexwarinê û dema digihîjin temenê gihîştinê mal ava nekirine, mal çênekirine, xwedî pîşeyeke qezencdar nînin, li baran dijîn, lîkor dixwazin, bi tirsnakî tirsnak, acizker, feqîr in.</p>\n<p>Divê serokên malbatan û perwerdekaran bala xwe bidin ciwanan û bi mebesta saxlem a çêkirina cîhanek çêtir wan bi rêkûpêk bi rê ve bibin.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/kmr/educacion-fundamental/la-edad-madura.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/kmr/educacion-fundamental/la-edad-madura.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/kmr/educacion-fundamental/la-edad-madura.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

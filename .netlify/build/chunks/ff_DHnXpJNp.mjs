@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Ndee tummbitere firtanaama e jaati e Spanish asliyaare. Nde rewnaaka e neɗɗo tafon. So aɗa yiɗi wallude e ndaartagol, jokkondir e amen nder dobo ɗoo.","originalMessage":"Loowdi ndee tummbitere ƴuurii e binndol Spanish ngol asliyaare.","revisedMessage":"Ndee tummbitere rewnaama e neɗɗo kadi firtaama e Spanish asliyaare. So nde hasii feewnitaade tafon, jokkondir e amen nder dobo ɗoo."};
+const status = {"automatic":"Firtugol Jaati","original":"Asliyaare","revised":"Feewnitaama"};
+const ff = {
+  "404.text": "Hello ngoo yiytaaka. Ƴeewto URL oo walla etoo huutorgo palal njiilaw ngal.",
+  "aside.caution": "Reento",
+  "aside.danger": "Farati",
+  "aside.note": "Tinndinol",
+  "aside.tip": "Wasiyaare",
+  "builtWithStarlight.label": "Mahiraama e Starlight",
+  "fileTree.directory": "Deentere",
+  "i18n.untranslatedContent": "Ndii loowdi woodaani e ɗemngal maa tafon.",
+  "languageSelect.accessibleLabel": "Suɓo ɗemngal",
+  "menuButton.accessibleLabel": "Doggol",
+  messages,
+  "page.draft": "Ndii loowdi ko siyo tan kadi naatintaake e mahugol bayyinal.",
+  "page.editLink": "Taƴto hello",
+  "page.lastUpdated": "Kesɗitinal cakkitiingal:",
+  "page.nextLink": "Yeeso",
+  "page.previousLink": "Caggal",
+  "search.cancelLabel": "Haaytu",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Njiilaw ina woodi tan e mahugol bayyinal. \nEto mahde e yiyde lowre ndee ngam ƴeewndaade nde e nokku maa.",
+  "search.label": "Njiilaw",
+  "sidebarNav.accessibleLabel": "Dowrowo",
+  "skipLink.label": "Diw to loowdi",
+  status,
+  "tableOfContents.onThisPage": "E ndee tummbitere",
+  "tableOfContents.overview": "Fuɗɗoode",
+  "themeSelect.accessibleLabel": "Suɓo mbaadi",
+  "themeSelect.auto": "Jaati",
+  "themeSelect.dark": "Niɓɓi",
+  "themeSelect.light": "Yaynii",
+};
+
+export { ff as default, messages, status };

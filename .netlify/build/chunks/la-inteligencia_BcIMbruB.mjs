@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "L-Intelliġenza",
+  "locale": "mt",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "19. L-Intelliġenza",
+    "order": 19
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Stajna niverifikaw li ħafna għalliema tal-Istorja Universali fil-punent tad-dinja spiss jidħqu bil-BUDDHA, Konfuċju, Muhammad, Hermes, Quetzacoal, Moses, Krishna, eċċ.</p>\n<p>Mingħajr ebda dubju, stajna wkoll nivverifikaw bis-sħiħ is-sarkasmu, it-twaqqigħ għaċ-ċajt, l-ironija mnedija mill-għalliema kontra r-reliġjonijiet antiki, kontra l-allat, kontra l-mitoloġija, eċċ. Dan kollu huwa preċiżament nuqqas ta’ intelliġenza.</p>\n<p>Fl-iskejjel, il-kulleġġi u l-universitajiet, il-kwistjonijiet reliġjużi għandhom jiġu ttrattati b’aktar rispett, b’sens għoli ta’ venerazzjoni, b’intelliġenza kreattiva vera.</p>\n<p>Il-forom reliġjużi jikkonservaw il-valuri eterni u huma organizzati skont il-ħtiġijiet psikoloġiċi u storiċi ta’ kull poplu, ta’ kull razza.</p>\n<p>Ir-reliġjonijiet kollha għandhom l-istess prinċipji, l-istess valuri eterni u jvarjaw biss fil-forma.</p>\n<p>Mhux intelliġenti li Nisrani jidħaq bir-reliġjon tal-Buddha jew bir-reliġjon Ebrajka jew Ħinduwista għax ir-reliġjonijiet kollha jserħu fuq l-istess sisien.</p>\n<p>Is-satiri ta’ ħafna intellettwali kontra r-reliġjonijiet u l-fundaturi tagħhom huma dovuti għall-velenu MARXISTA li f’dawn iż-żminijiet qed jintossika l-imħuħ dgħajfa kollha.</p>\n<p>L-għalliema tal-iskejjel, il-kulleġġi u l-universitajiet għandhom jiggwidaw lill-istudenti tagħhom fit-triq tar-rispett veru lejn il-proxxmu tagħna.</p>\n<p>Huwa ċarament pervers u indeċenti l-ħażin li f’isem teorija ta’ kwalunkwe tip, jidħaq bit-tempji, ir-reliġjonijiet, is-setti, l-iskejjel jew is-soċjetajiet spiritwali.</p>\n<p>Meta jitilqu mill-awli tal-istudju, l-istudenti jridu jittrattaw ma’ nies ta’ kull reliġjon, skola, setta u mhux intelliġenti li lanqas biss ikunu jafu jżommu l-kompostura dovuta f’tempju.</p>\n<p>Meta jitilqu mill-awli wara għaxar jew ħmistax-il sena ta’ studju, iż-żgħażagħ isibu ruħhom goffi u rieqda bħall-bnedmin l-oħra, mimlija vojt u nieqsa mill-intelliġenza bħall-ewwel jum li daħlu l-iskola.</p>\n<p>Huwa urġenti li l-istudenti, fost affarijiet oħra, jiżviluppaw iċ-ċentru emozzjonali għax mhux kollox huwa intellett. Huwa meħtieġ li wieħed jitgħallem iħoss l-armoniji intimi tal-ħajja, is-sbuħija tas-siġra solitarja, il-kant tal-għasfur fil-foresta, is-sinfonija tal-mużika u l-kuluri ta’ nżul ix-xemx sabiħ.</p>\n<p>Huwa meħtieġ ukoll li nħossu u nifhmu profondament il-kuntrasti orribbli kollha tal-ħajja, bħall-ordni soċjali krudili u bla ħniena ta’ dan iż-żmien li qed ngħixu fih, it-toroq mimlija ommijiet kuntenti li bit-tfal tagħhom nutrittivi u bil-ġuħ jittallbu biċċa ħobż, il-bini ikrah fejn jgħixu eluf ta’ familji foqra, it-toroq diżgustanti fejn jiċċirkolaw eluf ta’ karozzi propulsati b’dawk il-fjuwils li jagħmlu ħsara lill-organiżmi, eċċ.</p>\n<p>L-istudent li jitlaq mill-awli jrid jiffaċċja mhux biss l-egoiżmu tiegħu stess u l-problemi tiegħu stess, iżda wkoll l-egoiżmu tan-nies kollha u l-problemi multipli tas-soċjetà umana.</p>\n<p>L-iktar ħaġa serja minn kollox hija li l-istudent li jitlaq mill-awli, anke jekk għandu preparazzjoni intellettwali, m’għandux intelliġenza, il-kuxjenza tiegħu hija rieqda, huwa ppreparat b’mod defiċjenti għall-ġlieda mal-ħajja.</p>\n<p>Wasal iż-żmien li tinvestiga u tiskopri x’inhi dik li tissejjaħ INTELLIĠENZA. Id-dizzjunarju, l-enċiklopedija, jirriżultaw impotenti biex jiddefinixxu serjament l-INTELLIĠENZA.</p>\n<p>Mingħajr intelliġenza qatt ma jista’ jkun hemm trasformazzjoni radikali jew ferħ veru u huwa rari ħafna fil-ħajja li ssib nies tassew intelliġenti.</p>\n<p>L-importanti fil-ħajja mhux biss li tkun taf il-kelma INTELLIĠENZA, iżda li tesperimenta fina nfusna s-sinifikat profond tagħha.</p>\n<p>Ħafna huma dawk li jippreżumu li huma intelliġenti, m’hemmx sakranazz li ma jippreżumix li hu intelliġenti u Carlos Marx, billi jemmen lilu nnifsu intelliġenti wisq, kiteb il-farża materjalista tiegħu li swiet lid-dinja t-telf tal-valuri eterni, il-qtil ta’ eluf ta’ qassisin ta’ reliġjonijiet differenti, il-vjolenza fuq soru, Buddisti, Insara, eċċ., il-qerda ta’ ħafna tempji, it-tortura ta’ eluf u miljuni ta’ nies, eċċ eċċ. eċċ.</p>\n<p>Kulħadd jista’ jippreżumi li hu intelliġenti, diffiċli li tkun verament.</p>\n<p>Mhux billi takkwista aktar informazzjoni librarja, aktar għarfien, aktar esperjenzi, aktar affarijiet biex tgħammex lin-nies, aktar flus biex tixtri l-imħallfin u l-pulizija; eċċ. kif se tinkiseb dik li tissejjaħ INTELLIĠENZA.</p>\n<p>Mhux b’dak MAS, kif jista’ wieħed jasal biex ikollu INTELLIĠENZA. Huma żbaljati b’mod ċar dawk li jissoponu li l-intelliġenza tista’ tinkiseb bil-proċess tal-MAS.</p>\n<p>Huwa urġenti li nifhmu fil-fond u fl-oqsma kollha tal-moħħ subkonxju u inkonxju, x’inhu dak il-proċess perniċjuż tal-MAS, għax fl-isfond huwa moħbi b’mod sigriet ħafna l-EGO għażiż, jien, l-ISTESS JIEN, li dejjem jixtieq u jrid aktar u aktar biex ix-xaħam u jissaħħaħ.</p>\n<p>Dan Mefistófele li għandna ġewwa, dan SATÁN, dan Jien, jgħid: Jien għandi AKTAR flus, aktar sbuħija, aktar intelliġenza minn dak, aktar prestiġju, aktar astuzja, eċċ. eċċ. eċċ.</p>\n<p>Min verament irid jifhem x’inhi l-INTELLIĠENZA, irid jitgħallem iħossha, irid jesperjenzaha u jesperimentaha permezz tal-meditazzjoni profonda.</p>\n<p>Dak kollu li n-nies jakkumulaw bejn il-qabar immuffat tal-memorja infidili, informazzjoni intellettwali, esperjenzi tal-ħajja, dejjem jissarraf b’mod fatali fit-terminu ta’ AKTAR u AKTAR. Allura qatt ma jaslu biex jafu t-tifsira profonda ta’ dak kollu li jakkumulaw.</p>\n<p>Ħafna jaqraw ktieb u mbagħad jiddepożitawh fil-memorja sodisfatti li akkumulaw aktar informazzjoni, imma meta jissejħu biex iwieġbu għad-duttrina miktuba fil-ktieb li qraw, jirriżulta li ma jafux is-sinifikat profond tat-tagħlim, imma Jien irrid aktar u aktar informazzjoni, aktar u aktar kotba anke meta ma jkunux esperjenzaw id-duttrina ta’ ebda wieħed minnhom.</p>\n<p>L-intelliġenza ma tinkisebx b’aktar informazzjoni librarja, lanqas b’aktar esperjenza, lanqas b’aktar flus, lanqas b’aktar prestiġju, l-intelliġenza tista’ tiffjorixxi fina meta nifhmu l-proċess kollu ta’ Jien, meta nifhmu fil-fond dak l-awtomatiżmu psikoloġiku kollu tal-MAS.</p>\n<p>Huwa indispensabbli li wieħed jifhem li l-moħħ huwa ċ-ċentru bażiku tal-MAS. Verament dak MAS huwa l-istess Jien psikoloġiku li jeħtieġ u l-moħħ huwa n-nukleu fundamentali tiegħu.</p>\n<p>Min irid ikun intelliġenti tassew, irid jiddeċiedi li jmut mhux biss fil-livell intellettwali superfiċjali, iżda wkoll fl-oqsma subkonxji u inkonxji kollha tal-moħħ.</p>\n<p>Meta Jien imut, meta Y0 jinħall totalment l-unika ħaġa li tibqa’ ġewwa fina hija l-ESSENZA awtentika, l-ESSENZA vera, l-intelliġenza leġittima tant mixtieqa u tant diffiċli.</p>\n<p>In-nies jemmnu li l-moħħ huwa kreattiv, huma żbaljati. Jien mhux kreattiv u l-moħħ huwa n-nukleu bażiku ta’ Jien.</p>\n<p>L-intelliġenza hija kreattiva għax hija tal-ESSENZA, hija attribut tal-ESSENZA. M’għandniex inħawdu l-moħħ mal-INTELLIĠENZA.</p>\n<p>Huma żbaljati b’MOD ĊAR u b’mod radikali dawk li jissoponu li l-INTELLIĠENZA hija xi ħaġa li tista’ tiġi kkultivata bħala fjura ta’ serra JEW xi ħaġa li tista’ tinxtara kif jinxtraw it-titli ta’ nobbli jew billi jkollok librerija formidabbli.</p>\n<p>Huwa meħtieġ li wieħed jifhem profondament il-proċessi kollha tal-moħħ, ir-reazzjonijiet kollha, dak MAS psikoloġiku li jakkumula, eċċ. Huwa biss hekk li tfaċċa fina b’mod naturali u spontanju l-fjamma ardenti tal-INTELLIĠENZA.</p>\n<p>Hekk kif Mefistófele li għandna ġewwa jkompli jinħall, in-nar tal-intelliġenza kreattiva jkompli juri ruħu ftit ftit ġewwa fina, sakemm jiddi b’mod iħraq.</p>\n<p>L-ESSENZA vera tagħna hija l-IMĦABBA u minn dik l-IMĦABBA titwieled l-INTELLIĠENZA awtentika u leġittima li mhix taż-żmien.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/mt/educacion-fundamental/la-inteligencia.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/mt/educacion-fundamental/la-inteligencia.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/mt/educacion-fundamental/la-inteligencia.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

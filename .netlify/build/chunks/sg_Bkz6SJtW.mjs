@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Chapitre so a changé automatiquement tî Espagnol. A yeke nduru na bê tî zo pëpe. Tonga mo ye tî mû maboko na nduru, du bê na e na clicks sô.","originalMessage":"Sango tî chapitre so ayeke na ndo tî texte tî Espagnol tî kozo.","revisedMessage":"Chapitre so a yeke na nduru tî zo na changement tî texte tî Espagnol tî kozo. Tonga a yeke na bezoin tî correction, du bê na e na clicks sô."};
+const status = {"automatic":"Changement Automatique","original":"Kozo","revised":"A nduru awe"};
+const sg = {
+  "404.text": "Mbëtï ayeke pëpe. Bâa URL wala tara tënë tî gi na barë tî gingo.",
+  "aside.caution": "Gue",
+  "aside.danger": "Danger",
+  "aside.note": "Note",
+  "aside.tip": "Wango",
+  "builtWithStarlight.label": "A sara na Starlight",
+  "fileTree.directory": "Directory",
+  "i18n.untranslatedContent": "Sango tî mbëtï so ayeke pëpe na yanga tî mo.",
+  "languageSelect.accessibleLabel": "Soro yanga",
+  "menuButton.accessibleLabel": "Menu",
+  messages,
+  "page.draft": "Sango so ayeke draft na a yeke lë na yâ tî production builds pëpe.",
+  "page.editLink": "Change mbëtï",
+  "page.lastUpdated": "Ndangba changement:",
+  "page.nextLink": "Na peko",
+  "page.previousLink": "Na kozo",
+  "search.cancelLabel": "Kanga",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Gingo ayeke gui na yâ tî production builds. \nTara tî sala na tara site tî test yâ tî mo.",
+  "search.label": "Gi",
+  "sidebarNav.accessibleLabel": "Kota",
+  "skipLink.label": "Gue na sango",
+  status,
+  "tableOfContents.onThisPage": "Na yâ tî chapitre so",
+  "tableOfContents.overview": "Tongo",
+  "themeSelect.accessibleLabel": "Soro thème",
+  "themeSelect.auto": "Auto",
+  "themeSelect.dark": "Bï",
+  "themeSelect.light": "Lumière",
+};
+
+export { sg as default, messages, status };

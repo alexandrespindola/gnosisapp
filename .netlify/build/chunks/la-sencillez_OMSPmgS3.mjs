@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Obusingye",
+  "locale": "cgg",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "15. Obusingye",
+    "order": 15
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Nikuru ngu tukurukyiremu, nikikuru kukuzya okwetegyereza okuhangaho ahabw’okuba nikureeta omuntu obusingye bw’amazima omu bwomeezi. Hatariho okwetegyereza, tikirikubaasika kutunga obushoboorozi bw’amazima obw’okucweera ebirooto.</p>\n<p>Abeekyeshobero na bamaisha omu mashuuri, amakuruuru, na yunivasiti baine kuhiga abegi baabo omu muhanda gw’okwetegyereza okucweera.</p>\n<p>Omu kicweka eki twahingwireho, tukegaire munonga aha miringo y’obugaya, kandi twenda kuhwera hamwe n’omuringo gwona ogw’obuhuura, oba n’obw’ediini, okugwa omu mahano, n’ebindi, twine kumanya gye eki obugaya buri, ahabw’okuba niho turikubaasa kwetegyereza munonga kandi omu mutima ebintu byona ebirikureeta obugaya, noho nitubaasa kuhwera hamwe n’obuhuura bwona.</p>\n<p>Obuhuura nibushiisha embaga, obuhuura nibushiisha obunywani, obuhuura nibureeta entaro z’ediini, enkyemeko z’ab’eishemwe, obwitsi, n’okubonabona kwona.</p>\n<p>Obugaya n’emiringo yaabwo yona ehisiriiremu n’endengo nungi. Obugaya buriyo omu muntu ou baraashomerezeho aha buro abahaire abaijwire oburoho. Mahatmas nari baguru, nawe naija kwenda kuba omuroho. Obugaya buriyo omu muntu ou arikukora ebirungi kandi arikugyezaho kucweera abarikukora ebirungi abandi. Obugaya buriyo omu muntu weena ou arikwenda omutindo murungi ahabw’okuba aine amakuru, ahabw’okuba omu mutwe gwe harimu amakuru aha bantu abaroho abaijwire omutindo murungi.</p>\n<p>Okukwenda kuba omuroho, okukwenda kuba omutindo murungi, okukwenda kuba omukuru kuruga omu bugaya.</p>\n<p>Abaijwire omutindo murungi n’omutindo gwaabo bakozire eby’obutaari byingi. Nitwijuka eky’omushaija ou yarikweyetaho kuba omuroho munonga.</p>\n<p>Omwanya gumwe, omushairi omuhumbuire kandi omubiiye akakomba omu miryango ye kumutwaza omujumo murungi ogurikumutungiira omuroho ou turikugambaaho. Omushairi akaba arikuteerera enkuumi ya sente kugura ebyokurya eby’omubiri gwe ogucwereire kandi ogakuzire.</p>\n<p>Byona omushairi akaba arikuteerera kwonka ti kumucumuurira. Kikamuhoorera munonga obu omuroho orikureeba abantu n’embabazi kandi ayereere aharuuru akajwara orugi naruga kumugambira ati: “Ruga aha, munywani, ruga… Tindikukunda ebi bintu, ninyanga oburohozi… Tindikukunda eby’obuheri omu nsi, obwomeezi buno bwa mwoyo… Ninyikiriza omuhanda gw’okucwaacura n’obucureezi. Omushairi omubiiye ou akaba arikukwenda enkuumi ya sente omu mwanya gw’eki akatunga okucumurwa kw’omuroho, ekigambo ekirikukora, okukubira, kandi n’omutima oguriyo ogurema kandi n’engoma yaawe ehiiremu ebicweka akagenda omu mareero g’orurembo akayomba… Ayomba… Ayomba.</p>\n<p>Emirembe emishasha eine kwemerera aha ntandikiro y’okwetegyereza kw’amazima ahabw’okuba kunu kwoona nikwo kuhanga.</p>\n<p>Okwijuka n’okujukwa tibikuhanga. Okwijuka ni kigyo ky’ebyahingwireho. Okwijuka n’okujukwa ni rufu.</p>\n<p>Okwetegyereza kw’amazima n’ekintu eky’omutwe eky’okujununwa kwona.</p>\n<p>Okujuka kw’okwijuka tikurikubaasa kutureetera okujununwa kw’amazima ahabw’okuba nibiruga omu byahingwireho kandi obwo nibifiire.</p>\n<p>Okwetegyereza tikintu kya byahingwireho nari eby’omwanya ogurija. Okwetegyereza nikikwatagana n’omwanya ogu turikugumaho hano hati. Okwijuka buriijo nikureeta okuteekateeka kw’omwanya ogurija.</p>\n<p>Nikikuru kwega eshayansi, obwengye, obukozi bw’emikono, n’ediini, kwonka tibeine kwesiga okwijuka ahabw’okuba tikirikwesigwa.</p>\n<p>N’ekyooma kutoora amanyezi omu kigyo ky’okwijuka. N’ekishwiinya kuziika amanyezi omu myaaka eyahingwireho ogu twine kwetegyereza.</p>\n<p>Titurikubaasa kwemerera aha kwega, aha bwengye, aha shayansi, kwonka nikireetana amaganya kutoora ebijwaro ebiriyo omu bwomeezi omu kigyo ekirikucweera ky’okwijuka.</p>\n<p>Kibaasa kwetenga kwega, kibaasa kwetenga kucweera, kibaasa kwetenga kucweera ebirooto, kwonka twine kuteekateeka munonga kwetegyereza omu mitwarize yoona y’omutwe.</p>\n<p>Omuntu orikucwaacura buzima n’omwetegeerezi munonga kandi aine omutwe ogucwaacura.</p>\n<p>Ekikuru omu bwomeezi ti eki turikutoora omu kigyo ky’okwijuka, kwonka eki twetegyeereize otari aha mutwarize gw’ahaiguru kwonka kwonka aha matwarize agasheeniire agasheeniire agarikugwa omu mutwe.</p>\n<p>Shayansi, amanyezi, bine kureetana okwetegyereza okuhango. Obu amanyezi, obu okwega byahindurwemu okwetegyereza kw’amazima, nitubaasa kwetegyereza ebintu byona enkuumi ahabw’okuba okwetegyereza nikubaasa kuba okuhango, okwanguha.</p>\n<p>Omu muntu orikucwaacura tihariho ebiri omu mutwe ahabw’okuba ebiri omu mutwe biruga omu kwijuka. IYO y’omushaija ou turikwetwara omunda n’okwijuka okutoorirwe.</p>\n<p>Ebirooto by’obwomeezi bine kureetana okwetegyereza kw’amazima.</p>\n<p>Obu ebirooto bitaretire okwetegyereza, obu ebirooto bigumaho omu kwijuka nibigumaho kubora kw’ekigyo aha ki ekikuhire kandi n’ekyoka ekya luciferica eky’okuteekateeka.</p>\n<p>Nikwetenga kumanya ngu okuteekateeka kw’enyama okutaari kw’oburoho buzima ni okugamba kw’okwijuka, okwenda kw’ekigyo okurikwaka aha rubingo rw’ekigyo.</p>\n<p>Omuntu orikucwaacura aine omutwe ogujunwiise ebirooto ahabw’okuba ebi biri kutwaza omu bwomeezi, bihindwire omu kwetegyereza okuhangaho.</p>\n<p>Rufu n’obwomeezi nibishangwa birikutwarirana. Kwonka rufu y’omutwe neguzya ekimera, kwonka okucweera ekigwa nikureeta okwetegyereza. Eki n’ekikorwa ky’okuhinduka kw’amazima.</p>\n<p>Omuntu orikutanganiza aine okwijuka okwijwire ebirooto.</p>\n<p>Eki nikireetera obutariho bw’okwetegyereza okuhangaho ahabw’okuba obu ebirooto byetegyerezibweho omu mitwarize yoona y’omutwe bireka kubaho nk’ebirooto kandi bizaarwa nk’okwetegyereza.</p>\n<p>Nikwetenga kubanza kuroota, kwonka titwine kugumaho omu kibanja ky’ekirooto ahabw’okuba obwo omutwe nigutanganiza kandi gube ogw’omugumu. Nikwetenga kuguma omu bwomeezi munonga kandi tukahindura ebirooto byona omu kwetegyereza kw’amazima okuhangaho.</p>\n<p>Abo abarikuteekateeka omu bumwa ngu kwetegyereza, kwanguha, n’okucwaacura twine kureka ensi, kuhinduka abashubi, kuguma omu majugo agataahiireho kandi tukajwara obucoori omu mwanya gw’ekooti erungi, nibaija kuba nibashobiire munonga.</p>\n<p>Abafumbiizi baingi, abaijwire obwomeezi bw’omunaku, abashubi baingi, baine emitwe etangaanisa munonga kandi egwire engume.</p>\n<p>Tibikwetenga kuta aha rubaju rw’ensi kandi tukaguma nk’abafumbiizi yaaba okwijuka kwijwire ebirooto ebirikuhindura omutwe.</p>\n<p>Tibikwetenga kuguma nk’abaijwire obwomeezi bw’omunaku kuroota kugumaho obwomeezi bw’abaroho yaaba okwijuka kwijwire amakuru ago getegyerezibwe gye, egi atahindwire kukora aha micweka esheeniire, amakuruuru, n’ebicweka ebirikugwa omu mutwe.</p>\n<p>Abo abarikuhindura amakuru g’okuteekateeka omu kwetegyereza kw’amazima okuhangaho, abo abarikuhindura ebirooto by’obwomeezi omu kwetegyereza kw’amazima, tibaine kintu kyona omu kwijuka, nibaguma omu mwanya kuruga omu kwiha omugisha ogw’amazima, bahindwire kucwaacura kandi kwanguha yaaba nibaguma omu mijuugo erikukunda kandi omunda y’obwomeezi bw’orurembo.</p>\n<p>Abaana bato bato hatariho myaka musanju nibaijwire obucwaacura n’oburungi bw’omunda ahabw’okuba nibereeta kwonka omuri baabo ESENSIA eya bwomeezi omu kubura kwona kwa IYO PSICOLÓGICO.</p>\n<p>Twine kugarura obuto obushobize, omu mutima gwitu kandi n’omu mitwe gitu. Twine kugarura obutaariho musango yaaba nitwenda kushemererwa buzima.</p>\n<p>Ebirooto n’okwega ebihindwire omu kwetegyereza okuremiire tibireka amazaara omu kigyo ky’okwijuka kandi obwo, nituhinduka abacwaacura, abanguhire, abataariho musango, abashemeire.</p>\n<p>Okuteekateeka okuremiire aha birooto n’amanyezi agatungirwe, okucweera kw’amaizi, okushanaazirana okwa munonga nikuhindura byona omu kwetegyereza okuhangaho. Ogwo n’omuhanda gw’okushemererwa kw’amazima okuruga omu bwengye n’okukunda.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/cgg/educacion-fundamental/la-sencillez.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/cgg/educacion-fundamental/la-sencillez.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/cgg/educacion-fundamental/la-sencillez.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

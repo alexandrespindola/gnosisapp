@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Eteni oyo ebongolami automatiquement uta Espagnol ya ebandeli. Emoni naino na moto te. Soki olingi kosunga na botali, beta biso awa.","originalMessage":"Makambo ya eteni oyo ezali na base ya texte ya Espagnol ya ebandeli.","revisedMessage":"Eteni oyo etali na moto mpe ebongolami uta na texte ya Espagnol ya ebandeli. Soki ezali naino na mposa ya mbongwana, beta biso awa."};
+const status = {"automatic":"Bobongoli Automatique","original":"Ya ebandeli","revised":"Etalami"};
+const ln = {
+  "404.text": "Lokasa ezwami te. Tala URL to meka kosalela etando ya boluki.",
+  "aside.caution": "Keba",
+  "aside.danger": "Likama",
+  "aside.note": "Bokebisi",
+  "aside.tip": "Toli",
+  "builtWithStarlight.label": "Esalemi na Starlight",
+  "fileTree.directory": "Repertoire",
+  "i18n.untranslatedContent": "Makambo oyo ezali naino te na monoko na yo.",
+  "languageSelect.accessibleLabel": "Pona monoko",
+  "menuButton.accessibleLabel": "Menu",
+  messages,
+  "page.draft": "Makambo oyo ezali brouillon mpe ekokota na production te.",
+  "page.editLink": "Bobongola lokasa",
+  "page.lastUpdated": "Mbongwana ya suka:",
+  "page.nextLink": "Oyo elandi",
+  "page.previousLink": "Oyo ya liboso",
+  "search.cancelLabel": "Kotika",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Boluki ezali kaka na production. \nMeka kotonga mpe kotala site mpo na koyekola yango awa.",
+  "search.label": "Boluki",
+  "sidebarNav.accessibleLabel": "Ya liboso",
+  "skipLink.label": "Kende na makambo",
+  status,
+  "tableOfContents.onThisPage": "Na eteni oyo",
+  "tableOfContents.overview": "Ebandeli",
+  "themeSelect.accessibleLabel": "Pona lolenge",
+  "themeSelect.auto": "Automatique",
+  "themeSelect.dark": "Molili",
+  "themeSelect.light": "Pole",
+};
+
+export { ln as default, messages, status };

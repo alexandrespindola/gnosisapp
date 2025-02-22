@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"Ovo poglavlje je automatski prevedeno sa španjolskog originala. Još nije prošlo ljudsku provjeru. Ako želite pomoći s pregledom, kontaktirajte nas klikom ovdje.","originalMessage":"Sadržaj ovog poglavlja temelji se na originalnom španjolskom tekstu.","revisedMessage":"Ovo poglavlje je prošlo ljudsku provjeru i prijevod s originalnog španjolskog teksta. Ako su još potrebni ispravci, kontaktirajte nas klikom ovdje."};
+const status = {"automatic":"Automatski Prijevod","original":"Original","revised":"Pregledano"};
+const hr = {
+  "404.text": "Stranica nije pronađena. Provjerite URL ili pokušajte koristiti traku za pretraživanje.",
+  "aside.caution": "Oprez",
+  "aside.danger": "Opasnost",
+  "aside.note": "Napomena",
+  "aside.tip": "Savjet",
+  "builtWithStarlight.label": "Izrađeno sa Starlight",
+  "fileTree.directory": "Direktorij",
+  "i18n.untranslatedContent": "Ovaj sadržaj još nije dostupan na vašem jeziku.",
+  "languageSelect.accessibleLabel": "Odaberi jezik",
+  "menuButton.accessibleLabel": "Izbornik",
+  messages,
+  "page.draft": "Ovaj sadržaj je skica i neće biti uključen u produkcijske verzije.",
+  "page.editLink": "Uredi stranicu",
+  "page.lastUpdated": "Zadnje ažurirano:",
+  "page.nextLink": "Sljedeće",
+  "page.previousLink": "Prethodno",
+  "search.cancelLabel": "Odustani",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "Pretraživanje je dostupno samo u produkcijskim verzijama. \nPokušajte izgraditi i pregledati stranicu za lokalno testiranje.",
+  "search.label": "Pretraži",
+  "sidebarNav.accessibleLabel": "Glavno",
+  "skipLink.label": "Preskoči na sadržaj",
+  status,
+  "tableOfContents.onThisPage": "U ovom poglavlju",
+  "tableOfContents.overview": "Početak",
+  "themeSelect.accessibleLabel": "Odaberi temu",
+  "themeSelect.auto": "Automatski",
+  "themeSelect.dark": "Tamno",
+  "themeSelect.light": "Svijetlo",
+};
+
+export { hr as default, messages, status };

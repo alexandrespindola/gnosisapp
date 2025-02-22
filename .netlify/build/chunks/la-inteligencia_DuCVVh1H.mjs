@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Ogummaa Kunstaa",
+  "locale": "om",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "19. Ogummaa Kunstaa",
+    "order": 19
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Barsiisonni seenaa addunyaa lixa addunyaa keessatti argaman hedduun BUUDAA, Konfuushiyuus, Muhammad, Hermees, Quetzakoal, Muusee, Kirshnaa, kkf irratti qoosuun akka baratame mirkaneessineerra.</p>\n<p>Shakkii tokko malee, barsiisonnii fi barsiisotaan amantaalee durii, waaqayyoolii, afoola fa’a irratti qoosanii fi arrabsoo haalaan akka raawwatamu mirkaneessineerra. Kun hundi sirrii dha hubannaa dhabuudha.</p>\n<p>Mana barnootaa, koolleejjii fi yuunivarsiitii keessatti dhimmoonni amantaa, kabajaan, yaada ulfina guddaan, hubannaa dhugaa uumaan irratti hojjetamuu qaba ture.</p>\n<p>Haalli amantaa gatii bara baraa eegaa fi fedhii xiinqooqaa fi seenaa ummata, sanyii tokkoo tokkoo wajjin haala walsimuun qindaa’anii jiru.</p>\n<p>Amantaaleen hundi bu’uura walfakkaataa, gatii bara baraa walfakkaataa qabu, haalaan qofa adda adda.</p>\n<p>Kiristaanni amantaa Buudaa ykn amantaa Ibrootaa ykn Hinduu irratti qoosuun ogeessa miti sababni isaas amantaaleen hundi bu’uura walfakkaataa irratti waan hundaa’aniif.</p>\n<p>Qoosaan hayyoota hedduu amantaa fi hundeesitoota isaanii irratti taasisan summii MARKSISTI irraa kan ka’e yeroo kana sammuu dadhabaa hundaan summaa’aa jira.</p>\n<p>Barsiisonnii fi barsiisota manneen barnootaa, koolleejjii fi yuunivarsiitii barattoota isaanii karaa kabaja dhugaa namoota nu waliin jiraniif qajeelchuu qabu.</p>\n<p>Namni maqaa yaada gosa kamiinuu amantaalee, kutaa amantaa, manneen barnootaa ykn dhaabbilee hafuuraa irratti qoosu gocha hamaa fi hin malle dha.</p>\n<p>Barattoonni mana barnootaa yeroo gadhiisan namoota amantaa, manneen barnootaa, kutaa amantaa hundaa wajjin walitti bu’uutu irraa eegama yeroo mana qulqullummaa keessatti sirna eeguu hin beekne ogeessa miti.</p>\n<p>Dargaggoonnii fi shamarran barumsa waggaa kudhanii hanga kudha shanitti erga baratan booda, akkuma nama biraa gowwaa fi rafee, akkuma guyyaa jalqaba mana barumsaa seenanitti, homaa hin qabneefi hubannaa hin qabne ta’anii argamu.</p>\n<p>Barattoonni wantoota biroo keessaa giddugala miiraa isaanii guddisuun barbaachisaa dha sababni isaas hundinuu hubannoo miti. Sagalee miidhagina muka kophaa ta’ee, sagalee simbirtuu bosona keessaa, sirna muuziqaa fi halluu aduun lixaa miidhagaa tokkoo dhaga’uu barachuun barbaachisaa dha.</p>\n<p>Haalota jireenyaa gurguddoo hunda, akkaataa hawaasaa gara jabeessaafi gara jabina yeroo keessa jirru keessaa, daandii haadholiin gaddisiisoo ta’an daa’imman isaanii kanneen hanqina nyaataa qabanii fi beela’an buddeena tokkoof kadhatan, gamoo fokkisaa maatiiwwan hiyyeessaa kumaatamaan keessa jiraatan, daandii jibbisiisaa konkolaataa kumaatamaan bobbaa qaama miidhaan oofan, kkf dhaga’uun hubachuunis barbaachisaa dha.</p>\n<p>Barataan mana barnootaa gadhiisu ofittummaasaafi rakkoo mataasaa qofa osoo hin taane ofittummaa namoota hundaa fi rakkoo hawaasa namaa hedduu wajjin walitti bu’uutu irraa eegama.</p>\n<p>Wanti hundumaa irra ulfaataa ta’e barataan mana barnootaa gadhiisu qophaa’ina hubannoo qabaatus hubannaa hin qabu, miirri isaa rafee jira, jireenya wajjin qabsoo gochuuf sirriitti hin qophoofne.</p>\n<p>Yeroon kun yeroo hubannaa jedhamu qorachuufi argachuuf ga’eera. Jechootiin hiikkan, kitaabni beekumsaa hiika hubannaa sirriitti kennuuf dadhabaa dha,</p>\n<p>Hubannaan malee jijjiirama cimaa ykn gammachuu dhugaa argamuun hin danda’amu, jireenya keessatti namoota dhugaan hubannaa qaban argachuun baay’ee muraasa dha.</p>\n<p>Jireenya keessatti wanti barbaachisaa ta’e jecha HUBANNAA beekuu qofa osoo hin taane, hiika isaa isa gadi fagoo keessa keenyatti argachuudha.</p>\n<p>Namoonni hedduun akka hubannaa qaban of tuulu, machaa’aan hubannaa akka qabu hin tuullu, Kaarloos Maarks ofiisaa akka hubannaa qabuuf of amansiisuudhaan soba haqa hin qabne kan addunyaatti gatii bara baraa dhabsiise, luboota amantaa adda addaa kumaatamaan ajjeesise, monkoota Buddiistii, Kiristaanaa, kkf gudeedee, manneen qulqullummaa hedduu barbadeessee, namoota kumaataa fi miliyoonaan lakkaa’aman dhiphise, kkf kkf kkf barreesseera.</p>\n<p>Namni kamiyyuu akka hubannaa qabu of tuuluu danda’a, dhugaan isa ta’uun garuu ulfaataa dha.</p>\n<p>Odeeffannoo kitaabaa dabalataa, beekumsa dabalataa, muuxannoo dabalataa, wantoota namoota ajaa’ibsiisan dabalataa, maallaqa abbaa seeraafi poolisii bituuf dabalataa argachuudhaan HUBANNAA jedhamu argachuun hin danda’amu.</p>\n<p>HUBANNAA argachuuf akkasitti DABALAA argachuun hin danda’amu. Isaan hubannaan adeemsa DABALAA’n argamuu danda’a jedhanii yaadan guutummaatti dogoggora.</p>\n<p>Gadi fageenyaan hubachuun barbaachisaa dha, lafa sammuu of-hin beekneefi of-hin beekne hundaan adeemsi miidhaa qabeessa DABALAA jedhamu maal akka ta’e, sababni isaas isa keessaa dhoksaan EGO jaallatamaa, ANA, OFII KOON dabalataa fi dabalataa argachuun isa barbaachisaa dha.</p>\n<p>Mefistofeeles inni nuti keessa qabnu, SEEXANA kun, ANA kun, akkana jedha: ANA maallaqa DABALAA, miidhagina DABALAA, hubannaa DABALAA kan sanaa, kabaja DABALAA, mala DABALAA qaba, kkf kkf kkf.</p>\n<p>Namni dhugaan HUBANNAA maal akka ta’e hubachuu barbaadu, dhaga’uu barachuu qaba, jireenya keessatti argachuu qaba, gadi fagoo yaaduudhaan muuxannoo argachuu qaba.</p>\n<p>Wantoonni namoonni awwaala moofa’aa yaadannoo amanamaa hin taane keessatti kuufatan hundi, odeeffannoo hubannoo, muuxannoo jireenyaa, yeroo hundumaa DABALAA fi DABALAA’tti hiikama. Akkaataa kanaatiin hiika gadi fagoo wantoota kuufatan hunda hin beekani.</p>\n<p>Namoonni hedduun kitaaba tokko dubbisanii booda odeeffannoo dabalataa kuufachuusaaniitti gammaduudhaan yaadannoo keessatti kaa’u, yeroo barsiisa kitaaba isaan dubbisan keessatti barreeffameef deebii kennuun gaafatamanitti hiika gadi fagoo barsiisichaa hin beekan, garuu ANA odeeffannoo dabalataa, kitaabota dabalataa barbaada hanga barsiisa isa kamiyyuu keessatti hin argamnetti.</p>\n<p>Hubannaan odeeffannoo kitaabaa dabalataa, muuxannoo dabalataa, maallaqa dabalataa, kabaja dabalataadhaan hin argamu, hubannaan yeroo adeemsa ANA hunda hubannetti, yeroo automaatii xiinqooqaa DABALAA gadi fageenyaan hubannetti nu keessatti dagaaguu danda’a.</p>\n<p>Sammuun giddugala bu’uuraa DABALAA akka ta’e hubachuun baay’ee barbaachisaa dha. Dhugumaan DABALAAN kun ANA xiinqooqaa isa gaafatu dha, sammuun immoo giddugala isaati.</p>\n<p>Namni dhugaan hubannaa qabaachuu barbaadu, gadi fageenyaan sadarkaa hubannaa qabu irratti qofa osoo hin taane lafa sammuu of-hin beekneefi of-hin beekne hundaan du’uuf murteessuu qaba.</p>\n<p>Yeroo ANA du’u, yeroo Y0 guutummaatti bittinnaa’u wanti nu keessa hafu tokkichi DHUGA DHUGAA, DHUGA DHUGAA, hubannaa seera qabeessa isa baay’ee hawwatamaafi baay’ee ulfaataa dha.</p>\n<p>Namoonni sammuun uumamaa akka ta’e yaadu, isaan dogoggora keessa jiru. ANA uumamaa miti, sammuun immoo giddugala bu’uuraa ANA dha.</p>\n<p>Hubannaan uumaa dha sababni isaas kan SER dha, amaloota SER keessaa isa tokko. Sammuu fi HUBANNAA walitti hin maknuu qabnu.</p>\n<p>Dogoggora keessa kan jiran dhugaa fi haala cimaan HUBANNAAN wanta akka daraaraa mana ho’isetti kunuunfamuu danda’u ykn wanta akka maqaa ulfinaa bitaan ykn kitaaba ajaa’ibsiisaa qabaachuudhaan bitaan ta’uuf kan yaadan.</p>\n<p>Adeemsa sammuu hunda, deebii hunda, DABALAA xiinqooqaa inni kuufatu, kkf gadi fageenyaan hubachuun barbaachisaa dha. Haala kanaan qofa ibiddi hubannaa daangaa hin qabne karaa uumamaa fi ofiin nu keessatti ni babal’ata.</p>\n<p>Akkuma Mefistofeeles inni nuti keessa qabnu bittinnaa’aa deemuun ibiddi hubannaa uumaa xiqqoo xiqqoon nu keessatti mul’ataa deema, hanga ifaa gubaa ta’utti.</p>\n<p>DHUGA DHUGAA keenya JAALALA dha JAALALA kana irraas HUBANNAAN dhugaa fi seera qabeessa kan yeroo hin taane ni dhalata.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/om/educacion-fundamental/la-inteligencia.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/om/educacion-fundamental/la-inteligencia.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/om/educacion-fundamental/la-inteligencia.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

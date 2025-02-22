@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "প্ৰিয় অহং",
+  "locale": "as",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-tratado-de-psicologia-revolucionaria.webp-5e15e1cec4e0ebebcde5d7fc7565d8fd.webp",
+  "sidebar": {
+    "label": "11. প্ৰিয় অহং",
+    "order": 11
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>যিহেতু ওপৰ আৰু তল একেটা বস্তুৰে দুটা অংশ, সেয়েহে তলৰ কথাষাৰ কোৱাত কোনো আপত্তি নাই: “উচ্চ মই, নিম্ন মই” একেটা অন্ধকাৰময় আৰু বহুবচনযুক্ত অহংবোধৰ দুটা দিশ।</p>\n<p>তথাকথিত “ঐশ্বৰিক মই” বা “উচ্চ মই”, “অন্য অহং” বা সেইধৰণৰ কিবা এটা নিশ্চিতভাৱে “মোৰ নিজৰ” এটা কৌশল, এক আত্ম-প্ৰবঞ্চনাৰ উপায়।</p>\n<p>যেতিয়া মইয়ে ইয়াত আৰু পৰকালতো অব্যাহত থাকিব বিচাৰে, তেতিয়া ই নিজকে এটা ঐশ্বৰিক অমৰ মইৰ মিছা ধাৰণাৰে আত্ম-প্ৰবঞ্চনা কৰে…</p>\n<p>আমাৰ কাৰোৰে এটা প্ৰকৃত, স্থায়ী, অপৰিৱৰ্তনশীল, চিৰন্তন, অবৰ্ণনীয়, আদি “মই” নাই।</p>\n<p>আমাৰ কাৰোৰে সঁচাকৈয়ে সত্তাৰ এক প্ৰকৃত আৰু প্ৰামাণিক একতা নাই; দুৰ্ভাগ্যজনকভাৱে আমাৰ বৈধ ব্যক্তিত্বও নাই।</p>\n<p>অহং কবৰৰ সিপাৰেও অব্যাহত থাকিলেও ইয়াৰ এটা আৰম্ভণি আৰু শেষ আছে।</p>\n<p>অহং, মই, কেতিয়াও ব্যক্তিগত, একক, একক নহয়। স্পষ্টতঃ মই হৈছে “মইবোৰ”।</p>\n<p>পূব তিব্বতত “মইবোৰ”ক “মানসিক সমষ্টি” বা কেৱল “মূল্য” বুলি কোৱা হয়, এই শেষৰ দুটা ইতিবাচক বা ঋণাত্মক হ’ব পাৰে।</p>\n<p>যদি আমি প্ৰতিটো “মই”ক একো একোজন বেলেগ ব্যক্তি বুলি ভাবো, তেন্তে আমি জোৰ দি ক’ব পাৰোঁ: “পৃথিৱীত বাস কৰা প্ৰতিজন ব্যক্তিৰ ভিতৰত বহুতো ব্যক্তি আছে”।</p>\n<p>নিশ্চিতভাৱে আমাৰ প্ৰত্যেকৰে ভিতৰত বহুতো বেলেগ বেলেগ ব্যক্তি বাস কৰে, কিছুমান ভাল, কিছুমান বেয়া…</p>\n<p>এই মইবোৰৰ প্ৰতিটোৱে, এই ব্যক্তি প্ৰতিজনে আধিপত্যৰ বাবে যুঁজ দিয়ে, একচেটিয়া হ’ব বিচাৰে, যেতিয়াই পাৰে তেতিয়াই বৌদ্ধিক মস্তিষ্ক বা আৱেগিক আৰু মটৰ কেন্দ্ৰবোৰ নিয়ন্ত্ৰণ কৰে, আন এজনে ইয়াক স্থানান্তৰিত কৰাৰ সময়ত…</p>\n<p>বহুতো মইৰ মতবাদটো পূব তিব্বতত প্ৰকৃত দূৰদৃষ্টিসম্পন্ন ব্যক্তিসকলে, প্ৰকৃত আলোকিত ব্যক্তিসকলে শিকাইছিল…</p>\n<p>আমাৰ প্ৰতিটো মনস্তাত্ত্বিক ত্ৰুটি এনেকুৱা বা তেনেকুৱা মইত ব্যক্তিত্ব প্ৰদান কৰা হয়। যিহেতু আমাৰ হাজাৰ হাজাৰ বা লাখ লাখ ত্ৰুটি আছে, সেয়েহে স্পষ্টভাৱে বহুতো মানুহ আমাৰ ভিতৰত বাস কৰে।</p>\n<p>মনোবিজ্ঞানৰ বিষয়ত আমি স্পষ্টভাৱে প্ৰমাণ কৰিবলৈ সক্ষম হৈছো যে পেৰানইড, অহংকাৰী আৰু মিথাচাৰী বিষয়বোৰে কোনো কাৰণতে প্ৰিয় অহংৰ পূজা ত্যাগ নকৰে।</p>\n<p>নিশ্চিতভাৱে তেনে মানুহে বহুতো “মই”ৰ মতবাদক সাংঘাতিকভাৱে ঘৃণা কৰে।</p>\n<p>যেতিয়া কোনোবাই সঁচাকৈয়ে নিজকে জানিব বিচাৰে, তেতিয়া তেওঁ নিজকে আত্ম-পৰ্যবেক্ষণ কৰিব লাগিব আৰু ব্যক্তিত্বৰ ভিতৰত সোমাই থকা বিভিন্ন “মই”ক জানিবলৈ চেষ্টা কৰিব লাগিব।</p>\n<p>যদি আমাৰ কোনো পঢ়ুৱৈয়ে এতিয়াও বহুতো “মই”ৰ এই মতবাদটো বুজি পোৱা নাই, তেন্তে ই কেৱল আত্ম-পৰ্যবেক্ষণৰ ক্ষেত্ৰত অনুশীলনৰ অভাৱৰ বাবেই হৈছে।</p>\n<p>এজনে আভ্যন্তৰীণ আত্ম-পৰ্যবেক্ষণ অনুশীলন কৰাৰ লগে লগে তেওঁ নিজে বহুতো মানুহক, বহুতো “মই”ক আৱিষ্কাৰ কৰে, যি আমাৰ নিজৰ ব্যক্তিত্বৰ ভিতৰত বাস কৰে।</p>\n<p>যিসকলে বহুতো মইৰ মতবাদক অস্বীকাৰ কৰে, যিসকলে এটা ঐশ্বৰিক মইক পূজা কৰে, তেওঁলোকে নিশ্চিতভাৱে কেতিয়াও নিজকে গুৰুত্বসহকাৰে আত্ম-পৰ্যবেক্ষণ কৰা নাই। এইবাৰ ছক্ৰেটিছৰ শৈলীত ক’বলৈ গ’লে আমি ক’ম যে সেই মানুহবোৰে কেৱল অজ্ঞই নহয়, তেওঁলোকে যে অজ্ঞ সেই কথাও নাজানে।</p>\n<p>নিশ্চিতভাৱে গুৰুত্বপূৰ্ণ আৰু গভীৰ আত্ম-পৰ্যবেক্ষণ অবিহনে আমি নিজকে কেতিয়াও চিনিব নোৱাৰিম।</p>\n<p>যিহেতু যিকোনো বিষয়য়ে নিজকে এজন বুলি গণ্য কৰে, সেয়েহে স্পষ্ট যে যিকোনো আভ্যন্তৰীণ পৰিৱৰ্তন সম্ভৱতকৈও অধিক অসম্ভৱ হ’ব।</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/as/tratado-de-psicologia-revolucionaria/el-querido-ego.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/as/tratado-de-psicologia-revolucionaria/el-querido-ego.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/as/tratado-de-psicologia-revolucionaria/el-querido-ego.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };

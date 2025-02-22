@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"हा भाग स्पॅनिश मूळ मजकुरातून स्वयंचलितपणे भाषांतरित केला गेला आहे. याचे अद्याप मानवी पुनरावलोकन झालेले नाही. पुनरावलोकनात मदत करण्यास इच्छुक असल्यास, येथे क्लिक करून आमच्याशी संपर्क साधा.","originalMessage":"या भागाचा मजकूर मूळ स्पॅनिश मजकुरावर आधारित आहे.","revisedMessage":"या भागाचे मानवी पुनरावलोकन आणि मूळ स्पॅनिश मजकुरातून भाषांतर झाले आहे. यात अजूनही दुरुस्त्या आवश्यक असल्यास, येथे क्लिक करून आमच्याशी संपर्क साधा."};
+const status = {"automatic":"स्वयंचलित भाषांतर","original":"मूळ","revised":"पुनरावलोकित"};
+const mr = {
+  "404.text": "पृष्ठ सापडले नाही. URL तपासा किंवा शोध बार वापरून पहा.",
+  "aside.caution": "सावधान",
+  "aside.danger": "धोका",
+  "aside.note": "टीप",
+  "aside.tip": "सूचना",
+  "builtWithStarlight.label": "Starlight सह बनवले",
+  "fileTree.directory": "डिरेक्टरी",
+  "i18n.untranslatedContent": "हा मजकूर अजून तुमच्या भाषेत उपलब्ध नाही.",
+  "languageSelect.accessibleLabel": "भाषा निवडा",
+  "menuButton.accessibleLabel": "मेनू",
+  messages,
+  "page.draft": "हा मजकूर मसुदा आहे आणि उत्पादन बिल्डमध्ये समाविष्ट केला जाणार नाही.",
+  "page.editLink": "पृष्ठ संपादित करा",
+  "page.lastUpdated": "शेवटचे अद्यतनित:",
+  "page.nextLink": "पुढील",
+  "page.previousLink": "मागील",
+  "search.cancelLabel": "रद्द करा",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "शोध केवळ उत्पादन बिल्डमध्ये उपलब्ध आहे. \nस्थानिक चाचणीसाठी साइट बांधून पूर्वावलोकन करण्याचा प्रयत्न करा.",
+  "search.label": "शोध",
+  "sidebarNav.accessibleLabel": "मुख्य",
+  "skipLink.label": "मजकुराकडे जा",
+  status,
+  "tableOfContents.onThisPage": "या भागात",
+  "tableOfContents.overview": "सुरुवात",
+  "themeSelect.accessibleLabel": "थीम निवडा",
+  "themeSelect.auto": "स्वयंचलित",
+  "themeSelect.dark": "गडद",
+  "themeSelect.light": "प्रकाश",
+};
+
+export { mr as default, messages, status };

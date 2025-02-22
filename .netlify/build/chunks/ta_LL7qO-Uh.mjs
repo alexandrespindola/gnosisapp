@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"இந்த அத்தியாயம் ஸ்பானிஷ் மூலத்திலிருந்து தானாக மொழிபெயர்க்கப்பட்டுள்ளது. இது இன்னும் மனித மதிப்பாய்வுக்கு உட்படவில்லை. மதிப்பாய்வில் உதவ விரும்பினால், இங்கே கிளிக் செய்து எங்களைத் தொடர்பு கொள்ளவும்.","originalMessage":"இந்த அத்தியாயத்தின் உள்ளடக்கம் அசல் ஸ்பானிஷ் உரையை அடிப்படையாகக் கொண்டது.","revisedMessage":"இந்த அத்தியாயம் அசல் ஸ்பானிஷ் உரையிலிருந்து மனித மதிப்பாய்வு மற்றும் மொழிபெயர்ப்பை பெற்றுள்ளது. இது இன்னும் திருத்தங்கள் தேவைப்பட்டால், இங்கே கிளிக் செய்து எங்களைத் தொடர்பு கொள்ளவும்."};
+const status = {"automatic":"தானியங்கி மொழிபெயர்ப்பு","original":"அசல்","revised":"திருத்தப்பட்டது"};
+const ta = {
+  "404.text": "பக்கம் கிடைக்கவில்லை. URL-ஐ சரிபார்க்கவும் அல்லது தேடல் பட்டியைப் பயன்படுத்த முயற்சிக்கவும்.",
+  "aside.caution": "எச்சரிக்கை",
+  "aside.danger": "ஆபத்து",
+  "aside.note": "குறிப்பு",
+  "aside.tip": "உதவிக்குறிப்பு",
+  "builtWithStarlight.label": "Starlight மூலம் உருவாக்கப்பட்டது",
+  "fileTree.directory": "கோப்பகம்",
+  "i18n.untranslatedContent": "இந்த உள்ளடக்கம் உங்கள் மொழியில் இன்னும் கிடைக்கவில்லை.",
+  "languageSelect.accessibleLabel": "மொழியைத் தேர்ந்தெடுக்கவும்",
+  "menuButton.accessibleLabel": "மெனு",
+  messages,
+  "page.draft": "இந்த உள்ளடக்கம் ஒரு வரைவு மற்றும் உற்பத்தி கட்டமைப்புகளில் சேர்க்கப்படாது.",
+  "page.editLink": "பக்கத்தைத் திருத்து",
+  "page.lastUpdated": "கடைசியாக புதுப்பிக்கப்பட்டது:",
+  "page.nextLink": "அடுத்து",
+  "page.previousLink": "முந்தைய",
+  "search.cancelLabel": "ரத்து",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "தேடல் உற்பத்தி கட்டமைப்புகளில் மட்டுமே கிடைக்கும். \nஉள்ளூர் சோதனைக்கு தளத்தை உருவாக்கி முன்னோட்டம் காண முயற்சிக்கவும்.",
+  "search.label": "தேடு",
+  "sidebarNav.accessibleLabel": "முதன்மை",
+  "skipLink.label": "உள்ளடக்கத்திற்குச் செல்",
+  status,
+  "tableOfContents.onThisPage": "இந்த அத்தியாயத்தில்",
+  "tableOfContents.overview": "தொடக்கம்",
+  "themeSelect.accessibleLabel": "தீம் தேர்ந்தெடுக்கவும்",
+  "themeSelect.auto": "தானியங்கி",
+  "themeSelect.dark": "இருள்",
+  "themeSelect.light": "ஒளி",
+};
+
+export { ta as default, messages, status };

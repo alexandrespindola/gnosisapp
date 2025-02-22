@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"हो भाग स्पॅनिश मूळ पाठ्यांतल्यान स्वयंचलित अणकार केला. हाका अजून मनशान तपासूंक ना. तुमकां तपासणेंत मदत करपाक जाय जाल्यार, हांगा क्लिक करून आमचे कडेन संपर्क करात.","originalMessage":"ह्या भागाचो मजकूर मूळ स्पॅनिश पाठ्याचेर आदारीत आसा.","revisedMessage":"हो भाग मनशान तपासला आनी मूळ स्पॅनिश पाठ्यांतल्यान अणकार केला. हाका अजून दुरुस्ती जाय जाल्यार, हांगा क्लिक करून आमचे कडेन संपर्क करात."};
+const status = {"automatic":"स्वयंचलित अणकार","original":"मूळ","revised":"तपासल्लें"};
+const kok = {
+  "404.text": "पान मेळूंक ना. URL तपासचें वा सोद पट्टी वापरून पळयात.",
+  "aside.caution": "जतनाय",
+  "aside.danger": "धोको",
+  "aside.note": "टीप",
+  "aside.tip": "सुचोवणी",
+  "builtWithStarlight.label": "Starlight वापरून तयार केल्लें",
+  "fileTree.directory": "डिरेक्टरी",
+  "i18n.untranslatedContent": "हो मजकूर तुमचे भाशेंत अजून उपलब्ध ना.",
+  "languageSelect.accessibleLabel": "भास निवडात",
+  "menuButton.accessibleLabel": "मेनू",
+  messages,
+  "page.draft": "हो मजकूर मसुदो आसा आनी उत्पादन बिल्डांत समाविश्ट करचो ना.",
+  "page.editLink": "पान संपादित करात",
+  "page.lastUpdated": "निमाणें अद्यतन केल्लें:",
+  "page.nextLink": "फुडलें",
+  "page.previousLink": "आदलें",
+  "search.cancelLabel": "रद्द करात",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "सोद फकत उत्पादन बिल्डांत उपलब्ध आसा. \nस्थानिक चाचणी खातीर साइट बांदून पूर्वदर्शन करपाचो यत्न करात.",
+  "search.label": "सोद",
+  "sidebarNav.accessibleLabel": "मुखेल",
+  "skipLink.label": "मजकुराक वचात",
+  status,
+  "tableOfContents.onThisPage": "ह्या भागांत",
+  "tableOfContents.overview": "सुरवात",
+  "themeSelect.accessibleLabel": "थीम निवडात",
+  "themeSelect.auto": "स्वयंचलित",
+  "themeSelect.dark": "काळें",
+  "themeSelect.light": "उजवाड",
+};
+
+export { kok as default, messages, status };

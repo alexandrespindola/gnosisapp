@@ -1,0 +1,35 @@
+const messages = {"automaticMessage":"මෙම පරිච්ඡේදය ස්පාඤ්ඤ මුල් පිටපතෙන් ස්වයංක්‍රීයව පරිවර්තනය කර ඇත. එය තවම මානව සමාලෝචනයකට ලක් වී නැත. සමාලෝචනයට උදව් කිරීමට අවශ්‍ය නම්, මෙහි ක්ලික් කර අප හා සම්බන්ධ වන්න.","originalMessage":"මෙම පරිච්ඡේදයේ අන්තර්ගතය මුල් ස්පාඤ්ඤ පාඨය මත පදනම් වේ.","revisedMessage":"මෙම පරිච්ඡේදය මුල් ස්පාඤ්ඤ පාඨයෙන් මානව සමාලෝචනය හා පරිවර්තනය කර ඇත. එයට තවමත් නිවැරදි කිරීම් අවශ්‍ය නම්, මෙහි ක්ලික් කර අප හා සම්බන්ධ වන්න."};
+const status = {"automatic":"ස්වයංක්‍රීය පරිවර්තනය","original":"මුල්","revised":"සමාලෝචිත"};
+const si = {
+  "404.text": "පිටුව හමු නොවීය. URL පරීක්ෂා කරන්න හෝ සෙවුම් තීරුව භාවිතා කිරීමට උත්සාහ කරන්න.",
+  "aside.caution": "අවධානය",
+  "aside.danger": "අනතුරුදායකයි",
+  "aside.note": "සටහන",
+  "aside.tip": "ඉඟිය",
+  "builtWithStarlight.label": "Starlight සමඟ නිර්මාණය කරන ලදී",
+  "fileTree.directory": "ඩිරෙක්ටරිය",
+  "i18n.untranslatedContent": "මෙම අන්තර්ගතය තවම ඔබේ භාෂාවෙන් නොමැත.",
+  "languageSelect.accessibleLabel": "භාෂාව තෝරන්න",
+  "menuButton.accessibleLabel": "මෙනුව",
+  messages,
+  "page.draft": "මෙම අන්තර්ගතය කෙටුම්පතක් වන අතර නිෂ්පාදන ගොඩනැගීම්වල ඇතුළත් නොවනු ඇත.",
+  "page.editLink": "පිටුව සංස්කරණය කරන්න",
+  "page.lastUpdated": "අවසන් යාවත්කාලීන කිරීම:",
+  "page.nextLink": "ඊළඟ",
+  "page.previousLink": "පෙර",
+  "search.cancelLabel": "අවලංගු කරන්න",
+  "search.ctrlKey": "Ctrl",
+  "search.devWarning": "සෙවීම නිෂ්පාදන ගොඩනැගීම්වල පමණක් ලබා ගත හැකිය. \nදේශීයව පරීක්ෂා කිරීමට අඩවිය ගොඩනගා පෙරදසුන් කිරීමට උත්සාහ කරන්න.",
+  "search.label": "සොයන්න",
+  "sidebarNav.accessibleLabel": "ප්‍රධාන",
+  "skipLink.label": "අන්තර්ගතයට යන්න",
+  status,
+  "tableOfContents.onThisPage": "මෙම පරිච්ඡේදයේ",
+  "tableOfContents.overview": "ආරම්භය",
+  "themeSelect.accessibleLabel": "තේමාව තෝරන්න",
+  "themeSelect.auto": "ස්වයංක්‍රීය",
+  "themeSelect.dark": "අඳුරු",
+  "themeSelect.light": "ආලෝකමත්",
+};
+
+export { si as default, messages, status };

@@ -1,0 +1,48 @@
+import { j as Fragment, _ as __astro_tag_component__, w as createVNode } from './astro/server_D5RFOXkj.mjs';
+import { $ as $$Image } from './_astro_assets_D9DAVLmb.mjs';
+
+const frontmatter = {
+  "title": "Tawalt n tmazirt",
+  "locale": "shi",
+  "statusTranslation": "automatic",
+  "coverImage": "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/strapi-uploads/small_cover-educacion-fundamental.webp-2d51a7828a2b1309555be27f7e2a61a0.webp",
+  "sidebar": {
+    "label": "23. Tawalt n tmazirt",
+    "order": 23
+  }
+};
+function getHeadings() {
+  return [];
+}
+const __usesAstroImage = true;
+function _createMdxContent(props) {
+  const {Fragment} = props.components || ({});
+  if (!Fragment) _missingMdxReference("Fragment");
+  return createVNode(Fragment, {
+    "set:html": "<p>Tudert n ufgan tettbedda am tiɣri tagettant imẓẓin, tettḍfer, akken i gga ttɛad, i wakud yufɣen iɣzert n tiɣriwin iddernin.</p>\n<p>Taggrawt, tarrawt, d tlalit, daymen nettat d agraw amɣar d aqʷbayli s ttbedda tudert n kra n tmegṛḍt.</p>\n<p>Yewhem aṭṭas ma nessen belli imezwura-nneɣ n tudert ilaq a ten-neɛyc deg win yugaren iẓẓi, ttwabdaren, yal yiwen seg-neɣ deg tiɣri tagettant tazrawt.</p>\n<p>Nettbedda ad nili deg udem n tiɣri taẓẓeẓt d nettara tudert d imɣaren, d imeɣban d yesseqsaɛen-d imektiyen.</p>\n<p>Nekk d imekti. Aṭṭas n imɣaren ur ttidiren ara deg wakud-a, aṭṭas n imeɣban ttidiren kan tmekti n uzekka. Yal ameɣban ur yugaren ara taɣect d tili. Yal ameɣban d taɣeṭṭast n uzekka, imekti yettjemmɛen d nettat i tettkemmil deg yigen n tarwa-nneɣ.</p>\n<p>Taggrawt n ufgan tettbedda s wakud yufɣen iɣzert, maca s wemmas n ibeddilen n tudert yettɣara-tt-en-tt azalmaḍ.</p>\n<p>Aṭṭas n wid iɣran ad mmektiyen tallalit n wakud. Taɣreɣt tamẓẓint i ttidiren kan kra n sswayeɛ deg unebdu, teqqar amzun ur ttidir ara, maca ttidir s tideț ayen yettidir ufgan deg tmanyin iseggasen, ayen yettidir ufgan deg tmanyin iseggasen ayen ttidirent tegnatin deg waldin n iseggasen.</p>\n<p>Mi ara yegmer wawan ɣer tmellalt, yettbedda usarwu. Tiɣri s ttbedda tudert n ufgan, tessɛa ɛecrin d ukkuz n yikerṛumen.</p>\n<p>Ikerṛumen ttbeddalen ɣer yigen, meyya seg wigi yaggugen neɣ ayen yugaren daymen d ayen d Ikerṛumen.</p>\n<p>Yigen ẓẓayen aṭṭas ad ttwaɣṛen acku bnan yal yiwen s kra n tumuɣlin i yettmerwirin s tɣawsa ur tettwaqebbalen ara.</p>\n<p>Amaḍal amɣar n yigen yettbeddu deg temda gar umaḍal aɣezdis d umaḍal n tmerwiɛt.</p>\n<p>Deg yigen ttilin tumuɣlin n uẓar. Nekk adelsan n imezwura-nneɣ, yettasen ad yesselɣu tmellalt i yetttwaẓran.</p>\n<p>Deg tallit-a n tukrikt d tussna tumaɣizt, ur yelli kra n uxemmem ad d-inniɣ belli taɣawt tukrikt-tagmamt i yeqqimen seg umezwari i yefɣen neffes-is ad ttwaẓren deg yigen d yikerṛumen n tmellalt i yetttwaẓran seg waṭas n tarwa.</p>\n<p>Abrid n tudert yebna s tɣawin n tɛeqqa n ḥṣan n tmettant.</p>\n<p>Deg tallit n tilin, agrawan n tmugriwin ttazalen s tɣerɣert n ufgan; yal anaw n tmugri tessɛa asutel-is n tɣawsa, yal anaw n tmugri yettban deg wakud-is d ssaɛa-s.</p>\n<p>Deg sin wagguren seg taggrawt nessɛa tɣawsa tasewwaɣt d rebɛa wagguren seg taggrawt tettkecm deg tɣawsa tmugrit tettilin aṭṭas ɣer istiten iɣessanen d yigelman.</p>\n<p>Yewhem aṭṭas amezgun atussnan n tlalit d tmettant n kullec.</p>\n<p>Aṭṭas n yimusnawen d-nnan belli tella tɣawsa gar tlalit n tmegṛḍt n ufgan d tlalit n umaḍal deg uẓawan asideral.</p>\n<p>Deg tẓa wagguren tlalit n wergaz, deg mraw tettbedda tmerrit s kullec s ibeddilen-is imaɣaren d yesseɛdilen d usɛeddel n izdanen yettwakemmlen.</p>\n<p>Mi ara terɣem tafunast tamenzut n wid i d-ilulen deg sin neɣ tlata iseggasen, d taɛlamt belli asutel agenses-aɣessan yuklal ad ittwakemmlen akken yelha.</p>\n<p>Aṭṭas n yimusnawen d-nnan belli tiddi tessɛa akken ad tseɣwṛ ayen kullec yellan, ayen yellan ayen ad yili.</p>\n<p>Aṭṭas n medden tteḍsaɣen akken ad mseɣwren, kra n win tsemman “tamejnut n wexxam”.</p>\n<p>Aɣerf n wawal tuktil tessɛa aṭṭas n uɛeqqa d aṭṭas n win i yesxeḍɛen tuktil d taswiɛt.</p>\n<p>Kra n yimusnawen d-nnan belli tella snat tuktilin. I tamenzut semman-as tuktil tamakanit d tayeḍ semman-as tuktil tamɣast: Tamenzut tettwabna seg isɣaren n wallɣu d tayeḍ tettɛadal ayen yelhan d wayen yessaɛden nessɛa deg wadda.</p>\n<p>S usersi d tɣawsa nettwara belli tella daɣen anaw n tuktil-wadda tamakanit tammurtant tarwatt tagettant d tayyawit.</p>\n<p>Anaw-a n tuktil-wadda tasɣant tettaɣ tasa s wadda n TAZUNUT TADELT.</p>\n<p>Tuɣalin tinserɣanen, isinma tamamurt, tiɣrisin timɣawren s sin inamuten, tiḍsa timamurta, atg., zeddɣen ad ssexdmen s udem awlawan tuktil-wadda tamakanit.</p>\n<p>Tanawt tagettant tefka-ɣen s teɣri taderɣalt belli uɣuɣed d tarwaẓin tignawin ḍrent s tuktil-wadda tamakanit.</p>\n<p>Tazzert tallayt tewwi-ɣen ɣer tɣawsa taderɣalt belli taɣzi tazdagt tettaɣ tasa ma yella tuktil-wadda tamakanit.</p>\n<p>Yettban akken yelha belli tuktil tazdat teffer aṭṭas ɣer ayen ittwassen am tuktil tamakanit, tayyawit, tarwatt.</p>\n<p>Kra n tɣawsa tzemmer ad twarra deg udem aɣezfan d usseɛden, maca tuktil-wadda n unaw amakan, tarwatt, taɣerɣert tzemmer ad teḍfer deg-neɣ tettaɣ tasa s udem usɣan, yettmeslayen, ttwakemmlen.</p>\n<p>Ma neɣra tazdagt tamɣart, taɣmert, tagettant, ilaq a nesɣar kan tuktil tazdat, maca daɣen tuktil tamakanit d tuktil-wadda talawant, tasɣant, twakemmlen.</p>\n<p>Ur ilaq a nectu kan tɣawsa yellan gar tmeyt d tuktil.</p>\n<p>S umedyes n wadda ilaq a nesseɣwrew kul anaw n tuktil tamakanit d kul tɣawsa n tuktil-wadda d tuktil-wadda tasaɣant, ɣer tuktil tazdat, taderɣalt.</p>\n<p>Tuktil taderɣalt nettat s timmad-is d tasɣart, war-tt azewwar ur yezmir ad yerr tilifun, arradiyu, tayyurt, atg.</p>\n<p>Tuktil n tmettut deg tallit n tarrat d tagellilt i tudert n tḍeft. Yettban belli yal yemma tezemmer s tuktil-is ad tesseɣwer tussna n tḍeft.</p>\n<p>Yewɛer aṭṭas i tmettut deg tallit n tarrat ad tselleɣ tawarwin yelhan, tigneḍin yelhan, ad tessel i uẓawan anamsad d wawalen yelhan, akken tezemmer ad tezzel ɣer tussna n tmegṛḍt i tewwi deg tɣerɣert-is akken yelha.</p>\n<p>Tmettut deg tallit n tarrat ur ilaq ad tessu aɣanim, ur ilaq ad ttewwet deg tdukxan, neɣ ad tselleɣ ayen yugaren, ayen ur nesseɛdilen ara acku kullec-a d ajenḍad i tudert yelhan n tmegṛḍt.</p>\n<p>Ilaq a nessen ad nessaɛdi kullek akken tettḥussu tmettut i tewwi tarrat.</p>\n<p>Aṭṭas n yergazen yettqehhren d win ixussen akken ad fehmen s tideț, ttrussen d ad ttzellien tmettut deg tallit n tarrat. Tixuṣṣiwin n wigi, tiẓẓay i yḍren seg urgaz ixussen, ttɣaran ɣer tḍeft deg tallit n usarwu, ur kan iɣsanen maca daɣen tussnant.</p>\n<p>S ussersi i tɣawsa n tuktil tɣawsa, d taderɣalt ad nini belli tmettut deg tallit n tarrat, ur ilaq ad tselleɣ ayen yugaren, ayen ur nesseɛdilen ara, ayen yettɣeren, atg.</p>\n<p>Tewweḍ ssaɛa deg iɣarimen ilaq ad ttwessen ad ssefraren tiɣriwin imaɣaren yellan gar tarrat.</p>\n<p>Tettban teɣsi deg yiwet n tmetti i tessen belli tanserɣan d tdamsarit, ur tessin ara ad tqader ad teḥrem tɣawsa tanserɣant n tarrat. D tɣawsa yettqehhren ad tarin waldin n tmettutin deg tallit n tarrat war kra n uɣuddu, ttwettanseg urgaz d tmetti, ad sselḥen agrum n weɣrum neɣ asɣar d ad zellien aṭṭas n tɣawsiwin timaɣsanin, akken ad ttidiren s tmegṛḍt i tewwi gar tɣerɣert-is.</p>\n<p>Awla-a aduranen seg tmetti n wassa, taɣerɣert d uxessa n tumast seg yimeswuren d agduden tesseknen-aɣen s tuderɣalt belli tdamukrat ur telli mazal.</p>\n<p>Isbitaren s tasdawiyin-nsen n tarrat ur ssefraren ara tiɣri acku isbitaren-nni kan zemren ad wwḍen tmettutin mi d-yeqreb usarwu.</p>\n<p>Nettḥwaj akken yewɛer iɣarimen imsegrawen, tidawiyin tigmatin tidet i yettwaxdmen s tɣerɣert d tmukanin i tmettutin deg tallit n usarwu d wid yeffren s tɣessa-nsen, tigenduyin d iɣermiwen i warraw n wigi.</p>\n<p>Iɣarimen-a imsegrawen d usuref i tmettutin d wid yeffren s tɣessa-nsen deg tallit n usarwu, yeqqenen s kullek akken yelhan, igegan, uẓawan, tɣawsa, tiẓuri, atg., ad ssefraren kullek tiɣri tameqqrant n tarrat.</p>\n<p>Ilaq ad nefhem belli tmetti n ufgan d tawacult tameqqrant d ur telli kra n tiɣri tageṭṭant acku kullek tiɣri deg yiwet neɣ tayeḍ tettɛadil deg uzegrar-is kullek yigelman n tmetti. D tɣawsa ur nesseɛdilen ara ad nessefɣu tmettutin deg tallit n usarwu acku yeffren s tɣessa-nsent. D tɣawsa yettqehhren ad ttwaḥqṛen, ad ttwaɣezzen neɣ ad ttwaɣarsen deg usuref n imeqqeren.</p>\n<p>Deg tmetti-a deg nettidir ur yelli warraw d wiyaḍ, acku kullec seg-neɣ d ufgan d nessɛa imawlan iserdanen.</p>\n<p>Ilaq a nxleq tadamukrat tadet, ma yella ur neɣri ad ttwarɣen s tɣerɣert ɣer ukimunizm.</p>"
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = props.components || ({});
+  return MDXLayout ? createVNode(MDXLayout, {
+    ...props,
+    children: createVNode(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + ("component" ) + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+const url = "src/content/docs/shi/educacion-fundamental/la-maternidad.mdx";
+const file = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/shi/educacion-fundamental/la-maternidad.mdx";
+const Content = (props = {}) => MDXContent({
+  ...props,
+  components: { Fragment: Fragment, ...props.components, "astro-image":  props.components?.img ?? $$Image },
+});
+Content[Symbol.for('mdx-component')] = true;
+Content[Symbol.for('astro.needsHeadRendering')] = !Boolean(frontmatter.layout);
+Content.moduleId = "/home/prometeu/Documentos/Astro/gnosisapp/src/content/docs/shi/educacion-fundamental/la-maternidad.mdx";
+__astro_tag_component__(Content, 'astro:jsx');
+
+export { Content, __usesAstroImage, Content as default, file, frontmatter, getHeadings, url };
