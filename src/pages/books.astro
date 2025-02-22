@@ -2,6 +2,8 @@
 import { getBooks } from "../lib/api";
 import BookCard from "../components/BookCard.astro";
 import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+export const prerender = true;
+
 
 interface Book {
   documentId: string;
