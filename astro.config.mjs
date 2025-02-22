@@ -2,12 +2,10 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import tailwind from "@astrojs/tailwind";
-import netlify from '@astrojs/netlify';
-import { fileURLToPath } from "url";
+import netlify from "@astrojs/netlify";
 
 // https://astro.build/config
 export default defineConfig({
-  base: "/",
   output: "server",
   adapter: netlify(),
   integrations: [
@@ -740,21 +738,6 @@ export default defineConfig({
           },
         },
       ],
-    })
-  ],
-  vite: {
-    resolve: {
-      alias: {
-        '@styles': fileURLToPath(new URL('./src/styles', import.meta.url)),
-      }
-    },
-    build: {
-      cssCodeSplit: false,
-      rollupOptions: {
-        output: {
-          assetFileNames: "assets/[name][extname]",
-        }
-      }
-    }
-  }
+    }),
+  ]
 });
