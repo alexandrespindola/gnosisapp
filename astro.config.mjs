@@ -9,7 +9,6 @@ export default defineConfig({
   output: "server",
   adapter: netlify(),
   integrations: [
-    tailwind(),
     starlight({
       prerender: true,
 
@@ -24,9 +23,9 @@ export default defineConfig({
       customCss: [
         "@fontsource/lato/400.css",
         "@fontsource/lato/700.css",
-        "@styles/css/tailwind.css",
-        "@styles/css/base.css",
-        "@styles/css/custom.css",
+        "./src/styles/css/tailwind.css",
+        "./src/styles/css/base.css",
+        "./src/styles/css/custom.css",
       ],
       // i18n
       defaultLocale: "root",
@@ -739,5 +738,6 @@ export default defineConfig({
         },
       ],
     }),
+    tailwind(),
   ]
 });
