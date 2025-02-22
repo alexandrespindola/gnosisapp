@@ -2,12 +2,12 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import tailwind from "@astrojs/tailwind";
-import netlify from "@astrojs/netlify";
+/*import netlify from "@astrojs/netlify";*/
 
 // https://astro.build/config
 export default defineConfig({
-  output: "server",
-  adapter: netlify(),
+  output: "static",
+  /*adapter: netlify(),*/
   integrations: [
     starlight({
       prerender: true,
