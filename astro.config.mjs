@@ -3,12 +3,15 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import tailwind from "@astrojs/tailwind";
 import netlify from '@astrojs/netlify';
+import { fileURLToPath } from "url";
 
 // https://astro.build/config
 export default defineConfig({
+  base: "/",
   output: "server",
   adapter: netlify(),
   integrations: [
+    tailwind(),
     starlight({
       prerender: true,
 
@@ -23,9 +26,9 @@ export default defineConfig({
       customCss: [
         "@fontsource/lato/400.css",
         "@fontsource/lato/700.css",
-        "./src/styles/css/tailwind.css",
-        "./src/styles/css/base.css",
-        "./src/styles/css/custom.css",
+        "@styles/css/tailwind.css",
+        "@styles/css/base.css",
+        "@styles/css/custom.css",
       ],
       // i18n
       defaultLocale: "root",
@@ -737,7 +740,21 @@ export default defineConfig({
           },
         },
       ],
-    }),
-    tailwind(),
+    })
   ],
+  vite: {
+    resolve: {
+      alias: {
+        '@styles': fileURLToPath(new URL('./src/styles', import.meta.url)),
+      }
+    },
+    build: {
+      cssCodeSplit: false,
+      rollupOptions: {
+        output: {
+          assetFileNames: "assets/[name][extname]",
+        }
+      }
+    }
+  }
 });

@@ -7,7 +7,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "preview-dist": "http-server dist"
   },
   "dependencies": {
     "@astrojs/netlify": "^6.2.0",
@@ -24,6 +25,7 @@
   "devDependencies": {
     "@types/node": "^22.10.5",
     "axios": "^1.7.9",
+    "http-server": "^14.1.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.2"
   }
