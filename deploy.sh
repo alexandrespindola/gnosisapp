@@ -5,7 +5,7 @@ echo "🚀 Starting deployment process..."
 
 # Generate chapters
 echo "📚 Generating chapters..."
-# npx tsx generateChapters.ts
+npx tsx generateChapters.ts
 
 # If chapters generation was successful
 if [ $? -eq 0 ]; then
