@@ -81,7 +81,7 @@ export const LOCALES_PREFIX = [
   "pl",
   "ps",
   "pt",
-  "pt-br",
+  "pt-BR",
   "ro",
   "ru",
   "rw",

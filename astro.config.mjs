@@ -281,9 +281,9 @@ export default defineConfig({
         pt: {
           label: "🇵🇹 PT - Português",
         },
-        'pt-br': {
+        'pt-BR': {
           label: "🇧🇷 PT-BR - Português do Brasil",
-          lang: 'pt-br',
+          lang: "pt-BR"
         },
         ro: {
           label: "🇷🇴 RO - Română",
