@@ -281,7 +281,7 @@ export default defineConfig({
         pt: {
           label: "🇵🇹 PT - Português",
         },
-        'pt-BR': {
+        'pt-br': {
           label: "🇧🇷 PT-BR - Português do Brasil",
           lang: "pt-BR"
         },
@@ -468,7 +468,7 @@ export default defineConfig({
             pl: "Książki",
             ps: "کتابونه",
             pt: "Livros",
-            'pt-br': "Livros",
+            'pt-BR': "Livros",
             ro: "Cărți",
             ru: "Книги",
             rw: "Ibitabo",
@@ -584,7 +584,7 @@ export default defineConfig({
             pl: "Edukacja Podstawowa",
             ps: "بنسټیز زده کړې",
             pt: "Educação Fundamental",
-            'pt-br': "Educação Fundamental",
+            'pt-BR': "Educação Fundamental",
             ro: "Educație Fundamentală",
             ru: "Основное образование",
             rw: "Uburezi bw'Ibanze",
@@ -701,7 +701,7 @@ export default defineConfig({
             pl: "Traktat o Psychologii Rewolucyjnej",
             ps: "د انقلابي ارواپوهنې په اړه رساله",
             pt: "Tratado de Psicologia Revolucionária",
-            'pt-br': "Tratado de Psicologia Revolucionária",
+            'pt-BR': "Tratado de Psicologia Revolucionária",
             ro: "Tratat de Psihologie Revoluționară",
             ru: "Трактат о Революционной Психологии",
             rw: "Igitabo cy'Ubuhanga bw'Imyifatire y'Impinduramatwara",
