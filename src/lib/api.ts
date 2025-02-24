@@ -1,8 +1,8 @@
 // src/lib/api.ts
 import axios from "axios";
 
-const STRAPI_URL = import.meta.env.PUBLIC_STRAPI_URL;
-const ACCESS_TOKEN = "c84e291e514904d2f6d92135d85da6a2f1073486e2c9052563c1713c0ac97ceb49ba47d488f789d3a86d5ebeda6fee6c2c8ba2fe3a665b13674e1b911374c631c390674bf56b749430d2782b67b33c2af31af9945595118c745d5406467f255fae4bb3c49e26ee5c93ce3af638d8a9aba05b9b226446775014c403db1e199a42";
+const STRAPI_URL = "https://railwayapp-strapi-production-3ea7.up.railway.app";
+const ACCESS_TOKEN = "1c2abcb722fac8849c3a91e61be7e72cd28e698dec954189c37c96677d2b315e835d16fde326d4059add9925c72a11ab1c1b96dd39d6c83eaed5c5f1afeabeec8cbcbb9b479fcf33736bf8818c35a950f04fb8ab0fd0824ef365816c512fbbcaf519aac4bb21bb3b21dcabd78bf2e8f832bc324da93582512d002a2fd87b8f30";
 
 export async function getBooks(locale: string) {
   try {
