@@ -281,6 +281,9 @@ export default defineConfig({
         pt: {
           label: "🇵🇹 PT - Português",
         },
+        'pt-BR': {
+          label: "🇧🇷 PT-BR - Português do Brasil",
+        },
         ro: {
           label: "🇷🇴 RO - Română",
         },
@@ -292,9 +295,6 @@ export default defineConfig({
         },
         sg: {
           label: "🇨🇫 SG - Sango",
-        },
-        shi: {
-          label: "🇲🇦 SHI - Tachelhit",
         },
         si: {
           label: "🇱🇰 SI - Sinhala",
@@ -467,11 +467,11 @@ export default defineConfig({
             pl: "Książki",
             ps: "کتابونه",
             pt: "Livros",
+            'pt-BR': "Livros",
             ro: "Cărți",
             ru: "Книги",
             rw: "Ibitabo",
             sg: "Mbeti",
-            shi: "ⵉⴷⵍⵉⵙⵏ",
             si: "පොත්",
             sk: "Knihy",
             sl: "Knjige",
@@ -583,11 +583,11 @@ export default defineConfig({
             pl: "Edukacja Podstawowa",
             ps: "بنسټیز زده کړې",
             pt: "Educação Fundamental",
+            'pt-BR': "Educação Fundamental",
             ro: "Educație Fundamentală",
             ru: "Основное образование",
             rw: "Uburezi bw'Ibanze",
             sg: "Fängö tî Nzapa",
-            shi: "ⵜⴰⵎⵙⵙⵉⵖⵔⵉⵜ ⵜⴰⵎⵣⵡⴰⵔⵓⵜ",
             si: "මූලික අධ්‍යාපනය",
             sk: "Základné Vzdelávanie",
             sl: "Osnovno Izobraževanje",
@@ -700,11 +700,11 @@ export default defineConfig({
             pl: "Traktat o Psychologii Rewolucyjnej",
             ps: "د انقلابي ارواپوهنې په اړه رساله",
             pt: "Tratado de Psicologia Revolucionária",
+            'pt-BR': "Tratado de Psicologia Revolucionária",
             ro: "Tratat de Psihologie Revoluționară",
             ru: "Трактат о Революционной Психологии",
             rw: "Igitabo cy'Ubuhanga bw'Imyifatire y'Impinduramatwara",
             sg: "Mbeti tî Mayê tî Bata-ndo tî Revolution",
-            shi: "ⴰⴷⵍⵉⵙ ⵅⴼ ⵜⵓⵙⵙⵏⴰ ⵏ ⵜⴰⵏⴼⵙⵜ ⵜⴰⵙⵏⴼⵍⵓⵍⵜ",
             si: "විප්ලවීය මනෝ විද්‍යාව පිළිබඳ ග්‍රන්ථය",
             sk: "Pojednanie o Revolučnej Psychológii",
             sl: "Razprava o Revolucionarni Psihologiji",
