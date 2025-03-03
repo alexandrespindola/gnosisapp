@@ -3,14 +3,21 @@ import { getRelativeLocaleUrl } from 'astro:i18n';
 
 // Obter as configurações de i18n do seu site
 import { LOCALES_FLAGS } from '../constants/locales';
+import { SIMPLE_LOCALES_FLAGS } from '../constants/simpleLocales';
 
 const currentLocale = Astro.currentLocale;
+
+const isDev = process.env.NODE_ENV === "development";
+const isProd = process.env.NODE_ENV === "production";
+
+// Select locales based on environment
+const ACTIVE_LOCALES_FLAGS = isDev ? SIMPLE_LOCALES_FLAGS : LOCALES_FLAGS;
 ---
 
 <div class="w-full flex flex-row justify-center">
     <div class="language-select">
       <select onchange="window.location.href = this.value">
-        {Object.entries(LOCALES_FLAGS).map(([locale, label]) => (
+        {Object.entries(ACTIVE_LOCALES_FLAGS).map(([locale, label]) => (
           <option
             value={getRelativeLocaleUrl(locale, '')}
             selected={currentLocale === locale}

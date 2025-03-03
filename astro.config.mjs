@@ -3,6 +3,9 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import tailwind from "@astrojs/tailwind";
 
+const isDev = process.env.NODE_ENV === "development";
+const isProd = process.env.NODE_ENV === "production";
+
 // https://astro.build/config
 export default defineConfig({
   output: "static",
@@ -27,6 +30,23 @@ export default defineConfig({
       ],
       // i18n
       defaultLocale: "root",
+
+      ...(isDev && {
+        locales: {
+          en: {
+            label: "🇬🇧 EN - English",
+          },
+          root: {
+            label: "🇪🇸 ES - Español",
+            lang: "es",
+          },
+          pt: {
+            label: "🇵🇹 PT - Português",
+          },
+        },
+      }),
+
+      ...(isProd && {
       locales: {
         af: {
           label: "🇿🇦 AF - Afrikaans",
@@ -283,7 +303,7 @@ export default defineConfig({
         },
         "pt-br": {
           label: "🇧🇷 PT-BR - Português do Brasil",
-          lang: "pt-br",
+          lang: "pt-BR",
         },
         ro: {
           label: "🇷🇴 RO - Română",
@@ -367,7 +387,7 @@ export default defineConfig({
         zu: {
           label: "🇿🇦 ZU - Zulu",
         },
-      },
+      }}),
 
       // Components
       components: {
@@ -381,6 +401,17 @@ export default defineConfig({
       social: {},
 
       // Sidebar links
+      ...(isDev && {
+        sidebar: {
+          label: "Libros",
+          slug: "",
+          translations: {
+            en: "Books",
+            pt: "Livros",
+          },
+        },
+      }),
+
       sidebar: [
         {
           label: "Libros",
