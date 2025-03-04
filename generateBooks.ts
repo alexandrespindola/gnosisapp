@@ -44,7 +44,6 @@ function generateIndexMarkdown(book: Book, locale: string): string {
 
   return `---
 title: ${title}
-template: splash
 lang: ${locale}
 hero:
   author: Samael Aun Weor
