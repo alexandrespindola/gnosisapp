@@ -6,6 +6,9 @@
   "aside.tip": "Wenk",
   "automatic": "Outomatiese Vertaling",
   "builtWithStarlight.label": "Gebou met Starlight",
+  "common": {
+    "readMore": "Ver meer"
+  },
   "fileTree.directory": "Gids",
   "i18n.untranslatedContent": "Hierdie inhoud is nog nie in jou taal beskikbaar nie.",
   "languageSelect.accessibleLabel": "Kies taal",

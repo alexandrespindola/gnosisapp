@@ -2,8 +2,6 @@
 import { getBooks } from "../lib/api";
 import BookCard from "../components/BookCard.astro";
 import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
-export const prerender = true;
-
 
 interface Book {
   documentId: string;
@@ -51,7 +49,6 @@ const books: Book[] = (await getBooks("es")) || [];
                 book?.cover_image?.formats?.small?.url ||
                 "/default-cover.jpg",
             }}
-            buttonText="Ver más"
           />
         ))
       ) : (

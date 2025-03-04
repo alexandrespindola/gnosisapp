@@ -1,4 +1,7 @@
 {
+  "common": {
+    "readBook": "Ler livro"
+  },
   "pages": {
     "index": {
       "title": "Livros Gnósticos",
