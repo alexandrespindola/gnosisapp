@@ -281,10 +281,6 @@ export default defineConfig({
         pt: {
           label: "🇵🇹 PT - Português",
         },
-        "pt-br": {
-          label: "🇧🇷 PT-BR - Português do Brasil",
-          lang: "pt-br",
-        },
         ro: {
           label: "🇷🇴 RO - Română",
         },
@@ -468,8 +464,7 @@ export default defineConfig({
             pl: "Książki",
             ps: "کتابونه",
             pt: "Livros",
-            "pt-br": "Livros",
-            ro: "Cărți",
+            ro: "Cárți",
             ru: "Книги",
             rw: "Ibitabo",
             sg: "Mbeti",
@@ -584,7 +579,6 @@ export default defineConfig({
             pl: "Edukacja Podstawowa",
             ps: "بنسټیز زده کړې",
             pt: "Educação Fundamental",
-            "pt-br": "Educação Fundamental",
             ro: "Educație Fundamentală",
             ru: "Основное образование",
             rw: "Uburezi bw'Ibanze",
