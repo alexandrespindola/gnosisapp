@@ -65,13 +65,6 @@ const books: Book[] = (await getBooks(lang)) || [];
                 book?.cover_image?.formats?.small?.url ||
                 "/default-cover.jpg",
             }}
-            buttonText={
-              lang === "pt"
-                ? "Ver mais"
-                : lang === "es"
-                  ? "Ver más"
-                  : "Read more"
-            }
           />
         ))
       ) : (
