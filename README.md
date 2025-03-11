@@ -1,71 +1,71 @@
-# GnosisApp - Biblioteca Digital Multilíngue
+# GnosisApp - Multilingual Digital Library
 
-Bem-vindo ao **GnosisApp**, um projeto de biblioteca digital multilíngue desenvolvido com uma arquitetura moderna baseada em JAMstack. Este repositório contém o código-fonte do projeto, que combina tecnologias como **Astro**, **Strapi**, **Netlify**, **n8n** e **Google Gemini Flash 2.0** para fornecer uma solução eficiente, escalável e amigável para gerenciamento de conteúdo e traduções automáticas.
-
----
-
-## 📚 Descrição do Projeto
-
-O GnosisApp é uma biblioteca digital projetada para centralizar a geração de conteúdo e traduções em vários idiomas. Ele utiliza uma interface moderna e responsiva com recursos como:
-
-- Alternância entre temas claro/escuro.
-- Funcionalidade de busca integrada.
-- Suporte nativo para mais de 100 idiomas.
-- Componentes reutilizáveis para facilitar a manutenção e expansão.
-- Automação de fluxos de trabalho de tradução usando **n8n** e **Google Gemini Flash 2.0**.
-
-O principal objetivo deste projeto é democratizar o acesso ao conhecimento, oferecendo uma solução acessível e eficiente para o gerenciamento de conteúdo multilíngue.
+Welcome to **GnosisApp**, a multilingual digital library project developed with a modern JAMstack architecture. This repository contains the project's source code, which combines technologies like **Astro**, **Strapi**, **Netlify**, **n8n**, and **Google Gemini Flash 2.0** to provide an efficient, scalable, and user-friendly solution for content management and automatic translations.
 
 ---
 
-## 🛠️ Arquitetura do Projeto
+## 📚 Project Description
 
-O GnosisApp foi desenvolvido utilizando as seguintes tecnologias:
+GnosisApp is a digital library designed to centralize content generation and translations in multiple languages. It uses a modern and responsive interface with features such as:
+
+- Light/dark theme switching.
+- Integrated search functionality.
+- Support for over 100 languages.
+- Reusable components to facilitate maintenance and expansion.
+- Translation workflow automation using **n8n** and **Google Gemini Flash 2.0**.
+
+The main objective of this project is to democratize access to knowledge, offering an accessible and efficient solution for multilingual content management.
+
+---
+
+## 🛠️ Project Architecture
+
+GnosisApp was developed using the following technologies:
 
 ### **1. Frontend**
 
 - **Framework:** [Astro](https://astro.build/)
-  - Utilizado para Geração de Sites Estáticos (SSG), garantindo alto desempenho e tempos de carregamento rápidos.
-  - Baseado no template [Starlight](https://starlight.astro.build/), que fornece recursos como:
-    - Alternância entre temas claro/escuro.
-    - Funcionalidade de busca integrada.
-    - Suporte nativo para vários idiomas.
-- **Estilização:** [Tailwind CSS](https://tailwindcss.com/)
-  - Facilita a criação de interfaces modernas e responsivas.
+  - Used for Static Site Generation (SSG), ensuring high performance and fast loading times.
+  - Based on the [Starlight](https://starlight.astro.build/) template, which provides features like:
+    - Light/dark theme switching.
+    - Integrated search functionality.
+    - Native support for multiple languages.
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+  - Facilitates the creation of modern and responsive interfaces.
 
 ### **2. Backend**
 
-- **CMS Headless:** [Strapi](https://strapi.io/)
-  - Gerencia dados relacionados a livros, capítulos, autores e categorias.
-  - Estrutura de tabelas relacionais:
-    - `Authors`: Informações sobre os autores dos livros.
-    - `Books`: Dados gerais dos livros, incluindo título, descrição e autor relacionado.
-    - `Categorias`: Classificação dos livros em temas ou gêneros.
-    - `Capítulos`: Conteúdo textual dos capítulos associados aos livros.
-  - Implantação no [Railway](https://railway.com), com a base de dados PostgresSQL na mesma região para diminuir a latência.
+- **Headless CMS:** [Strapi](https://strapi.io/)
+  - Manages data related to books, chapters, authors, and categories.
+  - Relational table structure:
+    - `Authors`: Information about book authors.
+    - `Books`: General book data, including title, description, and related author.
+    - `Categories`: Book classification by themes or genres.
+    - `Chapters`: Textual content of chapters associated with books.
+  - Deployed on [Railway](https://railway.com), with PostgresSQL database in the same region to reduce latency.
 
-### **3. Automação**
+### **3. Automation**
 
-- **Automação de Fluxos de Trabalho:** [n8n](https://n8n.io/)
-  - Planejado para integrar o Strapi com o serviço de tradução automática através do agente de IA Google Gemini Flash 2.0.
-  - Automatiza o envio de textos para tradução e sincroniza as versões traduzidas de volta ao CMS.
+- **Workflow Automation:** [n8n](https://n8n.io/)
+  - Planned to integrate Strapi with the automatic translation service through the Google Gemini Flash 2.0 AI agent.
+  - Automates text submission for translation and synchronizes translated versions back to the CMS.
 
-### **4. Implantação**
+### **4. Deployment**
 
-- **Plataforma:** Netlify
-  - Implantação contínua do frontend com distribuição global via CDN.
-  - URL provisória: [https://gnosisapp.netlify.dev](https://gnosisapp.netlify.dev)
+- **Platform:** Netlify
+  - Continuous frontend deployment with global distribution via CDN.
+  - Provisional URL: [https://gnosisapp.netlify.dev](https://gnosisapp.netlify.dev)
 
-### **5. Geração Dinâmica de Conteúdo**
+### **5. Dynamic Content Generation**
 
-- Um script em TypeScript (`generateChapters.ts`) foi desenvolvido para:
-  - Buscar dados do CMS Strapi para os capítulos armazenados.
-  - Converter os dados em arquivos MDX reutilizáveis para o frontend.
-  - Automatizar a geração de arquivos MDX para garantir consistência entre o conteúdo do CMS e a exibição no frontend.
+- A TypeScript script (`generateChapters.ts`) was developed to:
+  - Fetch data from Strapi CMS for stored chapters.
+  - Convert data into reusable MDX files for the frontend.
+  - Automate MDX file generation to ensure consistency between CMS content and frontend display.
 
 ---
 
-## 🌐 Acesso ao Projeto
+## 🌐 Project Access
 
-Você pode acessar a versão atual do projeto através do link:
+You can access the current version of the project through the link:
 [https://gnosisapp.netlify.dev](https://gnosisapp.netlify.dev).
