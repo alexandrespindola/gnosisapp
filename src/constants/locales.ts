@@ -7,5 +7,5 @@ export const LOCALES_PREFIX = [
 export const LOCALES_FLAGS = {
   es: "🇪🇸 ES - Español",
   en: "🇬🇧 EN - English",
-  pt: "🇵🇹 PT - Português"
+  pt: "🇧🇷 PT - Português Brasileiro"
 };

@@ -6,12 +6,22 @@ const ACCESS_TOKEN = "1c2abcb722fac8849c3a91e61be7e72cd28e698dec954189c37c96677d
 
 export async function getBooks(locale: string) {
   try {
-    const response = await axios.get(`${STRAPI_URL}/books?locale=${locale}&populate=*`, {
+    // Modificação: Usar pt-BR para busca, mas manter o locale original
+    const searchLocale = locale === 'pt' ? 'pt-BR' : locale;
+    
+    const response = await axios.get(`${STRAPI_URL}/books?locale=${searchLocale}&populate=*`, {
       headers: {
         Authorization: `Bearer ${ACCESS_TOKEN}`,
       },
     });
-    return response.data.data;
+    
+    // Mapear os dados para garantir que o locale seja o original
+    const mappedData = response.data.data.map((book: any) => ({
+      ...book,
+      locale: locale // Substituir o locale retornado pelo locale original
+    }));
+    
+    return mappedData;
   } catch (error) {
     console.error("Erro ao buscar livros:", error);
     return [];

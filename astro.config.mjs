@@ -36,7 +36,8 @@ export default defineConfig({
           lang: "es",
         },
         pt: {
-          label: "🇵🇹 PT - Português",
+          label: "🇧🇷 PT - Português Brasileiro",
+          lang: "pt",
         }
       },
 

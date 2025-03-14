@@ -45,6 +45,7 @@ function generateIndexMarkdown(book: Book, locale: string): string {
   return `---
 title: ${title}
 lang: ${locale}
+template: splash
 hero:
   author: Samael Aun Weor
   image:
@@ -62,8 +63,11 @@ sidebar:
 
 async function main() {
   for (const locale of LOCALES_PREFIX) {
+    // Modificação: usar pt-BR para busca, mas manter o locale original
+    const searchLocale = locale === 'pt' ? 'pt-BR' : locale;
+    
     const booksResponse = await axios.get(
-      `${STRAPI_URL}/books?locale=${locale}&populate=*`,
+      `${STRAPI_URL}/books?locale=${searchLocale}&populate=*`,
       {
         headers: {
           Authorization: `Bearer ${ACCESS_TOKEN}`,
@@ -74,6 +78,7 @@ async function main() {
     const books = booksResponse.data.data;
 
     for (const book of books) {
+      // Usar o locale original para geração de markdown
       const indexMarkdownContent = generateIndexMarkdown(book, locale);
 
       const indexDir = path.join(

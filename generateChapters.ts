@@ -55,16 +55,19 @@ async function fetchChapters(
   bookData: Book
 ): Promise<Chapter[]> {
   try {
+    // Modificação: Usar pt-BR para busca, mas manter o locale original
+    const searchLocale = locale === 'pt' ? 'pt-BR' : locale;
+    
     const response = await axios.get(
-      `${STRAPI_URL}/books/${bookId}?locale=${locale}&populate=*`, // Using the correct URL to fetch chapters related to the book
+      `${STRAPI_URL}/books/${bookId}?locale=${searchLocale}&populate=*`,
       {
         headers: {
-          Authorization: `Bearer ${ACCESS_TOKEN}`, // Using the direct token
+          Authorization: `Bearer ${ACCESS_TOKEN}`,
         },
       }
     );
 
-    const chapters = response.data.data.chapters; // Accesses the chapters from the response
+    const chapters = response.data.data.chapters;
     return chapters.map((chapter: Chapter) => ({
       ...chapter,
       book: {
@@ -160,7 +163,7 @@ async function main() {
           const chaptersDir = path.join(
             __dirname,
             "src/content/docs",
-            locale,
+            locale === 'pt' ? 'pt' : locale,
             book.text_id
           );
           if (!fs.existsSync(chaptersDir)) {
