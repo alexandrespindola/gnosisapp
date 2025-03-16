@@ -1,8 +1,8 @@
 // src/lib/api.ts
 import axios from "axios";
 
-const STRAPI_URL = "https://railwayapp-strapi-production-3ea7.up.railway.app/api";
-const ACCESS_TOKEN = "1c2abcb722fac8849c3a91e61be7e72cd28e698dec954189c37c96677d2b315e835d16fde326d4059add9925c72a11ab1c1b96dd39d6c83eaed5c5f1afeabeec8cbcbb9b479fcf33736bf8818c35a950f04fb8ab0fd0824ef365816c512fbbcaf519aac4bb21bb3b21dcabd78bf2e8f832bc324da93582512d002a2fd87b8f30";
+const STRAPI_URL = "https://cms.gnosisdeutschland.org/api";
+const ACCESS_TOKEN_GENERATE_PAGES = "59025f7f24d343381b185bd054a14af2b3e8b77988c0e7fad04bbbd6de3531cfe3293dfc4b3f720a4fd61a051af30eed6e1168412010b0b092d9bee796940d16c89b3aa64fe66457c7f2dc29badf185230d2c926cd9503970334efa4888aae0ad4d6d659f5a0e7c8aff72668dab2e8c2170f234d1b76b04c193a029b6ac3a54c";
 
 export async function getBooks(locale: string) {
   try {
@@ -11,7 +11,7 @@ export async function getBooks(locale: string) {
     
     const response = await axios.get(`${STRAPI_URL}/books?locale=${searchLocale}&populate=*`, {
       headers: {
-        Authorization: `Bearer ${ACCESS_TOKEN}`,
+        Authorization: `Bearer ${ACCESS_TOKEN_GENERATE_PAGES}`,
       },
     });
     
