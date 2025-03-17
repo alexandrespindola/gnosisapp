@@ -40,7 +40,6 @@ interface Book {
 function generateIndexMarkdown(book: Book, locale: string): string {
   const coverImage = book.cover_image?.formats?.small?.url ?? "";
   const title = book.title;
-  const author = book.author;
 
   return `---
 title: ${title}
