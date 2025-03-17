@@ -78,7 +78,7 @@ export default defineConfig({
           label: "🇨🇿 CS - Čeština",
         },
         cy: {
-          label: "🇬🇧 CY - Welsh",
+          label: "🏴󠁧󠁢󠁷󠁬󠁳󠁿 CY - Welsh",
         },
         da: {
           label: "🇩🇰 DA - Dansk",
