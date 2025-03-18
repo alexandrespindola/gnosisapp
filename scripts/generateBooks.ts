@@ -82,6 +82,7 @@ async function main() {
 
       const indexDir = path.join(
         __dirname,
+        "..",
         "src/content/docs",
         locale === "es" ? book.text_id : path.join(locale, book.text_id)
       );

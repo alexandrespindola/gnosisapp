@@ -10,14 +10,34 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 dotenv.config({ path: path.resolve(__dirname, "../env/.env") });
 
-// Define your credentials directly here
+// Define credentials for Strapi API
 const STRAPI_URL = process.env.PUBLIC_STRAPI_URL || "";
 const ACCESS_TOKEN = process.env.PUBLIC_ACCESS_TOKEN || "";
 
-if (!STRAPI_URL || !ACCESS_TOKEN) {
-  throw new Error(
-    "STRAPI_URL and ACCESS_TOKEN must be defined in the .env file"
-  );
+// Directory for storing locale-specific cache timestamps
+const CACHE_DIR = path.resolve(__dirname, "../.cache/timestamps");
+
+// Ensure cache directory exists
+if (!fs.existsSync(CACHE_DIR)) {
+  fs.mkdirSync(CACHE_DIR, { recursive: true });
+}
+
+// Function to get last build timestamp for a specific locale
+function getLastBuildTimestamp(locale: string): string {
+  const cacheFile = path.resolve(CACHE_DIR, `${locale}.timestamp`);
+  
+  // Default to an old timestamp if no cache exists
+  if (!fs.existsSync(cacheFile)) {
+    return "2020-01-01T00:00:00.000Z";
+  }
+  
+  return fs.readFileSync(cacheFile, "utf-8").trim();
+}
+
+// Function to save timestamp for a specific locale
+function saveLocaleTimestamp(locale: string, timestamp: string) {
+  const cacheFile = path.resolve(CACHE_DIR, `${locale}.timestamp`);
+  fs.writeFileSync(cacheFile, timestamp);
 }
 
 interface Book {
@@ -43,10 +63,11 @@ interface Chapter {
   text_id: string; // Text ID of the chapter
   order_number: number; // Order number of the chapter
   translation_state: string; // Translation state of the chapter
-  chapter_number: number; // Order number of the chapter
-  title: { [key: string]: string }; // Titles by language
-  content: { [key: string]: string }; // Content by language
+  chapter_number: number; // Chapter number
+  title: string; // Title of the chapter
+  content: string; // Content of the chapter
   book?: Book; // Book reference
+  updatedAt: string; // Timestamp of last update
 }
 
 async function fetchChapters(
@@ -55,9 +76,12 @@ async function fetchChapters(
   bookData: Book
 ): Promise<Chapter[]> {
   try {
-    // Modificação: Usar pt-BR para busca, mas manter o locale original
-    const searchLocale = locale === 'pt' ? 'pt-BR' : locale;
+    // Get last build timestamp for this specific locale
+    const lastBuildTimestamp = getLastBuildTimestamp(locale);
     
+    // Use pt-BR for search, but keep original locale
+    const searchLocale = locale === 'pt' ? 'pt-BR' : locale;
+
     const response = await axios.get(
       `${STRAPI_URL}/books/${bookId}?locale=${searchLocale}&populate=*`,
       {
@@ -67,18 +91,32 @@ async function fetchChapters(
       }
     );
 
-    const chapters = response.data.data.chapters;
-    return chapters.map((chapter: Chapter) => ({
+    const chapters = response.data.data.chapters || [];
+    
+    // Filter chapters based on timestamp
+    return chapters.filter((chapter: Chapter) => {
+      const chapterUpdatedAt = new Date(chapter.updatedAt);
+      const lastBuildDate = new Date(lastBuildTimestamp);
+      
+      // Debug logging for each chapter
+      console.log(`📘 Chapter ${chapter.id} (${chapter.slug}):`, {
+        updatedAt: chapter.updatedAt,
+        lastBuildDate: lastBuildTimestamp,
+        willBeProcessed: chapterUpdatedAt > lastBuildDate
+      });
+
+      return chapterUpdatedAt > lastBuildDate;
+    }).map((chapter: Chapter) => ({
       ...chapter,
       book: {
         ...bookData,
-        cover_image: response.data.data.cover_imag,
+        cover_image: response.data.data.cover_image,
       },
     }));
   } catch (error) {
     const err = error as any;
     console.error(
-      `Error fetching chapters for book ID ${bookId}:`,
+      `🚨 Error fetching chapters for book ID ${bookId}:`,
       err.response ? err.response.data : err.message
     );
     return [];
@@ -94,7 +132,7 @@ function generateChapterMarkdown(chapter: Chapter, locale: string, book: Book): 
   const cover_image = book.cover_image?.formats?.small?.url ?? "";
 
   if (!title) {
-    console.error(`Title not found for chapter ID ${chapter.id}`);
+    console.error(`🚫 Title not found for chapter ID ${chapter.id}`);
     return "";
   }
 
@@ -112,62 +150,42 @@ ${content}
 }
 
 async function main() {
-  for (const locale of LOCALES_PREFIX) {
-    const booksResponse = await axios.get(
-      `${STRAPI_URL}/books?locale=${locale}&populate=*`, // Using the correct URL to fetch books
-      {
-        headers: {
-          Authorization: `Bearer ${ACCESS_TOKEN}`,
-        },
-      }
-    );
+  console.log(`🕰️ Starting chapter generation`);
 
-    const books = booksResponse.data.data; // Gets the list of books
-
-    for (const book of books) {
-      const chapters = await fetchChapters(book.documentId, locale, book); // Fetches chapters for each book
-
-      // Generate markdown files for chapters in Español (default)
-      if (locale === "es") {
-        if (chapters.length > 0) {
-          const chaptersDir = path.join(
-            __dirname,
-            "src/content/docs",
-            book.text_id
-          );
-          if (!fs.existsSync(chaptersDir)) {
-            fs.mkdirSync(chaptersDir, { recursive: true }); // Creates chapters directory if it doesn't exist
-          }
-
-          chapters.forEach((chapter) => {
-            const chapterMarkdownContent = generateChapterMarkdown(
-              chapter,
-              locale,
-              book
-            );
-            if (chapterMarkdownContent) {
-              const chapterFileName = `${chapter.slug}.mdx`; // File name based on the chapter ID
-              fs.writeFileSync(
-                path.join(chaptersDir, chapterFileName),
-                chapterMarkdownContent
-              );
-              console.log(
-                `MDX generated for chapter: ${chapterFileName} in ${chaptersDir}`
-              );
-            }
-          });
+  try {
+    for (const locale of LOCALES_PREFIX) {
+      console.log(`🌐 Processing locale: ${locale}`);
+      
+      const booksResponse = await axios.get(
+        `${STRAPI_URL}/books?locale=${locale}&populate=*`,
+        {
+          headers: {
+            Authorization: `Bearer ${ACCESS_TOKEN}`,
+          },
         }
-      } else {
-        // Generate markdown files for chapters in other languages
+      );
+
+      const books = booksResponse.data.data;
+      console.log(`📚 Found ${books.length} books for ${locale}`);
+
+      // Create current timestamp for this locale
+      const currentTimestamp = new Date().toISOString();
+
+      for (const book of books) {
+        const chapters = await fetchChapters(book.documentId, locale, book);
+        console.log(`📖 Processing book: ${book.text_id} (${chapters.length} chapters)`);
+
         if (chapters.length > 0) {
           const chaptersDir = path.join(
             __dirname,
+            "..",
             "src/content/docs",
             locale === 'pt' ? 'pt' : locale,
             book.text_id
           );
+          
           if (!fs.existsSync(chaptersDir)) {
-            fs.mkdirSync(chaptersDir, { recursive: true }); // Creates chapters directory if it doesn't exist
+            fs.mkdirSync(chaptersDir, { recursive: true });
           }
 
           chapters.forEach((chapter) => {
@@ -176,21 +194,34 @@ async function main() {
               locale,
               book
             );
+            
             if (chapterMarkdownContent) {
-              const chapterFileName = `${chapter.text_id}.mdx`; // File name based on the chapter ID
-              fs.writeFileSync(
-                path.join(chaptersDir, chapterFileName),
-                chapterMarkdownContent
-              );
-              console.log(
-                `MDX generated for chapter: ${chapterFileName} in ${chaptersDir}`
-              );
+              const chapterFileName = locale === 'es' 
+                ? `${chapter.slug}.mdx` 
+                : `${chapter.text_id}.mdx`;
+              
+              const fullPath = path.join(chaptersDir, chapterFileName);
+              
+              fs.writeFileSync(fullPath, chapterMarkdownContent);
+              
+              console.log(`📄 MDX generated for chapter: ${chapterFileName} in ${chaptersDir}`);
             }
           });
         }
       }
+
+      // Save timestamp for this specific locale after processing
+      saveLocaleTimestamp(locale, currentTimestamp);
     }
+    
+    console.log('✅ Chapter generation complete');
+  } catch (error) {
+    console.error('❌ Error during chapters generation', error);
+    process.exit(1);
   }
 }
 
-main().catch((err) => console.error(err));
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
