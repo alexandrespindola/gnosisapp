@@ -8,7 +8,7 @@ echo "🚀 Starting deployment process..."
 
 # Generate books
 echo "📚 Generating books..."
-# npx tsx scripts/generateBooks.ts
+npx tsx scripts/generateBooks.ts
 
 # Generate chapters
 echo "📚 Generating chapters..."
