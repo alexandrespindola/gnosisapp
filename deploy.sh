@@ -8,11 +8,11 @@ echo "🚀 Starting deployment process..."
 
 # Generate books
 echo "📚 Generating books..."
-npx tsx scripts/generateBooks.ts
+# npx tsx scripts/generateBooks.ts
 
 # Generate chapters
 echo "📚 Generating chapters..."
-npx tsx scripts/generateChapters.ts
+# npx tsx scripts/generateChapters.ts
 
 # If chapters generation was successful
 if [ $? -eq 0 ]; then

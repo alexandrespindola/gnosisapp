@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "cross-env NODE_OPTIONS=--max-old-space-size=8192 astro build --experimental-static-build",
     "preview": "astro preview",
     "astro": "astro",
     "preview-dist": "http-server dist"
@@ -26,6 +26,7 @@
   "devDependencies": {
     "@types/node": "^22.10.5",
     "axios": "^1.8.3",
+    "cross-env": "^7.0.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.2"
   },
