@@ -21,6 +21,7 @@ export default defineConfig({
       lastmod: new Date()
     }),
     starlight({
+      // Prerendering
       prerender: true,
 
       // Site metadata
@@ -38,6 +39,8 @@ export default defineConfig({
         "./src/styles/css/base.css",
         "./src/styles/css/custom.css",
       ],
+
+      // Head tags
       head: [
         {
           tag: 'script',
@@ -76,6 +79,7 @@ export default defineConfig({
           },
         }
       ],
+
       // i18n
       defaultLocale: "root",
       locales: {
