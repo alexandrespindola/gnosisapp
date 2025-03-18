@@ -11,6 +11,7 @@
     "preview-dist": "http-server dist"
   },
   "dependencies": {
+    "@astrojs/sitemap": "^3.2.1",
     "@astrojs/starlight": "^0.30.5",
     "@astrojs/starlight-tailwind": "^3.0.0",
     "@astrojs/tailwind": "^5.1.4",

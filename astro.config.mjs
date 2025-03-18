@@ -2,6 +2,7 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import tailwind from "@astrojs/tailwind";
+import sitemap from '@astrojs/sitemap';
 import { 
   librosTranslations,
   educacionFundamentalTranslations,
@@ -12,7 +13,13 @@ import {
 // https://astro.build/config
 export default defineConfig({
   output: "static",
+  site: "https://books.gnosisdeutschland.org",
   integrations: [
+    sitemap({
+      changefreq: 'weekly',
+      priority: 0.7,
+      lastmod: new Date()
+    }),
     starlight({
       prerender: true,
 
@@ -32,6 +39,14 @@ export default defineConfig({
         "./src/styles/css/custom.css",
       ],
       head: [
+        {
+          tag: 'script',
+          attrs: {
+            src: 'https://analytics.ahrefs.com/analytics.js',
+            'data-key': '9ijdpy3K4PNgLGbzxB0J/g',
+            async: true
+          }
+        },
         {
           tag: 'meta',
           attrs: {
