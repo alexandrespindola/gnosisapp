@@ -31,6 +31,36 @@ export default defineConfig({
         "./src/styles/css/base.css",
         "./src/styles/css/custom.css",
       ],
+      head: [
+        {
+          tag: 'meta',
+          attrs: {
+            property: 'og:image',
+            content: 'https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/astro_media//gnosis-opengraph.webp',
+          },
+        },
+        {
+          tag: 'meta',
+          attrs: {
+            property: 'og:image:width',
+            content: '1200',
+          },
+        },
+        {
+          tag: 'meta',
+          attrs: {
+            property: 'og:image:height',
+            content: '630',
+          },
+        },
+        {
+          tag: 'meta',
+          attrs: {
+            name: 'twitter:card',
+            content: 'summary_large_image',
+          },
+        }
+      ],
       // i18n
       defaultLocale: "root",
       locales: {
