@@ -180,7 +180,7 @@ async function main() {
             __dirname,
             "..",
             "src/content/docs",
-            locale === 'pt' ? 'pt' : locale,
+            locale === 'pt' ? 'pt' : locale === 'es' ? '' : locale,
             book.text_id
           );
           
@@ -196,9 +196,7 @@ async function main() {
             );
             
             if (chapterMarkdownContent) {
-              const chapterFileName = locale === 'es' 
-                ? `${chapter.slug}.mdx` 
-                : `${chapter.text_id}.mdx`;
+              const chapterFileName = `${chapter.text_id}.mdx`;
               
               const fullPath = path.join(chaptersDir, chapterFileName);
               
