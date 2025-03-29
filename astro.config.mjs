@@ -2,13 +2,13 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import tailwind from "@astrojs/tailwind";
-import sitemap from '@astrojs/sitemap';
-import { 
+import sitemap from "@astrojs/sitemap";
+import {
   librosTranslations,
   educacionFundamentalTranslations,
   laGranRebelionTranslations,
-  tratadoDePsicologiaRevolucionariaTranslations
-} from './sidebar/sidebar-imports.mjs';
+  tratadoDePsicologiaRevolucionariaTranslations,
+} from "./sidebar/sidebar-imports.mjs";
 
 // https://astro.build/config
 export default defineConfig({
@@ -16,9 +16,9 @@ export default defineConfig({
   site: "https://books.gnosisdeutschland.org",
   integrations: [
     sitemap({
-      changefreq: 'weekly',
+      changefreq: "weekly",
       priority: 0.7,
-      lastmod: new Date()
+      lastmod: new Date(),
     }),
     starlight({
       // Prerendering
@@ -43,41 +43,42 @@ export default defineConfig({
       // Head tags
       head: [
         {
-          tag: 'script',
+          tag: "script",
           attrs: {
-            src: 'https://analytics.ahrefs.com/analytics.js',
-            'data-key': '9ijdpy3K4PNgLGbzxB0J/g',
-            async: true
-          }
-        },
-        {
-          tag: 'meta',
-          attrs: {
-            property: 'og:image',
-            content: 'https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/astro_media//gnosis-opengraph.webp',
+            src: "https://analytics.ahrefs.com/analytics.js",
+            "data-key": "9ijdpy3K4PNgLGbzxB0J/g",
+            async: true,
           },
         },
         {
-          tag: 'meta',
+          tag: "meta",
           attrs: {
-            property: 'og:image:width',
-            content: '1200',
+            property: "og:image",
+            content:
+              "https://lhvmrqwrcowdvduuaukz.supabase.co/storage/v1/object/public/astro_media//gnosis-opengraph.webp",
           },
         },
         {
-          tag: 'meta',
+          tag: "meta",
           attrs: {
-            property: 'og:image:height',
-            content: '630',
+            property: "og:image:width",
+            content: "1200",
           },
         },
         {
-          tag: 'meta',
+          tag: "meta",
           attrs: {
-            name: 'twitter:card',
-            content: 'summary_large_image',
+            property: "og:image:height",
+            content: "630",
           },
-        }
+        },
+        {
+          tag: "meta",
+          attrs: {
+            name: "twitter:card",
+            content: "summary_large_image",
+          },
+        },
       ],
 
       // i18n

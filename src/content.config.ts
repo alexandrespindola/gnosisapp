@@ -18,6 +18,6 @@ export const collections = {
   }),
   i18n: defineCollection({ 
     loader: i18nLoader(), 
-    schema: i18nSchema() 
+    schema: i18nSchema(),
   }),
 };

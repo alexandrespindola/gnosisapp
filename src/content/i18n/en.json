@@ -9,6 +9,11 @@
   "common": {
     "readBook": "Read more"
   },
+  "footer": {
+    "about": "About Us",
+    "books": "Books",
+    "contact": "Contact"
+  },
   "tableOfContents.onThisPage": "On this chapter",
   "tableOfContents.overview": "Beginning",
   "status": {
