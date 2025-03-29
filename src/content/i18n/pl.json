@@ -1,4 +1,17 @@
 {
+  "footer": {
+    "about": "O nas",
+    "books": "Książki",
+    "contact": "Kontakt",
+    "course": "Kurs Gnozy",
+    "countries": "Gnoza w innych krajach",
+    "deutschland": "Gnoza Niemcy",
+    "description": "Gnosis Deutschland to organizacja non-profit, członek Gnosis International, oparta na studiach gnostycznych pozostawionych przez V.M. Samaela Auna Weora z drugiej połowy XX wieku.",
+    "home": "Strona główna",
+    "links": "Linki",
+    "nederland": "Holandia",
+    "world": "Gnoza na świecie"
+  },
   "tableOfContents.onThisPage": "W tym rozdziale",
   "tableOfContents.overview": "Początek",
   "status": {

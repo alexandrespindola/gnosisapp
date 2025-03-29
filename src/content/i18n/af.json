@@ -9,6 +9,19 @@
   "common": {
     "readMore": "Ver meer"
   },
+  "footer": {
+    "about": "Oor ons",
+    "books": "Boeke",
+    "contact": "Kontak",
+    "course": "Gnosis Kursus",
+    "countries": "Gnosis in ander lande",
+    "deutschland": "Gnosis Duitsland",
+    "description": "Gnosis Duitsland is 'n nie-winsgewende organisasie, 'n lid van Gnosis International, gebaseer op die Gnostiese studies nagelaat deur V.M. Samael Aun Weor uit die tweede helfte van die 20ste eeu.",
+    "home": "Tuis",
+    "links": "Skakels",
+    "nederland": "Nederland",
+    "world": "Gnosis in die Wêreld"
+  },
   "fileTree.directory": "Gids",
   "i18n.untranslatedContent": "Hierdie inhoud is nog nie in jou taal beskikbaar nie.",
   "languageSelect.accessibleLabel": "Kies taal",

@@ -12,7 +12,15 @@
   "footer": {
     "about": "About Us",
     "books": "Books",
-    "contact": "Contact"
+    "contact": "Contact",
+    "course": "Gnosis Course",
+    "countries": "Gnosis in other Countries",
+    "deutschland": "Gnosis Germany",
+    "description": "Gnosis Deutschland is a non-profit organization, a member of Gnosis International, based on the Gnostic studies left by V.M. Samael Aun Weor from the second half of the 20th century.",
+    "home": "Home",
+    "links": "Links",
+    "nederland": "Netherlands",
+    "world": "Gnosis in the World"
   },
   "tableOfContents.onThisPage": "On this chapter",
   "tableOfContents.overview": "Beginning",

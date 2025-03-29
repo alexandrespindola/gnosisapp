@@ -1,4 +1,17 @@
 {
+  "footer": {
+    "about": "Om os",
+    "books": "Bøger",
+    "contact": "Kontakt",
+    "course": "Gnosis Kursus",
+    "countries": "Gnosis i andre lande",
+    "deutschland": "Gnosis Tyskland",
+    "description": "Gnosis Deutschland er en nonprofitorganisation, medlem af Gnosis International, baseret på de gnostiske studier efterladt af V.M. Samael Aun Weor fra anden halvdel af det 20. århundrede.",
+    "home": "Hjem",
+    "links": "Links",
+    "nederland": "Holland",
+    "world": "Gnosis i Verden"
+  },
   "tableOfContents.onThisPage": "På denne side",
   "tableOfContents.overview": "Oversigt",
   "status": {

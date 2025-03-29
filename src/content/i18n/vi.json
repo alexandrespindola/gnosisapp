@@ -1,4 +1,17 @@
 {
+  "footer": {
+    "about": "Về chúng tôi",
+    "books": "Sách",
+    "contact": "Liên hệ",
+    "course": "Khóa học Gnosis",
+    "countries": "Gnosis ở các quốc gia khác",
+    "deutschland": "Gnosis Đức",
+    "description": "Gnosis Deutschland là một tổ chức phi lợi nhuận, thành viên của Gnosis International, dựa trên các nghiên cứu Gnostic do V.M. Samael Aun Weor để lại từ nửa sau thế kỷ 20.",
+    "home": "Trang chủ",
+    "links": "Liên kết",
+    "nederland": "Hà Lan",
+    "world": "Gnosis trên Thế giới"
+  },
   "tableOfContents.onThisPage": "Trên chương này",
   "tableOfContents.overview": "Bắt đầu",
   "status": {

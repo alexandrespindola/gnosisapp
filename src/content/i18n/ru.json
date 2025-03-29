@@ -1,4 +1,17 @@
 {
+  "footer": {
+    "about": "О нас",
+    "books": "Книги",
+    "contact": "Контакт",
+    "course": "Курс Гнозиса",
+    "countries": "Гнозис в других странах",
+    "deutschland": "Гнозис Германия",
+    "description": "Gnosis Deutschland — некоммерческая организация, член Gnosis International, основанная на гностических исследованиях, оставленных В.М. Самаэлем Аун Веором со второй половины 20-го века.",
+    "home": "Главная",
+    "links": "Ссылки",
+    "nederland": "Нидерланды",
+    "world": "Гнозис в мире"
+  },
   "tableOfContents.onThisPage": "Об этой главе",
   "tableOfContents.overview": "Начало работы с сайтом",
   "status": {

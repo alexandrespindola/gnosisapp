@@ -1,4 +1,17 @@
 {
+  "footer": {
+    "about": "Tentang Kami",
+    "books": "Buku",
+    "contact": "Kontak",
+    "course": "Kursus Gnosis",
+    "countries": "Gnosis di Negara Lain",
+    "deutschland": "Gnosis Jerman",
+    "description": "Gnosis Deutschland adalah organisasi nirlaba, anggota Gnosis International, berdasarkan studi Gnostik yang ditinggalkan oleh V.M. Samael Aun Weor dari paruh kedua abad ke-20.",
+    "home": "Beranda",
+    "links": "Tautan",
+    "nederland": "Belanda",
+    "world": "Gnosis di Dunia"
+  },
   "tableOfContents.onThisPage": "Pada bab ini",
   "tableOfContents.overview": "Awal",
   "status": {

@@ -1,4 +1,17 @@
 {
+  "footer": {
+    "about": "O nás",
+    "books": "Knihy",
+    "contact": "Kontakt",
+    "course": "Kurz gnózy",
+    "countries": "Gnoza v iných krajinách",
+    "deutschland": "Gnoza Nemecko",
+    "description": "Gnosis Deutschland je nezisková organizácia, člen Gnosis International, založená na gnostických štúdiách, ktoré zanechal V.M. Samael Aun Weor z druhej polovice 20. storočia.",
+    "home": "Domov",
+    "links": "Odkazy",
+    "nederland": "Holandsko",
+    "world": "Gnoza vo svete"
+  },
   "tableOfContents.onThisPage": "V tejto kapitole",
   "tableOfContents.overview": "Začiatok",
   "status": {

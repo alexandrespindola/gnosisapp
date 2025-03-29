@@ -1,4 +1,17 @@
 {
+  "footer": {
+    "about": "Despre noi",
+    "books": "Cărți",
+    "contact": "Contact",
+    "course": "Curs Gnoză",
+    "countries": "Gnoza în alte țări",
+    "deutschland": "Gnoza Germania",
+    "description": "Gnosis Deutschland este o organizație non-profit, membră a Gnosis International, bazată pe studiile gnostice lăsate de V.M. Samael Aun Weor din a doua jumătate a secolului XX.",
+    "home": "Acasă",
+    "links": "Link-uri",
+    "nederland": "Olanda",
+    "world": "Gnoza în Lume"
+  },
   "tableOfContents.onThisPage": "La acest capitol",
   "tableOfContents.overview": "Începutul",
   "status": {

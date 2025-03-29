@@ -1,4 +1,17 @@
 {
+  "footer": {
+    "about": "Über uns",
+    "books": "Bücher",
+    "contact": "Kontakt",
+    "course": "Gnosis Kurs",
+    "countries": "Gnosis in anderen Ländern",
+    "deutschland": "Gnosis Deutschland",
+    "description": "Gnosis Deutschland ist eine gemeinnützige Organisation, ein Mitglied von Gnosis International, basierend auf den gnostischen Studien, die V.M. Samael Aun Weor aus der zweiten Hälfte des 20. Jahrhunderts hinterlassen hat.",
+    "home": "Startseite",
+    "links": "Links",
+    "nederland": "Niederlande",
+    "world": "Gnosis in der Welt"
+  },
   "tableOfContents.onThisPage": "In diesem Kapitel",
   "tableOfContents.overview": "Startseite",
   "status": {

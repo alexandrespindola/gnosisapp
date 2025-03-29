@@ -1,4 +1,17 @@
 {
+  "footer": {
+    "about": "Hakkımızda",
+    "books": "Kitaplar",
+    "contact": "İletişim",
+    "course": "Gnosis Kursu",
+    "countries": "Diğer Ülkelerde Gnosis",
+    "deutschland": "Gnosis Almanya",
+    "description": "Gnosis Deutschland, kâr amacı gütmeyen bir kuruluştur, Gnosis International üyesidir ve 20. yüzyılın ikinci yarısından itibaren V.M. Samael Aun Weor tarafından bırakılan Gnostik çalışmalara dayanmaktadır.",
+    "home": "Anasayfa",
+    "links": "Bağlantılar",
+    "nederland": "Hollanda",
+    "world": "Dünyada Gnosis"
+  },
   "tableOfContents.onThisPage": "Bu bölümde",
   "tableOfContents.overview": "Başlangıç",
   "status": {

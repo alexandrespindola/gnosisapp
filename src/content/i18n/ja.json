@@ -1,4 +1,17 @@
 {
+  "footer": {
+    "about": "私たちについて",
+    "books": "書籍",
+    "contact": "お問い合わせ",
+    "course": "グノーシス講座",
+    "countries": "他の国におけるグノーシス",
+    "deutschland": "グノーシス・ドイツ",
+    "description": "グノーシス・ドイツは非営利団体であり、グノーシス・インターナショナルの会員であり、20世紀後半のV.M.サマエル・アウン・ベオールが残したグノーシス研究に基づいています。",
+    "home": "ホーム",
+    "links": "リンク",
+    "nederland": "オランダ",
+    "world": "世界のグノーシス"
+  },
   "tableOfContents.onThisPage": "この章では",
   "tableOfContents.overview": "はじめに",
   "status": {
