@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "書籍",
+    "description": "グノーシス図書館",
+    "readBook": "本を読む",
+    "without": {
+      "author": "著者なし",
+      "category": "カテゴリーなし",
+      "description": "説明なし",
+      "image": "画像なし",
+      "text_id": "IDなし",
+      "title": "タイトルなし",
+      "year": "年なし"
+    }
+  },
   "footer": {
     "about": "私たちについて",
     "books": "書籍",

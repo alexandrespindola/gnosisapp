@@ -4,6 +4,20 @@
   "aside.danger": "धोका",
   "aside.note": "टीप",
   "aside.tip": "सूचना",
+  "books": {
+    "books": "पुस्तके",
+    "description": "ग्नोस्टिक ग्रंथालय",
+    "readBook": "पुस्तक वाचा",
+    "without": {
+      "author": "लेखक नाही",
+      "category": "वर्ग नाही",
+      "description": "वर्णन नाही",
+      "image": "प्रतिमा नाही",
+      "text_id": "ओळखपत्र नाही",
+      "title": "शीर्षक नाही",
+      "year": "वर्ष नाही"
+    }
+  },
   "builtWithStarlight.label": "Starlight सह बनवले",
   "fileTree.directory": "डिरेक्टरी",
   "footer": {

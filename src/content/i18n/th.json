@@ -4,6 +4,20 @@
   "aside.danger": "อันตราย",
   "aside.note": "บันทึก",
   "aside.tip": "เคล็ดลับ",
+  "books": {
+    "books": "หนังสือ",
+    "description": "ห้องสมุด Gnostic",
+    "readBook": "อ่านหนังสือ",
+    "without": {
+      "author": "ไม่มีผู้แต่ง",
+      "category": "ไม่มีหมวดหมู่",
+      "description": "ไม่มีคำอธิบาย",
+      "image": "ไม่มีรูปภาพ",
+      "text_id": "ไม่มีรหัส",
+      "title": "ไม่มีชื่อเรื่อง",
+      "year": "ไม่มีปี"
+    }
+  },
   "builtWithStarlight.label": "สร้างด้วย Starlight",
   "fileTree.directory": "ไดเรกทอรี",
   "footer": {

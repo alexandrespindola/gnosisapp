@@ -4,6 +4,20 @@
   "aside.danger": "Hatari",
   "aside.note": "Kidokezo",
   "aside.tip": "Ushauri",
+    "books": {
+      "books": "Vitabu",
+      "description": "Maktaba ya Gnostic",
+      "readBook": "Soma kitabu",
+      "without": {
+        "author": "Bila mwandishi",
+        "category": "Bila jamii",
+        "description": "Bila maelezo",
+        "image": "Bila picha",
+        "text_id": "Bila kitambulisho",
+        "title": "Bila kichwa cha habari",
+        "year": "Bila mwaka"
+      }
+    },
   "builtWithStarlight.label": "Imejengwa na Starlight",
   "fileTree.directory": "Saraka",
   "footer": {

@@ -1,8 +1,18 @@
 ---
+// Translation i18n
+import { useTranslations } from '../../utils/translations';
+const currentLocale = Astro.currentLocale || 'es';
+const t = useTranslations(currentLocale);
+
+// Fetch books
 import { getBooks } from "../../lib/api";
 import { LOCALES_PREFIX } from "../../../src/constants/locales";
+
+// Components
 import BookCard from "../../components/BookCard.astro";
 import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+
+// Utils
 export const prerender = true;
 
 export async function getStaticPaths() {
@@ -38,13 +48,8 @@ const books: Book[] = (await getBooks(lang)) || [];
 
 <StarlightPage
   frontmatter={{
-    title: lang === "pt" ? "Livros" : lang === "es" ? "Libros" : "Books",
-    description:
-      lang === "pt"
-        ? "Biblioteca de Livros"
-        : lang === "es"
-          ? "Biblioteca de Libros"
-          : "Book Library",
+    title: t("books.books"),
+    description: t("books.description"),
     template: "splash",
   }}
 >
@@ -54,12 +59,12 @@ const books: Book[] = (await getBooks(lang)) || [];
         books.map((book) => (
           <BookCard
             book={{
-              title: book?.title || "Sem títul",
-              text_id: book?.text_id || "Sem id",
-              description: book?.description || "Sem descrição",
-              category: book?.category || "Sem categoria",
+              title: book?.title || t("books.without.title"),
+              text_id: book?.text_id || t("books.without.text_id"),
+              description: book?.description || t("books.without.description"),
+              category: book?.category || t("books.without.category"),
               year: book?.year || 0,
-              author: book?.author.name || "Sem autor",
+              author: book?.author.name || t("books.without.author"),
               coverImage:
                 book?.cover_image?.formats?.small?.url ||
                 "/default-cover.jpg",

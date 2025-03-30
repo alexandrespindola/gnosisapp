@@ -4,6 +4,20 @@
   "aside.danger": "ஆபத்து",
   "aside.note": "குறிப்பு",
   "aside.tip": "உதவிக்குறிப்பு",
+    "books": {
+      "books": "புத்தகங்கள்",
+      "description": "ஞானோஸ்டிக் நூலகம்",
+      "readBook": "புத்தகம் படிக்கவும்",
+      "without": {
+        "author": "ஆசிரியர் இல்லாமல்",
+        "category": "வகை இல்லாமல்",
+        "description": "விளக்கம் இல்லாமல்",
+        "image": "படமின்றி",
+        "text_id": "அடையாள எண் இல்லாமல்",
+        "title": "தலைப்பு இல்லாமல்",
+        "year": "வருடம் இல்லாமல்"
+      }
+    },
   "builtWithStarlight.label": "Starlight மூலம் உருவாக்கப்பட்டது",
   "fileTree.directory": "கோப்பகம்",
     "footer": {

@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "책들",
+    "description": "영지주의 도서관",
+    "readBook": "책 읽기",
+    "without": {
+      "author": "저자 없음",
+      "category": "카테고리 없음",
+      "description": "설명 없음",
+      "image": "이미지 없음",
+      "text_id": "ID 없음",
+      "title": "제목 없음",
+      "year": "연도 없음"
+    }
+  },
   "footer": {
     "about": "회사 소개",
     "books": "도서",

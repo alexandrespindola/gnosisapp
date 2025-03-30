@@ -4,6 +4,20 @@
   "aside.danger": "Ihe egwu",
   "aside.note": "Mara",
   "aside.tip": "Ndụmọdụ",
+  "books": {
+    "books": "Buku",
+    "description": "Perpustakaan Gnostik",
+    "readBook": "Baca buku",
+    "without": {
+      "author": "Tanpa penulis",
+      "category": "Tanpa kategori",
+      "description": "Tanpa deskripsi",
+      "image": "Tanpa gambar",
+      "text_id": "Tanpa id",
+      "title": "Tanpa judul",
+      "year": "Tanpa tahun"
+    }
+  },
   "builtWithStarlight.label": "Ewuru ya na Starlight",
   "fileTree.directory": "Ndepụta",
   "footer": {

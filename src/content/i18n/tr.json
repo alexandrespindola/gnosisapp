@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "Kitaplar",
+    "description": "Gnostik Kütüphane",
+    "readBook": "Kitap oku",
+    "without": {
+      "author": "Yazar olmadan",
+      "category": "Kategori olmadan",
+      "description": "Açıklama olmadan",
+      "image": "Resim olmadan",
+      "text_id": "ID olmadan",
+      "title": "Başlık olmadan",
+      "year": "Yıl olmadan"
+    }
+  },
   "footer": {
     "about": "Hakkımızda",
     "books": "Kitaplar",

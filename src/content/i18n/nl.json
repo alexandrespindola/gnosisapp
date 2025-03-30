@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "Boeken",
+    "description": "Gnostische Bibliotheek",
+    "readBook": "Boek lezen",
+    "without": {
+      "author": "Zonder auteur",
+      "category": "Zonder categorie",
+      "description": "Zonder beschrijving",
+      "image": "Zonder afbeelding",
+      "text_id": "Zonder ID",
+      "title": "Zonder titel",
+      "year": "Zonder jaar"
+    }
+  },
   "footer": {
     "about": "Over ons",
     "books": "Boeken",

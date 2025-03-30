@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "Llibres",
+    "description": "Biblioteca gnòstica",
+    "readBook": "Llegir llibre",
+    "without": {
+      "author": "Sense autor",
+      "category": "Sense categoria",
+      "description": "Sense descripció",
+      "image": "Sense imatge",
+      "text_id": "Sense id",
+      "title": "Sense títol",
+      "year": "Sense any"
+    }
+  },
   "footer": {
     "about": "Sobre nosaltres",
     "books": "Llibres",

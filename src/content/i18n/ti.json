@@ -4,6 +4,20 @@
   "aside.danger": "ሓደጋ",
   "aside.note": "ምልክታ",
   "aside.tip": "ምኽሪ",
+  "books": {
+    "books": "መጻሕፍቲ",
+    "description": "ላይብረሪ ኖስቲክ",
+    "readBook": "ንባብ መጽሓፍ",
+    "without": {
+      "author": "ብዘይ ጸሓፊ",
+      "category": "ብዘይ ምድብ",
+      "description": "ብዘይ መግለጺ",
+      "image": "ብዘይ ስእሊ",
+      "text_id": "ብዘይ መለለዪ",
+      "title": "ብዘይ ኣርእስቲ",
+      "year": "ብዘይ ዓመት"
+    }
+  },
   "builtWithStarlight.label": "ብ Starlight ዝተሰርሐ",
   "fileTree.directory": "ዝርዝር",
   "footer": {

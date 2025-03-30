@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "Книги",
+    "description": "Гностическая библиотека",
+    "readBook": "Читать книгу",
+    "without": {
+      "author": "Без автора",
+      "category": "Без категории",
+      "description": "Без описания",
+      "image": "Без изображения",
+      "text_id": "Без ID",
+      "title": "Без названия",
+      "year": "Без года"
+    }
+  },
   "footer": {
     "about": "О нас",
     "books": "Книги",

@@ -4,6 +4,20 @@
   "aside.danger": "Kabi",
   "aside.note": "Okumanya",
   "aside.tip": "Amagezi",
+  "books": {
+    "books": "Ebitabo",
+    "description": "Eby'amateeka by'Abagirikyi",
+    "readBook": "Shoma ekitabo",
+    "without": {
+      "author": "Hataine omwandiki",
+      "category": "Hataine ekicweka",
+      "description": "Hataine eby'okushobanura",
+      "image": "Hataine ekishushani",
+      "text_id": "Hataine namba y'omutwe",
+      "title": "Hataine omutwe",
+      "year": "Hataine omwaka"
+    }
+  },
   "builtWithStarlight.label": "Kyombekirwe na Starlight",
   "fileTree.directory": "Ebihandiiko",
   "footer": {

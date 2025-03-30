@@ -4,6 +4,20 @@
   "aside.danger": "خطر",
   "aside.note": "یادداشت",
   "aside.tip": "مشوره",
+  "books": {
+    "books": "کتابونه",
+    "description": "ګنوسټیک کتابتون",
+    "readBook": "کتاب ولولئ",
+    "without": {
+      "author": "له لیکوال پرته",
+      "category": "له کټګورۍ پرته",
+      "description": "له تشریح پرته",
+      "image": "له انځور پرته",
+      "text_id": "له ID پرته",
+      "title": "له سرلیک پرته",
+      "year": "له کال پرته"
+    }
+  },
   "builtWithStarlight.label": "د Starlight سره جوړ شوی",
   "fileTree.directory": "فولډر",
   "footer": {

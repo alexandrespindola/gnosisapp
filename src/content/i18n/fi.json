@@ -4,6 +4,20 @@
   "aside.danger": "Vaara",
   "aside.note": "Huomautus",
   "aside.tip": "Vinkki",
+  "books": {
+    "books": "Kirjat",
+    "description": "Gnostinen Kirjasto",
+    "readBook": "Lue kirja",
+    "without": {
+      "author": "Ilman tekijää",
+      "category": "Ilman luokkaa",
+      "description": "Ilman kuvausta",
+      "image": "Ilman kuvaa",
+      "text_id": "Ilman tunnusta",
+      "title": "Ilman otsikkoa",
+      "year": "Ilman vuotta"
+    }
+  },
   "builtWithStarlight.label": "Rakennettu Starlightilla",
   "fileTree.directory": "Hakemisto",
   "footer": {

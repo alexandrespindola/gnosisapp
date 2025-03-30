@@ -5,6 +5,20 @@
   "aside.note": "Let wel",
   "aside.tip": "Wenk",
   "automatic": "Outomatiese Vertaling",
+  "books": {
+    "books": "Boeke",
+    "description": "Gnostiese Biblioteek",
+    "readBook": "Lees boek",
+    "without": {
+      "author": "Sonder outeur",
+      "category": "Sonder kategorie",
+      "description": "Sonder beskrywing",
+      "image": "Sonder beeld",
+      "text_id": "Sonder id",
+      "title": "Sonder titel",
+      "year": "Sonder jaar"
+    }
+  },
   "builtWithStarlight.label": "Gebou met Starlight",
   "common": {
     "readMore": "Ver meer"

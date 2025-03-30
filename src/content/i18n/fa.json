@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "کتاب‌ها",
+    "description": "کتابخانه گنوسی",
+    "readBook": "خواندن کتاب",
+    "without": {
+      "author": "بدون نویسنده",
+      "category": "بدون دسته بندی",
+      "description": "بدون شرح",
+      "image": "بدون تصویر",
+      "text_id": "بدون شناسه",
+      "title": "بدون عنوان",
+      "year": "بدون سال"
+    }
+  },
   "footer": {
     "about": "درباره ما",
     "books": "کتاب ها",

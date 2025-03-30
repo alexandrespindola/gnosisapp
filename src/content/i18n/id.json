@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "Buku",
+    "description": "Perpustakaan Gnostik",
+    "readBook": "Baca buku",
+    "without": {
+      "author": "Tanpa penulis",
+      "category": "Tanpa kategori",
+      "description": "Tanpa deskripsi",
+      "image": "Tanpa gambar",
+      "text_id": "Tanpa id",
+      "title": "Tanpa judul",
+      "year": "Tanpa tahun"
+    }
+  },
   "footer": {
     "about": "Tentang Kami",
     "books": "Buku",

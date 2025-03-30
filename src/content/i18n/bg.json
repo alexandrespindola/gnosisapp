@@ -4,6 +4,20 @@
   "aside.danger": "Опасност",
   "aside.note": "Бележка",
   "aside.tip": "Съвет",
+  "books": {
+    "books": "Книги",
+    "description": "Гностическа библиотека",
+    "readBook": "Прочети книга",
+    "without": {
+      "author": "Без автор",
+      "category": "Без категория",
+      "description": "Без описание",
+      "image": "Без изображение",
+      "text_id": "Без идентификатор",
+      "title": "Без заглавие",
+      "year": "Без година"
+    }
+  },
   "builtWithStarlight.label": "Създадено със Starlight",
   "fileTree.directory": "Директория",
   "footer": {

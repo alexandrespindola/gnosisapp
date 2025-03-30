@@ -4,6 +4,20 @@
   "aside.danger": "Opasnost",
   "aside.note": "Napomena",
   "aside.tip": "Savjet",
+  "books": {
+    "books": "Knjige",
+    "description": "Gnostička biblioteka",
+    "readBook": "Čitaj knjigu",
+    "without": {
+      "author": "Bez autora",
+      "category": "Bez kategorije",
+      "description": "Bez opisa",
+      "image": "Bez slike",
+      "text_id": "Bez ID-a",
+      "title": "Bez naslova",
+      "year": "Bez godine"
+    }
+  },
   "builtWithStarlight.label": "Napravljeno sa Starlight",
   "fileTree.directory": "Direktorij",
   "footer": {

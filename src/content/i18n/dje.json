@@ -4,6 +4,20 @@
   "aside.danger": "Albala",
   "aside.note": "Šilbay",
   "aside.tip": "Yaamar",
+  "books": {
+    "books": "Koyraano",
+    "description": "Librairie Gnostique",
+    "readBook": "Koyraano kar",
+    "without": {
+      "author": "Baaŋu sinda",
+      "category": "Catégorie sinda",
+      "description": "Fatinay sinda",
+      "image": "Foto sinda",
+      "text_id": "Identifiant sinda",
+      "title": "Titre sinda",
+      "year": "Jiiri sinda"
+    }
+  },
   "builtWithStarlight.label": "Tee nda Starlight",
   "fileTree.directory": "Tira jišidoo",
   "footer": {

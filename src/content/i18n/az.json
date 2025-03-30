@@ -4,6 +4,20 @@
   "aside.danger": "Təhlükə",
   "aside.note": "Qeyd",
   "aside.tip": "Məsləhət",
+  "books": {
+    "books": "Kitablar",
+    "description": "Qnostik Kitabxana",
+    "readBook": "Kitab oxu",
+    "without": {
+      "author": "Müəllifsiz",
+      "category": "Kateqoriyasız",
+      "description": "Təsvirsiz",
+      "image": "Şəkilsiz",
+      "text_id": "İdsiz",
+      "title": "Başlıqsız",
+      "year": "İlsiz"
+    }
+  },
   "builtWithStarlight.label": "Starlight ilə qurulub",
   "fileTree.directory": "Qovluq",
   "footer": {

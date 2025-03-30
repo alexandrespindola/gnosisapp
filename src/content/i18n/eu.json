@@ -4,6 +4,20 @@
   "aside.danger": "Oht",
   "aside.note": "Märkus",
   "aside.tip": "Vihje",
+  "books": {
+    "books": "Liburuak",
+    "description": "Liburutegi Gnostikoa",
+    "readBook": "Irakurri liburua",
+    "without": {
+      "author": "Egilerik gabe",
+      "category": "Kategoriarik gabe",
+      "description": "Deskribapenik gabe",
+      "image": "Irudirik gabe",
+      "text_id": "Identifikatzailerik gabe",
+      "title": "Titularik gabe",
+      "year": "Urterik gabe"
+    }
+  },
   "builtWithStarlight.label": "Loodud Starlight'iga",
   "fileTree.directory": "Kataloog",
   "footer": {

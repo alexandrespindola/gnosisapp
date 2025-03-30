@@ -4,6 +4,20 @@
   "aside.danger": "Khatar",
   "aside.note": "Xusuus",
   "aside.tip": "Talo",
+  "books": {
+    "books": "Buugaag",
+    "description": "Maktabadda Gnostic",
+    "readBook": "Akhriso buugga",
+    "without": {
+      "author": "Qoraa la'aan",
+      "category": "Qayb la'aan",
+      "description": "Sharaxaad la'aan",
+      "image": "Sawir la'aan",
+      "text_id": "Aqoonsi la'aan",
+      "title": "Cinwaan la'aan",
+      "year": "Sanno la'aan"
+    }
+  },
   "builtWithStarlight.label": "Waxaa lagu sameeyay Starlight",
   "fileTree.directory": "Hagaha",
   "footer": {

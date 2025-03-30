@@ -1,4 +1,9 @@
 ---
+// Translation i18n
+import { useTranslations } from '../utils/translations';
+const currentLocale = Astro.currentLocale || 'es';
+const t = useTranslations(currentLocale);
+
 import { getBooks } from "../lib/api";
 import BookCard from "../components/BookCard.astro";
 import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
@@ -28,8 +33,8 @@ const books: Book[] = (await getBooks("es")) || [];
 
 <StarlightPage
   frontmatter={{
-    title: "Libros",
-    description: "Biblioteca de Libros",
+    title: t("books.title"),
+    description: t("books.description"),
     template: "splash",
   }}
 >
@@ -39,12 +44,12 @@ const books: Book[] = (await getBooks("es")) || [];
         books.map((book) => (
           <BookCard
             book={{
-              title: book?.title || "Sin título",
-              text_id: book?.text_id || "Sin id",
-              description: book?.description || "Sin descripción",
-              category: book?.category || "Sin categoría",
+              title: book?.title || t("books.noTitle"),
+              text_id: book?.text_id || t("books.noTextId"),
+              description: book?.description || t("books.noDescription"),
+              category: book?.category || t("books.noCategory"),
               year: book?.year || 0,
-              author: book?.author.name || "Sin autor",
+              author: book?.author.name || t("books.noAuthor"),
               coverImage:
                 book?.cover_image?.formats?.small?.url ||
                 "/default-cover.jpg",

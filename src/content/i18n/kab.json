@@ -4,6 +4,20 @@
   "aside.danger": "Ugur",
   "aside.note": "Tazmilt",
   "aside.tip": "Tixleft",
+  "books": {
+    "books": "Idlisen",
+    "description": "Tadlisit Tagnusit",
+    "readBook": "Ɣer adlis",
+    "without": {
+      "author": "Ulac amaru",
+      "category": "Ulac taggayt",
+      "description": "Ulac aglam",
+      "image": "Ulac tugna",
+      "text_id": "Ulac ID",
+      "title": "Ulac azwel",
+      "year": "Ulac useggas"
+    }
+  },
   "builtWithStarlight.label": "Yettwabna s Starlight",
   "fileTree.directory": "Akaram",
   "footer": {

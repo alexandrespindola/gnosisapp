@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "书籍",
+    "description": "诺斯替图书馆",
+    "readBook": "阅读书籍",
+    "without": {
+      "author": "无作者",
+      "category": "无类别",
+      "description": "无描述",
+      "image": "无图像",
+      "text_id": "无ID",
+      "title": "无标题",
+      "year": "无年份"
+    }
+  },
   "footer": {
     "about": "关于我们",
     "books": "书籍",

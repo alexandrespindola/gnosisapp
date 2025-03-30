@@ -4,6 +4,20 @@
   "aside.danger": "Njodzi",
   "aside.note": "Cherechedza",
   "aside.tip": "Zano",
+  "books": {
+    "books": "Mabhuku",
+    "description": "Raibhurari yeGnostic",
+    "readBook": "Verenga bhuku",
+    "without": {
+      "author": "Pasina munyori",
+      "category": "Pasina chikamu",
+      "description": "Pasina tsananguro",
+      "image": "Pasina mufananidzo",
+      "text_id": "Pasina ID",
+      "title": "Pasina zita",
+      "year": "Pasina gore"
+    }
+  },
   "builtWithStarlight.label": "Yakavakwa neStarlight",
   "fileTree.directory": "Dhairekitori",
   "footer": {

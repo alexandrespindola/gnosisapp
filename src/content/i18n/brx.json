@@ -4,6 +4,20 @@
   "aside.danger": "जोबोद खैफोद",
   "aside.note": "फोरमायथि",
   "aside.tip": "फोरोंथि",
+  "books": {
+    "books": "लाइब्रेरीफोर",
+    "description": "ग्नोस्टिक लाइब्रेरी",
+    "readBook": "लाइब्रेरी फरा",
+    "without": {
+      "author": "लेखक गैयि",
+      "category": "बाहागो गैयि",
+      "description": "बुंथि गैयि",
+      "image": "मोनसे बिबुं गैयि",
+      "text_id": "आइदि गैयि",
+      "title": "टाइटल गैयि",
+      "year": "बुहुम गैयि"
+    }
+  },
   "builtWithStarlight.label": "स्टारलाइटजों दानाय",
   "fileTree.directory": "फाइल बिथों",
   "footer": {

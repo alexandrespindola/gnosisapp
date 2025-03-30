@@ -4,6 +4,20 @@
   "aside.danger": "Danĝero",
   "aside.note": "Noto",
   "aside.tip": "Konsilo",
+  "books": {
+    "books": "Libroj",
+    "description": "Gnostika Biblioteko",
+    "readBook": "Legu libron",
+    "without": {
+      "author": "Sen aŭtoro",
+      "category": "Sen kategorio",
+      "description": "Sen priskribo",
+      "image": "Sen bildo",
+      "text_id": "Sen identigilo",
+      "title": "Sen titolo",
+      "year": "Sen jaro"
+    }
+  },
   "builtWithStarlight.label": "Konstruita per Starlight",
   "fileTree.directory": "Dosierujo",
   "footer": {

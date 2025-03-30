@@ -4,6 +4,20 @@
   "aside.danger": "Danger",
   "aside.note": "Note",
   "aside.tip": "Wango",
+  "books": {
+    "books": "Buku",
+    "description": "Bibliothèque Gnostique",
+    "readBook": "Diko buku",
+    "without": {
+      "author": "Zo so asû buku ni ape",
+      "category": "Categorie oko ape",
+      "description": "Tene ape",
+      "image": "Foto oko ape",
+      "text_id": "ID oko ape",
+      "title": "Li ti buku oko ape",
+      "year": "Ngu oko ape"
+    }
+  },
   "builtWithStarlight.label": "A sara na Starlight",
   "fileTree.directory": "Directory",
   "footer": {

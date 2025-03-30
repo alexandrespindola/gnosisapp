@@ -4,6 +4,20 @@
   "aside.danger": "Ingozi",
   "aside.note": "Qaphela",
   "aside.tip": "Iseluleko",
+  "books": {
+    "books": "Izincwadi",
+    "description": "Umnyuziyamu weGnostic",
+    "readBook": "Funda incwadi",
+    "without": {
+      "author": "Akekho umbhali",
+      "category": "Alukho uhlobo",
+      "description": "Ayikho incazelo",
+      "image": "Ayikho isithombe",
+      "text_id": "Alukho ID",
+      "title": "Alikho igama",
+      "year": "Alukho unyaka"
+    }
+  },
   "builtWithStarlight.label": "Yakhiwe nge-Starlight",
   "fileTree.directory": "Uhlu lwamafayela",
   "footer": {

@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "كتب",
+    "description": "مكتبة غنوصية",
+    "readBook": "اقرأ كتابا",
+    "without": {
+      "author": "بدون مؤلف",
+      "category": "بدون فئة",
+      "description": "بدون وصف",
+      "image": "بدون صورة",
+      "text_id": "بدون معرف",
+      "title": "بدون عنوان",
+      "year": "بدون سنة"
+    }
+  },
   "footer": {
     "about": "معلومات عنا",
     "books": "كتب",

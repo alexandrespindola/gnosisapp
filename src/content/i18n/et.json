@@ -4,6 +4,20 @@
   "aside.danger": "Oht",
   "aside.note": "Märkus",
   "aside.tip": "Nõuanne",
+  "books": {
+    "books": "Raamatud",
+    "description": "Gnostiline Raamatukogu",
+    "readBook": "Loe raamatut",
+    "without": {
+      "author": "Ilma autorita",
+      "category": "Ilma kategooriata",
+      "description": "Ilma kirjelduseta",
+      "image": "Ilma pildita",
+      "text_id": "Ilma ID-ta",
+      "title": "Ilma pealkirjata",
+      "year": "Ilma aastata"
+    }
+  },
   "builtWithStarlight.label": "Loodud Starlight'iga",
   "fileTree.directory": "Kataloog",
   "footer": {

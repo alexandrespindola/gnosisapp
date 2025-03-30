@@ -4,6 +4,20 @@
   "aside.danger": "Uthuku",
   "aside.note": "Uvoo",
   "aside.tip": "Utao",
+  "books": {
+    "books": "Mavuku",
+    "description": "Laiburali ya Kinositi",
+    "readBook": "Soma ivuku",
+    "without": {
+      "author": "Ve na mũandĩki",
+      "category": "Ve na mũthemba",
+      "description": "Ve na ũvoo",
+      "image": "Ve na mũthemba",
+      "text_id": "Ve na namba ya mũthemba",
+      "title": "Ve na kyongo",
+      "year": "Ve na mwaka"
+    }
+  },
   "builtWithStarlight.label": "Wakiwa na Starlight",
   "fileTree.directory": "Kiviko",
   "footer": {

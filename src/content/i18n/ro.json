@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "Cărți",
+    "description": "Biblioteca Gnostică",
+    "readBook": "Citește cartea",
+    "without": {
+      "author": "Fără autor",
+      "category": "Fără categorie",
+      "description": "Fără descriere",
+      "image": "Fără imagine",
+      "text_id": "Fără ID",
+      "title": "Fără titlu",
+      "year": "Fără an"
+    }
+  },
   "footer": {
     "about": "Despre noi",
     "books": "Cărți",

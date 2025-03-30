@@ -4,21 +4,35 @@
   "aside.danger": "Contúirt",
   "aside.note": "Nóta",
   "aside.tip": "Leid",
+  "books": {
+    "books": "Leabhair",
+    "description": "Leabharlann Gnostach",
+    "readBook": "Léigh leabhar",
+    "without": {
+      "author": "Gan údar",
+      "category": "Gan chatagóir",
+      "description": "Gan cur síos",
+      "image": "Gan íomhá",
+      "text_id": "Gan aitheantóir",
+      "title": "Gan teideal",
+      "year": "Gan bhliain"
+    }
+  },
   "builtWithStarlight.label": "Tógtha le Starlight",
   "fileTree.directory": "Eolaire",
-    "footer": {
-      "about": "Maidir Linn",
-      "books": "Leabhair",
-      "contact": "Déan Teagmháil",
-      "course": "Cúrsa Gnosis",
-      "countries": "Gnosis i dtíortha eile",
-      "deutschland": "Gnosis An Ghearmáin",
-      "description": "Is eagraíocht neamhbhrabúis é Gnosis Deutschland, ball de Gnosis International, bunaithe ar na staidéir gnostacha a d’fhág V.M. Samael Aun Weor ó dhara leath an 20ú haois.",
-      "home": "Baile",
-      "links": "Naisc",
-      "nederland": "Gnosis an Ísiltír",
-      "world": "Gnosis ar fud an Domhain"
-    },
+  "footer": {
+    "about": "Maidir Linn",
+    "books": "Leabhair",
+    "contact": "Déan Teagmháil",
+    "course": "Cúrsa Gnosis",
+    "countries": "Gnosis i dtíortha eile",
+    "deutschland": "Gnosis An Ghearmáin",
+    "description": "Is eagraíocht neamhbhrabúis é Gnosis Deutschland, ball de Gnosis International, bunaithe ar na staidéir gnostacha a d’fhág V.M. Samael Aun Weor ó dhara leath an 20ú haois.",
+    "home": "Baile",
+    "links": "Naisc",
+    "nederland": "Gnosis an Ísiltír",
+    "world": "Gnosis ar fud an Domhain"
+  },
   "i18n.untranslatedContent": "Níl an t-ábhar seo ar fáil i do theanga fós.",
   "languageSelect.accessibleLabel": "Roghnaigh teanga",
   "menuButton.accessibleLabel": "Roghchlár",

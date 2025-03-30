@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "Knihy",
+    "description": "Gnostická knihovna",
+    "readBook": "Přečíst knihu",
+    "without": {
+      "author": "Bez autora",
+      "category": "Bez kategorie",
+      "description": "Bez popisu",
+      "image": "Bez obrázku",
+      "text_id": "Bez ID",
+      "title": "Bez názvu",
+      "year": "Bez roku"
+    }
+  },
   "footer": {
     "about": "O nás",
     "books": "Knihy",

@@ -4,6 +4,20 @@
   "aside.danger": "Dañjer",
   "aside.note": "Notenn",
   "aside.tip": "Tun",
+  "books": {
+    "books": "Levrioù",
+    "description": "Levraoueg Gnostek",
+    "readBook": "Lenn ul levr",
+    "without": {
+      "author": "Hep aozer",
+      "category": "Hep rummad",
+      "description": "Hep deskrivadur",
+      "image": "Hep skeudenn",
+      "text_id": "Hep ID",
+      "title": "Hep titl",
+      "year": "Hep bloavezh"
+    }
+  },
   "builtWithStarlight.label": "Savet gant Starlight",
   "fileTree.directory": "Renkell",
   "footer": {

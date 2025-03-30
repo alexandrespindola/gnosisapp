@@ -4,6 +4,20 @@
   "aside.danger": "ਖ਼ਤਰਾ",
   "aside.note": "ਨੋਟ",
   "aside.tip": "ਸੁਝਾਅ",
+  "books": {
+    "books": "ਕਿਤਾਬਾਂ",
+    "description": "ਗਨੋਸਟਿਕ ਲਾਇਬ੍ਰੇਰੀ",
+    "readBook": "ਕਿਤਾਬ ਪੜ੍ਹੋ",
+    "without": {
+      "author": "ਲੇਖਕ ਤੋਂ ਬਿਨਾਂ",
+      "category": "ਸ਼੍ਰੇਣੀ ਤੋਂ ਬਿਨਾਂ",
+      "description": "ਵੇਰਵੇ ਤੋਂ ਬਿਨਾਂ",
+      "image": "ਤਸਵੀਰ ਤੋਂ ਬਿਨਾਂ",
+      "text_id": "ਆਈਡੀ ਤੋਂ ਬਿਨਾਂ",
+      "title": "ਸਿਰਲੇਖ ਤੋਂ ਬਿਨਾਂ",
+      "year": "ਸਾਲ ਤੋਂ ਬਿਨਾਂ"
+    }
+  },
   "builtWithStarlight.label": "Starlight ਨਾਲ ਬਣਾਇਆ",
   "fileTree.directory": "ਡਾਇਰੈਕਟਰੀ",
   "footer": {

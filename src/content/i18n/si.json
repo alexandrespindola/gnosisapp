@@ -4,6 +4,20 @@
   "aside.danger": "අනතුරුදායකයි",
   "aside.note": "සටහන",
   "aside.tip": "ඉඟිය",
+  "books": {
+    "books": "පොත්",
+    "description": "ඥානවාදී පුස්තකාලය",
+    "readBook": "පොත කියවන්න",
+    "without": {
+      "author": "කර්තෘ නැත",
+      "category": "ප්‍රවර්ගය නැත",
+      "description": "විස්තරයක් නැත",
+      "image": "රූපයක් නැත",
+      "text_id": "හැඳුනුම්පතක් නැත",
+      "title": "මාතෘකාවක් නැත",
+      "year": "වසරක් නැත"
+    }
+  },
   "builtWithStarlight.label": "Starlight සමඟ නිර්මාණය කරන ලදී",
   "fileTree.directory": "ඩිරෙක්ටරිය",
   "footer": {

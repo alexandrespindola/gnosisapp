@@ -4,6 +4,20 @@
   "aside.danger": "خطر",
   "aside.note": "یادداشت",
   "aside.tip": "مشوره",
+  "books": {
+    "books": "Ibitabo",
+    "description": "Inzu ndangamurage ya Gnostic",
+    "readBook": "Soma igitabo",
+    "without": {
+      "author": "Nta mwanditsi",
+      "category": "Nta cyiciro",
+      "description": "Nta bisobanuro",
+      "image": "Nta shusho",
+      "text_id": "Nta ID",
+      "title": "Nta mutwe",
+      "year": "Nta mwaka"
+    }
+  },
   "builtWithStarlight.label": "د Starlight سره جوړ شوی",
   "fileTree.directory": "فولډر",
   "footer": {

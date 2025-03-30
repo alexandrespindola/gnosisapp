@@ -4,6 +4,20 @@
   "aside.danger": "Небяспека",
   "aside.note": "Заўвага",
   "aside.tip": "Парада",
+  "books": {
+    "books": "Кнігі",
+    "description": "Гнастычная бібліятэка",
+    "readBook": "Чытаць кнігу",
+    "without": {
+      "author": "Без аўтара",
+      "category": "Без катэгорыі",
+      "description": "Без апісання",
+      "image": "Без выявы",
+      "text_id": "Без ідэнтыфікатара",
+      "title": "Без назвы",
+      "year": "Без года"
+    }
+  },
   "builtWithStarlight.label": "Зроблена з Starlight",
   "fileTree.directory": "Каталог",
   "footer": {

@@ -4,21 +4,35 @@
   "aside.danger": "Pavojus",
   "aside.note": "Pastaba",
   "aside.tip": "Patarimas",
+  "books": {
+    "books": "Knygos",
+    "description": "Gnostinė biblioteka",
+    "readBook": "Skaityti knygą",
+    "without": {
+      "author": "Be autoriaus",
+      "category": "Be kategorijos",
+      "description": "Be aprašymo",
+      "image": "Be paveikslėlio",
+      "text_id": "Be ID",
+      "title": "Be pavadinimo",
+      "year": "Be metų"
+    }
+  },
   "builtWithStarlight.label": "Sukurta su Starlight",
   "fileTree.directory": "Katalogas",
-    "footer": {
-      "about": "Apie mus",
-      "books": "Knygos",
-      "contact": "Kontaktai",
-      "course": "Gnozio kursas",
-      "countries": "Gnozis kitose šalyse",
-      "deutschland": "Gnosis Vokietija",
-      "description": "Gnosis Deutschland yra ne pelno siekianti organizacija, Gnosis International narė, besiremianti gnostiniais tyrimais, kuriuos paliko V.M. Samael Aun Weor iš antrosios XX amžiaus pusės.",
-      "home": "Pradžia",
-      "links": "Nuorodos",
-      "nederland": "Gnozė Nyderlandai",
-      "world": "Gnozis pasaulyje"
-    },
+  "footer": {
+    "about": "Apie mus",
+    "books": "Knygos",
+    "contact": "Kontaktai",
+    "course": "Gnozio kursas",
+    "countries": "Gnozis kitose šalyse",
+    "deutschland": "Gnosis Vokietija",
+    "description": "Gnosis Deutschland yra ne pelno siekianti organizacija, Gnosis International narė, besiremianti gnostiniais tyrimais, kuriuos paliko V.M. Samael Aun Weor iš antrosios XX amžiaus pusės.",
+    "home": "Pradžia",
+    "links": "Nuorodos",
+    "nederland": "Gnozė Nyderlandai",
+    "world": "Gnozis pasaulyje"
+  },
   "i18n.untranslatedContent": "Šis turinys dar nėra prieinamas jūsų kalba.",
   "languageSelect.accessibleLabel": "Pasirinkti kalbą",
   "menuButton.accessibleLabel": "Meniu",

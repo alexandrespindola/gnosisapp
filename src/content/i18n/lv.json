@@ -4,21 +4,35 @@
   "aside.danger": "Bīstami",
   "aside.note": "Piezīme",
   "aside.tip": "Padoms",
+  "books": {
+    "books": "Grāmatas",
+    "description": "Gnostiskā bibliotēka",
+    "readBook": "Lasīt grāmatu",
+    "without": {
+      "author": "Bez autora",
+      "category": "Bez kategorijas",
+      "description": "Bez apraksta",
+      "image": "Bez attēla",
+      "text_id": "Bez ID",
+      "title": "Bez nosaukuma",
+      "year": "Bez gada"
+    }
+  },
   "builtWithStarlight.label": "Veidots ar Starlight",
   "fileTree.directory": "Direktorija",
-    "footer": {
-      "about": "Par mums",
-      "books": "Grāmatas",
-      "contact": "Kontakti",
-      "course": "Gnozes kurss",
-      "countries": "Gnoze citās valstīs",
-      "deutschland": "Gnoze Vācija",
-      "description": "Gnosis Deutschland ir bezpeļņas organizācija, Gnosis International biedrs, kas balstīts uz gnostiskajiem pētījumiem, ko atstājis V.M. Samaels Auns Veors no 20. gadsimta otrās puses.",
-      "home": "Sākums",
-      "links": "Saites",
-      "nederland": "Gnoze Nīderlande",
-      "world": "Gnoze pasaulē"
-    },
+  "footer": {
+    "about": "Par mums",
+    "books": "Grāmatas",
+    "contact": "Kontakti",
+    "course": "Gnozes kurss",
+    "countries": "Gnoze citās valstīs",
+    "deutschland": "Gnoze Vācija",
+    "description": "Gnosis Deutschland ir bezpeļņas organizācija, Gnosis International biedrs, kas balstīts uz gnostiskajiem pētījumiem, ko atstājis V.M. Samaels Auns Veors no 20. gadsimta otrās puses.",
+    "home": "Sākums",
+    "links": "Saites",
+    "nederland": "Gnoze Nīderlande",
+    "world": "Gnoze pasaulē"
+  },
   "i18n.untranslatedContent": "Šis saturs vēl nav pieejams jūsu valodā.",
   "languageSelect.accessibleLabel": "Izvēlēties valodu",
   "menuButton.accessibleLabel": "Izvēlne",

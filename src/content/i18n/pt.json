@@ -1,6 +1,17 @@
 {
-  "common": {
-    "readBook": "Ler livro"
+  "books": {
+    "books": "Livros",
+    "description": "Biblioteca Gnóstica",
+    "readBook": "Ler livro",
+    "without": {
+      "author": "Sem autor",
+      "category": "Sem categoria",
+      "description": "Sem descrição",
+      "image": "Sem imagem",
+      "text_id": "Sem ID",
+      "title": "Sem título",
+      "year": "Sem ano"
+    }
   },
   "footer": {
     "about": "Sobre nós",

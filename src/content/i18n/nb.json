@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "Bøker",
+    "description": "Gnostisk bibliotek",
+    "readBook": "Les bok",
+    "without": {
+      "author": "Uten forfatter",
+      "category": "Uten kategori",
+      "description": "Uten beskrivelse",
+      "image": "Uten bilde",
+      "text_id": "Uten ID",
+      "title": "Uten tittel",
+      "year": "Uten år"
+    }
+  },
   "footer": {
     "about": "Om oss",
     "books": "Bøker",

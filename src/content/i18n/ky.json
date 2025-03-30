@@ -4,6 +4,20 @@
   "aside.danger": "Коркунуч",
   "aside.note": "Эскертүү",
   "aside.tip": "Кеңеш",
+  "books": {
+    "books": "Китептер",
+    "description": "Гностикалык китепкана",
+    "readBook": "Китепти окуу",
+    "without": {
+      "author": "Авторсуз",
+      "category": "Категориясыз",
+      "description": "Сүрөттөөсүз",
+      "image": "Сүрөтсүз",
+      "text_id": "Идентификаторсуз",
+      "title": "Аталышы жок",
+      "year": "Жылы жок"
+    }
+  },
   "builtWithStarlight.label": "Starlight менен жасалган",
   "fileTree.directory": "Каталог",
   "footer": {

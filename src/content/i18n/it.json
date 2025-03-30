@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "Libri",
+    "description": "Biblioteca Gnostica",
+    "readBook": "Leggi il libro",
+    "without": {
+      "author": "Senza autore",
+      "category": "Senza categoria",
+      "description": "Senza descrizione",
+      "image": "Senza immagine",
+      "text_id": "Senza ID",
+      "title": "Senza titolo",
+      "year": "Senza anno"
+    }
+  },
   "footer": {
     "about": "Chi siamo",
     "books": "Libri",

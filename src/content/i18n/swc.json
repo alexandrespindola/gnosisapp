@@ -4,6 +4,20 @@
   "aside.danger": "Hatari",
   "aside.note": "Kumbuka",
   "aside.tip": "Shauri",
+    "books": {
+      "books": "Vitabu",
+      "description": "Maktaba ya Gnostic",
+      "readBook": "Soma kitabu",
+      "without": {
+        "author": "Bila muandishi",
+        "category": "Bila kategoriya",
+        "description": "Bila maelezo",
+        "image": "Bila picha",
+        "text_id": "Bila ID",
+        "title": "Bila titre",
+        "year": "Bila mwaka"
+      }
+    },
   "builtWithStarlight.label": "Imetengenezwa na Starlight",
   "fileTree.directory": "Directoriya",
     "footer": {

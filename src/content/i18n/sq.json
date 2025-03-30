@@ -4,6 +4,20 @@
   "aside.danger": "Rrezik",
   "aside.note": "Shënim",
   "aside.tip": "Këshillë",
+  "books": {
+    "books": "Libra",
+    "description": "Biblioteka Gnostike",
+    "readBook": "Lexo librin",
+    "without": {
+      "author": "Pa autor",
+      "category": "Pa kategori",
+      "description": "Pa përshkrim",
+      "image": "Pa imazh",
+      "text_id": "Pa ID",
+      "title": "Pa titull",
+      "year": "Pa vit"
+    }
+  },
   "builtWithStarlight.label": "Ndërtuar me Starlight",
   "fileTree.directory": "Direktori",
   "footer": {

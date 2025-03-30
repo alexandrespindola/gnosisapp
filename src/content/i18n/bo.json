@@ -4,6 +4,20 @@
   "aside.danger": "ཉེན་ཁ",
   "aside.note": "མཆན",
   "aside.tip": "བསླབ་བྱ",
+  "books": {
+    "books": "དཔེ་དེབ།",
+    "description": "གནོས་སྟི་ཀ་དཔེ་མཛོད།",
+    "readBook": "དཔེ་དེབ་ཀློག",
+    "without": {
+      "author": "རྩོམ་པ་པོ་མེད།",
+      "category": "སྡེ་ཚན་མེད།",
+      "description": "འགྲེལ་བརྗོད་མེད།",
+      "image": "པར་རིས་མེད།",
+      "text_id": "ཨང་གྲངས་མེད།",
+      "title": "མཚན་བྱང་མེད།",
+      "year": "ལོ་མེད།"
+    }
+  },
   "builtWithStarlight.label": "Starlight ཡིས་བཟོས་པ",
   "fileTree.directory": "དཀར་ཆག",
   "footer": {

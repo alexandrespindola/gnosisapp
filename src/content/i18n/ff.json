@@ -4,6 +4,20 @@
   "aside.danger": "Farati",
   "aside.note": "Tinndinol",
   "aside.tip": "Wasiyaare",
+  "books": {
+    "books": "Defte",
+    "description": "Bibliotheek Gnostique",
+    "readBook": "Lisu deftere",
+    "without": {
+      "author": "Gooto alaa",
+      "category": "Fedde alaa",
+      "description": "Faɗitaare alaa",
+      "image": "Suura alaa",
+      "text_id": "ID alaa",
+      "title": "Ciife alaa",
+      "year": "Hitaande alaa"
+    }
+  },
   "builtWithStarlight.label": "Mahiraama e Starlight",
   "fileTree.directory": "Deentere",
   "footer": {

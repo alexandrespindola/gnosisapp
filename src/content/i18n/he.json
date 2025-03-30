@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "ספרים",
+    "description": "ספרייה גנוסטית",
+    "readBook": "קרא ספר",
+    "without": {
+      "author": "ללא מחבר",
+      "category": "ללא קטגוריה",
+      "description": "ללא תיאור",
+      "image": "ללא תמונה",
+      "text_id": "ללא מזהה",
+      "title": "ללא כותרת",
+      "year": "ללא שנה"
+    }
+  },
   "footer": {
     "about": "עלינו",
     "books": "ספרים",

@@ -4,6 +4,20 @@
   "aside.danger": "አደጋ",
   "aside.note": "ማስታወሻ",
   "aside.tip": "ጠቃሚ ምክር",
+  "books": {
+    "books": "መጻሕፍት",
+    "description": "ግኖስቲካዊ ቤተ መጻሕፍት",
+    "readBook": "መጽሐፍ አንብብ",
+    "without": {
+      "author": "ያለ ደራሲ",
+      "category": "ምድብ የሌለው",
+      "description": "ያለ መግለጫ",
+      "image": "ምስል የሌለው",
+      "text_id": "መታወቂያ የሌለው",
+      "title": "ያለ ርዕስ",
+      "year": "ያለ ዓመት"
+    }
+  },
   "builtWithStarlight.label": "በስታርላይት የተገነባ",
   "fileTree.directory": "ማውጫ",
   "footer": {

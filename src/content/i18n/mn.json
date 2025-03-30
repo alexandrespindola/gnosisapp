@@ -4,6 +4,20 @@
   "aside.danger": "Аюул",
   "aside.note": "Тэмдэглэл",
   "aside.tip": "Зөвлөмж",
+  "books": {
+    "books": "Номнууд",
+    "description": "Гностикийн номын сан",
+    "readBook": "Ном унших",
+    "without": {
+      "author": "Зохиолчгүй",
+      "category": "Ангилалгүй",
+      "description": "Тайлбаргүй",
+      "image": "Зураггүй",
+      "text_id": "IDгүй",
+      "title": "Гарчиггүй",
+      "year": "Жилгүй"
+    }
+  },
   "builtWithStarlight.label": "Starlight-аар бүтээсэн",
   "fileTree.directory": "Хавтас",
   "footer": {

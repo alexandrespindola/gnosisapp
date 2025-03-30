@@ -4,6 +4,20 @@
   "aside.danger": "જોખમ",
   "aside.note": "નોંધ",
   "aside.tip": "ટિપ",
+  "books": {
+    "books": "પુસ્તકો",
+    "description": "જ્ઞાનવાદી પુસ્તકાલય",
+    "readBook": "પુસ્તક વાંચો",
+    "without": {
+      "author": "લેખક વિના",
+      "category": "શ્રેણી વિના",
+      "description": "વર્ણન વિના",
+      "image": "છબી વિના",
+      "text_id": "આઈડી વિના",
+      "title": "શીર્ષક વિના",
+      "year": "વર્ષ વિના"
+    }
+  },
   "builtWithStarlight.label": "સ્ટારલાઇટ સાથે બનાવેલ",
   "fileTree.directory": "ડિરેક્ટરી",
   "footer": {

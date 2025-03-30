@@ -4,6 +4,20 @@
   "aside.danger": "គ្រោះថ្នាក់",
   "aside.note": "កំណត់ចំណាំ",
   "aside.tip": "គន្លឹះ",
+  "books": {
+    "books": "សៀវភៅ​នានា",
+    "description": "បណ្ណាល័យ​ហ្គោសទិក",
+    "readBook": "អាន​សៀវភៅ",
+    "without": {
+      "author": "គ្មាន​អ្នកនិពន្ធ",
+      "category": "គ្មាន​ប្រភេទ",
+      "description": "គ្មាន​ការ​ពិពណ៌នា",
+      "image": "គ្មាន​រូបភាព",
+      "text_id": "គ្មាន​លេខ​សម្គាល់",
+      "title": "គ្មាន​ចំណងជើង",
+      "year": "គ្មាន​ឆ្នាំ"
+    }
+  },
   "builtWithStarlight.label": "បង្កើតឡើងដោយ Starlight",
   "fileTree.directory": "ថត",
   "footer": {

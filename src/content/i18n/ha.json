@@ -4,6 +4,20 @@
   "aside.danger": "Hatsari",
   "aside.note": "Lura",
   "aside.tip": "Shawarwari",
+  "books": {
+    "books": "Littattafai",
+    "description": "Gidan Karatu na Gnostic",
+    "readBook": "Karanta littafi",
+    "without": {
+      "author": "Ba tare da marubuci ba",
+      "category": "Ba tare da rukuni ba",
+      "description": "Ba tare da bayani ba",
+      "image": "Ba tare da hoto ba",
+      "text_id": "Ba tare da ID ba",
+      "title": "Ba tare da take ba",
+      "year": "Ba tare da shekara ba"
+    }
+  },
   "builtWithStarlight.label": "An gina da Starlight",
   "fileTree.directory": "Madaba",
   "footer": {

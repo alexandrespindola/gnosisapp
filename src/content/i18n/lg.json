@@ -4,6 +4,20 @@
   "aside.danger": "Akabi",
   "aside.note": "Manya",
   "aside.tip": "Amagezi",
+  "books": {
+    "books": "Ebitabo",
+    "description": "Ettendekero ly'ebitabo erya Gnostic",
+    "readBook": "Soma ekitabo",
+    "without": {
+      "author": "Awata ebbaluwa",
+      "category": "Awata mutindo",
+      "description": "Awata nnyingo",
+      "image": "Awata kifaananyi",
+      "text_id": "Awata nnamba ya ID",
+      "title": "Awata mutwe gwa bigambo",
+      "year": "Awata mwaka"
+    }
+  },
   "builtWithStarlight.label": "Kizimbiddwa na Starlight",
   "fileTree.directory": "Etterekero",
   "footer": {

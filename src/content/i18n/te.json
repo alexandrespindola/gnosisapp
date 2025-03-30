@@ -4,21 +4,35 @@
   "aside.danger": "ஆபத்து",
   "aside.note": "குறிப்பு",
   "aside.tip": "உதவிக்குறிப்பு",
+  "books": {
+    "books": "పుస్తకాలు",
+    "description": "జ్ఞానోదయ గ్రంథాలయం",
+    "readBook": "పుస్తకం చదవండి",
+    "without": {
+      "author": "రచయిత లేకుండా",
+      "category": "వర్గం లేకుండా",
+      "description": "వివరణ లేకుండా",
+      "image": "చిత్రం లేకుండా",
+      "text_id": "ID లేకుండా",
+      "title": "శీర్షిక లేకుండా",
+      "year": "సంవత్సరం లేకుండా"
+    }
+  },
   "builtWithStarlight.label": "Starlight மூலம் உருவாக்கப்பட்டது",
   "fileTree.directory": "கோப்பகம்",
-    "footer": {
-      "about": "మా గురించి",
-      "books": "పుస్తకాలు",
-      "contact": "సంప్రదించండి",
-      "course": "జ్ఞానోదయ కోర్సు",
-      "countries": "ఇతర దేశాలలో జ్ఞానం",
-      "deutschland": "జర్మనీలో జ్ఞానం",
-      "description": "Gnosis Deutschland ఒక లాభాపేక్షలేని సంస్థ, Gnosis International యొక్క సభ్యుడు, 20వ శతాబ్దం యొక్క రెండవ భాగం నుండి V.M. సమేల్ ఆన్ వేర్ ద్వారా వదిలివేయబడిన జ్ఞానోదయ అధ్యయనాలపై ఆధారపడి ఉంటుంది.",
-      "home": "హోమ్",
-      "links": "లింక్‌లు",
-      "nederland": "జ్ఞానవాదం నెదర్లాండ్స్",
-      "world": "ప్రపంచంలో జ్ఞానం"
-    },
+  "footer": {
+    "about": "మా గురించి",
+    "books": "పుస్తకాలు",
+    "contact": "సంప్రదించండి",
+    "course": "జ్ఞానోదయ కోర్సు",
+    "countries": "ఇతర దేశాలలో జ్ఞానం",
+    "deutschland": "జర్మనీలో జ్ఞానం",
+    "description": "Gnosis Deutschland ఒక లాభాపేక్షలేని సంస్థ, Gnosis International యొక్క సభ్యుడు, 20వ శతాబ్దం యొక్క రెండవ భాగం నుండి V.M. సమేల్ ఆన్ వేర్ ద్వారా వదిలివేయబడిన జ్ఞానోదయ అధ్యయనాలపై ఆధారపడి ఉంటుంది.",
+    "home": "హోమ్",
+    "links": "లింక్‌లు",
+    "nederland": "జ్ఞానవాదం నెదర్లాండ్స్",
+    "world": "ప్రపంచంలో జ్ఞానం"
+  },
   "i18n.untranslatedContent": "இந்த உள்ளடக்கம் உங்கள் மொழியில் இன்னும் கிடைக்கவில்லை.",
   "languageSelect.accessibleLabel": "மொழியைத் தேர்ந்தெடுக்கவும்",
   "menuButton.accessibleLabel": "மெனு",

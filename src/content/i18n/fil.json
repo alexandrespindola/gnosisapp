@@ -4,6 +4,20 @@
   "aside.danger": "Panganib",
   "aside.note": "Tala",
   "aside.tip": "Payo",
+  "books": {
+    "books": "Mga Aklat",
+    "description": "Aklatang Gnostiko",
+    "readBook": "Basahin ang aklat",
+    "without": {
+      "author": "Walang may-akda",
+      "category": "Walang kategorya",
+      "description": "Walang paglalarawan",
+      "image": "Walang larawan",
+      "text_id": "Walang id",
+      "title": "Walang pamagat",
+      "year": "Walang taon"
+    }
+  },
   "builtWithStarlight.label": "Ginawa gamit ang Starlight",
   "fileTree.directory": "Direktoryo",
   "footer": {

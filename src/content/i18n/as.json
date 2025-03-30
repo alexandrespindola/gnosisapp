@@ -4,6 +4,20 @@
   "aside.danger": "বিপদ",
   "aside.note": "টোকা",
   "aside.tip": "টিপ",
+  "books": {
+    "books": "কিতাপসমূহ",
+    "description": "জ্ঞানবাদী পুথিভঁৰাল",
+    "readBook": "কিতাপ পঢ়ক",
+    "without": {
+      "author": "লেখক অবিহনে",
+      "category": "শ্ৰেণী অবিহনে",
+      "description": "বিৱৰণ অবিহনে",
+      "image": "ছবি অবিহনে",
+      "text_id": "আইডি অবিহনে",
+      "title": "শিৰোনাম অবিহনে",
+      "year": "বছৰ অবিহনে"
+    }
+  },
   "builtWithStarlight.label": "Starlight-ৰ সৈতে নিৰ্মিত",
   "directory": "ডাইৰেকটৰী",
   "i18n.untranslatedContent": "এই বিষয়বস্তু আপোনাৰ ভাষাত এতিয়ালৈকে উপলব্ধ নহয়।",

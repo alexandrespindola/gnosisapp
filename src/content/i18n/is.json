@@ -4,6 +4,20 @@
   "aside.danger": "Hætta",
   "aside.note": "Athugasemd",
   "aside.tip": "Ábending",
+  "books": {
+    "books": "Bækur",
+    "description": "Gnostískt bókasafn",
+    "readBook": "Lesa bók",
+    "without": {
+      "author": "Án höfundar",
+      "category": "Án flokks",
+      "description": "Án lýsingar",
+      "image": "Án myndar",
+      "text_id": "Án auðkennis",
+      "title": "Án titils",
+      "year": "Án árs"
+    }
+  },
   "builtWithStarlight.label": "Byggt með Starlight",
   "fileTree.directory": "Mappa",
   "footer": {

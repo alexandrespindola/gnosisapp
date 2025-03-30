@@ -4,6 +4,20 @@
   "aside.danger": "Farati",
   "aside.note": "Tɔgɔ",
   "aside.tip": "Hakilina",
+  "books": {
+    "books": "Gafe-w",
+    "description": "Kibaru Gnɔsitiki",
+    "readBook": "Gafe kalan",
+    "without": {
+      "author": "Auteur tɛ min na",
+      "category": "Catégorie tɛ min na",
+      "description": "Description tɛ min na",
+      "image": "Image tɛ min na",
+      "text_id": "Identifiant tɛ min na",
+      "title": "Titre tɛ min na",
+      "year": "An tɛ min na"
+    }
+  },
   "builtWithStarlight.label": "A dilan na ni Starlight ye",
   "fileTree.directory": "Sɛbɛnw ka yɔrɔ",
   "footer": {

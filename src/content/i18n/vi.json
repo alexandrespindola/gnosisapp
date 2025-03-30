@@ -1,4 +1,18 @@
 {
+  "books": {
+    "books": "Sách",
+    "description": "Thư viện Gnostic",
+    "readBook": "Đọc sách",
+    "without": {
+      "author": "Không có tác giả",
+      "category": "Không có danh mục",
+      "description": "Không có mô tả",
+      "image": "Không có hình ảnh",
+      "text_id": "Không có ID",
+      "title": "Không có tiêu đề",
+      "year": "Không có năm"
+    }
+  },
   "footer": {
     "about": "Về chúng tôi",
     "books": "Sách",

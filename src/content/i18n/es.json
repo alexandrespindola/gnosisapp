@@ -1,13 +1,17 @@
 {
   "books": {
-    "lord-rings": {
-      "title": "El Señor de los Anillosçççççç",
-      "description": "Una historia épica de fantasía...",
-      "category": "Fantasía"
+    "books": "Libros",
+    "description": "Biblioteca Gnóstica",
+    "readBook": "Leer libro",
+    "without": {
+      "author": "Sin autor",
+      "category": "Sin categoría",
+      "description": "Sin descripción",
+      "image": "Sin imagen",
+      "text_id": "Sin ID",
+      "title": "Sin título",
+      "year": "Sin año"
     }
-  },
-  "common": {
-    "readBook": "Leer libro"
   },
   "footer": {
     "about": "Sobre nosotros",

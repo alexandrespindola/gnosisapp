@@ -4,21 +4,35 @@
   "aside.danger": "Howp",
   "aside.note": "Bellik",
   "aside.tip": "Maslahat",
+  "books": {
+    "books": "Kitaplar",
+    "description": "Gnostik kitaphanasy",
+    "readBook": "Kitaby okaň",
+    "without": {
+      "author": "Awtor ýok",
+      "category": "Kategoriýa ýok",
+      "description": "Düşündiriş ýok",
+      "image": "Surat ýok",
+      "text_id": "ID ýok",
+      "title": "Ady ýok",
+      "year": "Ýyly ýok"
+    }
+  },
   "builtWithStarlight.label": "Starlight bilen guruldy",
   "fileTree.directory": "Katalog",
-    "footer": {
-      "about": "Biz barada",
-      "books": "Kitaplar",
-      "contact": "Habarlaşmak",
-      "course": "Gnosis Kursy",
-      "countries": "Beýleki ýurtlarda Gnosis",
-      "deutschland": "Germaniýada Gnosis",
-      "description": "Gnosis Deutschland girdejili däl gurama, Gnosis International-yň agzasy, 20-nji asyryň ikinji ýarymyndan V.M. Samael Aun Weor tarapyndan galdyrylan gnostik ylymlara esaslanýar.",
-      "home": "Baş sahypa",
-      "links": "Baglanyşyklar",
-      "nederland": "Gnosis Niderlandlar",
-      "world": "Dünýädäki Gnosis"
-    },
+  "footer": {
+    "about": "Biz barada",
+    "books": "Kitaplar",
+    "contact": "Habarlaşmak",
+    "course": "Gnosis Kursy",
+    "countries": "Beýleki ýurtlarda Gnosis",
+    "deutschland": "Germaniýada Gnosis",
+    "description": "Gnosis Deutschland girdejili däl gurama, Gnosis International-yň agzasy, 20-nji asyryň ikinji ýarymyndan V.M. Samael Aun Weor tarapyndan galdyrylan gnostik ylymlara esaslanýar.",
+    "home": "Baş sahypa",
+    "links": "Baglanyşyklar",
+    "nederland": "Gnosis Niderlandlar",
+    "world": "Dünýädäki Gnosis"
+  },
   "i18n.untranslatedContent": "Bu mazmun heniz siziň diliňizde elýeterli däl.",
   "languageSelect.accessibleLabel": "Dil saýlaň",
   "menuButton.accessibleLabel": "Menýu",

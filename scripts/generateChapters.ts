@@ -3,12 +3,30 @@ import axios from "axios";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import { LOCALES_PREFIX } from "../src/constants/locales.ts";
 
 // Get __filename and __dirname
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 dotenv.config({ path: path.resolve(__dirname, "../env/.env") });
+
+// Check for dev flag
+const isDev = process.argv.includes('--dev');
+
+// Dynamically import locales based on dev flag
+let LOCALES_PREFIX: string[];
+try {
+  if (isDev) {
+    const devLocalesModule = await import('../src/constants/dev.locales.ts');
+    LOCALES_PREFIX = devLocalesModule.LOCALES_PREFIX;
+    console.log('🚧 Using dev locales:', LOCALES_PREFIX);
+  } else {
+    const localesModule = await import('../src/constants/locales.ts');
+    LOCALES_PREFIX = localesModule.LOCALES_PREFIX;
+  }
+} catch (error) {
+  console.error('❌ Error importing locales:', error);
+  process.exit(1);
+}
 
 // Define credentials for Strapi API
 const STRAPI_URL = process.env.PUBLIC_STRAPI_URL || "";

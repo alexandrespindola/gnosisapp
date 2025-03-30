@@ -4,6 +4,20 @@
   "aside.danger": "Վտանգ",
   "aside.note": "Նշում",
   "aside.tip": "Խորհուրդ",
+  "books": {
+    "books": "Գրքեր",
+    "description": "Գնոստիկական գրադարան",
+    "readBook": "Կարդալ գիրքը",
+    "without": {
+      "author": "Առանց հեղինակի",
+      "category": "Առանց կատեգորիայի",
+      "description": "Առանց նկարագրության",
+      "image": "Առանց պատկերի",
+      "text_id": "Առանց նույնականացման համարի",
+      "title": "Առանց վերնագրի",
+      "year": "Առանց տարվա"
+    }
+  },
   "builtWithStarlight.label": "Կառուցված է Starlight-ով",
   "fileTree.directory": "Թղթապանակ",
   "footer": {

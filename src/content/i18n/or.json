@@ -4,6 +4,20 @@
   "aside.danger": "ବିପଦ",
   "aside.note": "ଟିପ୍ପଣୀ",
   "aside.tip": "ପରାମର୍ଶ",
+  "books": {
+    "books": "ପୁସ୍ତକଗୁଡ଼ିକ",
+    "description": "ଜ୍ଞାନବାଦୀ ଲାଇବ୍ରେରୀ",
+    "readBook": "ପୁସ୍ତକ ପଢନ୍ତୁ",
+    "without": {
+      "author": "ଲେଖକ ବିନା",
+      "category": "ବର୍ଗ ବିନା",
+      "description": "ବର୍ଣ୍ଣନା ବିନା",
+      "image": "ଛବି ବିନା",
+      "text_id": "ଆଇଡି ବିନା",
+      "title": "ଶୀର୍ଷକ ବିନା",
+      "year": "ବର୍ଷ ବିନା"
+    }
+  },
   "builtWithStarlight.label": "Starlight ସହ ନିର୍ମିତ",
   "fileTree.directory": "ନିର୍ଦେଶିକା",
   "footer": {

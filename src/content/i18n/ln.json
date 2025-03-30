@@ -4,6 +4,20 @@
   "aside.danger": "Likama",
   "aside.note": "Bokebisi",
   "aside.tip": "Toli",
+  "books": {
+    "books": "Mikanda",
+    "description": "Bibliotɛkɛ ya Gnostic",
+    "readBook": "Tángá mokanda",
+    "without": {
+      "author": "Mokomi te",
+      "category": "Lisanga te",
+      "description": "Molimboli te",
+      "image": "Elilingi te",
+      "text_id": "ID te",
+      "title": "Motó ya likambo te",
+      "year": "Mbula te"
+    }
+  },
   "builtWithStarlight.label": "Esalemi na Starlight",
   "fileTree.directory": "Repertoire",
   "footer": {

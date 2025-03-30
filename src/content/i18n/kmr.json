@@ -4,21 +4,35 @@
   "aside.danger": "Xeter",
   "aside.note": "Not",
   "aside.tip": "Şîret",
+  "books": {
+    "books": "Pirtûk",
+    "description": "Pirtûkxaneya Gnostîk",
+    "readBook": "Pirtûkê bixwîne",
+    "without": {
+      "author": "Bê nivîskar",
+      "category": "Bê kategori",
+      "description": "Bê danasîn",
+      "image": "Bê wêne",
+      "text_id": "Bê nasname",
+      "title": "Bê sernav",
+      "year": "Bê sal"
+    }
+  },
   "builtWithStarlight.label": "Bi Starlight hatiye çêkirin",
   "fileTree.directory": "Peldank",
-    "footer": {
-      "about": "Derheqê me",
-      "books": "Pirtûk",
-      "contact": "Têkilî",
-      "course": "Qursa Gnosisê",
-      "countries": "Li welatên din Gnosis",
-      "deutschland": "Gnosis Almanya",
-      "description": "Gnosis Deutschland rêxistineke neqezenc e, endamê Gnosis International e, li ser lêkolînên Gnostîk ên ku ji hêla V.M. Samael Aun Weor ve di nîvê duyemîn ê sedsala 20-an de hatine hiştin, hatiye avakirin.",
-      "home": "Mal",
-      "links": "Girêdan",
-      "nederland": "Gnosis Holenda",
-      "world": "Li Cîhanê Gnosis"
-    },
+  "footer": {
+    "about": "Derheqê me",
+    "books": "Pirtûk",
+    "contact": "Têkilî",
+    "course": "Qursa Gnosisê",
+    "countries": "Li welatên din Gnosis",
+    "deutschland": "Gnosis Almanya",
+    "description": "Gnosis Deutschland rêxistineke neqezenc e, endamê Gnosis International e, li ser lêkolînên Gnostîk ên ku ji hêla V.M. Samael Aun Weor ve di nîvê duyemîn ê sedsala 20-an de hatine hiştin, hatiye avakirin.",
+    "home": "Mal",
+    "links": "Girêdan",
+    "nederland": "Gnosis Holenda",
+    "world": "Li Cîhanê Gnosis"
+  },
   "i18n.untranslatedContent": "Ev naverok hê bi zimanê we tune ye.",
   "languageSelect.accessibleLabel": "Ziman hilbijêre",
   "menuButton.accessibleLabel": "Menu",

@@ -4,6 +4,20 @@
   "aside.danger": "Perigu",
   "aside.note": "Nota",
   "aside.tip": "Dika",
+  "books": {
+    "books": "Libru",
+    "description": "Biblioteka Gnóstiku",
+    "readBook": "Le libru",
+    "without": {
+      "author": "Sen autor",
+      "category": "Sen kategoria",
+      "description": "Sen diskrison",
+      "image": "Sen imajen",
+      "text_id": "Sen id",
+      "title": "Sen títlu",
+      "year": "Sen anu"
+    }
+  },
   "builtWithStarlight.label": "Konstruidu ku Starlight",
   "fileTree.directory": "Diretóriu",
   "footer": {

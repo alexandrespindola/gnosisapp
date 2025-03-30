@@ -4,6 +4,20 @@
   "aside.danger": "Balaaf-saaxilama",
   "aside.note": "Yaadannoo",
   "aside.tip": "Gorsa",
+  "books": {
+    "books": "Kitaabota",
+    "description": "Kitaaba Gnostikii",
+    "readBook": "Kitaaba dubbisi",
+    "without": {
+      "author": "Barreessaa malee",
+      "category": "Gosa malee",
+      "description": "Ibsa malee",
+      "image": "Suura malee",
+      "text_id": "ID malee",
+      "title": "Mata duree malee",
+      "year": "Bara malee"
+    }
+  },
   "builtWithStarlight.label": "Starlight'n ijaarame",
   "fileTree.directory": "Galma",
   "footer": {

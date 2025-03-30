@@ -4,6 +4,20 @@
   "aside.danger": "বিপদ",
   "aside.note": "নোট",
   "aside.tip": "পরামর্শ",
+  "books": {
+    "books": "বই",
+    "description": "জ্ঞানবাদী গ্রন্থাগার",
+    "readBook": "বই পড়ুন",
+    "without": {
+      "author": "লেখক ছাড়া",
+      "category": "শ্রেণী ছাড়া",
+      "description": "বর্ণনা ছাড়া",
+      "image": "ছবি ছাড়া",
+      "text_id": "আইডি ছাড়া",
+      "title": "শিরোনাম ছাড়া",
+      "year": "বছর ছাড়া"
+    }
+  },
   "builtWithStarlight.label": "Starlight দিয়ে তৈরি",
   "fileTree.directory": "ডিরেক্টরি",
   "footer": {

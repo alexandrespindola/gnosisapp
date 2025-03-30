@@ -4,6 +4,20 @@
   "aside.danger": "അപകടം",
   "aside.note": "കുറിപ്പ്",
   "aside.tip": "നുറുങ്ങ്",
+  "books": {
+    "books": "പുസ്തകങ്ങൾ",
+    "description": "ഗ്നോസ്റ്റിക് ലൈബ്രറി",
+    "readBook": "പുസ്തകം വായിക്കുക",
+    "without": {
+      "author": "രചയിതാവില്ല",
+      "category": "വിഭാഗമില്ല",
+      "description": "വിവരണം ഇല്ല",
+      "image": "ചിത്രം ഇല്ല",
+      "text_id": "ID ഇല്ല",
+      "title": "ശീർഷകം ഇല്ല",
+      "year": "വർഷം ഇല്ല"
+    }
+  },
   "builtWithStarlight.label": "Starlight ഉപയോഗിച്ച് നിർമ്മിച്ചത്",
   "fileTree.directory": "ഡയറക്ടറി",
   "footer": {

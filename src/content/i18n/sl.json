@@ -4,6 +4,20 @@
   "aside.danger": "Nevarnost",
   "aside.note": "Opomba",
   "aside.tip": "Nasvet",
+  "books": {
+    "books": "Knjige",
+    "description": "Gnostična knjižnica",
+    "readBook": "Preberi knjigo",
+    "without": {
+      "author": "Brez avtorja",
+      "category": "Brez kategorije",
+      "description": "Brez opisa",
+      "image": "Brez slike",
+      "text_id": "Brez ID-ja",
+      "title": "Brez naslova",
+      "year": "Brez leta"
+    }
+  },
   "builtWithStarlight.label": "Zgrajeno s Starlight",
   "fileTree.directory": "Imenik",
   "footer": {

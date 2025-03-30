@@ -5,6 +5,20 @@
   "aside.note": "Σημείωση",
   "aside.tip": "Συμβουλή",
   "automatic": "Αυτόματη μετάφραση",
+  "books": {
+    "books": "Βιβλία",
+    "description": "Γνωστική Βιβλιοθήκη",
+    "readBook": "Διάβασε βιβλίο",
+    "without": {
+      "author": "Χωρίς συγγραφέα",
+      "category": "Χωρίς κατηγορία",
+      "description": "Χωρίς περιγραφή",
+      "image": "Χωρίς εικόνα",
+      "text_id": "Χωρίς αναγνωριστικό",
+      "title": "Χωρίς τίτλο",
+      "year": "Χωρίς έτος"
+    }
+  },
   "builtWithStarlight.label": "Κατασκευάστηκε με το Starlight",
   "fileTree.directory": "Κατάλογος",
   "footer": {

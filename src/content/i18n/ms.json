@@ -4,6 +4,20 @@
   "aside.danger": "Bahaya",
   "aside.note": "Nota",
   "aside.tip": "Petua",
+  "books": {
+    "books": "Buku-buku",
+    "description": "Perpustakaan Gnostik",
+    "readBook": "Baca buku",
+    "without": {
+      "author": "Tiada pengarang",
+      "category": "Tiada kategori",
+      "description": "Tiada keterangan",
+      "image": "Tiada imej",
+      "text_id": "Tiada ID",
+      "title": "Tiada tajuk",
+      "year": "Tiada tahun"
+    }
+  },
   "builtWithStarlight.label": "Dibina dengan Starlight",
   "fileTree.directory": "Direktori",
   "footer": {

@@ -4,21 +4,35 @@
   "aside.danger": "Опасност",
   "aside.note": "Напомена",
   "aside.tip": "Савет",
+  "books": {
+    "books": "Књиге",
+    "description": "Гностичка библиотека",
+    "readBook": "Прочитај књигу",
+    "without": {
+      "author": "Без аутора",
+      "category": "Без категорије",
+      "description": "Без описа",
+      "image": "Без слике",
+      "text_id": "Без ИД-а",
+      "title": "Без наслова",
+      "year": "Без године"
+    }
+  },
   "builtWithStarlight.label": "Направљено са Starlight",
   "fileTree.directory": "Директоријум",
-    "footer": {
-      "about": "О нама",
-      "books": "Књиге",
-      "contact": "Контакт",
-      "course": "Курс Гнозе",
-      "countries": "Гноза у другим земљама",
-      "deutschland": "Гноза Немачка",
-      "description": "Gnosis Deutschland је непрофитна организација, члан Гнозис Интернационала, заснована на гностичким студијама које је оставио В.М. Самаел Аун Веор из друге половине 20. века.",
-      "home": "Почетна",
-      "links": "Линкови",
-      "nederland": "Гнозис Холандија",
-      "world": "Гноза у свету"
-    },
+  "footer": {
+    "about": "О нама",
+    "books": "Књиге",
+    "contact": "Контакт",
+    "course": "Курс Гнозе",
+    "countries": "Гноза у другим земљама",
+    "deutschland": "Гноза Немачка",
+    "description": "Gnosis Deutschland је непрофитна организација, члан Гнозис Интернационала, заснована на гностичким студијама које је оставио В.М. Самаел Аун Веор из друге половине 20. века.",
+    "home": "Почетна",
+    "links": "Линкови",
+    "nederland": "Гнозис Холандија",
+    "world": "Гноза у свету"
+  },
   "i18n.untranslatedContent": "Овај садржај још није доступан на вашем језику.",
   "languageSelect.accessibleLabel": "Изаберите језик",
   "menuButton.accessibleLabel": "Мени",

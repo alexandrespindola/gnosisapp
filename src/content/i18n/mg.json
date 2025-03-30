@@ -4,21 +4,35 @@
   "aside.danger": "Loza",
   "aside.note": "Fanamarihana",
   "aside.tip": "Torohevitra",
+  "books": {
+    "books": "Boky",
+    "description": "Tranomboky Gnostika",
+    "readBook": "Vakio ny boky",
+    "without": {
+      "author": "Tsy misy mpanoratra",
+      "category": "Tsy misy sokajy",
+      "description": "Tsy misy famaritana",
+      "image": "Tsy misy sary",
+      "text_id": "Tsy misy ID",
+      "title": "Tsy misy lohateny",
+      "year": "Tsy misy taona"
+    }
+  },
   "builtWithStarlight.label": "Noforonina tamin'ny Starlight",
   "fileTree.directory": "Rejistry",
-    "footer": {
-      "about": "Momba anay",
-      "books": "Boky",
-      "contact": "Mifandraisa",
-      "course": "Fianarana Gnosis",
-      "countries": "Gnosis any amin'ny firenena hafa",
-      "deutschland": "Gnosis Alemaina",
-      "description": "Fikambanana tsy mitady tombony ny Gnosis Deutschland, mpikambana ao amin'ny Gnosis International, mifototra amin'ireo fandalinana Gnostic navelan'i V.M. Samael Aun Weor tamin'ny tapany faharoa tamin'ny taonjato faha-20.",
-      "home": "Fandraisana",
-      "links": "Rohy",
-      "nederland": "Gnosis Pays-Bas",
-      "world": "Gnosis maneran-tany"
-    },
+  "footer": {
+    "about": "Momba anay",
+    "books": "Boky",
+    "contact": "Mifandraisa",
+    "course": "Fianarana Gnosis",
+    "countries": "Gnosis any amin'ny firenena hafa",
+    "deutschland": "Gnosis Alemaina",
+    "description": "Fikambanana tsy mitady tombony ny Gnosis Deutschland, mpikambana ao amin'ny Gnosis International, mifototra amin'ireo fandalinana Gnostic navelan'i V.M. Samael Aun Weor tamin'ny tapany faharoa tamin'ny taonjato faha-20.",
+    "home": "Fandraisana",
+    "links": "Rohy",
+    "nederland": "Gnosis Pays-Bas",
+    "world": "Gnosis maneran-tany"
+  },
   "i18n.untranslatedContent": "Tsy mbola misy amin'ny fiteny ampiasainao ity votoatiny ity.",
   "languageSelect.accessibleLabel": "Misafidiana fiteny",
   "menuButton.accessibleLabel": "Menu",

@@ -4,6 +4,20 @@
   "aside.danger": "Periklu",
   "aside.note": "Nota",
   "aside.tip": "Suġġeriment",
+  "books": {
+    "books": "Kotba",
+    "description": "Librerija Gnostika",
+    "readBook": "Aqra l-ktieb",
+    "without": {
+      "author": "Mingħajr awtur",
+      "category": "Mingħajr kategorija",
+      "description": "Mingħajr deskrizzjoni",
+      "image": "Mingħajr immaġni",
+      "text_id": "Mingħajr ID",
+      "title": "Mingħajr titlu",
+      "year": "Mingħajr sena"
+    }
+  },
   "builtWithStarlight.label": "Mibni bi Starlight",
   "fileTree.directory": "Direttorju",
   "footer": {

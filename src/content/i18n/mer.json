@@ -4,21 +4,35 @@
   "aside.danger": "Ugwati",
   "aside.note": "Noti",
   "aside.tip": "Kirira",
+  "books": {
+    "books": "Mabuku",
+    "description": "Library ya Gnostic",
+    "readBook": "Soma ibuku",
+    "without": {
+      "author": "Nta mwandiki",
+      "category": "Nta category",
+      "description": "Nta ndereti",
+      "image": "Nta mbica",
+      "text_id": "Nta ID",
+      "title": "Nta title",
+      "year": "Nta mwaka"
+    }
+  },
   "builtWithStarlight.label": "Gwakithiritwe na Starlight",
   "fileTree.directory": "Directory",
-    "footer": {
-      "about": "Nthĩĩna witũ",
-      "books": "Ibuku",
-      "contact": "Tũgũkũũria",
-      "course": "Koothi ya Gnosis",
-      "countries": "Gnosis nthĩ ingĩ",
-      "deutschland": "Gnosis Njĩrĩmani",
-      "description": "Gnosis Deutschland nĩ gĩkundi kĩte kwenda kũnunga mĩvothi, nĩ memba wa Gnosis International, kĩĩkĩĩtie igũrũ rĩa ũthomi wa Gnostic ũrĩa V.M. Samael Aun Weor aaigĩire kuma nusu ya keerĩ ya ĩkumi na ĩĩrĩ ya mĩaka.",
-      "home": "Nyũmba",
-      "links": "Ngaĩ",
-      "nederland": "Gnosis Niederlande",
-      "world": "Gnosis nthĩ yothe"
-    },
+  "footer": {
+    "about": "Nthĩĩna witũ",
+    "books": "Ibuku",
+    "contact": "Tũgũkũũria",
+    "course": "Koothi ya Gnosis",
+    "countries": "Gnosis nthĩ ingĩ",
+    "deutschland": "Gnosis Njĩrĩmani",
+    "description": "Gnosis Deutschland nĩ gĩkundi kĩte kwenda kũnunga mĩvothi, nĩ memba wa Gnosis International, kĩĩkĩĩtie igũrũ rĩa ũthomi wa Gnostic ũrĩa V.M. Samael Aun Weor aaigĩire kuma nusu ya keerĩ ya ĩkumi na ĩĩrĩ ya mĩaka.",
+    "home": "Nyũmba",
+    "links": "Ngaĩ",
+    "nederland": "Gnosis Niederlande",
+    "world": "Gnosis nthĩ yothe"
+  },
   "i18n.untranslatedContent": "Mantu jaja jatiri na rurimi rwaku.",
   "languageSelect.accessibleLabel": "Thuura rurimi",
   "menuButton.accessibleLabel": "Menu",

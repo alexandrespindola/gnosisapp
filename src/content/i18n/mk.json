@@ -4,6 +4,20 @@
   "aside.danger": "Опасност",
   "aside.note": "Забелешка",
   "aside.tip": "Совет",
+  "books": {
+    "books": "Книги",
+    "description": "Гностичка библиотека",
+    "readBook": "Прочитај книга",
+    "without": {
+      "author": "Без автор",
+      "category": "Без категорија",
+      "description": "Без опис",
+      "image": "Без слика",
+      "text_id": "Без ID",
+      "title": "Без наслов",
+      "year": "Без година"
+    }
+  },
   "builtWithStarlight.label": "Изградено со Starlight",
   "fileTree.directory": "Директориум",
   "footer": {

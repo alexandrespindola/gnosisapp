@@ -4,6 +4,20 @@
   "aside.danger": "Riɛc",
   "aside.note": "Gät",
   "aside.tip": "Lëk",
+  "books": {
+    "books": "Cɔlɔŋ",
+    "description": "Gnostic Library",
+    "readBook": "Thɔk cɔlɔŋ",
+    "without": {
+      "author": "Lɛŋ ɣaaŋ",
+      "category": "Lɛŋ kategoria",
+      "description": "Lɛŋ lɛc",
+      "image": "Lɛŋ path",
+      "text_id": "Lɛŋ ID",
+      "title": "Lɛŋ ciɛl",
+      "year": "Lɛŋ ruɔn"
+    }
+  },
   "builtWithStarlight.label": "Ce looi kɛ Starlight",
   "fileTree.directory": "Directory",
   "footer": {

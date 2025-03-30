@@ -8,6 +8,7 @@ import {
   educacionFundamentalTranslations,
   laGranRebelionTranslations,
   tratadoDePsicologiaRevolucionariaTranslations,
+  tratadoEsotericoDeAstrologiaHermetica,
 } from "./sidebar/sidebar-imports.mjs";
 
 // https://astro.build/config
@@ -451,6 +452,15 @@ export default defineConfig({
           collapsed: true,
           translations: laGranRebelionTranslations,
           autogenerate: { directory: "la-gran-rebelion", collapsed: true },
+        },
+        {
+          label: "Tratado Esotérico de Astrología Hermética",
+          collapsed: true,
+          translations: tratadoEsotericoDeAstrologiaHermetica,
+          autogenerate: {
+            directory: "tratado-esoterico-de-astrologia-hermetica",
+            collapsed: true,
+          },
         },
         {
           label: "Tratado de Psicología Revolucionaria",

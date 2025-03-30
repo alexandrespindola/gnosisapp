@@ -4,6 +4,20 @@
   "aside.danger": "Perygl",
   "aside.note": "Nodyn",
   "aside.tip": "Awgrym",
+  "books": {
+    "books": "Llyfrau",
+    "description": "Llyfrgell Gnostig",
+    "readBook": "Darllen llyfr",
+    "without": {
+      "author": "Heb awdur",
+      "category": "Heb gategori",
+      "description": "Heb ddisgrifiad",
+      "image": "Heb ddelwedd",
+      "text_id": "Heb ID",
+      "title": "Heb deitl",
+      "year": "Heb flwyddyn"
+    }
+  },
   "builtWithStarlight.label": "Wedi'i adeiladu gyda Starlight",
   "fileTree.directory": "Cyfeiriadur",
   "footer": {

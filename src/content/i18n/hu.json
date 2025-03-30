@@ -4,6 +4,20 @@
   "aside.danger": "Veszély",
   "aside.note": "Megjegyzés",
   "aside.tip": "Tipp",
+  "books": {
+    "books": "Könyvek",
+    "description": "Gnosztikus Könyvtár",
+    "readBook": "Könyv olvasása",
+    "without": {
+      "author": "Szerző nélkül",
+      "category": "Kategória nélkül",
+      "description": "Leírás nélkül",
+      "image": "Kép nélkül",
+      "text_id": "Azonosító nélkül",
+      "title": "Cím nélkül",
+      "year": "Év nélkül"
+    }
+  },
   "builtWithStarlight.label": "Starlight-tal készült",
   "fileTree.directory": "Könyvtár",
   "footer": {

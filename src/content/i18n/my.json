@@ -4,21 +4,35 @@
   "aside.danger": "အန္တရာယ်",
   "aside.note": "မှတ်စု",
   "aside.tip": "အကြံပြုချက်",
+  "books": {
+    "books": "စာအုပ်များ",
+    "description": "ဂနိုစတစ်စာကြည့်တိုက်",
+    "readBook": "စာအုပ်ဖတ်ပါ",
+    "without": {
+      "author": "စာရေးသူမရှိပါ",
+      "category": "အမျိုးအစားမရှိပါ",
+      "description": "အသေးစိတ်ဖော်ပြချက်မရှိပါ",
+      "image": "ပုံမရှိပါ",
+      "text_id": "ID မရှိပါ",
+      "title": "ခေါင်းစဉ်မရှိပါ",
+      "year": "ခုနှစ်မရှိပါ"
+    }
+  },
   "builtWithStarlight.label": "Starlight ဖြင့် တည်ဆောက်ထားသည်",
   "fileTree.directory": "လမ်းညွှန်",
-    "footer": {
-      "about": "ကျွန်ုပ်တို့အကြောင်း",
-      "books": "စာအုပ်များ",
-      "contact": "ဆက်သွယ်ရန်",
-      "course": "ဂနိုးဆစ်သင်တန်း",
-      "countries": "အခြားနိုင်ငံများရှိ ဂနိုးဆစ်",
-      "deutschland": "ဂျာမနီနိုင်ငံရှိ ဂနိုးဆစ်",
-      "description": "Gnosis Deutschland သည် အကျိုးအမြတ်မယူသော အဖွဲ့အစည်းတစ်ခုဖြစ်ပြီး ၂၀ ရာစု၏ ဒုတိယပိုင်းမှ V.M. Samael Aun Weor မှ ချန်ထားခဲ့သော Gnostic လေ့လာမှုများအပေါ် အခြေခံထားသော Gnosis International ၏ အဖွဲ့ဝင်ဖြစ်သည်။",
-      "home": "ပင်မစာမျက်နှာ",
-      "links": "လင့်များ",
-      "nederland": "ဂနိုစစ် နယ်သာလန်",
-      "world": "ကမ္ဘာပေါ်ရှိ ဂနိုးဆစ်"
-    },
+  "footer": {
+    "about": "ကျွန်ုပ်တို့အကြောင်း",
+    "books": "စာအုပ်များ",
+    "contact": "ဆက်သွယ်ရန်",
+    "course": "ဂနိုးဆစ်သင်တန်း",
+    "countries": "အခြားနိုင်ငံများရှိ ဂနိုးဆစ်",
+    "deutschland": "ဂျာမနီနိုင်ငံရှိ ဂနိုးဆစ်",
+    "description": "Gnosis Deutschland သည် အကျိုးအမြတ်မယူသော အဖွဲ့အစည်းတစ်ခုဖြစ်ပြီး ၂၀ ရာစု၏ ဒုတိယပိုင်းမှ V.M. Samael Aun Weor မှ ချန်ထားခဲ့သော Gnostic လေ့လာမှုများအပေါ် အခြေခံထားသော Gnosis International ၏ အဖွဲ့ဝင်ဖြစ်သည်။",
+    "home": "ပင်မစာမျက်နှာ",
+    "links": "လင့်များ",
+    "nederland": "ဂနိုစစ် နယ်သာလန်",
+    "world": "ကမ္ဘာပေါ်ရှိ ဂနိုးဆစ်"
+  },
   "i18n.untranslatedContent": "ဤအကြောင်းအရာကို သင့်ဘာသာစကားဖြင့် မရရှိနိုင်သေးပါ။",
   "languageSelect.accessibleLabel": "ဘာသာစကား ရွေးချယ်ပါ",
   "menuButton.accessibleLabel": "မီနူး",

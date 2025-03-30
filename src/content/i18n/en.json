@@ -1,13 +1,17 @@
 {
   "books": {
-    "lord-rings": {
-      "title": "The Lord of the Rings",
-      "description": "An epic fantasy story...",
-      "category": "Fantasy"
+    "books": "Books",
+    "description": "Gnostic Library",
+    "readBook": "Read book",
+    "without": {
+      "author": "Without author",
+      "category": "Without category",
+      "description": "Without description",
+      "image": "Without image",
+      "text_id": "Without id",
+      "title": "Without title",
+      "year": "Without year"
     }
-  },
-  "common": {
-    "readBook": "Read more"
   },
   "footer": {
     "about": "About Us",

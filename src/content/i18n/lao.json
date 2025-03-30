@@ -4,21 +4,35 @@
   "aside.danger": "ອັນຕະລາຍ",
   "aside.note": "ໝາຍເຫດ",
   "aside.tip": "ຄຳແນະນຳ",
+  "books": {
+    "books": "ປຶ້ມ",
+    "description": "ຫໍສະໝຸດ Gnostic",
+    "readBook": "ອ່ານປຶ້ມ",
+    "without": {
+      "author": "ບໍ່ມີຜູ້ຂຽນ",
+      "category": "ບໍ່ມີໝວດໝູ່",
+      "description": "ບໍ່ມີລາຍລະອຽດ",
+      "image": "ບໍ່ມີຮູບພາບ",
+      "text_id": "ບໍ່ມີ ID",
+      "title": "ບໍ່ມີຫົວຂໍ້",
+      "year": "ບໍ່ມີປີ"
+    }
+  },
   "builtWithStarlight.label": "ສ້າງດ້ວຍ Starlight",
   "fileTree.directory": "ໄດເລກທໍລີ",
-    "footer": {
-      "about": "ກ່ຽວ​ກັບ​ພວກ​ເຮົາ",
-      "books": "ປຶ້ມ",
-      "contact": "ຕິດຕໍ່",
-      "course": "ຫຼັກສູດ Gnosis",
-      "countries": "Gnosis ໃນປະເທດອື່ນໆ",
-      "deutschland": "Gnosis ເຢຍລະມັນ",
-      "description": "Gnosis Deutschland ເປັນອົງການບໍ່ຫວັງຜົນກຳໄລ, ເປັນສະມາຊິກຂອງ Gnosis International, ອີງຕາມການສຶກສາ Gnostic ທີ່ປະໄວ້ໂດຍ V.M. Samael Aun Weor ຈາກເຄິ່ງທີ່ສອງຂອງສະຕະວັດທີ 20.",
-      "home": "ໜ້າຫຼັກ",
-      "links": "ລິ້ງຄ໌",
-      "nederland": "ກະໂນຊິສ ເນເທີແລນ",
-      "world": "Gnosis ໃນໂລກ"
-    },
+  "footer": {
+    "about": "ກ່ຽວ​ກັບ​ພວກ​ເຮົາ",
+    "books": "ປຶ້ມ",
+    "contact": "ຕິດຕໍ່",
+    "course": "ຫຼັກສູດ Gnosis",
+    "countries": "Gnosis ໃນປະເທດອື່ນໆ",
+    "deutschland": "Gnosis ເຢຍລະມັນ",
+    "description": "Gnosis Deutschland ເປັນອົງການບໍ່ຫວັງຜົນກຳໄລ, ເປັນສະມາຊິກຂອງ Gnosis International, ອີງຕາມການສຶກສາ Gnostic ທີ່ປະໄວ້ໂດຍ V.M. Samael Aun Weor ຈາກເຄິ່ງທີ່ສອງຂອງສະຕະວັດທີ 20.",
+    "home": "ໜ້າຫຼັກ",
+    "links": "ລິ້ງຄ໌",
+    "nederland": "ກະໂນຊິສ ເນເທີແລນ",
+    "world": "Gnosis ໃນໂລກ"
+  },
   "i18n.untranslatedContent": "ເນື້ອໃນນີ້ຍັງບໍ່ມີໃນພາສາຂອງທ່ານ.",
   "languageSelect.accessibleLabel": "ເລືອກພາສາ",
   "menuButton.accessibleLabel": "ເມນູ",

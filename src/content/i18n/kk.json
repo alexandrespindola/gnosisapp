@@ -4,21 +4,35 @@
   "aside.danger": "Қауіп",
   "aside.note": "Ескертпе",
   "aside.tip": "Кеңес",
+  "books": {
+    "books": "Кітаптар",
+    "description": "Гностикалық кітапхана",
+    "readBook": "Кітапты оқу",
+    "without": {
+      "author": "Авторсыз",
+      "category": "Санатсыз",
+      "description": "Сипаттамасыз",
+      "image": "Суретсіз",
+      "text_id": "Идентификаторсыз",
+      "title": "Атаусыз",
+      "year": "Жылсыз"
+    }
+  },
   "builtWithStarlight.label": "Starlight-пен жасалған",
   "fileTree.directory": "Каталог",
-    "footer": {
-      "about": "Біз туралы",
-      "books": "Кітаптар",
-      "contact": "Байланыс",
-      "course": "Гнозис курсы",
-      "countries": "Басқа елдердегі гнозис",
-      "deutschland": "Германиядағы гнозис",
-      "description": "Gnosis Deutschland - коммерциялық емес ұйым, Gnosis International мүшесі, ХХ ғасырдың екінші жартысында В.М. Самаэль Аун Веор қалдырған гностикалық зерттеулерге негізделген.",
-      "home": "Басты бет",
-      "links": "Сілтемелер",
-      "nederland": "Гнозис Нидерланды",
-      "world": "Әлемдегі гнозис"
-    },
+  "footer": {
+    "about": "Біз туралы",
+    "books": "Кітаптар",
+    "contact": "Байланыс",
+    "course": "Гнозис курсы",
+    "countries": "Басқа елдердегі гнозис",
+    "deutschland": "Германиядағы гнозис",
+    "description": "Gnosis Deutschland - коммерциялық емес ұйым, Gnosis International мүшесі, ХХ ғасырдың екінші жартысында В.М. Самаэль Аун Веор қалдырған гностикалық зерттеулерге негізделген.",
+    "home": "Басты бет",
+    "links": "Сілтемелер",
+    "nederland": "Гнозис Нидерланды",
+    "world": "Әлемдегі гнозис"
+  },
   "i18n.untranslatedContent": "Бұл мазмұн әзірге сіздің тіліңізде қолжетімді емес.",
   "languageSelect.accessibleLabel": "Тілді таңдау",
   "menuButton.accessibleLabel": "Мәзір",

@@ -4,6 +4,20 @@
   "aside.danger": "Xavf",
   "aside.note": "Eslatma",
   "aside.tip": "Maslahat",
+  "books": {
+    "books": "Àwọn ìwé",
+    "description": "Ilé ìkówèésí Gnostic",
+    "readBook": "Ka ìwé",
+    "without": {
+      "author": "Láìsí olùkọ̀wé",
+      "category": "Láìsí ẹ̀kà",
+      "description": "Láìsí àpèjúwe",
+      "image": "Láìsí àwòrán",
+      "text_id": "Láìsí ID",
+      "title": "Láìsí àkọ́lé",
+      "year": "Láìsí ọdún"
+    }
+  },
   "builtWithStarlight.label": "Starlight bilan yaratilgan",
   "fileTree.directory": "Katalog",
   "footer": {
