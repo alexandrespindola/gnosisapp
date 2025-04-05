@@ -160,7 +160,7 @@ locale: ${locale}
 statusTranslation: ${translation_state || ""}
 ${cover_image ? `coverImage: ${cover_image}` : ``}
 sidebar:
-    label: ${chapter_number > 0 ? `${chapter_number}. ` : ""}${title}
+    label: ${ chapter_number && chapter_number > 0 ? `${chapter_number}. ` : ""}${title}
     order: ${order_number}
 ---
 ${content}
