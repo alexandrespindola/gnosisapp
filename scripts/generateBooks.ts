@@ -85,7 +85,7 @@ hero:
     file: ${coverImage}
   actions:
     - text: ${readBookText}
-      link: prefacio
+      link: preface
       icon: right-arrow
 sidebar:
   label: Intro
@@ -96,9 +96,9 @@ sidebar:
 
 async function main() {
   for (const locale of LOCALES_PREFIX) {
-    // Modificação: usar pt-BR para busca, mas manter o locale original
+    // Modification: use pt-BR for search, but keep the original locale
     const searchLocale = locale === 'pt' ? 'pt-BR' : locale;
-    
+
     const booksResponse = await axios.get(
       `${STRAPI_URL}/books?locale=${searchLocale}&populate=*`,
       {
@@ -111,7 +111,7 @@ async function main() {
     const books = booksResponse.data.data;
 
     for (const book of books) {
-      // Usar o locale original para geração de markdown
+      // Use the original locale for markdown generation
       const indexMarkdownContent = generateIndexMarkdown(book, locale);
 
       const indexDir = path.join(
