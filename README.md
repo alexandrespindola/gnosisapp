@@ -1,117 +1,117 @@
-# Biblioteca Digital Multilíngue Gnóstica
+# Multilingual Gnostic Digital Library
 
-Bem-vindo à **Biblioteca Digital Multilíngue Gnóstica**, um projeto desenvolvido com arquitetura JAMstack moderna. Este repositório contém o código-fonte do projeto, que combina tecnologias como **Astro**, **Strapi**, **Netlify**, **n8n** e **Google Gemini AI** para fornecer uma solução eficiente, escalável e amigável para gerenciamento de conteúdo e traduções automáticas.
+Welcome to the **Multilingual Gnostic Digital Library**, a project built with modern JAMstack architecture. This repository contains the project's source code, which combines technologies like **Astro**, **Strapi**, **Netlify**, **n8n**, and **Google Gemini AI** to provide an efficient, scalable, and user-friendly solution for content management and automated translations.
 
-## 📚 Descrição do Projeto
+## 📚 Project Description
 
-A Biblioteca Digital Multilíngue é uma plataforma projetada para centralizar, traduzir e distribuir literatura gnóstica em 110 idiomas. Ela utiliza uma interface moderna e responsiva com recursos como:
+The Multilingual Digital Library is a platform designed to centralize, translate, and distribute Gnostic literature in 110 languages. It features a modern and responsive interface with capabilities such as:
 
-- Alternância entre temas claro/escuro com persistência de preferências do usuário
-- Funcionalidade de busca integrada com indexação de conteúdo
-- Suporte para 110 idiomas
-- Navegação hierárquica que reflete a estrutura de livros e capítulos
-- Automação de traduções utilizando **n8n** e **Google Gemini AI**
+- Light/dark theme toggle with user preference persistence
+- Integrated search functionality with content indexing
+- Support for 110 languages
+- Hierarchical navigation that reflects the structure of books and chapters
+- Translation automation using **n8n** and **Google Gemini AI**
 
-O objetivo principal deste projeto é democratizar o acesso ao conhecimento gnóstico, eliminando barreiras linguísticas através de traduções automáticas confiáveis e oferecendo uma solução acessível e eficiente para gestão de conteúdo multilíngue.
+The main objective of this project is to democratize access to Gnostic knowledge by eliminating language barriers through reliable automated translations and offering an accessible and efficient solution for multilingual content management.
 
-## 🛠️ Arquitetura do Projeto
+## 🛠️ Project Architecture
 
-A biblioteca foi desenvolvida utilizando as seguintes tecnologias:
+The library was developed using the following technologies:
 
 ### **1. Frontend**
 
 - **Framework:** [Astro](https://astro.build/)
-  - Utilizado para geração de sites estáticos (SSG), garantindo alta performance e tempos de carregamento rápidos
-  - Baseado no template [Starlight](https://starlight.astro.build/), que proporciona funcionalidades essenciais
-  - Implementa o padrão de "ilhas de hidratação" (islands architecture) para otimizar a entrega de JavaScript
-- **Estilização:** [Tailwind CSS](https://tailwindcss.com/)
-  - Abordagem utility-first que resulta em redução significativa do volume final de CSS
+  - Used for static site generation (SSG), ensuring high performance and fast loading times
+  - Based on the [Starlight](https://starlight.astro.build/) template, which provides essential functionality
+  - Implements the "islands hydration" pattern (islands architecture) to optimize JavaScript delivery
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+  - Utility-first approach that results in significant reduction of final CSS volume
 
 ### **2. Backend**
 
-- **CMS Headless:** [Strapi](https://strapi.io/)
-  - Gerencia dados relacionados a livros, capítulos, autores e categorias
-  - Estrutura relacional:
-    - `Authors`: Informações sobre autores dos livros
-    - `Books`: Dados gerais dos livros, incluindo título, descrição e autor relacionado
-    - `Categories`: Classificação dos livros por temas ou gêneros
-    - `Chapters`: Conteúdo textual dos capítulos associados aos livros
-  - Implementa sistema de localidades para associar cada versão traduzida ao conteúdo original
-  - Implantado no [Railway](https://railway.com), com banco de dados PostgreSQL
+- **Headless CMS:** [Strapi](https://strapi.io/)
+  - Manages data related to books, chapters, authors, and categories
+  - Relational structure:
+    - `Authors`: Information about book authors
+    - `Books`: General book data, including title, description, and related author
+    - `Categories`: Book classification by themes or genres
+    - `Chapters`: Textual content of chapters associated with books
+  - Implements a locales system to associate each translated version with the original content
+  - Deployed on [Railway](https://railway.com), with PostgreSQL database
 
-### **3. Automação**
+### **3. Automation**
 
-- **Orquestração de Processos:** [n8n](https://n8n.io/)
-  - Integra o Strapi com o serviço de tradução automática através do Google Gemini AI
-  - Automatiza a submissão de textos para tradução e sincroniza versões traduzidas de volta ao CMS
-  - Configurado com 5 workers para processamento paralelo
-  - Implementa sistema de "treinamento" para melhorar a qualidade das traduções de títulos
+- **Process Orchestration:** [n8n](https://n8n.io/)
+  - Integrates Strapi with automatic translation service through Google Gemini AI
+  - Automates text submission for translation and synchronizes translated versions back to the CMS
+  - Configured with 5 workers for parallel processing
+  - Implements a "training" system to improve the quality of title translations
 
-### **4. Publicação**
+### **4. Publishing**
 
-- **Plataforma:** [Netlify](https://netlify.com)
-  - Deploy contínuo do frontend com distribuição global via CDN
-  - Gerenciamento de certificados SSL
-  - Invalidação seletiva de cache, permitindo atualizações incrementais
-  - URL em produção: [https://books.gnosisdeutschland.org](https://books.gnosisdeutschland.org)
+- **Platform:** [Netlify](https://netlify.com)
+  - Continuous frontend deployment with global CDN distribution
+  - SSL certificate management
+  - Selective cache invalidation, enabling incremental updates
+  - Production URL: [https://books.gnosisdeutschland.org](https://books.gnosisdeutschland.org)
 
-### **5. Geração de Conteúdo**
+### **5. Content Generation**
 
-- Script TypeScript (`generateChapters.ts`) desenvolvido para:
-  - Buscar dados do Strapi CMS para capítulos armazenados
-  - Converter dados em arquivos MDX reutilizáveis para o frontend
-  - Implementar sistema de cache baseado em timestamps específicos por idioma
-  - Automatizar a geração de arquivos MDX para garantir consistência entre o conteúdo do CMS e a exibição no frontend
+- TypeScript script (`generateChapters.ts`) developed to:
+  - Fetch data from Strapi CMS for stored chapters
+  - Convert data into reusable MDX files for the frontend
+  - Implement cache system based on language-specific timestamps
+  - Automate MDX file generation to ensure consistency between CMS content and frontend display
 
-## 📊 Desempenho
+## 📊 Performance
 
-A biblioteca digital apresenta métricas excepcionais de desempenho:
+The digital library shows exceptional performance metrics:
 
-- **Desktop:** 100/100 no Google PageSpeed Insights
+- **Desktop:** 100/100 on Google PageSpeed Insights
   - First Contentful Paint (FCP): 299ms
   - Largest Contentful Paint (LCP): 465ms
   - Total Blocking Time (TBT): 0ms
   - Cumulative Layout Shift (CLS): 0
   - Speed Index: 620ms
 
-- **Mobile:** 96/100 no Google PageSpeed Insights
+- **Mobile:** 96/100 on Google PageSpeed Insights
   - First Contentful Paint (FCP): 1576ms
   - Largest Contentful Paint (LCP): 2112ms
   - Total Blocking Time (TBT): 0ms
   - Cumulative Layout Shift (CLS): 0
   - Speed Index: 4130ms
 
-## 🌐 Acesso ao Projeto
+## 🌐 Project Access
 
-Você pode acessar a versão atual do projeto através do link:
+You can access the current version of the project through the link:
 [https://books.gnosisdeutschland.org](https://books.gnosisdeutschland.org)
 
-## 🔄 Automação de Traduções
+## 🔄 Translation Automation
 
-O processo de tradução é gerenciado através de workflows no n8n:
+The translation process is managed through n8n workflows:
 
-1. **Workflow de Livros:** Traduz títulos e gera slugs automaticamente
-2. **Workflow de Capítulos:** Traduz títulos, conteúdo e gera slugs, preservando a formatação Markdown
+1. **Books Workflow:** Translates titles and automatically generates slugs
+2. **Chapters Workflow:** Translates titles, content, and generates slugs while preserving Markdown formatting
 
-O tempo médio de processamento para tradução de um capítulo para todos os 110 idiomas é de aproximadamente 60 minutos (cerca de 30 segundos por idioma).
+The average processing time for translating a chapter into all 110 languages is approximately 60 minutes (about 30 seconds per language).
 
-## 🚀 Processo de Publicação
+## 🚀 Publishing Process
 
-Um script bash (`deploy.sh`) coordena o processo completo de build e publicação:
+A bash script (`deploy.sh`) coordinates the complete build and publishing process:
 
-1. Geração de metadados dos livros via script TypeScript
-2. Geração de capítulos com suas respectivas traduções
-3. Limpeza de caches anteriores
-4. Build do projeto Astro
-5. Deploy automatizado para o Netlify
+1. Book metadata generation via TypeScript script
+2. Chapter generation with their respective translations
+3. Previous cache cleanup
+4. Astro project build
+5. Automated deployment to Netlify
 
-## 📈 Próximos Passos
+## 📈 Next Steps
 
-Futuras melhorias planejadas incluem:
+Planned future improvements include:
 
-- Implementação de recursos offline via Service Workers
-- Redesign com foco em acessibilidade
-- Adoção de técnicas de pré-fetch para navegação instantânea
-- Exploração de técnicas avançadas de caching distribuído
-- Implementação de estratégias de regeneração estática incremental
-- Desenvolvimento de mecanismos de sincronização em tempo real entre CMS e frontend
+- Implementation of offline features via Service Workers
+- Redesign focused on accessibility
+- Adoption of pre-fetch techniques for instant navigation
+- Exploration of advanced distributed caching techniques
+- Implementation of incremental static regeneration strategies
+- Development of real-time synchronization mechanisms between CMS and frontend
